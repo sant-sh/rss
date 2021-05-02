@@ -142,7 +142,7 @@
           "description": "Comments",
           "link": "https://fediverse.party/en/miscellaneous",
           "publishedOn": "2021-05-01T20:20:09.000Z",
-          "wordCount": 1813,
+          "wordCount": null,
           "sourceHref": "https://news.ycombinator.com/rss",
           "sourceTitle": "Hacker News",
           "title": "Fediverse.Party – Explore Federated Networks"
