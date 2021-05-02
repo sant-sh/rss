@@ -1,6 +1,281 @@
 {
   "sources": [
     {
+      "href": "https://news.ycombinator.com/rss",
+      "articles": [
+        {
+          "description": "Comments",
+          "link": "https://puri.sm/posts/the-ball-and-supply-chain/",
+          "publishedOn": "2021-05-02T00:11:44.000Z",
+          "wordCount": 1235,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "The Ball and Supply Chain"
+        },
+        {
+          "description": "Comments",
+          "link": "https://arxiv.org/abs/2004.02504",
+          "publishedOn": "2021-05-01T23:46:38.000Z",
+          "wordCount": 602,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "Using libgccjit to make Emacs 2.3x to 42x faster [pdf] (2020)"
+        },
+        {
+          "description": "Comments",
+          "link": "https://www.theverge.com/2021/5/1/22414185/california-appeals-court-amazon-marketplace-responsible-third-party-hoverboard",
+          "publishedOn": "2021-05-01T23:40:19.000Z",
+          "wordCount": 672,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "California appeals court finds Amazon responsible for 3rd party sellers products"
+        },
+        {
+          "description": "Comments",
+          "link": "https://www.sciencedirect.com/science/article/abs/pii/S0031938417304328",
+          "publishedOn": "2021-05-01T23:28:55.000Z",
+          "wordCount": 413,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "Comparative assessments of dietary sugars on cognitive performance (2018)"
+        },
+        {
+          "description": "Comments",
+          "link": "https://elevation.fandom.com/wiki/Sabbath_service_(SHO)",
+          "publishedOn": "2021-05-01T22:51:37.000Z",
+          "wordCount": 823,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "Elevator Sabbath service mode (SHO)"
+        },
+        {
+          "description": "Comments",
+          "link": "https://linmob.net/will-linux-phones-stay-around-this-time/",
+          "publishedOn": "2021-05-01T22:43:00.000Z",
+          "wordCount": 1032,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "Will Linux phones stay around this time?"
+        },
+        {
+          "description": "Comments",
+          "link": "https://commonsware.com/blog/2021/05/01/google-io-2021-uncomfortable-questions.html",
+          "publishedOn": "2021-05-01T22:28:29.000Z",
+          "wordCount": 460,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "Google I|O 2021 and Uncomfortable Questions"
+        },
+        {
+          "description": "Comments",
+          "link": "https://www.bbc.com/news/science-environment-56951752",
+          "publishedOn": "2021-05-01T22:27:26.000Z",
+          "wordCount": 1175,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "Mars Ingenuity helicopter mission extended by NASA"
+        },
+        {
+          "description": "Comments",
+          "link": "https://github.com/osmoscraft/osmosfeed",
+          "publishedOn": "2021-05-01T21:42:42.000Z",
+          "wordCount": 1228,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "Turn GitHub into an RSS Reader"
+        },
+        {
+          "description": "Comments",
+          "link": "https://chrisgliddon.com/the-tragic-story-of-vernon-and-oswald-7540fa359509",
+          "publishedOn": "2021-05-01T21:33:56.000Z",
+          "wordCount": 1164,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "The Tragic Story of the Creator of Oswald and Pacifico Fonts (2016)"
+        },
+        {
+          "description": "Comments",
+          "link": "https://www.reuters.com/lifestyle/oddly-enough/high-anxiety-worlds-longest-pedestrian-suspension-bridge-opens-portugal-2021-04-29/",
+          "publishedOn": "2021-05-01T21:25:40.000Z",
+          "wordCount": 714,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "Longest pedestrian suspension bridge opens in Portugal"
+        },
+        {
+          "description": "Comments",
+          "link": "https://www.tomsguide.com/news/what-is-chia-cryptocurrency-and-why-is-it-bad-news-for-hard-drives",
+          "publishedOn": "2021-05-01T21:09:29.000Z",
+          "wordCount": 943,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "What is Chia cryptocurrency and why is it bad news for hard drives?"
+        },
+        {
+          "description": "Comments",
+          "link": "https://www.sirum.org/about#careers",
+          "publishedOn": "2021-05-01T21:00:29.000Z",
+          "wordCount": 384,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "Sirum (YC W15) is hiring: join a fast-growing, mission-driven healthcare team"
+        },
+        {
+          "description": "Comments",
+          "link": "https://www.bloomberg.com/news/articles/2021-05-01/your-car-is-about-to-be-a-software-platform-subscriptions-and-all",
+          "publishedOn": "2021-05-01T20:38:06.000Z",
+          "wordCount": 93,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "Cars are about to be a software platform, subscriptions and all"
+        },
+        {
+          "description": "Comments",
+          "link": "https://emutos.sourceforge.io/",
+          "publishedOn": "2021-05-01T20:26:22.000Z",
+          "wordCount": 379,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "EmuTOS: A Free OS for computers based on M68K processors including the Atari ST"
+        },
+        {
+          "description": "Comments",
+          "link": "https://fediverse.party/en/miscellaneous",
+          "publishedOn": "2021-05-01T20:20:09.000Z",
+          "wordCount": null,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "Fediverse.Party – Explore Federated Networks"
+        },
+        {
+          "description": "Comments",
+          "link": "https://lore.kernel.org/lkml/CAHk-=whs8QZf3YnifdLv57+FhBi5_WeNTG1B-suOES=RcUSmQg@mail.gmail.com/",
+          "publishedOn": "2021-05-01T19:22:32.000Z",
+          "wordCount": 810,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "“Shared libraries are not a good thing in general”"
+        },
+        {
+          "description": "Comments",
+          "link": "https://www.smithsonianmag.com/science-nature/story-one-whale-who-tried-bridge-linguistic-divide-between-animals-humans-180951437/",
+          "publishedOn": "2021-05-01T18:48:45.000Z",
+          "wordCount": 3447,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "A whale who tried to mimic human speech (2014)"
+        },
+        {
+          "description": "Comments",
+          "link": "https://github.com/banga/git-split-diffs",
+          "publishedOn": "2021-05-01T17:05:03.000Z",
+          "wordCount": 1001,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "Show HN: GitHub style split diffs in your terminal"
+        },
+        {
+          "description": "Comments",
+          "link": "http://ideasfilter.com/",
+          "publishedOn": "2021-05-01T16:53:05.000Z",
+          "wordCount": 10,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "List of apps people pay for but have low rating"
+        },
+        {
+          "description": "Comments",
+          "link": "https://readme.so/",
+          "publishedOn": "2021-05-01T14:46:34.000Z",
+          "wordCount": 39,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "Readme.so – Easiest Way to Create a Readme"
+        },
+        {
+          "description": "Comments",
+          "link": "http://justinjaffray.com/query-engines-push-vs.-pull/",
+          "publishedOn": "2021-05-01T14:12:18.000Z",
+          "wordCount": 2586,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "Query Engines: Push vs. Pull"
+        },
+        {
+          "description": "Comments",
+          "link": "https://www.newyorker.com/culture/comma-queen/grammar-nerd-heaven",
+          "publishedOn": "2021-05-01T04:22:56.000Z",
+          "wordCount": 1718,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "Grammar-Nerd Heaven"
+        },
+        {
+          "description": "Comments",
+          "link": "https://github.com/microsoft/terminal/blob/main/doc/specs/%23653%20-%20Quake%20Mode/%23653%20-%20Quake%20Mode.md",
+          "publishedOn": "2021-04-30T10:57:35.000Z",
+          "wordCount": 4978,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "Windows Terminal Quake Mode"
+        },
+        {
+          "description": "Comments",
+          "link": "https://ciechanow.ski/internal-combustion-engine/",
+          "publishedOn": "2021-04-30T09:15:22.000Z",
+          "wordCount": 5900,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "Internal Combustion Engine"
+        },
+        {
+          "description": "Comments",
+          "link": "https://mubi.com/notebook/posts/film-restoration-today-the-elusive-perfect-viewing-experience",
+          "publishedOn": "2021-04-30T09:14:37.000Z",
+          "wordCount": 2454,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "Film Restoration Today: The Elusive Perfect Viewing Experience"
+        },
+        {
+          "description": "Comments",
+          "link": "https://scruss.com/blog/2016/05/17/pen-plotters-not-just-output-devices/",
+          "publishedOn": "2021-04-30T08:10:38.000Z",
+          "wordCount": 1018,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "Pen plotters: not just output devices (2016)"
+        },
+        {
+          "description": "Comments",
+          "link": "https://www.unofficialgoogledatascience.com/2016/10/practical-advice-for-analysis-of-large.html",
+          "publishedOn": "2021-04-30T06:00:39.000Z",
+          "wordCount": 3943,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "Practical advice for analysis of large, complex data sets (2016)"
+        },
+        {
+          "description": "Comments",
+          "link": "https://ml-jku.github.io/hopfield-layers/",
+          "publishedOn": "2021-04-30T05:10:08.000Z",
+          "wordCount": 4832,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "Hopfield Networks Is All You Need"
+        },
+        {
+          "description": "Comments",
+          "link": "https://www.curbed.com/2021/04/al-putre-mta-money-room.html",
+          "publishedOn": "2021-04-30T05:06:02.000Z",
+          "wordCount": 3601,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "Inside The MTA’s Money Room"
+        }
+      ]
+    },
+    {
       "href": "https://css-tricks.com/feed/",
       "articles": [
         {
