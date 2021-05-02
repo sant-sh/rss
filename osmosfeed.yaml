@@ -1,4 +1,5 @@
-cacheUrl: https://sant-sh.github.io/rss/cache.json
+#cacheUrl: https://sant-sh.github.io/rss/cache.json
+cacheUrl: https://rss.sant.sh/cache.json
 sources:
   - href: https://news.ycombinator.com/rss
   - href: https://www.smashingmagazine.com/feed/
