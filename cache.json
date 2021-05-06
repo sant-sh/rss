@@ -5,279 +5,288 @@
       "articles": [
         {
           "description": "Comments",
-          "link": "https://me2ba.org/me2ba-product-testing-spotlight-report-published-data-sharing-in-primary-secondary-school-mobile-apps-2/",
-          "publishedOn": "2021-05-05T00:07:27.000Z",
-          "wordCount": 1049,
+          "link": "https://cpojer.net/posts/dependency-managers-dont-manage-your-dependencies",
+          "publishedOn": "2021-05-05T22:49:45.000Z",
+          "wordCount": 2569,
           "sourceHref": "https://news.ycombinator.com/rss",
           "sourceTitle": "Hacker News",
-          "title": "60% of school apps are sending student data with third parties without consent"
+          "title": "Dependency Managers Don’t Manage Your Dependencies"
         },
         {
           "description": "Comments",
-          "link": "https://cloudirregular.substack.com/p/please-fix-the-aws-free-tier-before",
-          "publishedOn": "2021-05-04T23:54:23.000Z",
+          "link": "https://www.spacex.com/vehicles/starship/index.html",
+          "publishedOn": "2021-05-05T22:24:47.000Z",
+          "wordCount": 1072,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "Live feed of Starship SN15 flight test [video]"
+        },
+        {
+          "description": "Comments",
+          "link": "https://pxlnv.com/linklog/california-exception/",
+          "publishedOn": "2021-05-05T21:52:35.000Z",
+          "wordCount": 405,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "The California Exception"
+        },
+        {
+          "description": "Comments",
+          "link": "https://www.workatastartup.com/jobs/43771",
+          "publishedOn": "2021-05-05T21:00:24.000Z",
+          "wordCount": 395,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "Zumo Labs (YC W20) Is Hiring a Product Manager"
+        },
+        {
+          "description": "Comments",
+          "link": "https://blog.google/inside-google/life-at-google/hybrid-approach-work/",
+          "publishedOn": "2021-05-05T20:53:18.000Z",
+          "wordCount": 1756,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "A Hybrid Approach to Work"
+        },
+        {
+          "description": "Comments",
+          "link": "https://www.forbes.com/sites/johannaread/2021/05/05/the-sheba-hope-reef-brings-hope-to-coral-reefs-everywhere-you-can-help-too/",
+          "publishedOn": "2021-05-05T20:52:41.000Z",
+          "wordCount": 2110,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "Indonesia coral reef partially restored in extensive project"
+        },
+        {
+          "description": "Comments",
+          "link": "https://voxeu.org/article/why-rich-parents-have-rich-children",
+          "publishedOn": "2021-05-05T20:50:37.000Z",
+          "wordCount": 2153,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "Why rich parents have rich children"
+        },
+        {
+          "description": "Comments",
+          "link": "https://blog.px.dev/open-source-release/",
+          "publishedOn": "2021-05-05T20:32:46.000Z",
+          "wordCount": 1257,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "Open sourcing Pixie under Apache 2.0 license"
+        },
+        {
+          "description": "Comments",
+          "link": "https://massivelyop.com/2021/05/04/activision-blizzard-q1-2021-financials-blizzard-maus-down-to-27m/",
+          "publishedOn": "2021-05-05T19:47:02.000Z",
+          "wordCount": 3131,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "Blizzard has lost almost 29% of its overall active playerbase in three years"
+        },
+        {
+          "description": "Comments",
+          "link": "https://www.csweapons.com",
+          "publishedOn": "2021-05-05T19:15:41.000Z",
+          "wordCount": 7,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "Show HN: CS Weapons – Counter-Strike weapon data comparison app"
+        },
+        {
+          "description": "Comments",
+          "link": "https://markodenic.com/posts/html-tips/",
+          "publishedOn": "2021-05-05T19:14:40.000Z",
+          "wordCount": 605,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "HTML Tips (2020)"
+        },
+        {
+          "description": "Comments",
+          "link": "http://www.macflim.com",
+          "publishedOn": "2021-05-05T18:20:35.000Z",
+          "wordCount": 1106,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "MacFlim: Full-motion video on B&W Macs"
+        },
+        {
+          "description": "Comments",
+          "link": "https://man7.org/tlpi/api_changes/index.html",
+          "publishedOn": "2021-05-05T17:34:55.000Z",
+          "wordCount": 13375,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "Linux and Glibc API Changes"
+        },
+        {
+          "description": "Comments",
+          "link": "https://github.com/timvisee/send",
+          "publishedOn": "2021-05-05T17:25:43.000Z",
+          "wordCount": 1219,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "Send: A Fork of Mozilla's Firefox Send"
+        },
+        {
+          "description": "Comments",
+          "link": "https://ptsjs.org/",
+          "publishedOn": "2021-05-05T16:47:37.000Z",
+          "wordCount": 222,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "Pts.js: a modular librairy for visualization and creative coding"
+        },
+        {
+          "description": "Comments",
+          "link": "https://medium.com/planet-stories/a-handy-introduction-to-cloud-optimized-geotiffs-1f2c9e716ec3",
+          "publishedOn": "2021-05-05T16:42:32.000Z",
+          "wordCount": 2433,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "Learning About the GeoTIFF File Format with a Hex Editor (2018)"
+        },
+        {
+          "description": "Comments",
+          "link": "https://felleisen.org/matthias/7480-s21/index.html",
+          "publishedOn": "2021-05-05T15:52:32.000Z",
+          "wordCount": 311,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "History of Programming Languages"
+        },
+        {
+          "description": "Comments",
+          "link": "https://github.com/andymatuschak/orbit",
+          "publishedOn": "2021-05-05T15:50:53.000Z",
+          "wordCount": 1512,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "Orbit: an experimental platform for small tasks repeated over time"
+        },
+        {
+          "description": "Comments",
+          "link": "http://mobileatscale.com/",
+          "publishedOn": "2021-05-05T15:05:40.000Z",
+          "wordCount": 2611,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "Show HN: I wrote the book Building Mobile Apps at Scale"
+        },
+        {
+          "description": "Comments",
+          "link": "https://blog.playcanvas.com/introducing-the-anim-state-graph/",
+          "publishedOn": "2021-05-05T15:00:34.000Z",
           "wordCount": 870,
           "sourceHref": "https://news.ycombinator.com/rss",
           "sourceTitle": "Hacker News",
-          "title": "Please fix the AWS free tier before somebody gets hurt"
+          "title": "PlayCanvas Launches Node-Based Animation Editor for WebGL"
         },
         {
           "description": "Comments",
-          "link": "https://www.wsj.com/articles/berkshire-hathaways-stock-price-is-too-much-for-computers-11620168548",
-          "publishedOn": "2021-05-04T23:16:19.000Z",
-          "wordCount": 317,
+          "link": "https://github.com/slidevjs/slidev",
+          "publishedOn": "2021-05-05T14:57:59.000Z",
+          "wordCount": 936,
           "sourceHref": "https://news.ycombinator.com/rss",
           "sourceTitle": "Hacker News",
-          "title": "Berkshire Hathaway’s stock price is too high for Nasdaq computers"
+          "title": "Slidev – Presentation Slides for Developers"
         },
         {
           "description": "Comments",
-          "link": "https://blog.drewolson.org/declarative-validation",
-          "publishedOn": "2021-05-04T22:19:17.000Z",
-          "wordCount": 1459,
+          "link": "https://blog.timescale.com/blog/40-million-to-help-developers-measure-everything-that-matters/",
+          "publishedOn": "2021-05-05T14:13:53.000Z",
+          "wordCount": 3581,
           "sourceHref": "https://news.ycombinator.com/rss",
           "sourceTitle": "Hacker News",
-          "title": "Declarative Validation in Python"
+          "title": "TimescaleDB raises $40M"
         },
         {
           "description": "Comments",
-          "link": "https://jcs.org/2021/04/23/wifistation",
-          "publishedOn": "2021-05-04T21:53:18.000Z",
-          "wordCount": 1526,
+          "link": "https://blubrry.com/microsoftresearch/76856095/120-advancing-excel-as-a-programming-language-with-andy-gordon-and-simon-peyton-jones/",
+          "publishedOn": "2021-05-05T11:42:48.000Z",
+          "wordCount": 270,
           "sourceHref": "https://news.ycombinator.com/rss",
           "sourceTitle": "Hacker News",
-          "title": "WiFiStation: A WiFi Interface for the Cidco MailStation"
+          "title": "Advancing Excel as a programming language [audio]"
         },
         {
           "description": "Comments",
-          "link": "https://github.com/facebookincubator/cinder",
-          "publishedOn": "2021-05-04T21:38:14.000Z",
-          "wordCount": 2681,
+          "link": "https://www.ai.gov/",
+          "publishedOn": "2021-05-05T09:56:55.000Z",
+          "wordCount": 736,
           "sourceHref": "https://news.ycombinator.com/rss",
           "sourceTitle": "Hacker News",
-          "title": "Cinder: Instagram's performance-oriented fork of CPython"
+          "title": "National Artificial Intelligence Initiative"
         },
         {
           "description": "Comments",
-          "link": "https://blog.neotree.uber.space/posts/kolmogorov-complexity",
-          "publishedOn": "2021-05-04T21:32:37.000Z",
-          "wordCount": 978,
+          "link": "https://github.com/ClearURLs/Addon/",
+          "publishedOn": "2021-05-05T07:46:54.000Z",
+          "wordCount": 1352,
           "sourceHref": "https://news.ycombinator.com/rss",
           "sourceTitle": "Hacker News",
-          "title": "Kolmogorov Complexity: Extensions and Applications"
+          "title": "ClearURLs – automatically remove tracking elements from URLs"
         },
         {
           "description": "Comments",
-          "link": "https://compose-web.ui.pages.jetbrains.team/",
-          "publishedOn": "2021-05-04T21:23:30.000Z",
-          "wordCount": 15,
+          "link": "https://theamericanscholar.org/obscura-no-more/",
+          "publishedOn": "2021-05-05T06:05:25.000Z",
+          "wordCount": 3882,
           "sourceHref": "https://news.ycombinator.com/rss",
           "sourceTitle": "Hacker News",
-          "title": "Compose for Web"
+          "title": "Obscura No More"
         },
         {
           "description": "Comments",
-          "link": "https://www.ycombinator.com/companies/truevault/jobs/oc7r6dIgO-engineering-lead",
-          "publishedOn": "2021-05-04T21:00:47.000Z",
-          "wordCount": 662,
+          "link": "https://furbo.org/2013/06/28/the-origin-of-tweet/",
+          "publishedOn": "2021-05-05T03:16:30.000Z",
+          "wordCount": 1894,
           "sourceHref": "https://news.ycombinator.com/rss",
           "sourceTitle": "Hacker News",
-          "title": "TrueVault (YC W14) is hiring an engineering lead to lead new privacy product"
+          "title": "The origin of “tweet” at Twitter (2013)"
         },
         {
           "description": "Comments",
-          "link": "https://neal.fun/logos-from-memory/",
-          "publishedOn": "2021-05-04T20:56:20.000Z",
-          "wordCount": 9,
+          "link": "https://en.wikipedia.org/wiki/1700_Cascadia_earthquake",
+          "publishedOn": "2021-05-05T02:24:01.000Z",
+          "wordCount": 3124,
           "sourceHref": "https://news.ycombinator.com/rss",
           "sourceTitle": "Hacker News",
-          "title": "Draw Logos from Memory"
+          "title": "1700 Cascadia Earthquake"
         },
         {
           "description": "Comments",
-          "link": "https://github.com/rastapasta/mapscii",
-          "publishedOn": "2021-05-04T20:40:58.000Z",
-          "wordCount": 1300,
+          "link": "https://github.com/jendrikseipp/vulture",
+          "publishedOn": "2021-05-04T11:59:06.000Z",
+          "wordCount": 1815,
           "sourceHref": "https://news.ycombinator.com/rss",
           "sourceTitle": "Hacker News",
-          "title": "MapSCII – The Whole World in Your Console"
+          "title": "Vulture: Find Dead Python Code"
         },
         {
           "description": "Comments",
-          "link": "https://www.usenix.org/conference/osdi16/technical-sessions/presentation/li",
-          "publishedOn": "2021-05-04T20:35:48.000Z",
-          "wordCount": 468,
+          "link": "https://maisonneuve.org/article/2021/04/12/genetic-mapping/",
+          "publishedOn": "2021-05-04T01:00:53.000Z",
+          "wordCount": 7031,
           "sourceHref": "https://news.ycombinator.com/rss",
           "sourceTitle": "Hacker News",
-          "title": "Just Say No to Paxos Overhead: Replacing Consensus with Network Ordering (2016)"
-        },
-        {
-          "description": "Comments",
-          "link": "https://www.linkedin.com/pulse/why-successful-people-dont-multitask-dr-travis-bradberry/",
-          "publishedOn": "2021-05-04T19:56:44.000Z",
-          "wordCount": 935,
-          "sourceHref": "https://news.ycombinator.com/rss",
-          "sourceTitle": "Hacker News",
-          "title": "Multitasking hurts performance and may even damage the brain (2018)"
-        },
-        {
-          "description": "Comments",
-          "link": "https://github.com/rururu/sail-pro",
-          "publishedOn": "2021-05-04T19:15:59.000Z",
-          "wordCount": 881,
-          "sourceHref": "https://news.ycombinator.com/rss",
-          "sourceTitle": "Hacker News",
-          "title": "Sail-pro – Simulation and modelling environment for virtual sailing"
-        },
-        {
-          "description": "Comments",
-          "link": "https://petapixel.com/2018/08/02/this-guy-flipped-an-element-in-an-old-lens-and-got-magic-bokeh/",
-          "publishedOn": "2021-05-04T19:03:17.000Z",
-          "wordCount": 1147,
-          "sourceHref": "https://news.ycombinator.com/rss",
-          "sourceTitle": "Hacker News",
-          "title": "Flipped an element in an old lens and got 'magic' bokeh (2018)"
-        },
-        {
-          "description": "Comments",
-          "link": "https://boardroom.mirror.xyz/N0kJ-y_5wvPR0H1MMNFb531MOKEE4LKWxepzQLj18sw",
-          "publishedOn": "2021-05-04T18:31:26.000Z",
-          "wordCount": 1635,
-          "sourceHref": "https://news.ycombinator.com/rss",
-          "sourceTitle": "Hacker News",
-          "title": "D(?)A(?)O – Decentralization and Autonomy in “DAOs”"
-        },
-        {
-          "description": "Comments",
-          "link": "https://mattnakama.com/blog/go-branchless-coding/",
-          "publishedOn": "2021-05-04T15:26:53.000Z",
-          "wordCount": 2705,
-          "sourceHref": "https://news.ycombinator.com/rss",
-          "sourceTitle": "Hacker News",
-          "title": "Branchless Coding in Go"
-        },
-        {
-          "description": "Comments",
-          "link": "https://labs.sentinelone.com/cve-2021-21551-hundreds-of-millions-of-dell-computers-at-risk-due-to-multiple-bios-driver-privilege-escalation-flaws/",
-          "publishedOn": "2021-05-04T15:10:51.000Z",
-          "wordCount": 2185,
-          "sourceHref": "https://news.ycombinator.com/rss",
-          "sourceTitle": "Hacker News",
-          "title": "Dell patches 12-year-old driver vulnerability impacting millions of PCs"
-        },
-        {
-          "description": "Comments",
-          "link": "https://www.bbc.co.uk/news/world-europe-56978344",
-          "publishedOn": "2021-05-04T14:01:06.000Z",
-          "wordCount": 862,
-          "sourceHref": "https://news.ycombinator.com/rss",
-          "sourceTitle": "Hacker News",
-          "title": "Belgian farmer accidentally moves French border"
-        },
-        {
-          "description": "Comments",
-          "link": "https://wh0rd.ca/humor/text/Adequacy_org%20%20Is%20Your%20Son%20a%20Computer%20Hacker.htm",
-          "publishedOn": "2021-05-04T13:46:25.000Z",
-          "wordCount": 9172,
-          "sourceHref": "https://news.ycombinator.com/rss",
-          "sourceTitle": "Hacker News",
-          "title": "Is your son a computer hacker? (2001)"
-        },
-        {
-          "description": "Comments",
-          "link": "https://gir.st/chiptunes.html",
-          "publishedOn": "2021-05-04T12:24:20.000Z",
-          "wordCount": 2127,
-          "sourceHref": "https://news.ycombinator.com/rss",
-          "sourceTitle": "Hacker News",
-          "title": "Chiptunes on an ATtiny4 and the 3 Cent Micro"
-        },
-        {
-          "description": "Comments",
-          "link": "https://observablehq.com/@observablehq/introducing-observable-plot",
-          "publishedOn": "2021-05-04T12:20:29.000Z",
-          "wordCount": 9,
-          "sourceHref": "https://news.ycombinator.com/rss",
-          "sourceTitle": "Hacker News",
-          "title": "Observable Plot"
-        },
-        {
-          "description": "Comments",
-          "link": "https://fs.blog/2021/05/slack/",
-          "publishedOn": "2021-05-04T12:09:54.000Z",
-          "wordCount": 2403,
-          "sourceHref": "https://news.ycombinator.com/rss",
-          "sourceTitle": "Hacker News",
-          "title": "Efficiency Is the Enemy"
-        },
-        {
-          "description": "Comments",
-          "link": "http://www.ulisp.com/",
-          "publishedOn": "2021-05-04T11:17:24.000Z",
-          "wordCount": 1971,
-          "sourceHref": "https://news.ycombinator.com/rss",
-          "sourceTitle": "Hacker News",
-          "title": "uLisp"
-        },
-        {
-          "description": "Comments",
-          "link": "https://www.washingtonpost.com/technology/interactive/2021/amazon-apple-facebook-google-acquisitions/",
-          "publishedOn": "2021-05-04T10:46:40.000Z",
-          "wordCount": 3096,
-          "sourceHref": "https://news.ycombinator.com/rss",
-          "sourceTitle": "Hacker News",
-          "title": "How Big Tech got so big: hundreds of acquisitions"
-        },
-        {
-          "description": "Comments",
-          "link": "https://www.smithsonianmag.com/smart-news/sorceresss-kit-was-discovered-ashes-pompeii-180972907/",
-          "publishedOn": "2021-05-04T04:42:58.000Z",
-          "wordCount": 1293,
-          "sourceHref": "https://news.ycombinator.com/rss",
-          "sourceTitle": "Hacker News",
-          "title": "A Sorceress’ Kit Was Discovered in the Ashes of Pompeii"
-        },
-        {
-          "description": "Comments",
-          "link": "https://www.platformer.news/p/-how-basecamp-blew-up",
-          "publishedOn": "2021-05-04T00:21:11.000Z",
-          "wordCount": 3828,
-          "sourceHref": "https://news.ycombinator.com/rss",
-          "sourceTitle": "Hacker News",
-          "title": "How Basecamp Blew Up"
-        },
-        {
-          "description": "Comments",
-          "link": "https://www.hakaimagazine.com/article-short/the-unlikely-prevailing-success-of-fish-sticks/",
-          "publishedOn": "2021-05-03T21:31:30.000Z",
-          "wordCount": 1645,
-          "sourceHref": "https://news.ycombinator.com/rss",
-          "sourceTitle": "Hacker News",
-          "title": "The Unlikely Success of Fish Sticks"
-        },
-        {
-          "description": "Comments",
-          "link": "https://recyclednumbers.cs.princeton.edu/assets/recycled-numbers-latest.pdf",
-          "publishedOn": "2021-05-03T20:56:18.000Z",
-          "wordCount": 8847,
-          "sourceHref": "https://news.ycombinator.com/rss",
-          "sourceTitle": "Hacker News",
-          "title": "Security and Privacy Risks of Number Recycling at Mobile Carriers in the U.S. [pdf]"
-        },
-        {
-          "description": "Comments",
-          "link": "https://staysaasy.com/product/2021/05/02/competition.html",
-          "publishedOn": "2021-05-03T10:21:53.000Z",
-          "wordCount": 1021,
-          "sourceHref": "https://news.ycombinator.com/rss",
-          "sourceTitle": "Hacker News",
-          "title": "Competitive Analysis for Engineers"
+          "title": "Genetic Mapping"
         }
       ]
     },
     {
       "href": "https://www.smashingmagazine.com/feed/",
       "articles": [
+        {
+          "description": "This article showcases a case study of Bookaway’s landing page performance. We’ll see how taking care of the props we send to Next.js pages can make loading times and Web Vitals better.",
+          "link": "https://smashingmagazine.com/2021/05/reduce-data-sent-client-nextjs/",
+          "publishedOn": "2021-05-05T10:30:00.000Z",
+          "wordCount": 2296,
+          "sourceHref": "https://www.smashingmagazine.com/feed/",
+          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
+          "title": "Reducing HTML Payload With Next.js (Case Study)"
+        },
         {
           "description": "No matter how experienced you are, mistakes are an inevitable part of software development. But we can learn to repair them! And this is what we'll be looking at in this two-part series: how to undo mistakes using Git.",
           "link": "https://smashingmagazine.com/2021/05/undoing-mistakes-git-part1/",
@@ -318,7 +327,7 @@
           "description": "Images have also been a key part of the web. They communicate ideas instantly, but they are also a lot heavier than text to load. This means that it’s essential to get loading and displaying them right, if you want to give your users a fantastic first impression. An excerpt from [Addy's new book](https://www.smashingmagazine.com/2021/04/image-optimization-pre-release/) (also, check a [free PDF preview](http://provide.smashingmagazine.com/eBooks/image-optimization-sample-chapter.pdf)).",
           "link": "https://smashingmagazine.com/2021/04/humble-img-element-core-web-vitals/",
           "publishedOn": "2021-04-29T12:15:00.000Z",
-          "wordCount": 5289,
+          "wordCount": 5325,
           "sourceHref": "https://www.smashingmagazine.com/feed/",
           "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
           "title": "The Humble `<img>` Element And Core Web Vitals"
@@ -327,7 +336,7 @@
           "description": "The cat is out! For the last year, we’ve been working with Addy Osmani on a new Smashing Book all around image optimization. And now it’s here. Meet “Image Optimization”, our practical modern guide to delivering high-quality images on the web with the best performance.",
           "link": "https://smashingmagazine.com/2021/04/image-optimization-pre-release/",
           "publishedOn": "2021-04-28T13:20:00.000Z",
-          "wordCount": 2136,
+          "wordCount": 2130,
           "sourceHref": "https://www.smashingmagazine.com/feed/",
           "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
           "title": "Meet Image Optimization, A New Smashing Book By Addy Osmani"
@@ -453,7 +462,7 @@
           "description": "Recently we’ve covered CSS generators, SVG generators and accessible front-end components. This time we look into HTML email, with tools, templates and guides for designers and developers.",
           "link": "https://smashingmagazine.com/2021/04/complete-guide-html-email-templates-tools/",
           "publishedOn": "2021-04-12T12:30:00.000Z",
-          "wordCount": 2965,
+          "wordCount": 3142,
           "sourceHref": "https://www.smashingmagazine.com/feed/",
           "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
           "title": "A Complete Guide To HTML Email"
@@ -500,10 +509,19 @@
       "href": "https://www.freecodecamp.org/news/rss/",
       "articles": [
         {
+          "description": "OpenCV is a library of programming functions mainly aimed at real-time computer vision.  We just released a course on the freeCodeCamp.org YouTube channel that will teach you how to use OpenCV in the cloud with Python. Misbah Mohammed created this course. He has a lot of experience with machine",
+          "link": "https://www.freecodecamp.org/news/create-computer-vision-apps-in-the-cloud-with-opencv-and-python/",
+          "publishedOn": "2021-05-05T21:11:40.000Z",
+          "wordCount": 352,
+          "sourceHref": "https://www.freecodecamp.org/news/rss/",
+          "sourceTitle": "freeCodeCamp.org",
+          "title": "Create Computer Vision Apps in the Cloud With OpenCV and Python"
+        },
+        {
           "description": "A complete guide to Node.js async await",
           "link": "https://www.freecodecamp.org/news/node-js-async-await-tutorial-with-asynchronous-javascript-examples/",
           "publishedOn": "2021-05-04T16:07:17.000Z",
-          "wordCount": 2235,
+          "wordCount": 2241,
           "sourceHref": "https://www.freecodecamp.org/news/rss/",
           "sourceTitle": "freeCodeCamp.org",
           "title": "Node.js Async Await Tutorial – With Asynchronous JavaScript Examples"
@@ -512,7 +530,7 @@
           "description": "To copy files or directories in Unix-based operating systems (Linux and MacOS), you use the cp command. The cp command is a relatively simple command, but its behavior changes slightly depending on the inputs (files vs directories) and the options you pass to it. To view the documentation or manual",
           "link": "https://www.freecodecamp.org/news/copy-a-directory-in-linux-how-to-cp-a-folder-in-the-command-line-in-linux-and-unix-macos/",
           "publishedOn": "2021-05-04T15:33:12.000Z",
-          "wordCount": 1012,
+          "wordCount": 1018,
           "sourceHref": "https://www.freecodecamp.org/news/rss/",
           "sourceTitle": "freeCodeCamp.org",
           "title": "Copy a Directory in Linux – How to cp a Folder in the Command Line in Linux and Unix (MacOS)"
@@ -521,7 +539,7 @@
           "description": "Let's go through the five best ways that you can fetch data with React from a GraphQL API. While there are a couple of popular libraries which are made to interact with GraphQL APIs from a React application, there are many different ways to fetch data with GraphQL. I've included",
           "link": "https://www.freecodecamp.org/news/5-ways-to-fetch-data-react-graphql/",
           "publishedOn": "2021-05-03T17:20:56.000Z",
-          "wordCount": 2495,
+          "wordCount": 2501,
           "sourceHref": "https://www.freecodecamp.org/news/rss/",
           "sourceTitle": "freeCodeCamp.org",
           "title": "How to Fetch Data in React from a GraphQL API"
@@ -530,7 +548,7 @@
           "description": "In this article, we'll see some of the common mistakes that React developers make, and how you can avoid them. So let's get started. Don't Forget that Every Route Change Mounts and Unmounts a ComponentWhenever you're using routing in a React application, you declare routes inside the Switch component. This",
           "link": "https://www.freecodecamp.org/news/common-mistakes-react-developers-make-and-how-to-fix-them/",
           "publishedOn": "2021-05-03T16:40:08.000Z",
-          "wordCount": 1158,
+          "wordCount": 1164,
           "sourceHref": "https://www.freecodecamp.org/news/rss/",
           "sourceTitle": "freeCodeCamp.org",
           "title": "Common Mistakes React Developers Make – And How to Fix Them"
@@ -539,7 +557,7 @@
           "description": "Cross Site Request Forgery, or CSRF occurs when a malicious site or program causes a user's browser to perform an unwanted action on a trusted site when the user is authenticated. Any malicious action is limited to the capability of the website to which the user is authenticated. For example,",
           "link": "https://www.freecodecamp.org/news/what-is-cross-site-request-forgery/",
           "publishedOn": "2021-05-03T16:13:55.000Z",
-          "wordCount": 1398,
+          "wordCount": 1404,
           "sourceHref": "https://www.freecodecamp.org/news/rss/",
           "sourceTitle": "freeCodeCamp.org",
           "title": "Cross Site Request Forgery – What is a CSRF Attack and How to Prevent It"
@@ -548,7 +566,7 @@
           "description": "You can learn everything you need to know to earn the Azure Administrator Certification by completing this free 11-hour course. What is Microsoft Azure Administrator?The Azure Administrator is the most popular Azure certification because it provides the broadest amount of practical knowledge to manage Azure infrastructure. It also allows",
           "link": "https://www.freecodecamp.org/news/azure-administrator-certification-az-104-pass-the-exam-with-this-free-11-hour-course/",
           "publishedOn": "2021-05-03T15:31:42.000Z",
-          "wordCount": 890,
+          "wordCount": 896,
           "sourceHref": "https://www.freecodecamp.org/news/rss/",
           "sourceTitle": "freeCodeCamp.org",
           "title": "Azure Administrator Certification (AZ-104) – Pass the Exam With This Free 11-Hour Course"
@@ -557,7 +575,7 @@
           "description": "These days, computers can pretty much do anything. Now if you are a frequent computer user like I am, I'm sure you interact with the keyboard all the time. And in this article, I'm going to show you some helpful keyboard shortcuts that will make your work easier",
           "link": "https://www.freecodecamp.org/news/keyboard-shortcuts-improve-productivity/",
           "publishedOn": "2021-04-30T18:37:37.000Z",
-          "wordCount": 1334,
+          "wordCount": 1340,
           "sourceHref": "https://www.freecodecamp.org/news/rss/",
           "sourceTitle": "freeCodeCamp.org",
           "title": "Keyboard Shortcuts to Improve Your Coding Productivity"
@@ -566,7 +584,7 @@
           "description": "In this article, you'll practice your JavaScript skills while streamlining your household chores by creating your very own home inventory system.  I've often found that it's hard to keep track common household items that I buy frequently such as food, spices, medicine, and the like. It's annoying at best and",
           "link": "https://www.freecodecamp.org/news/nodejs-and-cloud-firestore-tutorial-build-a-home-inventory-system/",
           "publishedOn": "2021-04-30T16:26:24.000Z",
-          "wordCount": 1429,
+          "wordCount": 1435,
           "sourceHref": "https://www.freecodecamp.org/news/rss/",
           "sourceTitle": "freeCodeCamp.org",
           "title": "Node.js and Cloud Firestore Tutorial – How to Build a Home Inventory System"
@@ -575,22 +593,13 @@
           "description": "Docker is an open source project that makes it easy to create containers and container-based apps. Docker's lightweight and portable software containers simplify application development, testing, and deployment. We just released a course on the freeCodeCamp.org YouTube channel that will help you learn the core fundamentals of Docker by",
           "link": "https://www.freecodecamp.org/news/learn-docker-by-building-a-node-express-app/",
           "publishedOn": "2021-04-29T20:05:04.000Z",
-          "wordCount": 496,
+          "wordCount": 502,
           "sourceHref": "https://www.freecodecamp.org/news/rss/",
           "sourceTitle": "freeCodeCamp.org",
           "title": "Learn Docker by Building a Node / Express App"
-        },
-        {
-          "description": "In this article, I'll teach you CSS Flexbox basics so you can make your own responsive sites. I'll explain how each of Flexbox's properties work, and I'll give you a cheatsheet that covers everything you can do with Flexbox. Let's Go 🎖️ Table of ContentsFlexbox Architectureflex-directionjustify-contentalign-contentalign-itemsalign-selfflex - grow | shrink | wrap | basisShort",
-          "link": "https://www.freecodecamp.org/news/css-flexbox-tutorial-with-cheatsheet/",
-          "publishedOn": "2021-04-28T19:33:57.000Z",
-          "wordCount": 1289,
-          "sourceHref": "https://www.freecodecamp.org/news/rss/",
-          "sourceTitle": "freeCodeCamp.org",
-          "title": "CSS Flexbox Tutorial with Flexbox Properties Cheat Sheet 🎖️"
         }
       ]
     }
   ],
-  "cliVersion": "1.3.1"
+  "cliVersion": "1.4.0"
 }
