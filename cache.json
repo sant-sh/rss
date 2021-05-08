@@ -5,279 +5,288 @@
       "articles": [
         {
           "description": "Comments",
-          "link": "https://www.theatlantic.com/ideas/archive/2021/05/marriage-college-status-meritocracy/618795/",
-          "publishedOn": "2021-05-06T23:50:43.000Z",
-          "wordCount": 3671,
+          "link": "https://www.wsj.com/articles/california-population-declines-for-first-time-in-more-than-a-century-11620416887",
+          "publishedOn": "2021-05-07T22:56:45.000Z",
+          "wordCount": 1161,
           "sourceHref": "https://news.ycombinator.com/rss",
           "sourceTitle": "Hacker News",
-          "title": "College Became a Ruthless Competition Divorced from Learning"
+          "title": "California population declines for first time in more than a century"
         },
         {
           "description": "Comments",
-          "link": "https://kylebarron.dev/usgs-topo-mosaic",
-          "publishedOn": "2021-05-06T22:12:42.000Z",
-          "wordCount": 15,
+          "link": "https://www.economist.com/science-and-technology/2021/05/06/satellite-navigation-systems-such-as-gps-are-at-risk-of-jamming",
+          "publishedOn": "2021-05-07T22:16:04.000Z",
+          "wordCount": 1715,
           "sourceHref": "https://news.ycombinator.com/rss",
           "sourceTitle": "Hacker News",
-          "title": "Show HN: Serverless USGS Historical Topographic map tiles"
+          "title": "Back-ups for GPS: Satellite-navigation systems at risk of jamming"
         },
         {
           "description": "Comments",
-          "link": "https://dl.acm.org/doi/pdf/10.1145/3309074.3309076",
-          "publishedOn": "2021-05-06T21:05:43.000Z",
-          "wordCount": 148,
+          "link": "https://tedium.co/2021/05/07/linux-live-cd-history/",
+          "publishedOn": "2021-05-07T22:03:57.000Z",
+          "wordCount": null,
           "sourceHref": "https://news.ycombinator.com/rss",
           "sourceTitle": "Hacker News",
-          "title": "Privacy Implications of Accelerometer Data [pdf]"
+          "title": "The Distribution Vector That Changed Linux Forever"
         },
         {
           "description": "Comments",
-          "link": "https://www.workatastartup.com/jobs/43782",
-          "publishedOn": "2021-05-06T21:01:16.000Z",
-          "wordCount": 393,
+          "link": "https://awslabs.github.io/smithy/",
+          "publishedOn": "2021-05-07T21:31:58.000Z",
+          "wordCount": 704,
           "sourceHref": "https://news.ycombinator.com/rss",
           "sourceTitle": "Hacker News",
-          "title": "Literably (YC IK12) Is Hiring a Senior Software Engineer (Remote)"
+          "title": "Smithy: A language for defining services and SDKs"
         },
         {
           "description": "Comments",
-          "link": "https://www.latimes.com/opinion/story/2021-05-06/editorial-there-is-no-drought",
-          "publishedOn": "2021-05-06T20:30:58.000Z",
-          "wordCount": 2370,
+          "link": "https://www.ycombinator.com/companies/kraftful/",
+          "publishedOn": "2021-05-07T21:00:32.000Z",
+          "wordCount": 81,
           "sourceHref": "https://news.ycombinator.com/rss",
           "sourceTitle": "Hacker News",
-          "title": "California is not in drought"
+          "title": "Kraftful (YC S19) hiring founding engineers to build the standard IoT platform"
         },
         {
           "description": "Comments",
-          "link": "https://www.ftc.gov/system/files/documents/reports/nixing-fix-ftc-report-congress-repair-restrictions/nixing_the_fix_report_final_5521_630pm-508_002.pdf",
-          "publishedOn": "2021-05-06T20:17:14.000Z",
-          "wordCount": 22239,
+          "link": "https://mathiaskirkbonde.substack.com/p/be-in-a-field-where-tech-is-the-limit",
+          "publishedOn": "2021-05-07T20:47:12.000Z",
+          "wordCount": 434,
           "sourceHref": "https://news.ycombinator.com/rss",
           "sourceTitle": "Hacker News",
-          "title": "Nixing the Fix: An FTC Report to Congress on Repair Restrictions [pdf]"
+          "title": "Be in a field where tech is the limit"
         },
         {
           "description": "Comments",
-          "link": "https://datasetsearch.research.google.com/",
-          "publishedOn": "2021-05-06T20:15:29.000Z",
-          "wordCount": 27,
+          "link": "http://littlefreelibrary.org/",
+          "publishedOn": "2021-05-07T20:41:44.000Z",
+          "wordCount": 789,
           "sourceHref": "https://news.ycombinator.com/rss",
           "sourceTitle": "Hacker News",
-          "title": "Google Dataset Search"
+          "title": "Little Free Library"
         },
         {
           "description": "Comments",
-          "link": "https://blog.twitter.com/en_us/topics/product/2021/introducing-tip-jar.html",
-          "publishedOn": "2021-05-06T20:07:23.000Z",
-          "wordCount": 645,
+          "link": "https://findstarlink.com",
+          "publishedOn": "2021-05-07T20:26:00.000Z",
+          "wordCount": 727,
           "sourceHref": "https://news.ycombinator.com/rss",
           "sourceTitle": "Hacker News",
-          "title": "Twitter: Introducing Tip Jar"
+          "title": "Starlink Satellites Tracker"
         },
         {
           "description": "Comments",
-          "link": "https://distill.pub/selforg/2021/adversarial",
-          "publishedOn": "2021-05-06T19:46:36.000Z",
-          "wordCount": 5921,
+          "link": "https://www.npr.org/2021/05/06/993821945/goodwill-doesnt-want-your-broken-toaster",
+          "publishedOn": "2021-05-07T20:06:55.000Z",
+          "wordCount": 942,
           "sourceHref": "https://news.ycombinator.com/rss",
           "sourceTitle": "Hacker News",
-          "title": "Adversarial Reprogramming of Neural Cellular Automata"
+          "title": "Goodwill doesn't want broken toasters"
         },
         {
           "description": "Comments",
-          "link": "https://nautil.us/issue/99/universality/the-vast-viral-world-what-we-know-and-dont-know",
-          "publishedOn": "2021-05-06T19:37:09.000Z",
-          "wordCount": 4157,
+          "link": "https://github.com/NixOS/patchelf",
+          "publishedOn": "2021-05-07T18:59:07.000Z",
+          "wordCount": 1301,
           "sourceHref": "https://news.ycombinator.com/rss",
           "sourceTitle": "Hacker News",
-          "title": "The vast viral world: what we know and don’t know"
+          "title": "PatchELF: Simple utility for modifying existing ELF executables and libraries"
         },
         {
           "description": "Comments",
-          "link": "https://brave.com/playlist/",
-          "publishedOn": "2021-05-06T19:32:38.000Z",
-          "wordCount": 545,
+          "link": "https://archive.org/details/The_Complete_HyperCard_Handbook/",
+          "publishedOn": "2021-05-07T18:35:12.000Z",
+          "wordCount": 4673,
           "sourceHref": "https://news.ycombinator.com/rss",
           "sourceTitle": "Hacker News",
-          "title": "Playlist for iOS"
+          "title": "The Complete Hypercard Handbook"
         },
         {
           "description": "Comments",
-          "link": "https://blog.bejarano.io/hardening-macos/",
-          "publishedOn": "2021-05-06T19:05:16.000Z",
-          "wordCount": 1249,
+          "link": "https://crossbar.io/",
+          "publishedOn": "2021-05-07T17:57:39.000Z",
+          "wordCount": 1314,
           "sourceHref": "https://news.ycombinator.com/rss",
           "sourceTitle": "Hacker News",
-          "title": "Hardening macOS (2018)"
+          "title": "Crossbar.io – an open source platform for distributed and microservice apps"
         },
         {
           "description": "Comments",
-          "link": "https://nautil.us/issue/99/universality/why-people-feel-like-victims",
-          "publishedOn": "2021-05-06T18:47:49.000Z",
-          "wordCount": 2654,
+          "link": "https://blog.svenpeter.dev/posts/m1_sprr_gxf/",
+          "publishedOn": "2021-05-07T17:41:14.000Z",
+          "wordCount": 6511,
           "sourceHref": "https://news.ycombinator.com/rss",
           "sourceTitle": "Hacker News",
-          "title": "Why People Feel Like Victims"
+          "title": "Apple Silicon Hardware: SPRR and Guarded Exception Levels (GXF)"
         },
         {
           "description": "Comments",
-          "link": "https://www.ipachart.com/",
-          "publishedOn": "2021-05-06T17:33:00.000Z",
-          "wordCount": 487,
+          "link": "https://www.defensenews.com/industry/2021/05/04/honeywell-fined-13-million-for-defense-export-violations/",
+          "publishedOn": "2021-05-07T17:34:01.000Z",
+          "wordCount": 1446,
           "sourceHref": "https://news.ycombinator.com/rss",
           "sourceTitle": "Hacker News",
-          "title": "Interactive IPA Chart"
+          "title": "Honeywell gets hit with $13M fine for defense export violations"
         },
         {
           "description": "Comments",
-          "link": "https://newatlas.com/good-thinking/carnot-centrifugal-air-compressor/",
-          "publishedOn": "2021-05-06T17:13:08.000Z",
-          "wordCount": 1556,
+          "link": "https://download.vusec.net/papers/constantine_ccs21.pdf",
+          "publishedOn": "2021-05-07T17:08:04.000Z",
+          "wordCount": 17504,
           "sourceHref": "https://news.ycombinator.com/rss",
           "sourceTitle": "Hacker News",
-          "title": "A centrifugal spin on a 500-year-old air compressor design"
+          "title": "Constantine: Automatic side-channel resistance using data flow linearization [pdf]"
         },
         {
           "description": "Comments",
-          "link": "http://med.stanford.edu/news/all-news/2021/04/researchers-chart-path-to-lower-health-care-administrative-costs.html.html?mkt_tok=ODg0LUZTQi0zMDcAAAF84YXDwjcow7qSEyVjeiYYymJxwwegZeKlZ0lY80KpvyGXnFFbRZ5F3f95hhsB45PHpP51zf1pFjdkKSLmKtSenWlsRIWs1W9g06_HVvcnbA",
-          "publishedOn": "2021-05-06T16:46:01.000Z",
-          "wordCount": 1475,
+          "link": "https://matrix.org/blog/2021/05/06/introducing-the-pinecone-overlay-network",
+          "publishedOn": "2021-05-07T16:27:01.000Z",
+          "wordCount": 841,
           "sourceHref": "https://news.ycombinator.com/rss",
           "sourceTitle": "Hacker News",
-          "title": "Researchers chart path to drastically lower administrative costs of health care"
+          "title": "The Pinecone Overlay Network"
         },
         {
           "description": "Comments",
-          "link": "https://blog.polybdenum.com/2021/05/05/how-i-hacked-google-app-engine-anatomy-of-a-java-bytecode-exploit.html",
-          "publishedOn": "2021-05-06T15:34:07.000Z",
-          "wordCount": 15920,
+          "link": "https://eli.thegreenplace.net/2011/02/04/where-the-top-of-the-stack-is-on-x86/",
+          "publishedOn": "2021-05-07T15:51:14.000Z",
+          "wordCount": 1215,
           "sourceHref": "https://news.ycombinator.com/rss",
           "sourceTitle": "Hacker News",
-          "title": "I Hacked Google App Engine: Anatomy of a Java Bytecode Exploit"
+          "title": "Where the top of the stack is on x86 (2011)"
         },
         {
           "description": "Comments",
-          "link": "https://if50.substack.com/p/1988-prestavba",
-          "publishedOn": "2021-05-06T15:01:22.000Z",
-          "wordCount": 3743,
+          "link": "https://nipafx.dev/java-record-semantics/",
+          "publishedOn": "2021-05-07T15:30:14.000Z",
+          "wordCount": 2576,
           "sourceHref": "https://news.ycombinator.com/rss",
           "sourceTitle": "Hacker News",
-          "title": "1988: P.R.E.S.T.A.V.B.A."
+          "title": "Java's records, Lombok's data, and Kotlin's data classes"
         },
         {
           "description": "Comments",
-          "link": "https://blog.google/technology/safety-security/a-simpler-and-safer-future-without-passwords/",
-          "publishedOn": "2021-05-06T14:52:38.000Z",
-          "wordCount": 1429,
+          "link": "https://github.com/MisterHW/44780HD",
+          "publishedOn": "2021-05-07T15:06:50.000Z",
+          "wordCount": 2532,
           "sourceHref": "https://news.ycombinator.com/rss",
           "sourceTitle": "Hacker News",
-          "title": "A future without passwords"
+          "title": "Towards an HD44780-Based Video Mode"
         },
         {
           "description": "Comments",
-          "link": "https://qntm.org/hatetris",
-          "publishedOn": "2021-05-06T14:35:43.000Z",
-          "wordCount": 13616,
+          "link": "https://github.com/thestinger/termite",
+          "publishedOn": "2021-05-07T12:52:03.000Z",
+          "wordCount": 1598,
           "sourceHref": "https://news.ycombinator.com/rss",
           "sourceTitle": "Hacker News",
-          "title": "Hatetris – Tetris which always gives you the worst piece"
+          "title": "Use Alacritty instead of Termite"
         },
         {
           "description": "Comments",
-          "link": "https://www.businessinsider.com/clubhouse-downloads-900000-in-april-2021-5",
-          "publishedOn": "2021-05-06T13:17:51.000Z",
-          "wordCount": 1279,
+          "link": "https://web.archive.org/web/20170722064044/https://settle.network/posts/intro/",
+          "publishedOn": "2021-05-07T12:26:30.000Z",
+          "wordCount": 2151,
           "sourceHref": "https://news.ycombinator.com/rss",
           "sourceTitle": "Hacker News",
-          "title": "Clubhouse downloads are falling"
+          "title": "Decentralized trust graph for online value exchange without a blockchain (2017)"
         },
         {
           "description": "Comments",
-          "link": "https://blog.cloudflare.com/branch-predictor/",
-          "publishedOn": "2021-05-06T13:09:42.000Z",
-          "wordCount": 4058,
+          "link": "https://quickwit.io/blog/commoncrawl/",
+          "publishedOn": "2021-05-07T10:48:26.000Z",
+          "wordCount": 1278,
           "sourceHref": "https://news.ycombinator.com/rss",
           "sourceTitle": "Hacker News",
-          "title": "Branch predictor: How many “if”s are too many?"
+          "title": "Searching the web for under $1000/month"
         },
         {
           "description": "Comments",
-          "link": "http://paulgraham.com/newideas.html",
-          "publishedOn": "2021-05-06T11:44:27.000Z",
-          "wordCount": 1285,
+          "link": "https://blog.asrpo.com/jit_programming",
+          "publishedOn": "2021-05-06T20:54:11.000Z",
+          "wordCount": 1374,
           "sourceHref": "https://news.ycombinator.com/rss",
           "sourceTitle": "Hacker News",
-          "title": "Crazy New Ideas"
+          "title": "Instruction level just-in-time programming"
         },
         {
           "description": "Comments",
-          "link": "https://twitter.com/jonsyu/status/1389635626698297344",
-          "publishedOn": "2021-05-06T11:33:42.000Z",
-          "wordCount": 196,
+          "link": "https://blogs.bl.uk/endangeredarchives/2020/11/whats-in-a-name-the-sovietisation-of-a-modern-mongolian-language.html",
+          "publishedOn": "2021-05-06T19:08:12.000Z",
+          "wordCount": 1802,
           "sourceHref": "https://news.ycombinator.com/rss",
           "sourceTitle": "Hacker News",
-          "title": "Starting a crypto project"
+          "title": "The Sovietisation of the Mongolian language and challenges of reversal (2020)"
         },
         {
           "description": "Comments",
-          "link": "https://www.bbc.com/future/article/20210505-how-cities-will-fossilise",
-          "publishedOn": "2021-05-06T11:12:26.000Z",
-          "wordCount": 3059,
+          "link": "https://ped.ro/blog/code-blocks-but-better",
+          "publishedOn": "2021-05-06T12:16:11.000Z",
+          "wordCount": 3194,
           "sourceHref": "https://news.ycombinator.com/rss",
           "sourceTitle": "Hacker News",
-          "title": "How Cities Will Fossilise"
+          "title": "I spent some time exploring how to improve the UX of code blocks on the web"
         },
         {
           "description": "Comments",
-          "link": "https://www.anandtech.com/show/16656/ibm-creates-first-2nm-chip",
-          "publishedOn": "2021-05-06T10:11:27.000Z",
-          "wordCount": 3408,
+          "link": "https://xyproblem.info/",
+          "publishedOn": "2021-05-06T11:34:13.000Z",
+          "wordCount": 480,
           "sourceHref": "https://news.ycombinator.com/rss",
           "sourceTitle": "Hacker News",
-          "title": "IBM creates 2nm chip"
+          "title": "The XY Problem (2014)"
         },
         {
           "description": "Comments",
-          "link": "https://www.jefftk.com/p/why-i-work-on-ads",
-          "publishedOn": "2021-05-06T09:29:45.000Z",
-          "wordCount": 1676,
+          "link": "https://github.com/msxie92/MangaRestoration",
+          "publishedOn": "2021-05-06T10:58:02.000Z",
+          "wordCount": 828,
           "sourceHref": "https://news.ycombinator.com/rss",
           "sourceTitle": "Hacker News",
-          "title": "Why I Work on Ads"
+          "title": "Exploiting Aliasing for Manga Restoration"
         },
         {
           "description": "Comments",
-          "link": "https://publicdomainreview.org/collection/visualizing-history-the-polish-system",
-          "publishedOn": "2021-05-06T02:13:32.000Z",
-          "wordCount": 1341,
+          "link": "https://rjlipton.wpcomstaging.com/2021/05/05/how-to-teach-math/",
+          "publishedOn": "2021-05-06T08:56:33.000Z",
+          "wordCount": 2518,
           "sourceHref": "https://news.ycombinator.com/rss",
           "sourceTitle": "Hacker News",
-          "title": "Visualizing History: The Polish System"
+          "title": "How to Teach Math?"
         },
         {
           "description": "Comments",
-          "link": "https://web.archive.org/web/20060225195733/http://cm.bell-labs.com/cm/cs/who/dmr/btut.html",
-          "publishedOn": "2021-05-05T09:52:23.000Z",
-          "wordCount": 6724,
+          "link": "https://oldcomputers.net/grid1101.html",
+          "publishedOn": "2021-05-06T08:32:55.000Z",
+          "wordCount": 947,
           "sourceHref": "https://news.ycombinator.com/rss",
           "sourceTitle": "Hacker News",
-          "title": "The original “Hello World”: B. W. Kernighan's intro to B (1973)"
+          "title": "Grid Compass 1101 (2016)"
         },
         {
           "description": "Comments",
-          "link": "https://borisreitman.medium.com/problems-with-ancient-musical-scales-272217ca0d27",
-          "publishedOn": "2021-05-05T04:59:58.000Z",
-          "wordCount": 5213,
+          "link": "https://ognjen.io/generating-more-interesting-image-previews-using-imagemagick/",
+          "publishedOn": "2021-05-05T08:04:16.000Z",
+          "wordCount": 1303,
           "sourceHref": "https://news.ycombinator.com/rss",
           "sourceTitle": "Hacker News",
-          "title": "Problems with ancient musical scales"
+          "title": "Generating more interesting image previews using imagemagick"
         }
       ]
     },
     {
       "href": "https://www.smashingmagazine.com/feed/",
       "articles": [
+        {
+          "description": "How do you organize your Google Drive assets? How do you name your Dropbox Paper documents? How do you deal with comments? Let’s get it right.",
+          "link": "https://smashingmagazine.com/2021/05/product-records-organization-collaboration-best-practices/",
+          "publishedOn": "2021-05-07T10:00:00.000Z",
+          "wordCount": 4127,
+          "sourceHref": "https://www.smashingmagazine.com/feed/",
+          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
+          "title": "How To Organize Product-Related Assets And Collaborate Better"
+        },
         {
           "description": "When dealing with themes for large platforms and CMS, legacy issues often become a bottleneck. In this article, Carson Shold discusses how his team improved the performance and organization of their Shopify themes, and improved maintainability along the way.",
           "link": "https://smashingmagazine.com/2021/05/improving-performance-shopify-themes-case-study/",
@@ -484,21 +493,30 @@
           "sourceHref": "https://www.smashingmagazine.com/feed/",
           "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
           "title": "Growing UX Maturity In Organizations: Education And Training (Part 3)"
-        },
-        {
-          "description": "Have you ever struggled to get the green light on your design proposals? Do you feel like your design process needs to be formalized? Is the COVID19 era becoming a challenge for you when working remotely as a designer? Then keep reading to get to know a methodology to document your design process in this article.",
-          "link": "https://smashingmagazine.com/2021/04/better-documentation-team-communication-product-design-docs/",
-          "publishedOn": "2021-04-08T11:00:00.000Z",
-          "wordCount": 1858,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
-          "title": "Better Documentation And Team Communication With Product Design Docs"
         }
       ]
     },
     {
       "href": "https://www.freecodecamp.org/news/rss/",
       "articles": [
+        {
+          "description": "“Good friends, good books, and a sleepy conscience: this is the ideal life.” ― Mark TwainI hope you’re reading this blog in your pjs looking forward to a rejuvenating and healthy weekend.  I have been working on multiple projects lately, from creating Machine Learing Engineering and Machine Learning Operations courses",
+          "link": "https://www.freecodecamp.org/news/machine-learning-systems-book-recommendations/",
+          "publishedOn": "2021-05-07T21:07:57.000Z",
+          "wordCount": 1065,
+          "sourceHref": "https://www.freecodecamp.org/news/rss/",
+          "sourceTitle": "freeCodeCamp.org",
+          "title": "Machine Learning Systems Book Recommendations – Learn How to Build and Understand ML Systems"
+        },
+        {
+          "description": "Any concept that we don't fully understand can be scary at first. Recursion is a topic that programming students don't learn right away. But that doesn't mean it needs to be scary or cause anxiety. In fact, recursion is a concept that we can define rather simply. According to Wikipedia:",
+          "link": "https://www.freecodecamp.org/news/recursion-doesnt-have-to-be-scary/",
+          "publishedOn": "2021-05-07T16:59:53.000Z",
+          "wordCount": 1278,
+          "sourceHref": "https://www.freecodecamp.org/news/rss/",
+          "sourceTitle": "freeCodeCamp.org",
+          "title": "Recursion Might Seem Scary – But it Doesn&#x27;t Have to Be"
+        },
         {
           "description": "Here is a simple and practical example what it means to \"lift state up\" in React, and how it can help you build your applications. Lifting state up is a common pattern that is essential for React developers to know. It helps you avoid more complex (and often unnecessary) patterns",
           "link": "https://www.freecodecamp.org/news/what-is-lifting-state-up-in-react/",
@@ -570,24 +588,6 @@
           "sourceHref": "https://www.freecodecamp.org/news/rss/",
           "sourceTitle": "freeCodeCamp.org",
           "title": "Common Mistakes React Developers Make – And How to Fix Them"
-        },
-        {
-          "description": "Cross Site Request Forgery, or CSRF occurs when a malicious site or program causes a user's browser to perform an unwanted action on a trusted site when the user is authenticated. Any malicious action is limited to the capability of the website to which the user is authenticated. For example,",
-          "link": "https://www.freecodecamp.org/news/what-is-cross-site-request-forgery/",
-          "publishedOn": "2021-05-03T16:13:55.000Z",
-          "wordCount": 1406,
-          "sourceHref": "https://www.freecodecamp.org/news/rss/",
-          "sourceTitle": "freeCodeCamp.org",
-          "title": "Cross Site Request Forgery – What is a CSRF Attack and How to Prevent It"
-        },
-        {
-          "description": "You can learn everything you need to know to earn the Azure Administrator Certification by completing this free 11-hour course. What is Microsoft Azure Administrator?The Azure Administrator is the most popular Azure certification because it provides the broadest amount of practical knowledge to manage Azure infrastructure. It also allows",
-          "link": "https://www.freecodecamp.org/news/azure-administrator-certification-az-104-pass-the-exam-with-this-free-11-hour-course/",
-          "publishedOn": "2021-05-03T15:31:42.000Z",
-          "wordCount": 896,
-          "sourceHref": "https://www.freecodecamp.org/news/rss/",
-          "sourceTitle": "freeCodeCamp.org",
-          "title": "Azure Administrator Certification (AZ-104) – Pass the Exam With This Free 11-Hour Course"
         }
       ]
     }
