@@ -4,274 +4,334 @@
       "href": "https://news.ycombinator.com/rss",
       "articles": [
         {
+          "id": "https://crawl.develz.org/",
+          "author": "Hacker News",
           "description": "Comments",
-          "link": "https://www.wsj.com/articles/california-population-declines-for-first-time-in-more-than-a-century-11620416887",
-          "publishedOn": "2021-05-07T22:56:45.000Z",
-          "wordCount": 1161,
+          "link": "https://crawl.develz.org/",
+          "publishedOn": "2021-05-08T22:43:32.000Z",
+          "wordCount": 123,
           "sourceHref": "https://news.ycombinator.com/rss",
           "sourceTitle": "Hacker News",
-          "title": "California population declines for first time in more than a century"
+          "title": "Dungeon Crawl Stone Soup – An open-source roguelike adventure"
         },
         {
+          "id": "https://github.com/joouha/euporie",
+          "author": "Hacker News",
           "description": "Comments",
-          "link": "https://www.economist.com/science-and-technology/2021/05/06/satellite-navigation-systems-such-as-gps-are-at-risk-of-jamming",
-          "publishedOn": "2021-05-07T22:16:04.000Z",
-          "wordCount": 1715,
+          "link": "https://github.com/joouha/euporie",
+          "publishedOn": "2021-05-08T22:02:53.000Z",
+          "wordCount": 1137,
           "sourceHref": "https://news.ycombinator.com/rss",
           "sourceTitle": "Hacker News",
-          "title": "Back-ups for GPS: Satellite-navigation systems at risk of jamming"
+          "title": "Show HN: Euporie, a Tui for Jupyter Notebooks"
         },
         {
+          "id": "https://www.alextoussaint.com/2021-04-28_How-I-built-an-ultrasonic-3d-scanner.html",
+          "author": "Hacker News",
           "description": "Comments",
-          "link": "https://tedium.co/2021/05/07/linux-live-cd-history/",
-          "publishedOn": "2021-05-07T22:03:57.000Z",
+          "link": "https://www.alextoussaint.com/2021-04-28_How-I-built-an-ultrasonic-3d-scanner.html",
+          "publishedOn": "2021-05-08T21:19:03.000Z",
+          "wordCount": 2983,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "How I built the world's first 3D ultrasonic scanner"
+        },
+        {
+          "id": "https://www.ycombinator.com/companies/token-transit/jobs/Rx4iZh5is-senior-software-engineer",
+          "author": "Hacker News",
+          "description": "Comments",
+          "link": "https://www.ycombinator.com/companies/token-transit/jobs/Rx4iZh5is-senior-software-engineer",
+          "publishedOn": "2021-05-08T21:00:51.000Z",
+          "wordCount": 937,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "Token Transit (YC W17) is hiring to improve public transit payment"
+        },
+        {
+          "id": "https://250bpm.com/blog:113/",
+          "author": "Hacker News",
+          "description": "Comments",
+          "link": "https://250bpm.com/blog:113/",
+          "publishedOn": "2021-05-08T20:43:59.000Z",
+          "wordCount": 1590,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "Suicide by Culture (2017)"
+        },
+        {
+          "id": "http://www.hidmacros.eu/whatisit.php",
+          "author": "Hacker News",
+          "description": "Comments",
+          "link": "http://www.hidmacros.eu/whatisit.php",
+          "publishedOn": "2021-05-08T19:17:51.000Z",
+          "wordCount": 280,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "HIDmacros"
+        },
+        {
+          "id": "https://www.sciencedaily.com/releases/2021/04/210421200133.htm",
+          "author": "Hacker News",
+          "description": "Comments",
+          "link": "https://www.sciencedaily.com/releases/2021/04/210421200133.htm",
+          "publishedOn": "2021-05-08T18:55:39.000Z",
           "wordCount": null,
           "sourceHref": "https://news.ycombinator.com/rss",
           "sourceTitle": "Hacker News",
-          "title": "The Distribution Vector That Changed Linux Forever"
+          "title": "Higher mushroom consumption is associated with a lower risk of cancer"
         },
         {
+          "id": "https://www.newscientist.com/article/2277000-people-who-live-past-105-years-old-have-genes-that-stop-dna-damage/",
+          "author": "Hacker News",
           "description": "Comments",
-          "link": "https://awslabs.github.io/smithy/",
-          "publishedOn": "2021-05-07T21:31:58.000Z",
-          "wordCount": 704,
+          "link": "https://www.newscientist.com/article/2277000-people-who-live-past-105-years-old-have-genes-that-stop-dna-damage/",
+          "publishedOn": "2021-05-08T18:33:59.000Z",
+          "wordCount": 602,
           "sourceHref": "https://news.ycombinator.com/rss",
           "sourceTitle": "Hacker News",
-          "title": "Smithy: A language for defining services and SDKs"
+          "title": "People who live past 105 years old have genes that stop DNA damage"
         },
         {
+          "id": "https://jerue.org/blog/lessons-on-writing-javascript-and-react-from-clojurescript/",
+          "author": "Hacker News",
           "description": "Comments",
-          "link": "https://www.ycombinator.com/companies/kraftful/",
-          "publishedOn": "2021-05-07T21:00:32.000Z",
-          "wordCount": 81,
+          "link": "https://jerue.org/blog/lessons-on-writing-javascript-and-react-from-clojurescript/",
+          "publishedOn": "2021-05-08T18:28:14.000Z",
+          "wordCount": 2991,
           "sourceHref": "https://news.ycombinator.com/rss",
           "sourceTitle": "Hacker News",
-          "title": "Kraftful (YC S19) hiring founding engineers to build the standard IoT platform"
+          "title": "Lessons on Writing JavaScript and React from ClojureScript"
         },
         {
+          "id": "https://github.com/lucidrains/x-transformers",
+          "author": "Hacker News",
           "description": "Comments",
-          "link": "https://mathiaskirkbonde.substack.com/p/be-in-a-field-where-tech-is-the-limit",
-          "publishedOn": "2021-05-07T20:47:12.000Z",
-          "wordCount": 434,
+          "link": "https://github.com/lucidrains/x-transformers",
+          "publishedOn": "2021-05-08T17:38:27.000Z",
+          "wordCount": 4183,
           "sourceHref": "https://news.ycombinator.com/rss",
           "sourceTitle": "Hacker News",
-          "title": "Be in a field where tech is the limit"
+          "title": "X-Transformers: A fully-featured transformer with experimental features"
         },
         {
+          "id": "https://elronnd.net/writ/boring/2021-05-07_abi-wrong.html",
+          "author": "Hacker News",
           "description": "Comments",
-          "link": "http://littlefreelibrary.org/",
-          "publishedOn": "2021-05-07T20:41:44.000Z",
-          "wordCount": 789,
+          "link": "https://elronnd.net/writ/boring/2021-05-07_abi-wrong.html",
+          "publishedOn": "2021-05-08T17:34:31.000Z",
+          "wordCount": 772,
           "sourceHref": "https://news.ycombinator.com/rss",
           "sourceTitle": "Hacker News",
-          "title": "Little Free Library"
+          "title": "ABI Mistakes"
         },
         {
+          "id": "https://arstechnica.com/gadgets/2021/05/apple-brass-discussed-disclosing-128-million-iphone-hack-then-decided-not-to/",
+          "author": "Hacker News",
           "description": "Comments",
-          "link": "https://findstarlink.com",
-          "publishedOn": "2021-05-07T20:26:00.000Z",
-          "wordCount": 727,
+          "link": "https://arstechnica.com/gadgets/2021/05/apple-brass-discussed-disclosing-128-million-iphone-hack-then-decided-not-to/",
+          "publishedOn": "2021-05-08T17:03:27.000Z",
+          "wordCount": 1502,
           "sourceHref": "https://news.ycombinator.com/rss",
           "sourceTitle": "Hacker News",
-          "title": "Starlink Satellites Tracker"
+          "title": "Apple brass discussed disclosing 128M iPhone hack, then decided not to"
         },
         {
+          "id": "https://www.bbc.com/future/article/20171120-the-secret-tricks-hidden-inside-restaurant-menus",
+          "author": "Hacker News",
           "description": "Comments",
-          "link": "https://www.npr.org/2021/05/06/993821945/goodwill-doesnt-want-your-broken-toaster",
-          "publishedOn": "2021-05-07T20:06:55.000Z",
-          "wordCount": 942,
+          "link": "https://www.bbc.com/future/article/20171120-the-secret-tricks-hidden-inside-restaurant-menus",
+          "publishedOn": "2021-05-08T16:25:47.000Z",
+          "wordCount": 2483,
           "sourceHref": "https://news.ycombinator.com/rss",
           "sourceTitle": "Hacker News",
-          "title": "Goodwill doesn't want broken toasters"
+          "title": "Restaurant menu tricks (2020)"
         },
         {
+          "id": "https://arstechnica.com/gadgets/2021/05/google-will-soon-start-automatically-enrolling-users-in-2fa/",
+          "author": "Hacker News",
           "description": "Comments",
-          "link": "https://github.com/NixOS/patchelf",
-          "publishedOn": "2021-05-07T18:59:07.000Z",
-          "wordCount": 1301,
+          "link": "https://arstechnica.com/gadgets/2021/05/google-will-soon-start-automatically-enrolling-users-in-2fa/",
+          "publishedOn": "2021-05-08T15:57:45.000Z",
+          "wordCount": 717,
           "sourceHref": "https://news.ycombinator.com/rss",
           "sourceTitle": "Hacker News",
-          "title": "PatchELF: Simple utility for modifying existing ELF executables and libraries"
+          "title": "Google is going to turn on 2FA by default"
         },
         {
+          "id": "https://medium.com/@kentbeck_7670/inefficient-efficiency-5b3ab5294791",
+          "author": "Hacker News",
           "description": "Comments",
-          "link": "https://archive.org/details/The_Complete_HyperCard_Handbook/",
-          "publishedOn": "2021-05-07T18:35:12.000Z",
-          "wordCount": 4673,
+          "link": "https://medium.com/@kentbeck_7670/inefficient-efficiency-5b3ab5294791",
+          "publishedOn": "2021-05-08T15:56:29.000Z",
+          "wordCount": 1186,
           "sourceHref": "https://news.ycombinator.com/rss",
           "sourceTitle": "Hacker News",
-          "title": "The Complete Hypercard Handbook"
+          "title": "Inefficient Efficiency (2019)"
         },
         {
+          "id": "https://bychgroup.com/i-make-200000-year-by-writing-order-notes/",
+          "author": "Hacker News",
           "description": "Comments",
-          "link": "https://crossbar.io/",
-          "publishedOn": "2021-05-07T17:57:39.000Z",
-          "wordCount": 1314,
+          "link": "https://bychgroup.com/i-make-200000-year-by-writing-order-notes/",
+          "publishedOn": "2021-05-08T14:56:05.000Z",
+          "wordCount": 1806,
           "sourceHref": "https://news.ycombinator.com/rss",
           "sourceTitle": "Hacker News",
-          "title": "Crossbar.io – an open source platform for distributed and microservice apps"
+          "title": "My service to check whether an item is counterfeit or not"
         },
         {
+          "id": "https://www.sciencedirect.com/science/article/abs/pii/S0168159121001258",
+          "author": "Hacker News",
           "description": "Comments",
-          "link": "https://blog.svenpeter.dev/posts/m1_sprr_gxf/",
-          "publishedOn": "2021-05-07T17:41:14.000Z",
-          "wordCount": 6511,
+          "link": "https://www.sciencedirect.com/science/article/abs/pii/S0168159121001258",
+          "publishedOn": "2021-05-08T14:35:38.000Z",
+          "wordCount": 528,
           "sourceHref": "https://news.ycombinator.com/rss",
           "sourceTitle": "Hacker News",
-          "title": "Apple Silicon Hardware: SPRR and Guarded Exception Levels (GXF)"
+          "title": "If I fits I sits: illusory contour susceptibility in domestic cats"
         },
         {
+          "id": "https://kotaku.com/apple-tries-really-hard-to-get-epic-to-admit-theres-por-1846849388",
+          "author": "Hacker News",
           "description": "Comments",
-          "link": "https://www.defensenews.com/industry/2021/05/04/honeywell-fined-13-million-for-defense-export-violations/",
-          "publishedOn": "2021-05-07T17:34:01.000Z",
-          "wordCount": 1446,
+          "link": "https://kotaku.com/apple-tries-really-hard-to-get-epic-to-admit-theres-por-1846849388",
+          "publishedOn": "2021-05-08T14:06:41.000Z",
+          "wordCount": 967,
           "sourceHref": "https://news.ycombinator.com/rss",
           "sourceTitle": "Hacker News",
-          "title": "Honeywell gets hit with $13M fine for defense export violations"
+          "title": "Apple tries to get Epic to admit there's porn on its store"
         },
         {
+          "id": "https://natureecoevocommunity.nature.com/posts/16369-fungus-like-organisms-in-deep-time-and-deep-rock",
+          "author": "Hacker News",
           "description": "Comments",
-          "link": "https://download.vusec.net/papers/constantine_ccs21.pdf",
-          "publishedOn": "2021-05-07T17:08:04.000Z",
-          "wordCount": 17504,
+          "link": "https://natureecoevocommunity.nature.com/posts/16369-fungus-like-organisms-in-deep-time-and-deep-rock",
+          "publishedOn": "2021-05-08T14:04:55.000Z",
+          "wordCount": 1538,
           "sourceHref": "https://news.ycombinator.com/rss",
           "sourceTitle": "Hacker News",
-          "title": "Constantine: Automatic side-channel resistance using data flow linearization [pdf]"
+          "title": "Fungus-like organisms in deep time and deep rock"
         },
         {
+          "id": "https://investableuniverse.com/2021/05/05/linux-foundation-agstack-open-source-agriculture-technology/",
+          "author": "Hacker News",
           "description": "Comments",
-          "link": "https://matrix.org/blog/2021/05/06/introducing-the-pinecone-overlay-network",
-          "publishedOn": "2021-05-07T16:27:01.000Z",
-          "wordCount": 841,
+          "link": "https://investableuniverse.com/2021/05/05/linux-foundation-agstack-open-source-agriculture-technology/",
+          "publishedOn": "2021-05-08T12:52:06.000Z",
+          "wordCount": 1073,
           "sourceHref": "https://news.ycombinator.com/rss",
           "sourceTitle": "Hacker News",
-          "title": "The Pinecone Overlay Network"
+          "title": "Linux Foundation starts AgStack, an open-source agtech initiative"
         },
         {
+          "id": "https://chrome.google.com/webstore/detail/buy-nearby/egoikpnpdihpdfenconkdnndbnhcfmkj",
+          "author": "Hacker News",
           "description": "Comments",
-          "link": "https://eli.thegreenplace.net/2011/02/04/where-the-top-of-the-stack-is-on-x86/",
-          "publishedOn": "2021-05-07T15:51:14.000Z",
-          "wordCount": 1215,
+          "link": "https://chrome.google.com/webstore/detail/buy-nearby/egoikpnpdihpdfenconkdnndbnhcfmkj",
+          "publishedOn": "2021-05-08T12:35:31.000Z",
+          "wordCount": 304,
           "sourceHref": "https://news.ycombinator.com/rss",
           "sourceTitle": "Hacker News",
-          "title": "Where the top of the stack is on x86 (2011)"
+          "title": "Chrome extension recommends local businesses while shopping on Amazon or eBay"
         },
         {
+          "id": "http://backreaction.blogspot.com/2021/05/dark-matter-situation-has-changed.html?m=1",
+          "author": "Hacker News",
           "description": "Comments",
-          "link": "https://nipafx.dev/java-record-semantics/",
-          "publishedOn": "2021-05-07T15:30:14.000Z",
-          "wordCount": 2576,
+          "link": "http://backreaction.blogspot.com/2021/05/dark-matter-situation-has-changed.html?m=1",
+          "publishedOn": "2021-05-08T11:04:40.000Z",
+          "wordCount": 18637,
           "sourceHref": "https://news.ycombinator.com/rss",
           "sourceTitle": "Hacker News",
-          "title": "Java's records, Lombok's data, and Kotlin's data classes"
+          "title": "Dark Matter: The Situation Has Changed"
         },
         {
+          "id": "https://justine.lol/endian.html",
+          "author": "Hacker News",
           "description": "Comments",
-          "link": "https://github.com/MisterHW/44780HD",
-          "publishedOn": "2021-05-07T15:06:50.000Z",
-          "wordCount": 2532,
+          "link": "https://justine.lol/endian.html",
+          "publishedOn": "2021-05-08T11:00:12.000Z",
+          "wordCount": 1579,
           "sourceHref": "https://news.ycombinator.com/rss",
           "sourceTitle": "Hacker News",
-          "title": "Towards an HD44780-Based Video Mode"
+          "title": "The Byte Order Fiasco"
         },
         {
+          "id": "https://twitter.com/jjcollinsworth/status/1390328342533054472",
+          "author": "Hacker News",
           "description": "Comments",
-          "link": "https://github.com/thestinger/termite",
-          "publishedOn": "2021-05-07T12:52:03.000Z",
-          "wordCount": 1598,
+          "link": "https://twitter.com/jjcollinsworth/status/1390328342533054472",
+          "publishedOn": "2021-05-08T10:17:49.000Z",
+          "wordCount": 196,
           "sourceHref": "https://news.ycombinator.com/rss",
           "sourceTitle": "Hacker News",
-          "title": "Use Alacritty instead of Termite"
+          "title": "Afraid to Google a thing because I don't want the algorithm to think I like it"
         },
         {
+          "id": "https://github.com/ZXDunny/SpecBAS",
+          "author": "Hacker News",
           "description": "Comments",
-          "link": "https://web.archive.org/web/20170722064044/https://settle.network/posts/intro/",
-          "publishedOn": "2021-05-07T12:26:30.000Z",
-          "wordCount": 2151,
+          "link": "https://github.com/ZXDunny/SpecBAS",
+          "publishedOn": "2021-05-08T10:01:17.000Z",
+          "wordCount": 1042,
           "sourceHref": "https://news.ycombinator.com/rss",
           "sourceTitle": "Hacker News",
-          "title": "Decentralized trust graph for online value exchange without a blockchain (2017)"
+          "title": "SpecBAS: An enhanced Sinclair BASIC interpreter for modern PCs"
         },
         {
+          "id": "https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-plus-ce-python",
+          "author": "Hacker News",
           "description": "Comments",
-          "link": "https://quickwit.io/blog/commoncrawl/",
-          "publishedOn": "2021-05-07T10:48:26.000Z",
-          "wordCount": 1278,
+          "link": "https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-plus-ce-python",
+          "publishedOn": "2021-05-08T07:43:44.000Z",
+          "wordCount": 1119,
           "sourceHref": "https://news.ycombinator.com/rss",
           "sourceTitle": "Hacker News",
-          "title": "Searching the web for under $1000/month"
+          "title": "TI-84 Plus CE Python Graphing Calculator"
         },
         {
+          "id": "https://medium.com/cuepoint/like-it-is-bob-dylan-explains-what-really-killed-rock-n-roll-f6a4b6587a1a",
+          "author": "Hacker News",
           "description": "Comments",
-          "link": "https://blog.asrpo.com/jit_programming",
-          "publishedOn": "2021-05-06T20:54:11.000Z",
-          "wordCount": 1374,
+          "link": "https://medium.com/cuepoint/like-it-is-bob-dylan-explains-what-really-killed-rock-n-roll-f6a4b6587a1a",
+          "publishedOn": "2021-05-08T00:12:35.000Z",
+          "wordCount": 6128,
           "sourceHref": "https://news.ycombinator.com/rss",
           "sourceTitle": "Hacker News",
-          "title": "Instruction level just-in-time programming"
+          "title": "Bob Dylan lays down what killed rock n roll (2016)"
         },
         {
+          "id": "https://physicsworld.com/indestructible-light-waves-travel-through-opaque-material-as-if-it-isnt-there/",
+          "author": "Hacker News",
           "description": "Comments",
-          "link": "https://blogs.bl.uk/endangeredarchives/2020/11/whats-in-a-name-the-sovietisation-of-a-modern-mongolian-language.html",
-          "publishedOn": "2021-05-06T19:08:12.000Z",
-          "wordCount": 1802,
+          "link": "https://physicsworld.com/indestructible-light-waves-travel-through-opaque-material-as-if-it-isnt-there/",
+          "publishedOn": "2021-05-07T22:26:40.000Z",
+          "wordCount": 1676,
           "sourceHref": "https://news.ycombinator.com/rss",
           "sourceTitle": "Hacker News",
-          "title": "The Sovietisation of the Mongolian language and challenges of reversal (2020)"
+          "title": "Indestructible light waves travel through opaque material as if it isn’t there"
         },
         {
+          "id": "https://arstechnica.com/?p=1762186",
+          "author": "Hacker News",
           "description": "Comments",
-          "link": "https://ped.ro/blog/code-blocks-but-better",
-          "publishedOn": "2021-05-06T12:16:11.000Z",
-          "wordCount": 3194,
+          "link": "https://arstechnica.com/?p=1762186",
+          "publishedOn": "2021-05-07T12:02:21.000Z",
+          "wordCount": 811,
           "sourceHref": "https://news.ycombinator.com/rss",
           "sourceTitle": "Hacker News",
-          "title": "I spent some time exploring how to improve the UX of code blocks on the web"
+          "title": "Unsolved mysteries of the Warhammer 40k universe with loremaster Dan Abnett"
         },
         {
+          "id": "https://mslotnick.substack.com/p/a-unified-theory-of-lowno-code-middleware",
+          "author": "Hacker News",
           "description": "Comments",
-          "link": "https://xyproblem.info/",
-          "publishedOn": "2021-05-06T11:34:13.000Z",
-          "wordCount": 480,
+          "link": "https://mslotnick.substack.com/p/a-unified-theory-of-lowno-code-middleware",
+          "publishedOn": "2021-05-07T11:19:43.000Z",
+          "wordCount": 5074,
           "sourceHref": "https://news.ycombinator.com/rss",
           "sourceTitle": "Hacker News",
-          "title": "The XY Problem (2014)"
-        },
-        {
-          "description": "Comments",
-          "link": "https://github.com/msxie92/MangaRestoration",
-          "publishedOn": "2021-05-06T10:58:02.000Z",
-          "wordCount": 828,
-          "sourceHref": "https://news.ycombinator.com/rss",
-          "sourceTitle": "Hacker News",
-          "title": "Exploiting Aliasing for Manga Restoration"
-        },
-        {
-          "description": "Comments",
-          "link": "https://rjlipton.wpcomstaging.com/2021/05/05/how-to-teach-math/",
-          "publishedOn": "2021-05-06T08:56:33.000Z",
-          "wordCount": 2518,
-          "sourceHref": "https://news.ycombinator.com/rss",
-          "sourceTitle": "Hacker News",
-          "title": "How to Teach Math?"
-        },
-        {
-          "description": "Comments",
-          "link": "https://oldcomputers.net/grid1101.html",
-          "publishedOn": "2021-05-06T08:32:55.000Z",
-          "wordCount": 947,
-          "sourceHref": "https://news.ycombinator.com/rss",
-          "sourceTitle": "Hacker News",
-          "title": "Grid Compass 1101 (2016)"
-        },
-        {
-          "description": "Comments",
-          "link": "https://ognjen.io/generating-more-interesting-image-previews-using-imagemagick/",
-          "publishedOn": "2021-05-05T08:04:16.000Z",
-          "wordCount": 1303,
-          "sourceHref": "https://news.ycombinator.com/rss",
-          "sourceTitle": "Hacker News",
-          "title": "Generating more interesting image previews using imagemagick"
+          "title": "A unified theory of low/no code and middleware"
         }
       ]
     },
@@ -279,6 +339,8 @@
       "href": "https://www.smashingmagazine.com/feed/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2021/05/product-records-organization-collaboration-best-practices/",
+          "author": "hello@smashingmagazine.com (Valeriia Panina)",
           "description": "How do you organize your Google Drive assets? How do you name your Dropbox Paper documents? How do you deal with comments? Let’s get it right.",
           "link": "https://smashingmagazine.com/2021/05/product-records-organization-collaboration-best-practices/",
           "publishedOn": "2021-05-07T10:00:00.000Z",
@@ -288,6 +350,8 @@
           "title": "How To Organize Product-Related Assets And Collaborate Better"
         },
         {
+          "id": "https://smashingmagazine.com/2021/05/improving-performance-shopify-themes-case-study/",
+          "author": "hello@smashingmagazine.com (Carson Shold)",
           "description": "When dealing with themes for large platforms and CMS, legacy issues often become a bottleneck. In this article, Carson Shold discusses how his team improved the performance and organization of their Shopify themes, and improved maintainability along the way.",
           "link": "https://smashingmagazine.com/2021/05/improving-performance-shopify-themes-case-study/",
           "publishedOn": "2021-05-06T11:00:00.000Z",
@@ -297,6 +361,8 @@
           "title": "Improving The Performance Of Shopify Themes (Case Study)"
         },
         {
+          "id": "https://smashingmagazine.com/2021/05/reduce-data-sent-client-nextjs/",
+          "author": "hello@smashingmagazine.com (Liran Cohen)",
           "description": "This article showcases a case study of Bookaway’s landing page performance. We’ll see how taking care of the props we send to Next.js pages can make loading times and Web Vitals better.",
           "link": "https://smashingmagazine.com/2021/05/reduce-data-sent-client-nextjs/",
           "publishedOn": "2021-05-05T10:30:00.000Z",
@@ -306,6 +372,8 @@
           "title": "Reducing HTML Payload With Next.js (Case Study)"
         },
         {
+          "id": "https://smashingmagazine.com/2021/05/undoing-mistakes-git-part1/",
+          "author": "hello@smashingmagazine.com (Tobias Günther)",
           "description": "No matter how experienced you are, mistakes are an inevitable part of software development. But we can learn to repair them! And this is what we'll be looking at in this two-part series: how to undo mistakes using Git.",
           "link": "https://smashingmagazine.com/2021/05/undoing-mistakes-git-part1/",
           "publishedOn": "2021-05-04T14:30:00.000Z",
@@ -315,6 +383,8 @@
           "title": "A Guide To Undoing Mistakes With Git"
         },
         {
+          "id": "https://smashingmagazine.com/2021/05/smashing-podcast-episode-36/",
+          "author": "hello@smashingmagazine.com (Drew McLellan)",
           "description": "In this episode, we’re starting our new season of the Smashing Podcast with a look at the future of CSS. What new specs will be landing in browsers soon? Drew McLellan talks to expert Miriam Suzanne to find out.",
           "link": "https://smashingmagazine.com/2021/05/smashing-podcast-episode-36/",
           "publishedOn": "2021-05-04T05:00:00.000Z",
@@ -324,6 +394,8 @@
           "title": "Smashing Podcast Episode 36 With Miriam Suzanne: What Is The Future Of CSS?"
         },
         {
+          "id": "https://smashingmagazine.com/2021/05/evolution-jamstack/",
+          "author": "hello@smashingmagazine.com (Mathias Biilmann)",
           "description": "Web-oriented databases, frameworks like Nuxt and Next.js, and even frameworkless approaches are evolving the Jamstack, but the core principles are more powerful than ever.",
           "link": "https://smashingmagazine.com/2021/05/evolution-jamstack/",
           "publishedOn": "2021-05-03T07:00:00.000Z",
@@ -333,6 +405,8 @@
           "title": "The Evolution Of Jamstack"
         },
         {
+          "id": "https://smashingmagazine.com/2021/04/desktop-wallpaper-calendars-may-2021/",
+          "author": "hello@smashingmagazine.com (Cosima Mielke)",
           "description": "Do you need a little inspiration boost? Well, then our new collection of wallpapers is for you. Designed with love by the community for the community, the wallpapers are available with and without a calendar for May 2021.",
           "link": "https://smashingmagazine.com/2021/04/desktop-wallpaper-calendars-may-2021/",
           "publishedOn": "2021-04-30T09:00:00.000Z",
@@ -342,6 +416,8 @@
           "title": "May Is In The Air (2021 Wallpapers Edition)"
         },
         {
+          "id": "https://smashingmagazine.com/2021/04/humble-img-element-core-web-vitals/",
+          "author": "hello@smashingmagazine.com (Addy Osmani)",
           "description": "Images have also been a key part of the web. They communicate ideas instantly, but they are also a lot heavier than text to load. This means that it’s essential to get loading and displaying them right, if you want to give your users a fantastic first impression. An excerpt from [Addy's new book](https://www.smashingmagazine.com/2021/04/image-optimization-pre-release/) (also, check a [free PDF preview](http://provide.smashingmagazine.com/eBooks/image-optimization-sample-chapter.pdf)).",
           "link": "https://smashingmagazine.com/2021/04/humble-img-element-core-web-vitals/",
           "publishedOn": "2021-04-29T12:15:00.000Z",
@@ -351,6 +427,8 @@
           "title": "The Humble `<img>` Element And Core Web Vitals"
         },
         {
+          "id": "https://smashingmagazine.com/2021/04/image-optimization-pre-release/",
+          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
           "description": "The cat is out! For the last year, we’ve been working with Addy Osmani on a new Smashing Book all around image optimization. And now it’s here. Meet “Image Optimization”, our practical modern guide to delivering high-quality images on the web with the best performance.",
           "link": "https://smashingmagazine.com/2021/04/image-optimization-pre-release/",
           "publishedOn": "2021-04-28T13:20:00.000Z",
@@ -360,6 +438,8 @@
           "title": "Meet Image Optimization, A New Smashing Book By Addy Osmani"
         },
         {
+          "id": "https://smashingmagazine.com/2021/04/easing-functions-css-animations-transitions/",
+          "author": "hello@smashingmagazine.com (Adrian Bece)",
           "description": "Easing functions can change the look and feel of an animation by affecting the rate, or speed, of an animation. In this article, we’re going to take a deep dive into easing functions and see how we can use them to create those natural and stunning animations.",
           "link": "https://smashingmagazine.com/2021/04/easing-functions-css-animations-transitions/",
           "publishedOn": "2021-04-27T12:00:00.000Z",
@@ -369,6 +449,8 @@
           "title": "Understanding Easing Functions For CSS Animations And Transitions"
         },
         {
+          "id": "https://smashingmagazine.com/2021/04/bake-layers-accessibility-testing-process/",
+          "author": "hello@smashingmagazine.com (Kate Kalcevich & Mike Gifford)",
           "description": "Accessibility experts Kate Kalcevich and Mike Gifford introduce readers to \"layered accessibility testing”, a practice of using a variety of tools and approaches at different stages in the digital product lifecycle to catch accessibility issues early &mdash; when it’s easier and cheaper to fix them.",
           "link": "https://smashingmagazine.com/2021/04/bake-layers-accessibility-testing-process/",
           "publishedOn": "2021-04-26T11:00:00.000Z",
@@ -378,6 +460,8 @@
           "title": "How To Bake Layers Of Accessibility Testing Into Your Process"
         },
         {
+          "id": "https://smashingmagazine.com/2021/04/guide-supported-modern-css-pseudo-class-selectors/",
+          "author": "hello@smashingmagazine.com (Stephanie Eckles)",
           "description": "The CSS Working Group Editor’s Draft for [Selectors Level 4](https://drafts.csswg.org/selectors-4/) includes several pseudo-class selectors that already have proposal candidates in most modern browsers. This guide will cover ones that currently have the best support along with examples to demonstrate how you can start using them today!",
           "link": "https://smashingmagazine.com/2021/04/guide-supported-modern-css-pseudo-class-selectors/",
           "publishedOn": "2021-04-23T08:30:00.000Z",
@@ -387,6 +471,8 @@
           "title": "A Guide To Newly Supported, Modern CSS Pseudo-Class Selectors"
         },
         {
+          "id": "https://smashingmagazine.com/2021/04/web-design-done-well-part1/",
+          "author": "hello@smashingmagazine.com (Frederick O’Brien)",
           "description": "Sometimes it’s the little things in web life that make us look twice. From carousels to documentation to cookie disclaimers, here are some sites taking the mundane and sprinkling in a little magic.",
           "link": "https://smashingmagazine.com/2021/04/web-design-done-well-part1/",
           "publishedOn": "2021-04-22T14:00:00.000Z",
@@ -396,6 +482,8 @@
           "title": "Web Design Done Well: The Ordinary Made Extraordinary (Part 1)"
         },
         {
+          "id": "https://smashingmagazine.com/2021/04/incremental-static-regeneration-nextjs/",
+          "author": "hello@smashingmagazine.com (Lee Robinson)",
           "description": "Incremental Static Regeneration (ISR) is a new evolution of the Jamstack, allowing you to update static content instantly without needing a full rebuild of your site. The hybrid approach of Next.js allows you to use ISR for e-commerce, marketing pages, blog posts, ad-backed media, and more.",
           "link": "https://smashingmagazine.com/2021/04/incremental-static-regeneration-nextjs/",
           "publishedOn": "2021-04-21T13:55:00.000Z",
@@ -405,6 +493,8 @@
           "title": "A Complete Guide To Incremental Static Regeneration (ISR) With Next.js"
         },
         {
+          "id": "https://smashingmagazine.com/2021/04/content-fundamental-part-web-design-process/",
+          "author": "hello@smashingmagazine.com (Matt Saunders)",
           "description": "As designers, we are often burdened by the responsibility of producing and managing website content. It’s not our job to write it, but it’s not the client’s either. We can avert disaster by including content production in the design process.",
           "link": "https://smashingmagazine.com/2021/04/content-fundamental-part-web-design-process/",
           "publishedOn": "2021-04-21T08:30:00.000Z",
@@ -414,6 +504,8 @@
           "title": "Why Content Is Such A Fundamental Part Of The Web Design Process"
         },
         {
+          "id": "https://smashingmagazine.com/2021/04/making-graphql-work-in-wordpress/",
+          "author": "hello@smashingmagazine.com (Leonardo Losoviz)",
           "description": "Let’s explore the plugins providing GraphQL servers to WordPress. When should we use WPGraphQL, and when the GraphQL API for WordPress? Is there some advantage of one over the other, or some particular task that is easier to accomplish with one of them? In this article, we will find out.",
           "link": "https://smashingmagazine.com/2021/04/making-graphql-work-in-wordpress/",
           "publishedOn": "2021-04-20T09:00:00.000Z",
@@ -423,6 +515,8 @@
           "title": "Making GraphQL Work In WordPress"
         },
         {
+          "id": "https://smashingmagazine.com/2021/04/complete-guide-measure-core-web-vitals/",
+          "author": "hello@smashingmagazine.com (Barry Pollard)",
           "description": "How are Core Web Vitals measured? How do you know your fixes have had the desired effect and when will you see the results in Google Search Console? Let’s figure it out.",
           "link": "https://smashingmagazine.com/2021/04/complete-guide-measure-core-web-vitals/",
           "publishedOn": "2021-04-19T08:30:00.000Z",
@@ -432,6 +526,8 @@
           "title": "An In-Depth Guide To Measuring Core Web Vitals"
         },
         {
+          "id": "https://smashingmagazine.com/2021/04/mistakes-technical-interviews/",
+          "author": "hello@smashingmagazine.com (Emma Bostian)",
           "description": "It’s no secret that the technical interview process leaves something to be desired; it’s often riddled with anxiety and stress. In this article, we’ll take a look at seven of the most common mistakes candidates make in their technical interviews and explore ways you can avoid them.",
           "link": "https://smashingmagazine.com/2021/04/mistakes-technical-interviews/",
           "publishedOn": "2021-04-16T09:00:00.000Z",
@@ -441,6 +537,8 @@
           "title": "Seven Mistakes To Avoid In Your Technical Interviews"
         },
         {
+          "id": "https://smashingmagazine.com/2021/04/web-design-clients-fast-part2/",
+          "author": "hello@smashingmagazine.com (Stephen Roe)",
           "description": "Selling is key to growing your web design business, but it doesn’t have to be complicated! With clear goals, customer research, and proven closing techniques, anyone can find new clients.",
           "link": "https://smashingmagazine.com/2021/04/web-design-clients-fast-part2/",
           "publishedOn": "2021-04-15T11:00:00.000Z",
@@ -450,6 +548,8 @@
           "title": "How To Get Web Design Clients Fast (Part 2)"
         },
         {
+          "id": "https://smashingmagazine.com/2021/04/from-cats-with-love-navigation-guides-workshops/",
+          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
           "description": "At Smashing, we’ve been busy over the last few months. We’ve set up new workshops, redesigned our navigation, refined performance and improved accessibility. There are subtle UX changes coming in, and we’d love to share what we’ve been cooking.",
           "link": "https://smashingmagazine.com/2021/04/from-cats-with-love-navigation-guides-workshops/",
           "publishedOn": "2021-04-15T10:30:00.000Z",
@@ -459,6 +559,8 @@
           "title": "From Cats With Love: New Navigation, Guides And Workshops"
         },
         {
+          "id": "https://smashingmagazine.com/2021/04/css-overflow-issues/",
+          "author": "hello@smashingmagazine.com (Ahmad Shadeed)",
           "description": "In this article, we will explore the causes of overflow issues and how to solve them. We will also explore how modern features in the developer tools (DevTools) can make the process of fixing and debugging easier.",
           "link": "https://smashingmagazine.com/2021/04/css-overflow-issues/",
           "publishedOn": "2021-04-14T11:00:00.000Z",
@@ -468,6 +570,8 @@
           "title": "Overflow Issues In CSS"
         },
         {
+          "id": "https://smashingmagazine.com/2021/04/building-video-streaming-app-nuxtjs-node-express/",
+          "author": "hello@smashingmagazine.com (Deven Rathore)",
           "description": "In this article, we’ll be building a video streaming app using Nuxt.js and Node.js. Specifically, we’ll build a server-side Node.js app that will handle fetching and streaming videos, generating thumbnails for your videos, and serving captions and subtitles.",
           "link": "https://smashingmagazine.com/2021/04/building-video-streaming-app-nuxtjs-node-express/",
           "publishedOn": "2021-04-13T14:00:00.000Z",
@@ -477,6 +581,8 @@
           "title": "Building A Video Streaming App With Nuxt.js, Node And Express"
         },
         {
+          "id": "https://smashingmagazine.com/2021/04/complete-guide-html-email-templates-tools/",
+          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
           "description": "Recently we’ve covered CSS generators, SVG generators and accessible front-end components. This time we look into HTML email, with tools, templates and guides for designers and developers.",
           "link": "https://smashingmagazine.com/2021/04/complete-guide-html-email-templates-tools/",
           "publishedOn": "2021-04-12T12:30:00.000Z",
@@ -486,6 +592,8 @@
           "title": "A Complete Guide To HTML Email"
         },
         {
+          "id": "https://smashingmagazine.com/2021/04/growing-ux-maturity-in-organizations-part-3/",
+          "author": "hello@smashingmagazine.com (Victor Yocco)",
           "description": "UX practitioners can play an important role in growing the UX maturity of the organizations and product teams they work with. This final article in a three-part series presents two additional tactics: education of staff on UX principles and processes.",
           "link": "https://smashingmagazine.com/2021/04/growing-ux-maturity-in-organizations-part-3/",
           "publishedOn": "2021-04-09T19:30:00.000Z",
@@ -500,6 +608,8 @@
       "href": "https://www.freecodecamp.org/news/rss/",
       "articles": [
         {
+          "id": "609558382cd0545b5e943c6f",
+          "author": "",
           "description": "“Good friends, good books, and a sleepy conscience: this is the ideal life.” ― Mark TwainI hope you’re reading this blog in your pjs looking forward to a rejuvenating and healthy weekend.  I have been working on multiple projects lately, from creating Machine Learing Engineering and Machine Learning Operations courses",
           "link": "https://www.freecodecamp.org/news/machine-learning-systems-book-recommendations/",
           "publishedOn": "2021-05-07T21:07:57.000Z",
@@ -509,6 +619,8 @@
           "title": "Machine Learning Systems Book Recommendations – Learn How to Build and Understand ML Systems"
         },
         {
+          "id": "609551f02cd0545b5e943bc0",
+          "author": "",
           "description": "Any concept that we don't fully understand can be scary at first. Recursion is a topic that programming students don't learn right away. But that doesn't mean it needs to be scary or cause anxiety. In fact, recursion is a concept that we can define rather simply. According to Wikipedia:",
           "link": "https://www.freecodecamp.org/news/recursion-doesnt-have-to-be-scary/",
           "publishedOn": "2021-05-07T16:59:53.000Z",
@@ -518,6 +630,8 @@
           "title": "Recursion Might Seem Scary – But it Doesn&#x27;t Have to Be"
         },
         {
+          "id": "609409c201fc34080ef81f97",
+          "author": "",
           "description": "Here is a simple and practical example what it means to \"lift state up\" in React, and how it can help you build your applications. Lifting state up is a common pattern that is essential for React developers to know. It helps you avoid more complex (and often unnecessary) patterns",
           "link": "https://www.freecodecamp.org/news/what-is-lifting-state-up-in-react/",
           "publishedOn": "2021-05-06T21:41:34.000Z",
@@ -527,6 +641,8 @@
           "title": "What Is &quot;Lifting State Up&quot; in React?"
         },
         {
+          "id": "609415eb2cd0545b5e943534",
+          "author": "",
           "description": "Chrome DevTools is a set of web developer tools built directly into the Google Chrome browser. They can be super helpful for web developers. We just published a crash course that will teach you how to use Chrome DevTools to improve your productivity as a web developer. You will learn",
           "link": "https://www.freecodecamp.org/news/learn-how-to-use-the-chrome-devtools-to-troubleshoot-websites/",
           "publishedOn": "2021-05-06T16:26:08.000Z",
@@ -536,6 +652,8 @@
           "title": "Learn How to Use the Chrome DevTools to Troubleshoot Websites"
         },
         {
+          "id": "60939bde01fc34080ef81a19",
+          "author": "",
           "description": "If you're coming from Java, C++, or other object-oriented languages, chances are that you've never come across optional types or \"optionals\". And you might be quite surprised to know that such a concept exists in Swift. Optionals are a fundamental topic that you need to thoroughly understand to code in",
           "link": "https://www.freecodecamp.org/news/optional-types-in-swift/",
           "publishedOn": "2021-05-06T16:06:35.000Z",
@@ -545,6 +663,8 @@
           "title": "Optional Types in Swift – How to Use and Unwrap Optionals"
         },
         {
+          "id": "609307e801fc34080ef8191e",
+          "author": "",
           "description": "OpenCV is a library of programming functions mainly aimed at real-time computer vision.  We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to use OpenCV in the cloud with Python. Misbah Mohammed created this course. He has a lot of experience with machine",
           "link": "https://www.freecodecamp.org/news/create-computer-vision-apps-in-the-cloud-with-opencv-and-python/",
           "publishedOn": "2021-05-05T21:11:40.000Z",
@@ -554,6 +674,8 @@
           "title": "Python and OpenCV Course –Create Computer Vision Apps in the Cloud"
         },
         {
+          "id": "609011fd8eb3fb07cf09a034",
+          "author": "",
           "description": "A complete guide to Node.js async await",
           "link": "https://www.freecodecamp.org/news/node-js-async-await-tutorial-with-asynchronous-javascript-examples/",
           "publishedOn": "2021-05-04T16:07:17.000Z",
@@ -563,6 +685,8 @@
           "title": "Node.js Async Await Tutorial – With Asynchronous JavaScript Examples"
         },
         {
+          "id": "608f5ad48eb3fb07cf099ddb",
+          "author": "",
           "description": "To copy files or directories in Unix-based operating systems (Linux and MacOS), you use the cp command. The cp command is a relatively simple command, but its behavior changes slightly depending on the inputs (files vs directories) and the options you pass to it. To view the documentation or manual",
           "link": "https://www.freecodecamp.org/news/copy-a-directory-in-linux-how-to-cp-a-folder-in-the-command-line-in-linux-and-unix-macos/",
           "publishedOn": "2021-05-04T15:33:12.000Z",
@@ -572,6 +696,8 @@
           "title": "Copy a Directory in Linux – How to cp a Folder in the Command Line in Linux and Unix (MacOS)"
         },
         {
+          "id": "6090187c8eb3fb07cf09a060",
+          "author": "",
           "description": "Let's go through the five best ways that you can fetch data with React from a GraphQL API. While there are a couple of popular libraries which are made to interact with GraphQL APIs from a React application, there are many different ways to fetch data with GraphQL. I've included",
           "link": "https://www.freecodecamp.org/news/5-ways-to-fetch-data-react-graphql/",
           "publishedOn": "2021-05-03T17:20:56.000Z",
@@ -581,6 +707,8 @@
           "title": "How to Fetch Data in React from a GraphQL API"
         },
         {
+          "id": "608f553c8eb3fb07cf099da7",
+          "author": "",
           "description": "In this article, we'll see some of the common mistakes that React developers make, and how you can avoid them. So let's get started. Don't Forget that Every Route Change Mounts and Unmounts a ComponentWhenever you're using routing in a React application, you declare routes inside the Switch component. This",
           "link": "https://www.freecodecamp.org/news/common-mistakes-react-developers-make-and-how-to-fix-them/",
           "publishedOn": "2021-05-03T16:40:08.000Z",
@@ -592,5 +720,5 @@
       ]
     }
   ],
-  "cliVersion": "1.4.0"
+  "cliVersion": "1.5.0"
 }

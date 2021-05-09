@@ -1,0 +1,649 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://rss.sant.sh/index.html</id>
+    <title>osmos::feed</title>
+    <updated>2021-05-09T00:58:08.712Z</updated>
+    <generator>osmosfeed 1.5.0</generator>
+    <link rel="alternate" href="https://rss.sant.sh/index.html"/>
+    <link rel="self" href="https://rss.sant.sh/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Dungeon Crawl Stone Soup – An open-source roguelike adventure]]></title>
+        <id>https://crawl.develz.org/</id>
+        <link href="https://crawl.develz.org/"/>
+        <updated>2021-05-08T22:43:32.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Euporie, a Tui for Jupyter Notebooks]]></title>
+        <id>https://github.com/joouha/euporie</id>
+        <link href="https://github.com/joouha/euporie"/>
+        <updated>2021-05-08T22:02:53.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I built the world's first 3D ultrasonic scanner]]></title>
+        <id>https://www.alextoussaint.com/2021-04-28_How-I-built-an-ultrasonic-3d-scanner.html</id>
+        <link href="https://www.alextoussaint.com/2021-04-28_How-I-built-an-ultrasonic-3d-scanner.html"/>
+        <updated>2021-05-08T21:19:03.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Token Transit (YC W17) is hiring to improve public transit payment]]></title>
+        <id>https://www.ycombinator.com/companies/token-transit/jobs/Rx4iZh5is-senior-software-engineer</id>
+        <link href="https://www.ycombinator.com/companies/token-transit/jobs/Rx4iZh5is-senior-software-engineer"/>
+        <updated>2021-05-08T21:00:51.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Suicide by Culture (2017)]]></title>
+        <id>https://250bpm.com/blog:113/</id>
+        <link href="https://250bpm.com/blog:113/"/>
+        <updated>2021-05-08T20:43:59.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HIDmacros]]></title>
+        <id>http://www.hidmacros.eu/whatisit.php</id>
+        <link href="http://www.hidmacros.eu/whatisit.php"/>
+        <updated>2021-05-08T19:17:51.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Higher mushroom consumption is associated with a lower risk of cancer]]></title>
+        <id>https://www.sciencedaily.com/releases/2021/04/210421200133.htm</id>
+        <link href="https://www.sciencedaily.com/releases/2021/04/210421200133.htm"/>
+        <updated>2021-05-08T18:55:39.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[People who live past 105 years old have genes that stop DNA damage]]></title>
+        <id>https://www.newscientist.com/article/2277000-people-who-live-past-105-years-old-have-genes-that-stop-dna-damage/</id>
+        <link href="https://www.newscientist.com/article/2277000-people-who-live-past-105-years-old-have-genes-that-stop-dna-damage/"/>
+        <updated>2021-05-08T18:33:59.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lessons on Writing JavaScript and React from ClojureScript]]></title>
+        <id>https://jerue.org/blog/lessons-on-writing-javascript-and-react-from-clojurescript/</id>
+        <link href="https://jerue.org/blog/lessons-on-writing-javascript-and-react-from-clojurescript/"/>
+        <updated>2021-05-08T18:28:14.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[X-Transformers: A fully-featured transformer with experimental features]]></title>
+        <id>https://github.com/lucidrains/x-transformers</id>
+        <link href="https://github.com/lucidrains/x-transformers"/>
+        <updated>2021-05-08T17:38:27.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ABI Mistakes]]></title>
+        <id>https://elronnd.net/writ/boring/2021-05-07_abi-wrong.html</id>
+        <link href="https://elronnd.net/writ/boring/2021-05-07_abi-wrong.html"/>
+        <updated>2021-05-08T17:34:31.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple brass discussed disclosing 128M iPhone hack, then decided not to]]></title>
+        <id>https://arstechnica.com/gadgets/2021/05/apple-brass-discussed-disclosing-128-million-iphone-hack-then-decided-not-to/</id>
+        <link href="https://arstechnica.com/gadgets/2021/05/apple-brass-discussed-disclosing-128-million-iphone-hack-then-decided-not-to/"/>
+        <updated>2021-05-08T17:03:27.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Restaurant menu tricks (2020)]]></title>
+        <id>https://www.bbc.com/future/article/20171120-the-secret-tricks-hidden-inside-restaurant-menus</id>
+        <link href="https://www.bbc.com/future/article/20171120-the-secret-tricks-hidden-inside-restaurant-menus"/>
+        <updated>2021-05-08T16:25:47.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google is going to turn on 2FA by default]]></title>
+        <id>https://arstechnica.com/gadgets/2021/05/google-will-soon-start-automatically-enrolling-users-in-2fa/</id>
+        <link href="https://arstechnica.com/gadgets/2021/05/google-will-soon-start-automatically-enrolling-users-in-2fa/"/>
+        <updated>2021-05-08T15:57:45.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Inefficient Efficiency (2019)]]></title>
+        <id>https://medium.com/@kentbeck_7670/inefficient-efficiency-5b3ab5294791</id>
+        <link href="https://medium.com/@kentbeck_7670/inefficient-efficiency-5b3ab5294791"/>
+        <updated>2021-05-08T15:56:29.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My service to check whether an item is counterfeit or not]]></title>
+        <id>https://bychgroup.com/i-make-200000-year-by-writing-order-notes/</id>
+        <link href="https://bychgroup.com/i-make-200000-year-by-writing-order-notes/"/>
+        <updated>2021-05-08T14:56:05.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[If I fits I sits: illusory contour susceptibility in domestic cats]]></title>
+        <id>https://www.sciencedirect.com/science/article/abs/pii/S0168159121001258</id>
+        <link href="https://www.sciencedirect.com/science/article/abs/pii/S0168159121001258"/>
+        <updated>2021-05-08T14:35:38.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple tries to get Epic to admit there's porn on its store]]></title>
+        <id>https://kotaku.com/apple-tries-really-hard-to-get-epic-to-admit-theres-por-1846849388</id>
+        <link href="https://kotaku.com/apple-tries-really-hard-to-get-epic-to-admit-theres-por-1846849388"/>
+        <updated>2021-05-08T14:06:41.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fungus-like organisms in deep time and deep rock]]></title>
+        <id>https://natureecoevocommunity.nature.com/posts/16369-fungus-like-organisms-in-deep-time-and-deep-rock</id>
+        <link href="https://natureecoevocommunity.nature.com/posts/16369-fungus-like-organisms-in-deep-time-and-deep-rock"/>
+        <updated>2021-05-08T14:04:55.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux Foundation starts AgStack, an open-source agtech initiative]]></title>
+        <id>https://investableuniverse.com/2021/05/05/linux-foundation-agstack-open-source-agriculture-technology/</id>
+        <link href="https://investableuniverse.com/2021/05/05/linux-foundation-agstack-open-source-agriculture-technology/"/>
+        <updated>2021-05-08T12:52:06.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chrome extension recommends local businesses while shopping on Amazon or eBay]]></title>
+        <id>https://chrome.google.com/webstore/detail/buy-nearby/egoikpnpdihpdfenconkdnndbnhcfmkj</id>
+        <link href="https://chrome.google.com/webstore/detail/buy-nearby/egoikpnpdihpdfenconkdnndbnhcfmkj"/>
+        <updated>2021-05-08T12:35:31.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dark Matter: The Situation Has Changed]]></title>
+        <id>http://backreaction.blogspot.com/2021/05/dark-matter-situation-has-changed.html?m=1</id>
+        <link href="http://backreaction.blogspot.com/2021/05/dark-matter-situation-has-changed.html?m=1"/>
+        <updated>2021-05-08T11:04:40.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Byte Order Fiasco]]></title>
+        <id>https://justine.lol/endian.html</id>
+        <link href="https://justine.lol/endian.html"/>
+        <updated>2021-05-08T11:00:12.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Afraid to Google a thing because I don't want the algorithm to think I like it]]></title>
+        <id>https://twitter.com/jjcollinsworth/status/1390328342533054472</id>
+        <link href="https://twitter.com/jjcollinsworth/status/1390328342533054472"/>
+        <updated>2021-05-08T10:17:49.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SpecBAS: An enhanced Sinclair BASIC interpreter for modern PCs]]></title>
+        <id>https://github.com/ZXDunny/SpecBAS</id>
+        <link href="https://github.com/ZXDunny/SpecBAS"/>
+        <updated>2021-05-08T10:01:17.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TI-84 Plus CE Python Graphing Calculator]]></title>
+        <id>https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-plus-ce-python</id>
+        <link href="https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-plus-ce-python"/>
+        <updated>2021-05-08T07:43:44.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bob Dylan lays down what killed rock n roll (2016)]]></title>
+        <id>https://medium.com/cuepoint/like-it-is-bob-dylan-explains-what-really-killed-rock-n-roll-f6a4b6587a1a</id>
+        <link href="https://medium.com/cuepoint/like-it-is-bob-dylan-explains-what-really-killed-rock-n-roll-f6a4b6587a1a"/>
+        <updated>2021-05-08T00:12:35.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Indestructible light waves travel through opaque material as if it isn’t there]]></title>
+        <id>https://physicsworld.com/indestructible-light-waves-travel-through-opaque-material-as-if-it-isnt-there/</id>
+        <link href="https://physicsworld.com/indestructible-light-waves-travel-through-opaque-material-as-if-it-isnt-there/"/>
+        <updated>2021-05-07T22:26:40.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Machine Learning Systems Book Recommendations – Learn How to Build and Understand ML Systems]]></title>
+        <id>609558382cd0545b5e943c6f</id>
+        <link href="https://www.freecodecamp.org/news/machine-learning-systems-book-recommendations/"/>
+        <updated>2021-05-07T21:07:57.000Z</updated>
+        <summary type="html"><![CDATA[“Good friends, good books, and a sleepy conscience: this is the ideal life.” ― Mark TwainI hope you’re reading this blog in your pjs looking forward to a rejuvenating and healthy weekend.  I have been working on multiple projects lately, from creating Machine Learing Engineering and Machine Learning Operations courses]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Recursion Might Seem Scary – But it Doesn&#x27;t Have to Be]]></title>
+        <id>609551f02cd0545b5e943bc0</id>
+        <link href="https://www.freecodecamp.org/news/recursion-doesnt-have-to-be-scary/"/>
+        <updated>2021-05-07T16:59:53.000Z</updated>
+        <summary type="html"><![CDATA[Any concept that we don't fully understand can be scary at first. Recursion is a topic that programming students don't learn right away. But that doesn't mean it needs to be scary or cause anxiety. In fact, recursion is a concept that we can define rather simply. According to Wikipedia:]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unsolved mysteries of the Warhammer 40k universe with loremaster Dan Abnett]]></title>
+        <id>https://arstechnica.com/?p=1762186</id>
+        <link href="https://arstechnica.com/?p=1762186"/>
+        <updated>2021-05-07T12:02:21.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A unified theory of low/no code and middleware]]></title>
+        <id>https://mslotnick.substack.com/p/a-unified-theory-of-lowno-code-middleware</id>
+        <link href="https://mslotnick.substack.com/p/a-unified-theory-of-lowno-code-middleware"/>
+        <updated>2021-05-07T11:19:43.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Organize Product-Related Assets And Collaborate Better]]></title>
+        <id>https://smashingmagazine.com/2021/05/product-records-organization-collaboration-best-practices/</id>
+        <link href="https://smashingmagazine.com/2021/05/product-records-organization-collaboration-best-practices/"/>
+        <updated>2021-05-07T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[How do you organize your Google Drive assets? How do you name your Dropbox Paper documents? How do you deal with comments? Let’s get it right.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Valeriia Panina)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Is &quot;Lifting State Up&quot; in React?]]></title>
+        <id>609409c201fc34080ef81f97</id>
+        <link href="https://www.freecodecamp.org/news/what-is-lifting-state-up-in-react/"/>
+        <updated>2021-05-06T21:41:34.000Z</updated>
+        <summary type="html"><![CDATA[Here is a simple and practical example what it means to "lift state up" in React, and how it can help you build your applications. Lifting state up is a common pattern that is essential for React developers to know. It helps you avoid more complex (and often unnecessary) patterns]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn How to Use the Chrome DevTools to Troubleshoot Websites]]></title>
+        <id>609415eb2cd0545b5e943534</id>
+        <link href="https://www.freecodecamp.org/news/learn-how-to-use-the-chrome-devtools-to-troubleshoot-websites/"/>
+        <updated>2021-05-06T16:26:08.000Z</updated>
+        <summary type="html"><![CDATA[Chrome DevTools is a set of web developer tools built directly into the Google Chrome browser. They can be super helpful for web developers. We just published a crash course that will teach you how to use Chrome DevTools to improve your productivity as a web developer. You will learn]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Optional Types in Swift – How to Use and Unwrap Optionals]]></title>
+        <id>60939bde01fc34080ef81a19</id>
+        <link href="https://www.freecodecamp.org/news/optional-types-in-swift/"/>
+        <updated>2021-05-06T16:06:35.000Z</updated>
+        <summary type="html"><![CDATA[If you're coming from Java, C++, or other object-oriented languages, chances are that you've never come across optional types or "optionals". And you might be quite surprised to know that such a concept exists in Swift. Optionals are a fundamental topic that you need to thoroughly understand to code in]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Improving The Performance Of Shopify Themes (Case Study)]]></title>
+        <id>https://smashingmagazine.com/2021/05/improving-performance-shopify-themes-case-study/</id>
+        <link href="https://smashingmagazine.com/2021/05/improving-performance-shopify-themes-case-study/"/>
+        <updated>2021-05-06T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[When dealing with themes for large platforms and CMS, legacy issues often become a bottleneck. In this article, Carson Shold discusses how his team improved the performance and organization of their Shopify themes, and improved maintainability along the way.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Carson Shold)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python and OpenCV Course –Create Computer Vision Apps in the Cloud]]></title>
+        <id>609307e801fc34080ef8191e</id>
+        <link href="https://www.freecodecamp.org/news/create-computer-vision-apps-in-the-cloud-with-opencv-and-python/"/>
+        <updated>2021-05-05T21:11:40.000Z</updated>
+        <summary type="html"><![CDATA[OpenCV is a library of programming functions mainly aimed at real-time computer vision.  We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to use OpenCV in the cloud with Python. Misbah Mohammed created this course. He has a lot of experience with machine]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reducing HTML Payload With Next.js (Case Study)]]></title>
+        <id>https://smashingmagazine.com/2021/05/reduce-data-sent-client-nextjs/</id>
+        <link href="https://smashingmagazine.com/2021/05/reduce-data-sent-client-nextjs/"/>
+        <updated>2021-05-05T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[This article showcases a case study of Bookaway’s landing page performance. We’ll see how taking care of the props we send to Next.js pages can make loading times and Web Vitals better.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Liran Cohen)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Node.js Async Await Tutorial – With Asynchronous JavaScript Examples]]></title>
+        <id>609011fd8eb3fb07cf09a034</id>
+        <link href="https://www.freecodecamp.org/news/node-js-async-await-tutorial-with-asynchronous-javascript-examples/"/>
+        <updated>2021-05-04T16:07:17.000Z</updated>
+        <summary type="html"><![CDATA[A complete guide to Node.js async await]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Copy a Directory in Linux – How to cp a Folder in the Command Line in Linux and Unix (MacOS)]]></title>
+        <id>608f5ad48eb3fb07cf099ddb</id>
+        <link href="https://www.freecodecamp.org/news/copy-a-directory-in-linux-how-to-cp-a-folder-in-the-command-line-in-linux-and-unix-macos/"/>
+        <updated>2021-05-04T15:33:12.000Z</updated>
+        <summary type="html"><![CDATA[To copy files or directories in Unix-based operating systems (Linux and MacOS), you use the cp command. The cp command is a relatively simple command, but its behavior changes slightly depending on the inputs (files vs directories) and the options you pass to it. To view the documentation or manual]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Guide To Undoing Mistakes With Git]]></title>
+        <id>https://smashingmagazine.com/2021/05/undoing-mistakes-git-part1/</id>
+        <link href="https://smashingmagazine.com/2021/05/undoing-mistakes-git-part1/"/>
+        <updated>2021-05-04T14:30:00.000Z</updated>
+        <summary type="html"><![CDATA[No matter how experienced you are, mistakes are an inevitable part of software development. But we can learn to repair them! And this is what we'll be looking at in this two-part series: how to undo mistakes using Git.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Tobias Günther)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Smashing Podcast Episode 36 With Miriam Suzanne: What Is The Future Of CSS?]]></title>
+        <id>https://smashingmagazine.com/2021/05/smashing-podcast-episode-36/</id>
+        <link href="https://smashingmagazine.com/2021/05/smashing-podcast-episode-36/"/>
+        <updated>2021-05-04T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this episode, we’re starting our new season of the Smashing Podcast with a look at the future of CSS. What new specs will be landing in browsers soon? Drew McLellan talks to expert Miriam Suzanne to find out.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Drew McLellan)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Fetch Data in React from a GraphQL API]]></title>
+        <id>6090187c8eb3fb07cf09a060</id>
+        <link href="https://www.freecodecamp.org/news/5-ways-to-fetch-data-react-graphql/"/>
+        <updated>2021-05-03T17:20:56.000Z</updated>
+        <summary type="html"><![CDATA[Let's go through the five best ways that you can fetch data with React from a GraphQL API. While there are a couple of popular libraries which are made to interact with GraphQL APIs from a React application, there are many different ways to fetch data with GraphQL. I've included]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Common Mistakes React Developers Make – And How to Fix Them]]></title>
+        <id>608f553c8eb3fb07cf099da7</id>
+        <link href="https://www.freecodecamp.org/news/common-mistakes-react-developers-make-and-how-to-fix-them/"/>
+        <updated>2021-05-03T16:40:08.000Z</updated>
+        <summary type="html"><![CDATA[In this article, we'll see some of the common mistakes that React developers make, and how you can avoid them. So let's get started. Don't Forget that Every Route Change Mounts and Unmounts a ComponentWhenever you're using routing in a React application, you declare routes inside the Switch component. This]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Evolution Of Jamstack]]></title>
+        <id>https://smashingmagazine.com/2021/05/evolution-jamstack/</id>
+        <link href="https://smashingmagazine.com/2021/05/evolution-jamstack/"/>
+        <updated>2021-05-03T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Web-oriented databases, frameworks like Nuxt and Next.js, and even frameworkless approaches are evolving the Jamstack, but the core principles are more powerful than ever.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Mathias Biilmann)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[May Is In The Air (2021 Wallpapers Edition)]]></title>
+        <id>https://smashingmagazine.com/2021/04/desktop-wallpaper-calendars-may-2021/</id>
+        <link href="https://smashingmagazine.com/2021/04/desktop-wallpaper-calendars-may-2021/"/>
+        <updated>2021-04-30T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Do you need a little inspiration boost? Well, then our new collection of wallpapers is for you. Designed with love by the community for the community, the wallpapers are available with and without a calendar for May 2021.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Humble `<img>` Element And Core Web Vitals]]></title>
+        <id>https://smashingmagazine.com/2021/04/humble-img-element-core-web-vitals/</id>
+        <link href="https://smashingmagazine.com/2021/04/humble-img-element-core-web-vitals/"/>
+        <updated>2021-04-29T12:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Images have also been a key part of the web. They communicate ideas instantly, but they are also a lot heavier than text to load. This means that it’s essential to get loading and displaying them right, if you want to give your users a fantastic first impression. An excerpt from [Addy's new book](https://www.smashingmagazine.com/2021/04/image-optimization-pre-release/) (also, check a [free PDF preview](http://provide.smashingmagazine.com/eBooks/image-optimization-sample-chapter.pdf)).]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Addy Osmani)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meet Image Optimization, A New Smashing Book By Addy Osmani]]></title>
+        <id>https://smashingmagazine.com/2021/04/image-optimization-pre-release/</id>
+        <link href="https://smashingmagazine.com/2021/04/image-optimization-pre-release/"/>
+        <updated>2021-04-28T13:20:00.000Z</updated>
+        <summary type="html"><![CDATA[The cat is out! For the last year, we’ve been working with Addy Osmani on a new Smashing Book all around image optimization. And now it’s here. Meet “Image Optimization”, our practical modern guide to delivering high-quality images on the web with the best performance.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Understanding Easing Functions For CSS Animations And Transitions]]></title>
+        <id>https://smashingmagazine.com/2021/04/easing-functions-css-animations-transitions/</id>
+        <link href="https://smashingmagazine.com/2021/04/easing-functions-css-animations-transitions/"/>
+        <updated>2021-04-27T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Easing functions can change the look and feel of an animation by affecting the rate, or speed, of an animation. In this article, we’re going to take a deep dive into easing functions and see how we can use them to create those natural and stunning animations.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Adrian Bece)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Bake Layers Of Accessibility Testing Into Your Process]]></title>
+        <id>https://smashingmagazine.com/2021/04/bake-layers-accessibility-testing-process/</id>
+        <link href="https://smashingmagazine.com/2021/04/bake-layers-accessibility-testing-process/"/>
+        <updated>2021-04-26T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Accessibility experts Kate Kalcevich and Mike Gifford introduce readers to "layered accessibility testing”, a practice of using a variety of tools and approaches at different stages in the digital product lifecycle to catch accessibility issues early &mdash; when it’s easier and cheaper to fix them.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Kate Kalcevich &amp; Mike Gifford)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Guide To Newly Supported, Modern CSS Pseudo-Class Selectors]]></title>
+        <id>https://smashingmagazine.com/2021/04/guide-supported-modern-css-pseudo-class-selectors/</id>
+        <link href="https://smashingmagazine.com/2021/04/guide-supported-modern-css-pseudo-class-selectors/"/>
+        <updated>2021-04-23T08:30:00.000Z</updated>
+        <summary type="html"><![CDATA[The CSS Working Group Editor’s Draft for [Selectors Level 4](https://drafts.csswg.org/selectors-4/) includes several pseudo-class selectors that already have proposal candidates in most modern browsers. This guide will cover ones that currently have the best support along with examples to demonstrate how you can start using them today!]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Stephanie Eckles)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web Design Done Well: The Ordinary Made Extraordinary (Part 1)]]></title>
+        <id>https://smashingmagazine.com/2021/04/web-design-done-well-part1/</id>
+        <link href="https://smashingmagazine.com/2021/04/web-design-done-well-part1/"/>
+        <updated>2021-04-22T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Sometimes it’s the little things in web life that make us look twice. From carousels to documentation to cookie disclaimers, here are some sites taking the mundane and sprinkling in a little magic.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Frederick O’Brien)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Complete Guide To Incremental Static Regeneration (ISR) With Next.js]]></title>
+        <id>https://smashingmagazine.com/2021/04/incremental-static-regeneration-nextjs/</id>
+        <link href="https://smashingmagazine.com/2021/04/incremental-static-regeneration-nextjs/"/>
+        <updated>2021-04-21T13:55:00.000Z</updated>
+        <summary type="html"><![CDATA[Incremental Static Regeneration (ISR) is a new evolution of the Jamstack, allowing you to update static content instantly without needing a full rebuild of your site. The hybrid approach of Next.js allows you to use ISR for e-commerce, marketing pages, blog posts, ad-backed media, and more.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Lee Robinson)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Content Is Such A Fundamental Part Of The Web Design Process]]></title>
+        <id>https://smashingmagazine.com/2021/04/content-fundamental-part-web-design-process/</id>
+        <link href="https://smashingmagazine.com/2021/04/content-fundamental-part-web-design-process/"/>
+        <updated>2021-04-21T08:30:00.000Z</updated>
+        <summary type="html"><![CDATA[As designers, we are often burdened by the responsibility of producing and managing website content. It’s not our job to write it, but it’s not the client’s either. We can avert disaster by including content production in the design process.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Matt Saunders)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Making GraphQL Work In WordPress]]></title>
+        <id>https://smashingmagazine.com/2021/04/making-graphql-work-in-wordpress/</id>
+        <link href="https://smashingmagazine.com/2021/04/making-graphql-work-in-wordpress/"/>
+        <updated>2021-04-20T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Let’s explore the plugins providing GraphQL servers to WordPress. When should we use WPGraphQL, and when the GraphQL API for WordPress? Is there some advantage of one over the other, or some particular task that is easier to accomplish with one of them? In this article, we will find out.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Leonardo Losoviz)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An In-Depth Guide To Measuring Core Web Vitals]]></title>
+        <id>https://smashingmagazine.com/2021/04/complete-guide-measure-core-web-vitals/</id>
+        <link href="https://smashingmagazine.com/2021/04/complete-guide-measure-core-web-vitals/"/>
+        <updated>2021-04-19T08:30:00.000Z</updated>
+        <summary type="html"><![CDATA[How are Core Web Vitals measured? How do you know your fixes have had the desired effect and when will you see the results in Google Search Console? Let’s figure it out.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Barry Pollard)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Seven Mistakes To Avoid In Your Technical Interviews]]></title>
+        <id>https://smashingmagazine.com/2021/04/mistakes-technical-interviews/</id>
+        <link href="https://smashingmagazine.com/2021/04/mistakes-technical-interviews/"/>
+        <updated>2021-04-16T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[It’s no secret that the technical interview process leaves something to be desired; it’s often riddled with anxiety and stress. In this article, we’ll take a look at seven of the most common mistakes candidates make in their technical interviews and explore ways you can avoid them.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Emma Bostian)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Get Web Design Clients Fast (Part 2)]]></title>
+        <id>https://smashingmagazine.com/2021/04/web-design-clients-fast-part2/</id>
+        <link href="https://smashingmagazine.com/2021/04/web-design-clients-fast-part2/"/>
+        <updated>2021-04-15T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Selling is key to growing your web design business, but it doesn’t have to be complicated! With clear goals, customer research, and proven closing techniques, anyone can find new clients.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Stephen Roe)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From Cats With Love: New Navigation, Guides And Workshops]]></title>
+        <id>https://smashingmagazine.com/2021/04/from-cats-with-love-navigation-guides-workshops/</id>
+        <link href="https://smashingmagazine.com/2021/04/from-cats-with-love-navigation-guides-workshops/"/>
+        <updated>2021-04-15T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[At Smashing, we’ve been busy over the last few months. We’ve set up new workshops, redesigned our navigation, refined performance and improved accessibility. There are subtle UX changes coming in, and we’d love to share what we’ve been cooking.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Overflow Issues In CSS]]></title>
+        <id>https://smashingmagazine.com/2021/04/css-overflow-issues/</id>
+        <link href="https://smashingmagazine.com/2021/04/css-overflow-issues/"/>
+        <updated>2021-04-14T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, we will explore the causes of overflow issues and how to solve them. We will also explore how modern features in the developer tools (DevTools) can make the process of fixing and debugging easier.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Ahmad Shadeed)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building A Video Streaming App With Nuxt.js, Node And Express]]></title>
+        <id>https://smashingmagazine.com/2021/04/building-video-streaming-app-nuxtjs-node-express/</id>
+        <link href="https://smashingmagazine.com/2021/04/building-video-streaming-app-nuxtjs-node-express/"/>
+        <updated>2021-04-13T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, we’ll be building a video streaming app using Nuxt.js and Node.js. Specifically, we’ll build a server-side Node.js app that will handle fetching and streaming videos, generating thumbnails for your videos, and serving captions and subtitles.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Deven Rathore)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Complete Guide To HTML Email]]></title>
+        <id>https://smashingmagazine.com/2021/04/complete-guide-html-email-templates-tools/</id>
+        <link href="https://smashingmagazine.com/2021/04/complete-guide-html-email-templates-tools/"/>
+        <updated>2021-04-12T12:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Recently we’ve covered CSS generators, SVG generators and accessible front-end components. This time we look into HTML email, with tools, templates and guides for designers and developers.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Growing UX Maturity In Organizations: Education And Training (Part 3)]]></title>
+        <id>https://smashingmagazine.com/2021/04/growing-ux-maturity-in-organizations-part-3/</id>
+        <link href="https://smashingmagazine.com/2021/04/growing-ux-maturity-in-organizations-part-3/"/>
+        <updated>2021-04-09T19:30:00.000Z</updated>
+        <summary type="html"><![CDATA[UX practitioners can play an important role in growing the UX maturity of the organizations and product teams they work with. This final article in a three-part series presents two additional tactics: education of staff on UX principles and processes.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Victor Yocco)</name>
+        </author>
+    </entry>
+</feed>
