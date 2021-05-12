@@ -2,10 +2,390 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rss.sant.sh/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-11T00:57:00.747Z</updated>
+    <updated>2021-05-12T00:58:25.125Z</updated>
     <generator>osmosfeed 1.6.0</generator>
     <link rel="alternate" href="https://rss.sant.sh/index.html"/>
     <link rel="self" href="https://rss.sant.sh/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Flask 2.0.0 has been merged into master]]></title>
+        <id>https://github.com/pallets/flask/pull/4007</id>
+        <link href="https://github.com/pallets/flask/pull/4007"/>
+        <updated>2021-05-12T00:13:30.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AirGradient: DIY Air Quality Monitoring with Open-Source Hardware & Firmware]]></title>
+        <id>https://www.airgradient.com/diy/</id>
+        <link href="https://www.airgradient.com/diy/"/>
+        <updated>2021-05-11T22:57:02.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use Selenium and Python to Scrape Websites More Effectively]]></title>
+        <id>6096aafe2cd0545b5e944430</id>
+        <link href="https://www.freecodecamp.org/news/improve-web-scraping-with-selenium/"/>
+        <updated>2021-05-11T22:53:43.000Z</updated>
+        <summary type="html"><![CDATA[When you're scraping data from the web with Python, Selenium will often come up as an helpful tool to use. It was originally designed for automated testing, but its scraping capabilities are impressive, too. This is because Selenium can do things that other libraries or frameworks often can't when collecting]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask HN: How to negotiate continuing to work remotely?]]></title>
+        <id>https://news.ycombinator.com/item?id=27123553</id>
+        <link href="https://news.ycombinator.com/item?id=27123553"/>
+        <updated>2021-05-11T21:09:06.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KaiPod Learning (YC S21) Is Hiring]]></title>
+        <id>https://www.workatastartup.com/jobs/43915</id>
+        <link href="https://www.workatastartup.com/jobs/43915"/>
+        <updated>2021-05-11T21:00:58.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Arduino IDE 2.0 beta]]></title>
+        <id>https://blog.arduino.cc/2021/03/01/announcing-the-arduino-ide-2-0-beta/</id>
+        <link href="https://blog.arduino.cc/2021/03/01/announcing-the-arduino-ide-2-0-beta/"/>
+        <updated>2021-05-11T20:56:08.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Just Use Email – How to Use Email for Everything]]></title>
+        <id>https://www.justuseemail.com/</id>
+        <link href="https://www.justuseemail.com/"/>
+        <updated>2021-05-11T20:54:24.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Facebook will ignore data collection ban issued in Germany over WhatApp rules]]></title>
+        <id>https://www.techspot.com/news/89639-facebook-ignore-emergency-data-collection-ban-issued-germany.html</id>
+        <link href="https://www.techspot.com/news/89639-facebook-ignore-emergency-data-collection-ban-issued-germany.html"/>
+        <updated>2021-05-11T20:27:38.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Write a Résumé – Practical Guide with Example Résumé]]></title>
+        <id>6093929601fc34080ef81a0f</id>
+        <link href="https://www.freecodecamp.org/news/how-to-write-a-resume-with-example/"/>
+        <updated>2021-05-11T19:40:31.000Z</updated>
+        <summary type="html"><![CDATA[Writing a résumé can be a little intimidating. And the pressure to make it really good and fill in each detail can be tiresome and scary. This is especially true if you're doing it for the first time, because you might not know what to add in or what to]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FragAttacks: new security vulnerabilities that affect wi-fi devices]]></title>
+        <id>https://www.fragattacks.com/</id>
+        <link href="https://www.fragattacks.com/"/>
+        <updated>2021-05-11T18:46:24.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tech giants join call for funding U.S. chip production]]></title>
+        <id>https://www.reuters.com/article/usa-semiconductors-idUSL1N2MX2MK</id>
+        <link href="https://www.reuters.com/article/usa-semiconductors-idUSL1N2MX2MK"/>
+        <updated>2021-05-11T18:23:11.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I mailed an AirTag and tracked its progress]]></title>
+        <id>https://www.intego.com/mac-security-blog/i-mailed-an-airtag-and-tracked-its-progress-heres-what-happened/</id>
+        <link href="https://www.intego.com/mac-security-blog/i-mailed-an-airtag-and-tracked-its-progress-heres-what-happened/"/>
+        <updated>2021-05-11T18:12:59.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Germany bans Facebook from handling WhatsApp data over privacy concerns]]></title>
+        <id>https://www.euronews.com/2021/05/11/germany-bans-facebook-from-handling-whatsapp-data-over-privacy-concerns</id>
+        <link href="https://www.euronews.com/2021/05/11/germany-bans-facebook-from-handling-whatsapp-data-over-privacy-concerns"/>
+        <updated>2021-05-11T18:00:59.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build Beautiful Page Transitions in Angular]]></title>
+        <id>609a73156008950828b3f2ce</id>
+        <link href="https://www.freecodecamp.org/news/beautiful-page-transitions-in-angular/"/>
+        <updated>2021-05-11T17:50:09.000Z</updated>
+        <summary type="html"><![CDATA[In today’s world, just having a website is not enough. The website needs to have a clean UI and it needs to be intuitive. And most importantly, it needs to have some sort of interactive element. Interactivity keeps users glued to your site for longer periods of time. As]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Get a Job by Building Relationships – Advice from a Senior Software Engineer]]></title>
+        <id>609552842cd0545b5e943bcd</id>
+        <link href="https://www.freecodecamp.org/news/how-to-get-a-job-by-building-relationships/"/>
+        <updated>2021-05-11T17:29:13.000Z</updated>
+        <summary type="html"><![CDATA[The job search is exhausting. You apply to countless jobs through LinkedIn and company websites. Apply, apply, apply. Submit, submit, submit. You're tired.  But you know that's not even the worst part. The worst part is the black hole your applications seem to fall into 95% of the time. Is]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cloudflare on the edge]]></title>
+        <id>https://stratechery.com/2021/cloudflare-on-the-edge/</id>
+        <link href="https://stratechery.com/2021/cloudflare-on-the-edge/"/>
+        <updated>2021-05-11T17:14:37.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[For those who can afford it, quitting has become the ultimate form of self-care]]></title>
+        <id>https://www.thecut.com/2021/05/quitting-your-job-as-self-care.html</id>
+        <link href="https://www.thecut.com/2021/05/quitting-your-job-as-self-care.html"/>
+        <updated>2021-05-11T17:05:38.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[●●|●●●●●|●●|●]]></title>
+        <id>http://scp-wiki.wikidot.com/scp-2521</id>
+        <link href="http://scp-wiki.wikidot.com/scp-2521"/>
+        <updated>2021-05-11T16:57:55.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An experiment caught a quantum system in the middle of a jump (2019)]]></title>
+        <id>https://www.quantamagazine.org/quantum-leaps-long-assumed-to-be-instantaneous-take-time-20190605/</id>
+        <link href="https://www.quantamagazine.org/quantum-leaps-long-assumed-to-be-instantaneous-take-time-20190605/"/>
+        <updated>2021-05-11T16:47:53.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Good data scientist, bad data scientist]]></title>
+        <id>https://ianwhitestone.work/good-ds-bad-ds/</id>
+        <link href="https://ianwhitestone.work/good-ds-bad-ds/"/>
+        <updated>2021-05-11T16:36:10.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vamp is joining CircleCI]]></title>
+        <id>https://blog.vamp.io/vamp-is-joining-circleci/</id>
+        <link href="https://blog.vamp.io/vamp-is-joining-circleci/"/>
+        <updated>2021-05-11T15:24:59.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript Hash Table – Associative Array Hashing in JS]]></title>
+        <id>60856789dd38b9088c2bf4ff</id>
+        <link href="https://www.freecodecamp.org/news/javascript-hash-table-associative-array-hashing-in-js/"/>
+        <updated>2021-05-11T15:24:00.000Z</updated>
+        <summary type="html"><![CDATA[Hash Tables are a data structure that allow you to create a list of paired values. You can then retrieve a certain value by using the key for that value, which you put into the table beforehand. A Hash Table transforms a key into an integer index using a hash]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why You Should Start Using Chakra UI]]></title>
+        <id>60977de12cd0545b5e944661</id>
+        <link href="https://www.freecodecamp.org/news/why-should-you-start-using-chakraui/"/>
+        <updated>2021-05-11T15:22:27.000Z</updated>
+        <summary type="html"><![CDATA[In this article, I'll talk about what ChakraUI is and why you should use it.  Chakra UI is a component-based library. It's made up of basic building blocks that can help you build the front-end of your web application.  It is customizable and reusable, and most importantly it supports ReactJs,]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Launch HN: UPchieve (YC W21 Nonprofit) – Live tutoring for low-income students]]></title>
+        <id>https://news.ycombinator.com/item?id=27118794</id>
+        <link href="https://news.ycombinator.com/item?id=27118794"/>
+        <updated>2021-05-11T14:53:40.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pprof++: A Go Profiler with Hardware Performance Monitoring]]></title>
+        <id>https://eng.uber.com/pprof-go-profiler/</id>
+        <link href="https://eng.uber.com/pprof-go-profiler/"/>
+        <updated>2021-05-11T14:32:06.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building a new vector based storage model]]></title>
+        <id>https://questdb.slab.com/public/posts/p4aktor4</id>
+        <link href="https://questdb.slab.com/public/posts/p4aktor4"/>
+        <updated>2021-05-11T13:51:28.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Primer On CSS Container Queries]]></title>
+        <id>https://smashingmagazine.com/2021/05/complete-guide-css-container-queries/</id>
+        <link href="https://smashingmagazine.com/2021/05/complete-guide-css-container-queries/"/>
+        <updated>2021-05-11T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[A prototype of the long-awaited CSS container queries has landed in Chrome Canary and is available for experimentation. Let’s look at what problem is being solved, learn how container queries work, and see how they compare with and complement existing CSS features for layout.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Stephanie Eckles)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Design Good Typography - Free Treehouse Course]]></title>
+        <id>60998ee76008950828b3ed10</id>
+        <link href="https://www.freecodecamp.org/news/how-to-design-good-typography/"/>
+        <updated>2021-05-11T12:56:14.000Z</updated>
+        <summary type="html"><![CDATA[Typography is one of the most important aspects of good design. It is especially important for web designers. We just released a course on the freeCodeCamp.org YouTube channel that will teach you all you need to know about creating good typography as a UX Designer. Hope Armstrong developed this]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aqueduct of Constantinople: Managing longest water channel of the ancient world]]></title>
+        <id>https://phys.org/news/2021-05-aqueduct-constantinople-longest-channel-ancient.html</id>
+        <link href="https://phys.org/news/2021-05-aqueduct-constantinople-longest-channel-ancient.html"/>
+        <updated>2021-05-11T12:12:27.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[We’ll stop selling our Code Editor app for iOS soon]]></title>
+        <id>https://panic.com/blog/the-future-of-code-editor/</id>
+        <link href="https://panic.com/blog/the-future-of-code-editor/"/>
+        <updated>2021-05-11T10:02:06.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Conference Platform We Use For Our Online Events: Hopin]]></title>
+        <id>https://smashingmagazine.com/2021/05/smashingconf-conference-platform-hopin/</id>
+        <link href="https://smashingmagazine.com/2021/05/smashingconf-conference-platform-hopin/"/>
+        <updated>2021-05-11T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[At the beginning of 2020, the SmashingConf team was ready for a new year. We had so many things that excited us. New speakers, new workshops, new cities, new attendees, new experiences. And as we all know, 2020 had other ideas. With so many people working from home, we thought we would bring our [Smashing workshops](https://smashingconf.com/online-workshops/) from our home offices to yours &mdash; but how?]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Amanda Annandale)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Improve your front end skills by practicing on real design templates]]></title>
+        <id>https://www.codewell.cc/?ref=hn</id>
+        <link href="https://www.codewell.cc/?ref=hn"/>
+        <updated>2021-05-11T09:47:20.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Aphex Face (2010)]]></title>
+        <id>http://www.bastwood.com/?page_id=10</id>
+        <link href="http://www.bastwood.com/?page_id=10"/>
+        <updated>2021-05-11T07:08:09.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scientists prefer studying pretty plants to dull ones]]></title>
+        <id>https://www.nature.com/articles/s41477-021-00912-2</id>
+        <link href="https://www.nature.com/articles/s41477-021-00912-2"/>
+        <updated>2021-05-11T05:24:33.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Old disease names frequently found on death certificates]]></title>
+        <id>http://www.usgennet.org/usa/ar/county/greene/olddiseases1.htm</id>
+        <link href="http://www.usgennet.org/usa/ar/county/greene/olddiseases1.htm"/>
+        <updated>2021-05-11T04:46:30.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3000-pound triceratops skull excavated in South Dakota (2020)]]></title>
+        <id>https://www.usatoday.com/story/news/nation/2020/08/26/triceratops-skull-found-south-dakota-sent-missouri/3441540001/</id>
+        <link href="https://www.usatoday.com/story/news/nation/2020/08/26/triceratops-skull-found-south-dakota-sent-missouri/3441540001/"/>
+        <updated>2021-05-11T04:12:33.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Get Your First Developer Job through Intelligent, Genuine Networking]]></title>
+        <id>605cf4879618b008528a77e2</id>
+        <link href="https://www.freecodecamp.org/news/networking-for-aspiring-developers/"/>
+        <updated>2021-05-11T01:38:36.000Z</updated>
+        <summary type="html"><![CDATA["It's not about what you know, it's about whom you know." "70-80% of jobs are found via someone's network." Most of us have heard cliches and stats like the above. And I think most of us intuitively know that having a network of people that can help us find opportunities]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: A 64-step drum sequencer I built using React and Redux]]></title>
+        <id>http://Sequencer64.com</id>
+        <link href="http://Sequencer64.com"/>
+        <updated>2021-05-11T00:10:04.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A “Perfect Coronal Mass Ejection” Could Be a Nightmare]]></title>
         <id>http://www.arrl.org/news/a-perfect-coronal-mass-ejection-could-be-a-nightmare</id>
@@ -167,6 +547,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[A Somewhat Comprehensive History of U.S. Senators Who Have Died in Duels]]></title>
+        <id>https://defector.com/us-senators-duels-history-owned/</id>
+        <link href="https://defector.com/us-senators-duels-history-owned/"/>
+        <updated>2021-05-10T14:39:50.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Dear EU: Please Don't Ruin the Root]]></title>
         <id>https://berthub.eu/articles/posts/dont-ruin-the-root/</id>
         <link href="https://berthub.eu/articles/posts/dont-ruin-the-root/"/>
@@ -201,6 +591,16 @@
         <id>https://openpowerfoundation.org/openpower-foundation-announces-librebmc-a-power-based-fully-open-source-bmc/</id>
         <link href="https://openpowerfoundation.org/openpower-foundation-announces-librebmc-a-power-based-fully-open-source-bmc/"/>
         <updated>2021-05-10T13:35:06.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAstroTracker: A cheap 3D-printed tracking mount for DSLR astrophotography]]></title>
+        <id>https://github.com/OpenAstroTech/OpenAstroTracker</id>
+        <link href="https://github.com/OpenAstroTech/OpenAstroTracker"/>
+        <updated>2021-05-10T12:18:19.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -634,16 +1034,6 @@
         <summary type="html"><![CDATA[In this article, we’ll be building a video streaming app using Nuxt.js and Node.js. Specifically, we’ll build a server-side Node.js app that will handle fetching and streaming videos, generating thumbnails for your videos, and serving captions and subtitles.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Deven Rathore)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Complete Guide To HTML Email]]></title>
-        <id>https://smashingmagazine.com/2021/04/complete-guide-html-email-templates-tools/</id>
-        <link href="https://smashingmagazine.com/2021/04/complete-guide-html-email-templates-tools/"/>
-        <updated>2021-04-12T12:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Recently we’ve covered CSS generators, SVG generators and accessible front-end components. This time we look into HTML email, with tools, templates and guides for designers and developers.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
         </author>
     </entry>
 </feed>
