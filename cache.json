@@ -6,544 +6,274 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
-          "id": "https://github.com/pallets/flask/pull/4007",
+          "id": "https://alexpearce.me/2016/02/managing-dotfiles-with-stow/",
           "author": null,
           "description": "Comments",
-          "link": "https://github.com/pallets/flask/pull/4007",
-          "publishedOn": "2021-05-12T00:13:30.000Z",
-          "wordCount": 756,
-          "title": "Flask 2.0.0 has been merged into master"
+          "link": "https://alexpearce.me/2016/02/managing-dotfiles-with-stow/",
+          "publishedOn": "2021-05-13T00:54:00.000Z",
+          "wordCount": 1086,
+          "title": "Managing Dotfiles with GNU Stow"
         },
         {
-          "id": "https://www.airgradient.com/diy/",
+          "id": "https://www.whitehouse.gov/briefing-room/presidential-actions/2021/05/12/executive-order-on-improving-the-nations-cybersecurity/",
           "author": null,
           "description": "Comments",
-          "link": "https://www.airgradient.com/diy/",
-          "publishedOn": "2021-05-11T22:57:02.000Z",
-          "wordCount": 1489,
-          "title": "AirGradient: DIY Air Quality Monitoring with Open-Source Hardware & Firmware"
+          "link": "https://www.whitehouse.gov/briefing-room/presidential-actions/2021/05/12/executive-order-on-improving-the-nations-cybersecurity/",
+          "publishedOn": "2021-05-13T00:04:48.000Z",
+          "wordCount": 8524,
+          "title": "Executive Order on Improving the Nation’s Cybersecurity"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27123553",
+          "id": "https://evertpot.com/jwt-is-a-bad-default/",
           "author": null,
           "description": "Comments",
-          "link": "https://news.ycombinator.com/item?id=27123553",
-          "publishedOn": "2021-05-11T21:09:06.000Z",
-          "wordCount": 5929,
-          "title": "Ask HN: How to negotiate continuing to work remotely?"
+          "link": "https://evertpot.com/jwt-is-a-bad-default/",
+          "publishedOn": "2021-05-12T23:35:09.000Z",
+          "wordCount": 1729,
+          "title": "JWT should not be your default for sessions"
         },
         {
-          "id": "https://www.workatastartup.com/jobs/43915",
+          "id": "https://www.businessinsider.com.au/uber-tax-avoidance-50-dutch-shell-companies-5-billion-revenue-2021-5",
           "author": null,
           "description": "Comments",
-          "link": "https://www.workatastartup.com/jobs/43915",
-          "publishedOn": "2021-05-11T21:00:58.000Z",
-          "wordCount": 925,
-          "title": "KaiPod Learning (YC S21) Is Hiring"
+          "link": "https://www.businessinsider.com.au/uber-tax-avoidance-50-dutch-shell-companies-5-billion-revenue-2021-5",
+          "publishedOn": "2021-05-12T22:35:52.000Z",
+          "wordCount": 956,
+          "title": "Uber used 50 Dutch shell companies to dodge taxes on $6B in revenue"
         },
         {
-          "id": "https://blog.arduino.cc/2021/03/01/announcing-the-arduino-ide-2-0-beta/",
+          "id": "https://kobra.dev/",
           "author": null,
           "description": "Comments",
-          "link": "https://blog.arduino.cc/2021/03/01/announcing-the-arduino-ide-2-0-beta/",
-          "publishedOn": "2021-05-11T20:56:08.000Z",
-          "wordCount": 2147,
-          "title": "The Arduino IDE 2.0 beta"
+          "link": "https://kobra.dev/",
+          "publishedOn": "2021-05-12T21:50:35.000Z",
+          "wordCount": 130,
+          "title": "Kobra – visual programming language for machine learning"
         },
         {
-          "id": "https://www.justuseemail.com/",
+          "id": "https://github.com/TomHarte/CP-M-for-OS-X",
           "author": null,
           "description": "Comments",
-          "link": "https://www.justuseemail.com/",
-          "publishedOn": "2021-05-11T20:54:24.000Z",
-          "wordCount": 329,
-          "title": "Just Use Email – How to Use Email for Everything"
+          "link": "https://github.com/TomHarte/CP-M-for-OS-X",
+          "publishedOn": "2021-05-12T21:34:36.000Z",
+          "wordCount": 613,
+          "title": "CP/M for OS X"
         },
         {
-          "id": "https://www.techspot.com/news/89639-facebook-ignore-emergency-data-collection-ban-issued-germany.html",
+          "id": "https://relationshiphero.com/careers?role=coach",
           "author": null,
           "description": "Comments",
-          "link": "https://www.techspot.com/news/89639-facebook-ignore-emergency-data-collection-ban-issued-germany.html",
-          "publishedOn": "2021-05-11T20:27:38.000Z",
-          "wordCount": 943,
-          "title": "Facebook will ignore data collection ban issued in Germany over WhatApp rules"
+          "link": "https://relationshiphero.com/careers?role=coach",
+          "publishedOn": "2021-05-12T21:00:11.000Z",
+          "wordCount": 74,
+          "title": "Relationship Hero is hiring coaches – Full Time Remote"
         },
         {
-          "id": "https://www.fragattacks.com/",
+          "id": "https://blog.torh.net/2021/05/12/the-digital-natives-are-not-who-you-think-it-is/",
           "author": null,
           "description": "Comments",
-          "link": "https://www.fragattacks.com/",
-          "publishedOn": "2021-05-11T18:46:24.000Z",
-          "wordCount": 6526,
-          "title": "FragAttacks: new security vulnerabilities that affect wi-fi devices"
+          "link": "https://blog.torh.net/2021/05/12/the-digital-natives-are-not-who-you-think-it-is/",
+          "publishedOn": "2021-05-12T20:57:07.000Z",
+          "wordCount": 613,
+          "title": "The digital natives are not who you think they are"
         },
         {
-          "id": "https://www.reuters.com/article/usa-semiconductors-idUSL1N2MX2MK",
+          "id": "https://www.reuters.com/article/israel-palestinians-socialmedia-idUSL8N2MU624",
           "author": null,
           "description": "Comments",
-          "link": "https://www.reuters.com/article/usa-semiconductors-idUSL1N2MX2MK",
-          "publishedOn": "2021-05-11T18:23:11.000Z",
-          "wordCount": 392,
-          "title": "Tech giants join call for funding U.S. chip production"
+          "link": "https://www.reuters.com/article/israel-palestinians-socialmedia-idUSL8N2MU624",
+          "publishedOn": "2021-05-12T20:48:55.000Z",
+          "wordCount": 712,
+          "title": "Instagram, Twitter blame glitches for deleting Palestinian posts"
         },
         {
-          "id": "https://www.intego.com/mac-security-blog/i-mailed-an-airtag-and-tracked-its-progress-heres-what-happened/",
+          "id": "https://gregoryszorc.com/blog/2021/05/12/why-you-shouldn%27t-use-git-lfs/",
           "author": null,
           "description": "Comments",
-          "link": "https://www.intego.com/mac-security-blog/i-mailed-an-airtag-and-tracked-its-progress-heres-what-happened/",
-          "publishedOn": "2021-05-11T18:12:59.000Z",
-          "wordCount": 1849,
-          "title": "I mailed an AirTag and tracked its progress"
+          "link": "https://gregoryszorc.com/blog/2021/05/12/why-you-shouldn%27t-use-git-lfs/",
+          "publishedOn": "2021-05-12T20:46:54.000Z",
+          "wordCount": 1435,
+          "title": "Avoid Git LFS if possible"
         },
         {
-          "id": "https://www.euronews.com/2021/05/11/germany-bans-facebook-from-handling-whatsapp-data-over-privacy-concerns",
+          "id": "https://medicine.yale.edu/news-article/air-pollution-linked-to-increased-mental-health-outpatient-visits/",
           "author": null,
           "description": "Comments",
-          "link": "https://www.euronews.com/2021/05/11/germany-bans-facebook-from-handling-whatsapp-data-over-privacy-concerns",
-          "publishedOn": "2021-05-11T18:00:59.000Z",
+          "link": "https://medicine.yale.edu/news-article/air-pollution-linked-to-increased-mental-health-outpatient-visits/",
+          "publishedOn": "2021-05-12T19:56:34.000Z",
+          "wordCount": 661,
+          "title": "Air Pollution Linked to Increased Mental Health Outpatient Visits"
+        },
+        {
+          "id": "https://github.com/kalkayan/dotfiles",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/kalkayan/dotfiles",
+          "publishedOn": "2021-05-12T19:31:59.000Z",
+          "wordCount": 1590,
+          "title": "A Way to Manage Dotfiles"
+        },
+        {
+          "id": "https://arstechnica.com/science/2021/05/neural-implant-lets-paralyzed-person-type-by-imagining-writing/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://arstechnica.com/science/2021/05/neural-implant-lets-paralyzed-person-type-by-imagining-writing/",
+          "publishedOn": "2021-05-12T19:14:18.000Z",
+          "wordCount": 1322,
+          "title": "Neural implant lets paralyzed person type by imagining writing"
+        },
+        {
+          "id": "https://ridiculousfish.com/blog/posts/benchmarking-libdivide-m1-avx512.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://ridiculousfish.com/blog/posts/benchmarking-libdivide-m1-avx512.html",
+          "publishedOn": "2021-05-12T18:52:32.000Z",
+          "wordCount": 802,
+          "title": "Benchmarking division and libdivide on Apple M1 and Intel AVX512"
+        },
+        {
+          "id": "https://blog.replit.com/apps",
+          "author": null,
+          "description": "Comments",
+          "link": "https://blog.replit.com/apps",
+          "publishedOn": "2021-05-12T17:37:01.000Z",
+          "wordCount": 519,
+          "title": "Replit Apps"
+        },
+        {
+          "id": "https://github.com/eduard-permyakov/permafrost-engine",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/eduard-permyakov/permafrost-engine",
+          "publishedOn": "2021-05-12T16:44:44.000Z",
+          "wordCount": 1311,
+          "title": "Show HN: I wrote my own RTS game engine in C"
+        },
+        {
+          "id": "https://developer.mozilla.org/en-US/docs/Web/Houdini",
+          "author": null,
+          "description": "Comments",
+          "link": "https://developer.mozilla.org/en-US/docs/Web/Houdini",
+          "publishedOn": "2021-05-12T16:06:23.000Z",
           "wordCount": 781,
-          "title": "Germany bans Facebook from handling WhatsApp data over privacy concerns"
+          "title": "CSS Houdini"
         },
         {
-          "id": "https://stratechery.com/2021/cloudflare-on-the-edge/",
+          "id": "https://www.bbc.com/news/world-europe-57055163",
           "author": null,
           "description": "Comments",
-          "link": "https://stratechery.com/2021/cloudflare-on-the-edge/",
-          "publishedOn": "2021-05-11T17:14:37.000Z",
-          "wordCount": 3696,
-          "title": "Cloudflare on the edge"
+          "link": "https://www.bbc.com/news/world-europe-57055163",
+          "publishedOn": "2021-05-12T15:53:03.000Z",
+          "wordCount": 1095,
+          "title": "Vesuvius ancient eruption rescuer identified at Herculaneum, says expert"
         },
         {
-          "id": "https://www.thecut.com/2021/05/quitting-your-job-as-self-care.html",
+          "id": "https://positive.security/blog/send-my",
           "author": null,
           "description": "Comments",
-          "link": "https://www.thecut.com/2021/05/quitting-your-job-as-self-care.html",
-          "publishedOn": "2021-05-11T17:05:38.000Z",
-          "wordCount": 2420,
-          "title": "For those who can afford it, quitting has become the ultimate form of self-care"
+          "link": "https://positive.security/blog/send-my",
+          "publishedOn": "2021-05-12T13:57:04.000Z",
+          "wordCount": 2796,
+          "title": "Emulating AirTags to upload arbitrary data via Apple's FindMy network"
         },
         {
-          "id": "http://scp-wiki.wikidot.com/scp-2521",
+          "id": "https://workspaceupdates.googleblog.com/2021/05/Google-Docs-Canvas-Based-Rendering-Update.html",
           "author": null,
           "description": "Comments",
-          "link": "http://scp-wiki.wikidot.com/scp-2521",
-          "publishedOn": "2021-05-11T16:57:55.000Z",
-          "wordCount": 927,
-          "title": "●●|●●●●●|●●|●"
+          "link": "https://workspaceupdates.googleblog.com/2021/05/Google-Docs-Canvas-Based-Rendering-Update.html",
+          "publishedOn": "2021-05-12T13:05:16.000Z",
+          "wordCount": 1009,
+          "title": "Google Docs will now use canvas based rendering"
         },
         {
-          "id": "https://www.quantamagazine.org/quantum-leaps-long-assumed-to-be-instantaneous-take-time-20190605/",
+          "id": "https://jmtirado.net/writing-a-programming-book-in-2021/",
           "author": null,
           "description": "Comments",
-          "link": "https://www.quantamagazine.org/quantum-leaps-long-assumed-to-be-instantaneous-take-time-20190605/",
-          "publishedOn": "2021-05-11T16:47:53.000Z",
-          "wordCount": 2681,
-          "title": "An experiment caught a quantum system in the middle of a jump (2019)"
-        },
-        {
-          "id": "https://ianwhitestone.work/good-ds-bad-ds/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://ianwhitestone.work/good-ds-bad-ds/",
-          "publishedOn": "2021-05-11T16:36:10.000Z",
-          "wordCount": 912,
-          "title": "Good data scientist, bad data scientist"
-        },
-        {
-          "id": "https://blog.vamp.io/vamp-is-joining-circleci/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://blog.vamp.io/vamp-is-joining-circleci/",
-          "publishedOn": "2021-05-11T15:24:59.000Z",
-          "wordCount": 1038,
-          "title": "Vamp is joining CircleCI"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27118794",
-          "author": null,
-          "description": "Comments",
-          "link": "https://news.ycombinator.com/item?id=27118794",
-          "publishedOn": "2021-05-11T14:53:40.000Z",
-          "wordCount": 5630,
-          "title": "Launch HN: UPchieve (YC W21 Nonprofit) – Live tutoring for low-income students"
-        },
-        {
-          "id": "https://eng.uber.com/pprof-go-profiler/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://eng.uber.com/pprof-go-profiler/",
-          "publishedOn": "2021-05-11T14:32:06.000Z",
-          "wordCount": 3572,
-          "title": "Pprof++: A Go Profiler with Hardware Performance Monitoring"
-        },
-        {
-          "id": "https://questdb.slab.com/public/posts/p4aktor4",
-          "author": null,
-          "description": "Comments",
-          "link": "https://questdb.slab.com/public/posts/p4aktor4",
-          "publishedOn": "2021-05-11T13:51:28.000Z",
-          "wordCount": 3,
-          "title": "Building a new vector based storage model"
-        },
-        {
-          "id": "https://phys.org/news/2021-05-aqueduct-constantinople-longest-channel-ancient.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://phys.org/news/2021-05-aqueduct-constantinople-longest-channel-ancient.html",
-          "publishedOn": "2021-05-11T12:12:27.000Z",
-          "wordCount": 1784,
-          "title": "Aqueduct of Constantinople: Managing longest water channel of the ancient world"
-        },
-        {
-          "id": "https://panic.com/blog/the-future-of-code-editor/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://panic.com/blog/the-future-of-code-editor/",
-          "publishedOn": "2021-05-11T10:02:06.000Z",
-          "wordCount": 2158,
-          "title": "We’ll stop selling our Code Editor app for iOS soon"
-        },
-        {
-          "id": "https://www.codewell.cc/?ref=hn",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.codewell.cc/?ref=hn",
-          "publishedOn": "2021-05-11T09:47:20.000Z",
-          "wordCount": 9,
-          "title": "Show HN: Improve your front end skills by practicing on real design templates"
-        },
-        {
-          "id": "http://www.bastwood.com/?page_id=10",
-          "author": null,
-          "description": "Comments",
-          "link": "http://www.bastwood.com/?page_id=10",
-          "publishedOn": "2021-05-11T07:08:09.000Z",
-          "wordCount": 821,
-          "title": "The Aphex Face (2010)"
-        },
-        {
-          "id": "https://www.nature.com/articles/s41477-021-00912-2",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.nature.com/articles/s41477-021-00912-2",
-          "publishedOn": "2021-05-11T05:24:33.000Z",
-          "wordCount": 5401,
-          "title": "Scientists prefer studying pretty plants to dull ones"
-        },
-        {
-          "id": "http://www.usgennet.org/usa/ar/county/greene/olddiseases1.htm",
-          "author": null,
-          "description": "Comments",
-          "link": "http://www.usgennet.org/usa/ar/county/greene/olddiseases1.htm",
-          "publishedOn": "2021-05-11T04:46:30.000Z",
-          "wordCount": 1712,
-          "title": "Old disease names frequently found on death certificates"
-        },
-        {
-          "id": "https://www.usatoday.com/story/news/nation/2020/08/26/triceratops-skull-found-south-dakota-sent-missouri/3441540001/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.usatoday.com/story/news/nation/2020/08/26/triceratops-skull-found-south-dakota-sent-missouri/3441540001/",
-          "publishedOn": "2021-05-11T04:12:33.000Z",
-          "wordCount": 538,
-          "title": "3000-pound triceratops skull excavated in South Dakota (2020)"
-        },
-        {
-          "id": "http://Sequencer64.com",
-          "author": null,
-          "description": "Comments",
-          "link": "http://Sequencer64.com",
-          "publishedOn": "2021-05-11T00:10:04.000Z",
-          "wordCount": 9,
-          "title": "Show HN: A 64-step drum sequencer I built using React and Redux"
-        },
-        {
-          "id": "http://www.arrl.org/news/a-perfect-coronal-mass-ejection-could-be-a-nightmare",
-          "author": null,
-          "description": "Comments",
-          "link": "http://www.arrl.org/news/a-perfect-coronal-mass-ejection-could-be-a-nightmare",
-          "publishedOn": "2021-05-10T22:11:45.000Z",
-          "wordCount": 1043,
-          "title": "A “Perfect Coronal Mass Ejection” Could Be a Nightmare"
-        },
-        {
-          "id": "https://mccormick.cx/news/entries/one-million-people-saw-my-dumbest-tweet",
-          "author": null,
-          "description": "Comments",
-          "link": "https://mccormick.cx/news/entries/one-million-people-saw-my-dumbest-tweet",
-          "publishedOn": "2021-05-10T22:07:10.000Z",
-          "wordCount": 680,
-          "title": "One million people saw my dumbest tweet"
-        },
-        {
-          "id": "https://www.easypost.com/careers",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.easypost.com/careers",
-          "publishedOn": "2021-05-10T21:00:11.000Z",
-          "wordCount": 378,
-          "title": "EasyPost (YC S13) Is Hiring Remote"
-        },
-        {
-          "id": "https://blog.mozilla.org/security/2021/05/10/beware-of-applications-misusing-root-stores/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://blog.mozilla.org/security/2021/05/10/beware-of-applications-misusing-root-stores/",
-          "publishedOn": "2021-05-10T20:42:39.000Z",
-          "wordCount": 1743,
-          "title": "Beware of Applications Misusing Root Stores"
-        },
-        {
-          "id": "https://www.kedglobal.com/newsView/ked202105090002",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.kedglobal.com/newsView/ked202105090002",
-          "publishedOn": "2021-05-10T20:26:13.000Z",
-          "wordCount": 1131,
-          "title": "Samsung to jump into laptop processor market with Exynos chip in H2"
-        },
-        {
-          "id": "https://www.narrator.ai/blog/using-postgresql-as-a-data-warehouse/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.narrator.ai/blog/using-postgresql-as-a-data-warehouse/",
-          "publishedOn": "2021-05-10T19:39:15.000Z",
-          "wordCount": 2227,
-          "title": "Using PostgreSQL as a Data Warehouse"
-        },
-        {
-          "id": "https://www.axios.com/salaries-game-developers-break-silence-8f03c4aa-216e-4043-80dc-0376c606b926.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.axios.com/salaries-game-developers-break-silence-8f03c4aa-216e-4043-80dc-0376c606b926.html",
-          "publishedOn": "2021-05-10T18:22:45.000Z",
-          "wordCount": 1318,
-          "title": "Game developers sharing their salaries on Twitter"
-        },
-        {
-          "id": "https://github.com/marcin-chwedczuk/shellcode-tshirt",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/marcin-chwedczuk/shellcode-tshirt",
-          "publishedOn": "2021-05-10T18:17:54.000Z",
+          "link": "https://jmtirado.net/writing-a-programming-book-in-2021/",
+          "publishedOn": "2021-05-12T12:34:28.000Z",
           "wordCount": 1791,
-          "title": "Story of a Tshirt with a Shellcode"
+          "title": "Writing a Programming Book in 2021"
         },
         {
-          "id": "https://github.com/microsoft/ebpf-for-windows",
+          "id": "https://discuss.haiku-os.org/t/my-haiku-risc-v-port-progress/10663/86",
           "author": null,
           "description": "Comments",
-          "link": "https://github.com/microsoft/ebpf-for-windows",
-          "publishedOn": "2021-05-10T17:35:15.000Z",
-          "wordCount": 1341,
-          "title": "eBPF on Windows"
+          "link": "https://discuss.haiku-os.org/t/my-haiku-risc-v-port-progress/10663/86",
+          "publishedOn": "2021-05-12T12:04:37.000Z",
+          "wordCount": 469,
+          "title": "Haiku OS ported and running on RISC-V"
         },
         {
-          "id": "https://nusenu.medium.com/tracking-one-year-of-malicious-tor-exit-relay-activities-part-ii-85c80875c5df",
+          "id": "http://blog.erlang.org/My-OTP-24-Highlights/",
           "author": null,
           "description": "Comments",
-          "link": "https://nusenu.medium.com/tracking-one-year-of-malicious-tor-exit-relay-activities-part-ii-85c80875c5df",
-          "publishedOn": "2021-05-10T16:55:24.000Z",
-          "wordCount": 5186,
-          "title": "Tracking One Year of Malicious Tor Exit Relay Activities (Part II)"
+          "link": "http://blog.erlang.org/My-OTP-24-Highlights/",
+          "publishedOn": "2021-05-12T11:18:17.000Z",
+          "wordCount": 2869,
+          "title": "Erlang/OTP 24 highlights"
         },
         {
-          "id": "https://www.wired.co.uk/article/corporate-memphis-design-tech",
+          "id": "https://madned.substack.com/p/thin-pipe-part-i",
           "author": null,
           "description": "Comments",
-          "link": "https://www.wired.co.uk/article/corporate-memphis-design-tech",
-          "publishedOn": "2021-05-10T16:29:09.000Z",
-          "wordCount": 1596,
-          "title": "Why does every advert look the same? Corporate Memphis"
+          "link": "https://madned.substack.com/p/thin-pipe-part-i",
+          "publishedOn": "2021-05-12T11:01:50.000Z",
+          "wordCount": 3003,
+          "title": "My multi-decade quest for rural broadband"
         },
         {
-          "id": "https://pyre-check.org",
+          "id": "https://dmitry.gr/?r=05.Projects&proj=30.%20Reverse%20Engineering%20an%20Unknown%20Microcontroller",
           "author": null,
           "description": "Comments",
-          "link": "https://pyre-check.org",
-          "publishedOn": "2021-05-10T16:14:44.000Z",
-          "wordCount": 139,
-          "title": "Pyre: A performant type-checker for Python 3"
+          "link": "https://dmitry.gr/?r=05.Projects&proj=30.%20Reverse%20Engineering%20an%20Unknown%20Microcontroller",
+          "publishedOn": "2021-05-12T09:56:06.000Z",
+          "wordCount": 12287,
+          "title": "Reverse Engineering an Unknown Microcontroller"
         },
         {
-          "id": "https://django-sql-dashboard.datasette.io/en/latest/",
+          "id": "https://github.com/fresheneesz/bitcoinThroughputAnalysis",
           "author": null,
           "description": "Comments",
-          "link": "https://django-sql-dashboard.datasette.io/en/latest/",
-          "publishedOn": "2021-05-10T15:53:54.000Z",
-          "wordCount": 385,
-          "title": "Show HN: Django SQL Dashboard"
+          "link": "https://github.com/fresheneesz/bitcoinThroughputAnalysis",
+          "publishedOn": "2021-05-12T07:21:35.000Z",
+          "wordCount": 20970,
+          "title": "An analysis of Bitcoin's throughput bottlenecks"
         },
         {
-          "id": "https://dl.acm.org/doi/10.1145/3411764.3445642",
+          "id": "https://stackoverflow.blog/2021/05/11/building-a-space-based-isp/",
           "author": null,
           "description": "Comments",
-          "link": "https://dl.acm.org/doi/10.1145/3411764.3445642",
-          "publishedOn": "2021-05-10T15:34:29.000Z",
-          "wordCount": 148,
-          "title": "Perverse Downstream Consequences of Debunking"
+          "link": "https://stackoverflow.blog/2021/05/11/building-a-space-based-isp/",
+          "publishedOn": "2021-05-12T06:51:53.000Z",
+          "wordCount": 1848,
+          "title": "Building a Space-Based ISP"
         },
         {
-          "id": "https://epirhandbook.com/",
+          "id": "https://openmovement.org/",
           "author": null,
           "description": "Comments",
-          "link": "https://epirhandbook.com/",
-          "publishedOn": "2021-05-10T14:43:34.000Z",
-          "wordCount": 896,
-          "title": "Epidemiologist R Handbook"
+          "link": "https://openmovement.org/",
+          "publishedOn": "2021-05-12T06:40:19.000Z",
+          "wordCount": null,
+          "title": "Open source mechanical Swiss watch movement"
         },
         {
-          "id": "https://defector.com/us-senators-duels-history-owned/",
+          "id": "http://booktwo.org/notebook/network-realism/",
           "author": null,
           "description": "Comments",
-          "link": "https://defector.com/us-senators-duels-history-owned/",
-          "publishedOn": "2021-05-10T14:39:50.000Z",
-          "wordCount": 2161,
-          "title": "A Somewhat Comprehensive History of U.S. Senators Who Have Died in Duels"
+          "link": "http://booktwo.org/notebook/network-realism/",
+          "publishedOn": "2021-05-12T03:16:10.000Z",
+          "wordCount": 1625,
+          "title": "Network Realism: William Gibson and new forms of fiction (2010)"
         },
         {
-          "id": "https://berthub.eu/articles/posts/dont-ruin-the-root/",
+          "id": "https://www.newyorker.com/magazine/2021/05/17/has-an-old-soviet-mystery-at-last-been-solved",
           "author": null,
           "description": "Comments",
-          "link": "https://berthub.eu/articles/posts/dont-ruin-the-root/",
-          "publishedOn": "2021-05-10T14:39:37.000Z",
-          "wordCount": 2342,
-          "title": "Dear EU: Please Don't Ruin the Root"
-        },
-        {
-          "id": "https://www.wondersofphysics.com/2021/05/two-time-nobel-pize-winner-physics.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.wondersofphysics.com/2021/05/two-time-nobel-pize-winner-physics.html",
-          "publishedOn": "2021-05-10T14:22:55.000Z",
-          "wordCount": 742,
-          "title": "Engineer Who Won the Nobel Prize Twice in Physics"
-        },
-        {
-          "id": "https://ellegriffin.substack.com/p/creator-economy-for-fiction-authors",
-          "author": null,
-          "description": "Comments",
-          "link": "https://ellegriffin.substack.com/p/creator-economy-for-fiction-authors",
-          "publishedOn": "2021-05-10T14:01:27.000Z",
-          "wordCount": 3155,
-          "title": "Writing books is not really a good idea"
-        },
-        {
-          "id": "https://openpowerfoundation.org/openpower-foundation-announces-librebmc-a-power-based-fully-open-source-bmc/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://openpowerfoundation.org/openpower-foundation-announces-librebmc-a-power-based-fully-open-source-bmc/",
-          "publishedOn": "2021-05-10T13:35:06.000Z",
-          "wordCount": 618,
-          "title": "OpenPOWER Foundation announces LibreBMC, a POWER-based, fully open-source BMC"
-        },
-        {
-          "id": "https://github.com/OpenAstroTech/OpenAstroTracker",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/OpenAstroTech/OpenAstroTracker",
-          "publishedOn": "2021-05-10T12:18:19.000Z",
-          "wordCount": 610,
-          "title": "OpenAstroTracker: A cheap 3D-printed tracking mount for DSLR astrophotography"
-        },
-        {
-          "id": "https://techblog.bozho.net/the-syslog-hell/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://techblog.bozho.net/the-syslog-hell/",
-          "publishedOn": "2021-05-10T10:27:09.000Z",
-          "wordCount": 1512,
-          "title": "The Syslog Hell"
-        },
-        {
-          "id": "https://www.dpreview.com/news/9236543269/why-are-modern-50mm-lenses-so-damned-complicated",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.dpreview.com/news/9236543269/why-are-modern-50mm-lenses-so-damned-complicated",
-          "publishedOn": "2021-05-10T09:39:02.000Z",
-          "wordCount": 10112,
-          "title": "Why are modern 50mm lenses so damned complicated?"
-        },
-        {
-          "id": "https://github.com/alexfru/regal86",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/alexfru/regal86",
-          "publishedOn": "2021-05-10T08:46:37.000Z",
-          "wordCount": 4115,
-          "title": "Local Register Allocator for 8086"
-        },
-        {
-          "id": "https://phys.org/news/2021-05-scrap-cash-bronze-age-witnessed.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://phys.org/news/2021-05-scrap-cash-bronze-age-witnessed.html",
-          "publishedOn": "2021-05-10T05:24:39.000Z",
-          "wordCount": 1589,
-          "title": "Scrap for cash: Bronze Age witnessed revolution in small change across Europe"
-        },
-        {
-          "id": "https://archive.org/details/msdos_Microsoft_Space_Simulator_1994",
-          "author": null,
-          "description": "Comments",
-          "link": "https://archive.org/details/msdos_Microsoft_Space_Simulator_1994",
-          "publishedOn": "2021-05-10T04:45:28.000Z",
-          "wordCount": 4897,
-          "title": "Microsoft Space Simulator (1994)"
-        },
-        {
-          "id": "https://www.shelf.so/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.shelf.so/",
-          "publishedOn": "2021-05-09T12:58:18.000Z",
-          "wordCount": 81,
-          "title": "Show HN: Save, annotate and organize podcasts, blog posts, newsletters, videos"
-        },
-        {
-          "id": "https://www.npr.org/2021/05/08/994738544/the-story-of-sesame-street-from-radical-experiment-to-beloved-tv-mainstay",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.npr.org/2021/05/08/994738544/the-story-of-sesame-street-from-radical-experiment-to-beloved-tv-mainstay",
-          "publishedOn": "2021-05-09T10:34:03.000Z",
-          "wordCount": 1716,
-          "title": "'Sesame Street': from radical experiment to beloved TV mainstay"
-        },
-        {
-          "id": "https://deepmind.com/blog/article/advancing-sports-analytics-through-ai",
-          "author": null,
-          "description": "Comments",
-          "link": "https://deepmind.com/blog/article/advancing-sports-analytics-through-ai",
-          "publishedOn": "2021-05-09T09:35:23.000Z",
-          "wordCount": 1812,
-          "title": "Advancing Sports Analytics Through AI Research"
-        },
-        {
-          "id": "https://augmentedperception.github.io/total_relighting/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://augmentedperception.github.io/total_relighting/",
-          "publishedOn": "2021-05-09T07:04:45.000Z",
-          "wordCount": 296,
-          "title": "Total Relighting: Learning to Relight Portraits for Background Replacement"
-        },
-        {
-          "id": "https://www.iconeye.com/design/festival-of-britain-at-70-questioning-myth",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.iconeye.com/design/festival-of-britain-at-70-questioning-myth",
-          "publishedOn": "2021-05-09T05:30:40.000Z",
-          "wordCount": 2627,
-          "title": "The Festival of Britain at 70: questioning the myth"
-        },
-        {
-          "id": "https://www.washingtonpost.com/business/2021/05/07/jobs-report-labor-shortage-analysis/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.washingtonpost.com/business/2021/05/07/jobs-report-labor-shortage-analysis/",
-          "publishedOn": "2021-05-08T13:17:53.000Z",
-          "wordCount": 1718,
-          "title": "It’s not a ‘labor shortage,’ it’s a reassessment of work in America"
+          "link": "https://www.newyorker.com/magazine/2021/05/17/has-an-old-soviet-mystery-at-last-been-solved",
+          "publishedOn": "2021-05-10T15:16:57.000Z",
+          "wordCount": 5782,
+          "title": "The disappearance of a Soviet skiing party in 1959"
         }
       ]
     },
@@ -552,6 +282,24 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2021/05/frustrating-design-patterns-birthday-picker/",
+          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
+          "description": "In this new series of articles on UX, we take a closer look at some frustrating design patterns and explore better alternatives, along with plenty of examples to keep in mind when building or designing one. Let’s start with an infamous birthday picker.",
+          "link": "https://smashingmagazine.com/2021/05/frustrating-design-patterns-birthday-picker/",
+          "publishedOn": "2021-05-12T12:42:00.000Z",
+          "wordCount": 3443,
+          "title": "Frustrating Design Patterns That Need Fixing: Birthday Picker"
+        },
+        {
+          "id": "https://smashingmagazine.com/2021/05/little-smashing-stories/",
+          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
+          "description": "Today marks the day we sent out our 300th edition of the Smashing Newsletter. This article is a little celebration in which we share little Smashing stories from people working behind the scenes.",
+          "link": "https://smashingmagazine.com/2021/05/little-smashing-stories/",
+          "publishedOn": "2021-05-12T08:00:00.000Z",
+          "wordCount": 1993,
+          "title": "Little Smashing Stories"
+        },
         {
           "id": "https://smashingmagazine.com/2021/05/complete-guide-css-container-queries/",
           "author": "hello@smashingmagazine.com (Stephanie Eckles)",
@@ -684,7 +432,7 @@
           "description": "The CSS Working Group Editor’s Draft for [Selectors Level 4](https://drafts.csswg.org/selectors-4/) includes several pseudo-class selectors that already have proposal candidates in most modern browsers. This guide will cover ones that currently have the best support along with examples to demonstrate how you can start using them today!",
           "link": "https://smashingmagazine.com/2021/04/guide-supported-modern-css-pseudo-class-selectors/",
           "publishedOn": "2021-04-23T08:30:00.000Z",
-          "wordCount": 2431,
+          "wordCount": 2430,
           "title": "A Guide To Newly Supported, Modern CSS Pseudo-Class Selectors"
         },
         {
@@ -785,12 +533,30 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "5fde208ae6787e09839407c3",
+          "author": "",
+          "description": "In this guide, we will build two simple projects and deploy them on Netlify. We will use Vue.js as our front-end framework, and use different technologies to build our projects.  If you follow this tutorial to the end, you will build a simplified version of Twitter and a single",
+          "link": "https://www.freecodecamp.org/news/build-a-portfolio-with-vuejs/",
+          "publishedOn": "2021-05-12T20:53:20.000Z",
+          "wordCount": 25100,
+          "title": "How to Build and Deploy a Portfolio with Vue.JS, Axios, the GitHub REST API, and Netlify"
+        },
+        {
+          "id": "609c215862ab9107fe5a9fa9",
+          "author": "",
+          "description": "Kivy is a free and open source Python framework for developing mobile apps and games with a natural user interface. We just released a 5-hour Kivy course on the freeCodeCamp.org YouTube channel. In this Kivy course, you will learn to create games and applications with Python for every platform",
+          "link": "https://www.freecodecamp.org/news/use-the-kivy-python-library-to-create-games-and-mobile-apps/",
+          "publishedOn": "2021-05-12T18:49:36.000Z",
+          "wordCount": 571,
+          "title": "Use the Kivy Python Library to Create Games and Mobile Apps"
+        },
+        {
           "id": "6096aafe2cd0545b5e944430",
           "author": "",
           "description": "When you're scraping data from the web with Python, Selenium will often come up as an helpful tool to use. It was originally designed for automated testing, but its scraping capabilities are impressive, too. This is because Selenium can do things that other libraries or frameworks often can't when collecting",
           "link": "https://www.freecodecamp.org/news/improve-web-scraping-with-selenium/",
           "publishedOn": "2021-05-11T22:53:43.000Z",
-          "wordCount": 1344,
+          "wordCount": 1358,
           "title": "How to Use Selenium and Python to Scrape Websites More Effectively"
         },
         {
@@ -855,96 +621,6 @@
           "publishedOn": "2021-05-11T01:38:36.000Z",
           "wordCount": 3119,
           "title": "How to Get Your First Developer Job through Intelligent, Genuine Networking"
-        },
-        {
-          "id": "60953e202cd0545b5e943a8b",
-          "author": "",
-          "description": "Technical interviews are one of the most stressful parts of landing a job in tech.  You don't know what questions the interviewer is going to ask. What if you have no idea how to solve the problem in front of you? What if you freeze up and look like you",
-          "link": "https://www.freecodecamp.org/news/how-to-acing-your-coding-interview-advice-from-senior-software-engineer/",
-          "publishedOn": "2021-05-10T17:04:31.000Z",
-          "wordCount": 1254,
-          "title": "How to Ace Your Coding Interview – Advice from a Senior Software Engineer"
-        },
-        {
-          "id": "609558382cd0545b5e943c6f",
-          "author": "",
-          "description": "“Good friends, good books, and a sleepy conscience: this is the ideal life.” ― Mark TwainI hope you’re reading this blog in your pjs looking forward to a rejuvenating and healthy weekend.  I have been working on multiple projects lately, from creating Machine Learing Engineering and Machine Learning Operations courses",
-          "link": "https://www.freecodecamp.org/news/machine-learning-systems-book-recommendations/",
-          "publishedOn": "2021-05-07T21:07:57.000Z",
-          "wordCount": 1065,
-          "title": "Machine Learning Systems Book Recommendations – Learn How to Build and Understand ML Systems"
-        },
-        {
-          "id": "609551f02cd0545b5e943bc0",
-          "author": "",
-          "description": "Any concept that we don't fully understand can be scary at first. Recursion is a topic that programming students don't learn right away. But that doesn't mean it needs to be scary or cause anxiety. In fact, recursion is a concept that we can define rather simply. According to Wikipedia:",
-          "link": "https://www.freecodecamp.org/news/recursion-doesnt-have-to-be-scary/",
-          "publishedOn": "2021-05-07T16:59:53.000Z",
-          "wordCount": 1278,
-          "title": "Recursion Might Seem Scary – But it Doesn&#x27;t Have to Be"
-        },
-        {
-          "id": "609409c201fc34080ef81f97",
-          "author": "",
-          "description": "Here is a simple and practical example what it means to \"lift state up\" in React, and how it can help you build your applications. Lifting state up is a common pattern that is essential for React developers to know. It helps you avoid more complex (and often unnecessary) patterns",
-          "link": "https://www.freecodecamp.org/news/what-is-lifting-state-up-in-react/",
-          "publishedOn": "2021-05-06T21:41:34.000Z",
-          "wordCount": 1339,
-          "title": "What Is &quot;Lifting State Up&quot; in React?"
-        },
-        {
-          "id": "609415eb2cd0545b5e943534",
-          "author": "",
-          "description": "Chrome DevTools is a set of web developer tools built directly into the Google Chrome browser. They can be super helpful for web developers. We just published a crash course that will teach you how to use Chrome DevTools to improve your productivity as a web developer. You will learn",
-          "link": "https://www.freecodecamp.org/news/learn-how-to-use-the-chrome-devtools-to-troubleshoot-websites/",
-          "publishedOn": "2021-05-06T16:26:08.000Z",
-          "wordCount": 426,
-          "title": "Learn How to Use the Chrome DevTools to Troubleshoot Websites"
-        },
-        {
-          "id": "60939bde01fc34080ef81a19",
-          "author": "",
-          "description": "If you're coming from Java, C++, or other object-oriented languages, chances are that you've never come across optional types or \"optionals\". And you might be quite surprised to know that such a concept exists in Swift. Optionals are a fundamental topic that you need to thoroughly understand to code in",
-          "link": "https://www.freecodecamp.org/news/optional-types-in-swift/",
-          "publishedOn": "2021-05-06T16:06:35.000Z",
-          "wordCount": 1775,
-          "title": "Optional Types in Swift – How to Use and Unwrap Optionals"
-        },
-        {
-          "id": "609307e801fc34080ef8191e",
-          "author": "",
-          "description": "OpenCV is a library of programming functions mainly aimed at real-time computer vision.  We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to use OpenCV in the cloud with Python. Misbah Mohammed created this course. He has a lot of experience with machine",
-          "link": "https://www.freecodecamp.org/news/create-computer-vision-apps-in-the-cloud-with-opencv-and-python/",
-          "publishedOn": "2021-05-05T21:11:40.000Z",
-          "wordCount": 352,
-          "title": "Python and OpenCV Course –Create Computer Vision Apps in the Cloud"
-        },
-        {
-          "id": "609011fd8eb3fb07cf09a034",
-          "author": "",
-          "description": "A complete guide to Node.js async await",
-          "link": "https://www.freecodecamp.org/news/node-js-async-await-tutorial-with-asynchronous-javascript-examples/",
-          "publishedOn": "2021-05-04T16:07:17.000Z",
-          "wordCount": 2241,
-          "title": "Node.js Async Await Tutorial – With Asynchronous JavaScript Examples"
-        },
-        {
-          "id": "608f5ad48eb3fb07cf099ddb",
-          "author": "",
-          "description": "To copy files or directories in Unix-based operating systems (Linux and MacOS), you use the cp command. The cp command is a relatively simple command, but its behavior changes slightly depending on the inputs (files vs directories) and the options you pass to it. To view the documentation or manual",
-          "link": "https://www.freecodecamp.org/news/copy-a-directory-in-linux-how-to-cp-a-folder-in-the-command-line-in-linux-and-unix-macos/",
-          "publishedOn": "2021-05-04T15:33:12.000Z",
-          "wordCount": 1018,
-          "title": "Copy a Directory in Linux – How to cp a Folder in the Command Line in Linux and Unix (MacOS)"
-        },
-        {
-          "id": "6090187c8eb3fb07cf09a060",
-          "author": "",
-          "description": "Let's go through the five best ways that you can fetch data with React from a GraphQL API. While there are a couple of popular libraries which are made to interact with GraphQL APIs from a React application, there are many different ways to fetch data with GraphQL. I've included",
-          "link": "https://www.freecodecamp.org/news/5-ways-to-fetch-data-react-graphql/",
-          "publishedOn": "2021-05-03T17:20:56.000Z",
-          "wordCount": 2491,
-          "title": "How to Fetch Data in React from a GraphQL API"
         }
       ]
     }
