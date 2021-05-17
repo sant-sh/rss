@@ -2,265 +2,305 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rss.sant.sh/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-16T01:09:10.638Z</updated>
-    <generator>osmosfeed 1.7.0</generator>
+    <updated>2021-05-17T01:03:09.271Z</updated>
+    <generator>osmosfeed 1.7.1</generator>
     <link rel="alternate" href="https://rss.sant.sh/index.html"/>
     <link rel="self" href="https://rss.sant.sh/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[Why I Quit DIY]]></title>
-        <id>https://schoolofdecorating.com/2014/06/why-i-quit-diy/</id>
-        <link href="https://schoolofdecorating.com/2014/06/why-i-quit-diy/"/>
-        <updated>2021-05-15T23:15:12.000Z</updated>
+        <title type="html"><![CDATA[CEO Behind 5,500% Stock Gain Says His Secret Is Raising Salaries]]></title>
+        <id>https://www.bloomberg.com/news/articles/2021-05-16/ceo-behind-5-500-stock-gain-says-his-secret-is-raising-salaries</id>
+        <link href="https://www.bloomberg.com/news/articles/2021-05-16/ceo-behind-5-500-stock-gain-says-his-secret-is-raising-salaries"/>
+        <updated>2021-05-16T23:58:50.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[BuildZoom (better way to build custom homes) Is hiring a Principal Engineer]]></title>
-        <id>https://jobs.lever.co/buildzoom</id>
-        <link href="https://jobs.lever.co/buildzoom"/>
-        <updated>2021-05-15T21:00:51.000Z</updated>
+        <title type="html"><![CDATA[Microsoft Decided Bill Gates Needed to Leave Board Due to Staff Relationship]]></title>
+        <id>https://www.wsj.com/articles/microsoft-directors-decided-bill-gates-needed-to-leave-board-due-to-prior-relationship-with-staffer-11621205803</id>
+        <link href="https://www.wsj.com/articles/microsoft-directors-decided-bill-gates-needed-to-leave-board-due-to-prior-relationship-with-staffer-11621205803"/>
+        <updated>2021-05-16T23:45:47.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Commodore’s Assemblers: Part 1: MOS Cross-Assembler]]></title>
-        <id>https://www.pagetable.com/?p=1520</id>
-        <link href="https://www.pagetable.com/?p=1520"/>
-        <updated>2021-05-15T19:17:45.000Z</updated>
+        <title type="html"><![CDATA[The Achilles Heel of the Coronavirus]]></title>
+        <id>https://ethz.ch/en/news-and-events/eth-news/news/2021/05/the-achilles-heel-of-the-coronavirus.html</id>
+        <link href="https://ethz.ch/en/news-and-events/eth-news/news/2021/05/the-achilles-heel-of-the-coronavirus.html"/>
+        <updated>2021-05-16T22:40:35.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TIL: Tcl-inspired command language on top of D]]></title>
-        <id>https://til-lang.github.io/til/</id>
-        <link href="https://til-lang.github.io/til/"/>
-        <updated>2021-05-15T18:40:30.000Z</updated>
+        <title type="html"><![CDATA[Busy Being Born (2004)]]></title>
+        <id>https://www.folklore.org/StoryView.py?project=Macintosh&amp;story=Busy_Being_Born.txt</id>
+        <link href="https://www.folklore.org/StoryView.py?project=Macintosh&amp;story=Busy_Being_Born.txt"/>
+        <updated>2021-05-16T22:37:37.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Bibliogram – Open-source front-end for Instagram]]></title>
-        <id>https://bibliogram.art</id>
-        <link href="https://bibliogram.art"/>
-        <updated>2021-05-15T18:37:11.000Z</updated>
+        <title type="html"><![CDATA[There have been 7m-13m excess deaths worldwide during the pandemic]]></title>
+        <id>https://www.economist.com/briefing/2021/05/15/there-have-been-7m-13m-excess-deaths-worldwide-during-the-pandemic</id>
+        <link href="https://www.economist.com/briefing/2021/05/15/there-have-been-7m-13m-excess-deaths-worldwide-during-the-pandemic"/>
+        <updated>2021-05-16T22:09:37.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The True Size of Africa (2015)]]></title>
-        <id>http://kai.sub.blue/en/africa.html</id>
-        <link href="http://kai.sub.blue/en/africa.html"/>
-        <updated>2021-05-15T18:22:20.000Z</updated>
+        <title type="html"><![CDATA[Apple-Epic Judge Asks Why Offering iOS Users a Choice Is Bad?]]></title>
+        <id>https://www.pcmag.com/news/apple-epic-judge-asks-why-offering-consumers-a-choice-is-bad?</id>
+        <link href="https://www.pcmag.com/news/apple-epic-judge-asks-why-offering-consumers-a-choice-is-bad?"/>
+        <updated>2021-05-16T20:59:33.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Making Your Own Tools]]></title>
-        <id>https://futureofcoding.org/episodes/044</id>
-        <link href="https://futureofcoding.org/episodes/044"/>
-        <updated>2021-05-15T17:40:22.000Z</updated>
+        <title type="html"><![CDATA[City to pay $350K to settle blog lawsuit, take back criminal hacking accusations]]></title>
+        <id>https://ktla.com/news/local-news/fullerton-to-pay-350k-to-settle-lawsuit-against-bloggers-take-back-criminal-hacking-accusations/</id>
+        <link href="https://ktla.com/news/local-news/fullerton-to-pay-350k-to-settle-lawsuit-against-bloggers-take-back-criminal-hacking-accusations/"/>
+        <updated>2021-05-16T20:37:32.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Cryptoqueen: A woman scammed the world, then vanished (2019)]]></title>
-        <id>https://www.bbc.com/news/stories-50435014</id>
-        <link href="https://www.bbc.com/news/stories-50435014"/>
-        <updated>2021-05-15T15:49:40.000Z</updated>
+        <title type="html"><![CDATA[The search for a perfect access control system]]></title>
+        <id>https://goteleport.com/blog/access-controls/</id>
+        <link href="https://goteleport.com/blog/access-controls/"/>
+        <updated>2021-05-16T19:10:49.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Parsix: Parse Don't Validate]]></title>
-        <id>https://github.com/parsix/parsix</id>
-        <link href="https://github.com/parsix/parsix"/>
-        <updated>2021-05-15T15:38:43.000Z</updated>
+        <title type="html"><![CDATA[Systemd: The Good Parts]]></title>
+        <id>https://christine.website/talks/systemd-the-good-parts-2021-05-16</id>
+        <link href="https://christine.website/talks/systemd-the-good-parts-2021-05-16"/>
+        <updated>2021-05-16T18:42:26.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Cox Hotspots with Panoramic Wifi]]></title>
-        <id>https://www.cox.com/residential/support/cox-hotspots-with-panoramic-wifi.html</id>
-        <link href="https://www.cox.com/residential/support/cox-hotspots-with-panoramic-wifi.html"/>
-        <updated>2021-05-15T15:27:44.000Z</updated>
+        <title type="html"><![CDATA[An iOS app update that annoys me]]></title>
+        <id>https://jpmens.net/2021/05/16/an-ios-app-update-that-really-annoys-me/</id>
+        <link href="https://jpmens.net/2021/05/16/an-ios-app-update-that-really-annoys-me/"/>
+        <updated>2021-05-16T18:41:32.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Modern Javascript: Everything you missed over the last 10 years (2020)]]></title>
-        <id>https://turriate.com/articles/modern-javascript-everything-you-missed-over-10-years</id>
-        <link href="https://turriate.com/articles/modern-javascript-everything-you-missed-over-10-years"/>
-        <updated>2021-05-15T15:15:57.000Z</updated>
+        <title type="html"><![CDATA[Coin Carbon Cap – PoW cryptocurrencies ranked by energy efficiency]]></title>
+        <id>https://coincarboncap.com/</id>
+        <link href="https://coincarboncap.com/"/>
+        <updated>2021-05-16T18:35:17.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Nim 2.0 thoughts]]></title>
-        <id>https://forum.nim-lang.org/t/7983</id>
-        <link href="https://forum.nim-lang.org/t/7983"/>
-        <updated>2021-05-15T14:08:12.000Z</updated>
+        <title type="html"><![CDATA[Orphan Utopia: John Ballou Newbrough’s desert colony (2017)]]></title>
+        <id>https://www.cabinetmagazine.org/issues/63/mcconnell.php</id>
+        <link href="https://www.cabinetmagazine.org/issues/63/mcconnell.php"/>
+        <updated>2021-05-16T18:11:56.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[May Update: Connection Established]]></title>
-        <id>https://www.pine64.org/2021/05/15/may-update-connection-established/</id>
-        <link href="https://www.pine64.org/2021/05/15/may-update-connection-established/"/>
-        <updated>2021-05-15T14:05:19.000Z</updated>
+        <title type="html"><![CDATA[Missing line in a smart contract leads to $10M hack]]></title>
+        <id>https://www.rekt.news/value-rekt2/</id>
+        <link href="https://www.rekt.news/value-rekt2/"/>
+        <updated>2021-05-16T17:59:46.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ML model can classify sex from retinal photograph, clinicians can't]]></title>
-        <id>https://rdcu.be/ckFPK</id>
-        <link href="https://rdcu.be/ckFPK"/>
-        <updated>2021-05-15T13:59:34.000Z</updated>
+        <title type="html"><![CDATA[Bette Graham, inventor and founder of Liquid Paper]]></title>
+        <id>https://thehustle.co/the-secretary-who-turned-liquid-paper-into-a-multimillion-dollar-business/</id>
+        <link href="https://thehustle.co/the-secretary-who-turned-liquid-paper-into-a-multimillion-dollar-business/"/>
+        <updated>2021-05-16T17:26:14.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Offline-First PWA for Plotly Visualization of CSV via SQLite]]></title>
-        <id>https://github.com/lana-k/sqliteviz</id>
-        <link href="https://github.com/lana-k/sqliteviz"/>
-        <updated>2021-05-15T13:48:01.000Z</updated>
+        <title type="html"><![CDATA[Replacing Elasticsearch with Rust and SQLite (2017)]]></title>
+        <id>https://nickb.dev/blog/replacing-elasticsearch-with-rust-and-sqlite</id>
+        <link href="https://nickb.dev/blog/replacing-elasticsearch-with-rust-and-sqlite"/>
+        <updated>2021-05-16T17:24:24.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Multiplying Integers Using Fourier Transforms [pdf]]]></title>
-        <id>http://www.cs.rug.nl/~ando/pdfs/Ando_Emerencia_multiplying_huge_integers_using_fourier_transforms_paper.pdf</id>
-        <link href="http://www.cs.rug.nl/~ando/pdfs/Ando_Emerencia_multiplying_huge_integers_using_fourier_transforms_paper.pdf"/>
-        <updated>2021-05-15T13:41:47.000Z</updated>
+        <title type="html"><![CDATA[CoinTracker (YC W18) is hiring people passionate about cryptocurrency]]></title>
+        <id>https://www.cointracker.io/careers</id>
+        <link href="https://www.cointracker.io/careers"/>
+        <updated>2021-05-16T17:00:19.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Design structured diagrams, built to increase your team's trust in your docs]]></title>
-        <id>https://icepanel.io/</id>
-        <link href="https://icepanel.io/"/>
-        <updated>2021-05-15T12:55:52.000Z</updated>
+        <title type="html"><![CDATA[HTML Notepad – HTML WYSIWYG editor]]></title>
+        <id>https://html-notepad.com/</id>
+        <link href="https://html-notepad.com/"/>
+        <updated>2021-05-16T15:04:53.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Watches from the Soviet Union]]></title>
-        <id>https://www.rbth.com/longreads/soviet-watches/</id>
-        <link href="https://www.rbth.com/longreads/soviet-watches/"/>
-        <updated>2021-05-15T11:55:52.000Z</updated>
+        <title type="html"><![CDATA[The Awful German Language (1880)]]></title>
+        <id>https://faculty.georgetown.edu/jod/texts/twain.german.html</id>
+        <link href="https://faculty.georgetown.edu/jod/texts/twain.german.html"/>
+        <updated>2021-05-16T14:32:24.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Was cancer less likely in a pre-industrial world?]]></title>
-        <id>https://www.nationalgeographic.com/history/article/cancer-less-likely-preindustrial-world</id>
-        <link href="https://www.nationalgeographic.com/history/article/cancer-less-likely-preindustrial-world"/>
-        <updated>2021-05-15T11:04:34.000Z</updated>
+        <title type="html"><![CDATA[Learn Datalog Today]]></title>
+        <id>http://www.learndatalogtoday.org</id>
+        <link href="http://www.learndatalogtoday.org"/>
+        <updated>2021-05-16T14:21:10.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Drain brain: The secret life of a gutter enthusiast]]></title>
-        <id>https://www.bbc.com/news/uk-england-london-56281464</id>
-        <link href="https://www.bbc.com/news/uk-england-london-56281464"/>
-        <updated>2021-05-15T10:57:34.000Z</updated>
+        <title type="html"><![CDATA[The man who didn't invent Flamin' Hot Cheetos]]></title>
+        <id>https://www.msn.com/en-us/money/smallbusiness/the-man-who-didnt-invent-flamin-hot-cheetos/ar-BB1gMYd1</id>
+        <link href="https://www.msn.com/en-us/money/smallbusiness/the-man-who-didnt-invent-flamin-hot-cheetos/ar-BB1gMYd1"/>
+        <updated>2021-05-16T14:15:59.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[All About Cockatoos (2002)]]></title>
-        <id>http://www.mytoos.com/main.shtml</id>
-        <link href="http://www.mytoos.com/main.shtml"/>
-        <updated>2021-05-15T10:55:16.000Z</updated>
+        <title type="html"><![CDATA[Building a personal website in 2021]]></title>
+        <id>https://origami.kosmulski.org/blog/2021-05-16-building-personal-origami-website-2021</id>
+        <link href="https://origami.kosmulski.org/blog/2021-05-16-building-personal-origami-website-2021"/>
+        <updated>2021-05-16T13:54:56.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Things you can’t do in Rust (and what to do instead)]]></title>
-        <id>https://blog.logrocket.com/what-you-cant-do-in-rust-and-what-to-do-instead/</id>
-        <link href="https://blog.logrocket.com/what-you-cant-do-in-rust-and-what-to-do-instead/"/>
-        <updated>2021-05-15T10:27:44.000Z</updated>
+        <title type="html"><![CDATA[SeaGlass: City-Wide IMSI-Catcher Detection (2017)]]></title>
+        <id>https://seaglass.cs.washington.edu/</id>
+        <link href="https://seaglass.cs.washington.edu/"/>
+        <updated>2021-05-16T13:53:24.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Midnight Pub]]></title>
-        <id>https://midnight.pub/</id>
-        <link href="https://midnight.pub/"/>
-        <updated>2021-05-15T09:59:06.000Z</updated>
+        <title type="html"><![CDATA[Half a million lines of Go]]></title>
+        <id>https://blog.khanacademy.org/half-a-million-lines-of-go/</id>
+        <link href="https://blog.khanacademy.org/half-a-million-lines-of-go/"/>
+        <updated>2021-05-16T13:45:38.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[FLOSS and Linguistic Diversity]]></title>
-        <id>https://www.paulox.net/2021/05/12/floss-and-linguistic-diversity/</id>
-        <link href="https://www.paulox.net/2021/05/12/floss-and-linguistic-diversity/"/>
-        <updated>2021-05-15T08:11:03.000Z</updated>
+        <title type="html"><![CDATA[Show HN: Vandal – an alternate navigator to Wayback Machine]]></title>
+        <id>https://vegetableman.github.io/vandal/</id>
+        <link href="https://vegetableman.github.io/vandal/"/>
+        <updated>2021-05-16T12:22:25.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Drain-spotting: The people who keep their minds in the gutter]]></title>
-        <id>https://www.bbc.co.uk/news/uk-england-london-56281464</id>
-        <link href="https://www.bbc.co.uk/news/uk-england-london-56281464"/>
-        <updated>2021-05-15T07:32:28.000Z</updated>
+        <title type="html"><![CDATA[Ask HN: What are some tools / libraries you built yourself?]]></title>
+        <id>https://news.ycombinator.com/item?id=27171970</id>
+        <link href="https://news.ycombinator.com/item?id=27171970"/>
+        <updated>2021-05-16T07:47:51.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[MicroFPGA – A coming revolution in small electronics (2019) [video]]]></title>
-        <id>https://www.youtube.com/watch?v=ME_e06ApxJA</id>
-        <link href="https://www.youtube.com/watch?v=ME_e06ApxJA"/>
-        <updated>2021-05-15T04:26:17.000Z</updated>
+        <title type="html"><![CDATA[Observing my cellphone switch towers]]></title>
+        <id>https://fabiensanglard.net/lte/index.html</id>
+        <link href="https://fabiensanglard.net/lte/index.html"/>
+        <updated>2021-05-16T07:16:32.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JPL's Design for a Clockwork Rover to Explore Venus (2017)]]></title>
+        <id>https://spectrum.ieee.org/automaton/robotics/space-robots/jpl-design-for-a-clockwork-rover-to-explore-venus</id>
+        <link href="https://spectrum.ieee.org/automaton/robotics/space-robots/jpl-design-for-a-clockwork-rover-to-explore-venus"/>
+        <updated>2021-05-15T11:10:30.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The stack monoid revisited]]></title>
+        <id>https://raphlinus.github.io/gpu/2021/05/13/stack-monoid-revisited.html</id>
+        <link href="https://raphlinus.github.io/gpu/2021/05/13/stack-monoid-revisited.html"/>
+        <updated>2021-05-15T10:30:01.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Great books on classic video games]]></title>
+        <id>https://bossfightbooks.com</id>
+        <link href="https://bossfightbooks.com"/>
+        <updated>2021-05-15T07:49:46.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reasons some languages are harder to learn]]></title>
+        <id>https://www.economist.com/books-and-arts/2021/05/08/the-real-reasons-some-languages-are-harder-to-learn</id>
+        <link href="https://www.economist.com/books-and-arts/2021/05/08/the-real-reasons-some-languages-are-harder-to-learn"/>
+        <updated>2021-05-15T00:16:08.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -287,36 +327,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Shirts of Peter Norvig]]></title>
-        <id>http://charlesbroskoski.com/_/view.php?id=shirts-of-peter-norvig</id>
-        <link href="http://charlesbroskoski.com/_/view.php?id=shirts-of-peter-norvig"/>
-        <updated>2021-05-14T19:26:44.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Strangeness of Our Animal Bonds]]></title>
-        <id>https://www.newyorker.com/science/elements/the-strangeness-of-our-animal-bonds</id>
-        <link href="https://www.newyorker.com/science/elements/the-strangeness-of-our-animal-bonds"/>
-        <updated>2021-05-14T19:14:21.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Filing Cabinet]]></title>
-        <id>https://placesjournal.org/article/the-filing-cabinet-and-20th-century-information-infrastructure/?cn-reloaded=1</id>
-        <link href="https://placesjournal.org/article/the-filing-cabinet-and-20th-century-information-infrastructure/?cn-reloaded=1"/>
-        <updated>2021-05-14T18:53:23.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Web Development for Beginners – Learn Basic HTML and CSS to Build Your First Web Page]]></title>
         <id>609e8c2162ab9107fe5aa77d</id>
         <link href="https://www.freecodecamp.org/news/web-development-for-beginners-basic-html-and-css/"/>
@@ -324,16 +334,6 @@
         <summary type="html"><![CDATA[Have you ever wondered how websites are built and designed? Do you want to learn the art of web development but you're not that tech savvy – yet? Well, then this tutorial is for you. It's an introduction to Web Development for beginners so you can learn the basics even if]]></summary>
         <author>
             <name/>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple Support: How to hear image descriptions in the Camera app]]></title>
-        <id>https://www.loopinsight.com/2021/05/13/apple-support-how-to-hear-image-descriptions-in-the-camera-app/</id>
-        <link href="https://www.loopinsight.com/2021/05/13/apple-support-how-to-hear-image-descriptions-in-the-camera-app/"/>
-        <updated>2021-05-14T11:55:58.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
