@@ -6,274 +6,274 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
-          "id": "https://www.bloomberg.com/news/articles/2021-05-16/ceo-behind-5-500-stock-gain-says-his-secret-is-raising-salaries",
+          "id": "https://news.ycombinator.com/item?id=27190219",
           "author": null,
           "description": "Comments",
-          "link": "https://www.bloomberg.com/news/articles/2021-05-16/ceo-behind-5-500-stock-gain-says-his-secret-is-raising-salaries",
-          "publishedOn": "2021-05-16T23:58:50.000Z",
-          "wordCount": 93,
-          "title": "CEO Behind 5,500% Stock Gain Says His Secret Is Raising Salaries"
+          "link": "https://news.ycombinator.com/item?id=27190219",
+          "publishedOn": "2021-05-18T01:01:12.000Z",
+          "wordCount": 210,
+          "title": "Etleap (YC W13) Is Hiring a Technical End User Documentation Writer"
         },
         {
-          "id": "https://www.wsj.com/articles/microsoft-directors-decided-bill-gates-needed-to-leave-board-due-to-prior-relationship-with-staffer-11621205803",
+          "id": "https://ethan.katzenberg.co.uk/posts/saying-difficult-things/",
           "author": null,
           "description": "Comments",
-          "link": "https://www.wsj.com/articles/microsoft-directors-decided-bill-gates-needed-to-leave-board-due-to-prior-relationship-with-staffer-11621205803",
-          "publishedOn": "2021-05-16T23:45:47.000Z",
-          "wordCount": 1256,
-          "title": "Microsoft Decided Bill Gates Needed to Leave Board Due to Staff Relationship"
+          "link": "https://ethan.katzenberg.co.uk/posts/saying-difficult-things/",
+          "publishedOn": "2021-05-17T22:45:20.000Z",
+          "wordCount": 244,
+          "title": "Saying the Difficult Things"
         },
         {
-          "id": "https://ethz.ch/en/news-and-events/eth-news/news/2021/05/the-achilles-heel-of-the-coronavirus.html",
+          "id": "http://jobs.hackclub.com/",
           "author": null,
           "description": "Comments",
-          "link": "https://ethz.ch/en/news-and-events/eth-news/news/2021/05/the-achilles-heel-of-the-coronavirus.html",
-          "publishedOn": "2021-05-16T22:40:35.000Z",
-          "wordCount": 1346,
-          "title": "The Achilles Heel of the Coronavirus"
+          "link": "http://jobs.hackclub.com/",
+          "publishedOn": "2021-05-17T22:42:22.000Z",
+          "wordCount": 193,
+          "title": "Show HN: Apply for a job through SSH, $ ssh jobs.hackclub.com"
         },
         {
-          "id": "https://www.folklore.org/StoryView.py?project=Macintosh&story=Busy_Being_Born.txt",
+          "id": "https://www.nps.gov/articles/000/cicadas-brood-x.htm",
           "author": null,
           "description": "Comments",
-          "link": "https://www.folklore.org/StoryView.py?project=Macintosh&story=Busy_Being_Born.txt",
-          "publishedOn": "2021-05-16T22:37:37.000Z",
-          "wordCount": 3258,
-          "title": "Busy Being Born (2004)"
-        },
-        {
-          "id": "https://www.economist.com/briefing/2021/05/15/there-have-been-7m-13m-excess-deaths-worldwide-during-the-pandemic",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.economist.com/briefing/2021/05/15/there-have-been-7m-13m-excess-deaths-worldwide-during-the-pandemic",
-          "publishedOn": "2021-05-16T22:09:37.000Z",
-          "wordCount": 2163,
-          "title": "There have been 7m-13m excess deaths worldwide during the pandemic"
-        },
-        {
-          "id": "https://www.pcmag.com/news/apple-epic-judge-asks-why-offering-consumers-a-choice-is-bad?",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.pcmag.com/news/apple-epic-judge-asks-why-offering-consumers-a-choice-is-bad?",
-          "publishedOn": "2021-05-16T20:59:33.000Z",
-          "wordCount": 1504,
-          "title": "Apple-Epic Judge Asks Why Offering iOS Users a Choice Is Bad?"
-        },
-        {
-          "id": "https://ktla.com/news/local-news/fullerton-to-pay-350k-to-settle-lawsuit-against-bloggers-take-back-criminal-hacking-accusations/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://ktla.com/news/local-news/fullerton-to-pay-350k-to-settle-lawsuit-against-bloggers-take-back-criminal-hacking-accusations/",
-          "publishedOn": "2021-05-16T20:37:32.000Z",
-          "wordCount": 1433,
-          "title": "City to pay $350K to settle blog lawsuit, take back criminal hacking accusations"
-        },
-        {
-          "id": "https://goteleport.com/blog/access-controls/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://goteleport.com/blog/access-controls/",
-          "publishedOn": "2021-05-16T19:10:49.000Z",
-          "wordCount": 3809,
-          "title": "The search for a perfect access control system"
-        },
-        {
-          "id": "https://christine.website/talks/systemd-the-good-parts-2021-05-16",
-          "author": null,
-          "description": "Comments",
-          "link": "https://christine.website/talks/systemd-the-good-parts-2021-05-16",
-          "publishedOn": "2021-05-16T18:42:26.000Z",
-          "wordCount": 2641,
-          "title": "Systemd: The Good Parts"
-        },
-        {
-          "id": "https://jpmens.net/2021/05/16/an-ios-app-update-that-really-annoys-me/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://jpmens.net/2021/05/16/an-ios-app-update-that-really-annoys-me/",
-          "publishedOn": "2021-05-16T18:41:32.000Z",
-          "wordCount": 448,
-          "title": "An iOS app update that annoys me"
-        },
-        {
-          "id": "https://coincarboncap.com/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://coincarboncap.com/",
-          "publishedOn": "2021-05-16T18:35:17.000Z",
-          "wordCount": 220,
-          "title": "Coin Carbon Cap – PoW cryptocurrencies ranked by energy efficiency"
-        },
-        {
-          "id": "https://www.cabinetmagazine.org/issues/63/mcconnell.php",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.cabinetmagazine.org/issues/63/mcconnell.php",
-          "publishedOn": "2021-05-16T18:11:56.000Z",
-          "wordCount": 4380,
-          "title": "Orphan Utopia: John Ballou Newbrough’s desert colony (2017)"
-        },
-        {
-          "id": "https://www.rekt.news/value-rekt2/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.rekt.news/value-rekt2/",
-          "publishedOn": "2021-05-16T17:59:46.000Z",
-          "wordCount": 658,
-          "title": "Missing line in a smart contract leads to $10M hack"
-        },
-        {
-          "id": "https://thehustle.co/the-secretary-who-turned-liquid-paper-into-a-multimillion-dollar-business/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://thehustle.co/the-secretary-who-turned-liquid-paper-into-a-multimillion-dollar-business/",
-          "publishedOn": "2021-05-16T17:26:14.000Z",
-          "wordCount": 2547,
-          "title": "Bette Graham, inventor and founder of Liquid Paper"
-        },
-        {
-          "id": "https://nickb.dev/blog/replacing-elasticsearch-with-rust-and-sqlite",
-          "author": null,
-          "description": "Comments",
-          "link": "https://nickb.dev/blog/replacing-elasticsearch-with-rust-and-sqlite",
-          "publishedOn": "2021-05-16T17:24:24.000Z",
-          "wordCount": 2796,
-          "title": "Replacing Elasticsearch with Rust and SQLite (2017)"
-        },
-        {
-          "id": "https://www.cointracker.io/careers",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.cointracker.io/careers",
-          "publishedOn": "2021-05-16T17:00:19.000Z",
-          "wordCount": 54,
-          "title": "CoinTracker (YC W18) is hiring people passionate about cryptocurrency"
-        },
-        {
-          "id": "https://html-notepad.com/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://html-notepad.com/",
-          "publishedOn": "2021-05-16T15:04:53.000Z",
-          "wordCount": 519,
-          "title": "HTML Notepad – HTML WYSIWYG editor"
-        },
-        {
-          "id": "https://faculty.georgetown.edu/jod/texts/twain.german.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://faculty.georgetown.edu/jod/texts/twain.german.html",
-          "publishedOn": "2021-05-16T14:32:24.000Z",
-          "wordCount": 7370,
-          "title": "The Awful German Language (1880)"
-        },
-        {
-          "id": "http://www.learndatalogtoday.org",
-          "author": null,
-          "description": "Comments",
-          "link": "http://www.learndatalogtoday.org",
-          "publishedOn": "2021-05-16T14:21:10.000Z",
-          "wordCount": 150,
-          "title": "Learn Datalog Today"
-        },
-        {
-          "id": "https://www.msn.com/en-us/money/smallbusiness/the-man-who-didnt-invent-flamin-hot-cheetos/ar-BB1gMYd1",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.msn.com/en-us/money/smallbusiness/the-man-who-didnt-invent-flamin-hot-cheetos/ar-BB1gMYd1",
-          "publishedOn": "2021-05-16T14:15:59.000Z",
-          "wordCount": 5513,
-          "title": "The man who didn't invent Flamin' Hot Cheetos"
-        },
-        {
-          "id": "https://origami.kosmulski.org/blog/2021-05-16-building-personal-origami-website-2021",
-          "author": null,
-          "description": "Comments",
-          "link": "https://origami.kosmulski.org/blog/2021-05-16-building-personal-origami-website-2021",
-          "publishedOn": "2021-05-16T13:54:56.000Z",
-          "wordCount": 4380,
-          "title": "Building a personal website in 2021"
-        },
-        {
-          "id": "https://seaglass.cs.washington.edu/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://seaglass.cs.washington.edu/",
-          "publishedOn": "2021-05-16T13:53:24.000Z",
-          "wordCount": 1388,
-          "title": "SeaGlass: City-Wide IMSI-Catcher Detection (2017)"
-        },
-        {
-          "id": "https://blog.khanacademy.org/half-a-million-lines-of-go/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://blog.khanacademy.org/half-a-million-lines-of-go/",
-          "publishedOn": "2021-05-16T13:45:38.000Z",
+          "link": "https://www.nps.gov/articles/000/cicadas-brood-x.htm",
+          "publishedOn": "2021-05-17T22:25:51.000Z",
           "wordCount": 1001,
-          "title": "Half a million lines of Go"
+          "title": "Brood X cicadas, which come out ever 17 years, come out in the Eastern U.S."
         },
         {
-          "id": "https://vegetableman.github.io/vandal/",
+          "id": "https://cantunsee.space/",
           "author": null,
           "description": "Comments",
-          "link": "https://vegetableman.github.io/vandal/",
-          "publishedOn": "2021-05-16T12:22:25.000Z",
-          "wordCount": 430,
-          "title": "Show HN: Vandal – an alternate navigator to Wayback Machine"
+          "link": "https://cantunsee.space/",
+          "publishedOn": "2021-05-17T22:05:32.000Z",
+          "wordCount": 19,
+          "title": "Can't Unsee"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27171970",
+          "id": "https://www.chess.com/article/view/10-positions-chess-engines-just-dont-understand",
           "author": null,
           "description": "Comments",
-          "link": "https://news.ycombinator.com/item?id=27171970",
-          "publishedOn": "2021-05-16T07:47:51.000Z",
-          "wordCount": 18404,
-          "title": "Ask HN: What are some tools / libraries you built yourself?"
+          "link": "https://www.chess.com/article/view/10-positions-chess-engines-just-dont-understand",
+          "publishedOn": "2021-05-17T21:48:54.000Z",
+          "wordCount": 2174,
+          "title": "Positions chess engines don't understand"
         },
         {
-          "id": "https://fabiensanglard.net/lte/index.html",
+          "id": "https://www.nature.com/articles/d41586-021-01332-0",
           "author": null,
           "description": "Comments",
-          "link": "https://fabiensanglard.net/lte/index.html",
-          "publishedOn": "2021-05-16T07:16:32.000Z",
-          "wordCount": 1180,
-          "title": "Observing my cellphone switch towers"
+          "link": "https://www.nature.com/articles/d41586-021-01332-0",
+          "publishedOn": "2021-05-17T21:36:43.000Z",
+          "wordCount": 1671,
+          "title": "First nuclear detonation created ‘impossible’ quasicrystals"
         },
         {
-          "id": "https://spectrum.ieee.org/automaton/robotics/space-robots/jpl-design-for-a-clockwork-rover-to-explore-venus",
+          "id": "https://fuse.wikichip.org/news/4897/hot-chips-33-program-alder-lake-sapphire-rapids-zen-3-next-gen-z-neoverse-n2-and-many-more/",
           "author": null,
           "description": "Comments",
-          "link": "https://spectrum.ieee.org/automaton/robotics/space-robots/jpl-design-for-a-clockwork-rover-to-explore-venus",
-          "publishedOn": "2021-05-15T11:10:30.000Z",
-          "wordCount": 44,
-          "title": "JPL's Design for a Clockwork Rover to Explore Venus (2017)"
+          "link": "https://fuse.wikichip.org/news/4897/hot-chips-33-program-alder-lake-sapphire-rapids-zen-3-next-gen-z-neoverse-n2-and-many-more/",
+          "publishedOn": "2021-05-17T21:25:36.000Z",
+          "wordCount": 1912,
+          "title": "Hot Chips 33: Alder Lake, Sapphire Rapids, Zen 3, Next-Gen Z, Neoverse N2"
         },
         {
-          "id": "https://raphlinus.github.io/gpu/2021/05/13/stack-monoid-revisited.html",
+          "id": "https://palladiummag.com/2021/05/17/why-civilization-is-older-than-we-thought/",
           "author": null,
           "description": "Comments",
-          "link": "https://raphlinus.github.io/gpu/2021/05/13/stack-monoid-revisited.html",
-          "publishedOn": "2021-05-15T10:30:01.000Z",
-          "wordCount": 3700,
-          "title": "The stack monoid revisited"
+          "link": "https://palladiummag.com/2021/05/17/why-civilization-is-older-than-we-thought/",
+          "publishedOn": "2021-05-17T21:25:28.000Z",
+          "wordCount": 6420,
+          "title": "Why Civilization Is Older Than We Thought"
         },
         {
-          "id": "https://bossfightbooks.com",
+          "id": "https://github.com/jupyterlab/jupyterlab-latex",
           "author": null,
           "description": "Comments",
-          "link": "https://bossfightbooks.com",
-          "publishedOn": "2021-05-15T07:49:46.000Z",
-          "wordCount": 972,
-          "title": "Great books on classic video games"
+          "link": "https://github.com/jupyterlab/jupyterlab-latex",
+          "publishedOn": "2021-05-17T21:05:45.000Z",
+          "wordCount": 1067,
+          "title": "JupyterLab LaTeX – live-editing of LaTeX documents in JupyterLab"
         },
         {
-          "id": "https://www.economist.com/books-and-arts/2021/05/08/the-real-reasons-some-languages-are-harder-to-learn",
+          "id": "https://ysamm.com/?p=691",
           "author": null,
           "description": "Comments",
-          "link": "https://www.economist.com/books-and-arts/2021/05/08/the-real-reasons-some-languages-are-harder-to-learn",
-          "publishedOn": "2021-05-15T00:16:08.000Z",
-          "wordCount": 963,
-          "title": "Reasons some languages are harder to learn"
+          "link": "https://ysamm.com/?p=691",
+          "publishedOn": "2021-05-17T20:41:30.000Z",
+          "wordCount": 366,
+          "title": "Identify a Facebook user by his phone number despite privacy settings set"
+        },
+        {
+          "id": "https://legalese.com/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://legalese.com/",
+          "publishedOn": "2021-05-17T20:36:44.000Z",
+          "wordCount": 260,
+          "title": "Legalese – Computational Law"
+        },
+        {
+          "id": "https://www.seas.harvard.edu/news/2021/05/long-lasting-stable-solid-state-lithium-battery",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.seas.harvard.edu/news/2021/05/long-lasting-stable-solid-state-lithium-battery",
+          "publishedOn": "2021-05-17T20:14:30.000Z",
+          "wordCount": 1155,
+          "title": "A long-lasting, stable solid-state lithium battery"
+        },
+        {
+          "id": "https://www.caltech.edu/about/news/historys-mysteries-caltech-professor-helps-solve-hindenburg-disaster",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.caltech.edu/about/news/historys-mysteries-caltech-professor-helps-solve-hindenburg-disaster",
+          "publishedOn": "2021-05-17T19:44:55.000Z",
+          "wordCount": 2793,
+          "title": "Caltech professor helps solve Hindenburg disaster"
+        },
+        {
+          "id": "https://scarybeastsecurity.blogspot.com/2021/05/recovering-lost-treasure-filled-floppy.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://scarybeastsecurity.blogspot.com/2021/05/recovering-lost-treasure-filled-floppy.html",
+          "publishedOn": "2021-05-17T19:38:38.000Z",
+          "wordCount": 4610,
+          "title": "Recovering “lost” treasure-filled floppy discs with an oscilloscope"
+        },
+        {
+          "id": "https://www.sec.gov/news/press-release/2021-84",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.sec.gov/news/press-release/2021-84",
+          "publishedOn": "2021-05-17T19:01:48.000Z",
+          "wordCount": 962,
+          "title": "SEC Charges S&P Dow Jones for Failures Relating to Volatility-Related Index"
+        },
+        {
+          "id": "https://showme.missouri.edu/2021/study-drivers-who-experience-shift-work-sleep-disorder-are-3x-more-likely-to-be-involved-in-a-vehicle-crash/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://showme.missouri.edu/2021/study-drivers-who-experience-shift-work-sleep-disorder-are-3x-more-likely-to-be-involved-in-a-vehicle-crash/",
+          "publishedOn": "2021-05-17T18:51:23.000Z",
+          "wordCount": 1206,
+          "title": "Some Night-Shift Workers May Have a 300% Higher Risk of Car Crashes"
+        },
+        {
+          "id": "https://www.bbc.com/news/57102499",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.bbc.com/news/57102499",
+          "publishedOn": "2021-05-17T18:42:45.000Z",
+          "wordCount": 1639,
+          "title": "Why is the Gaza Strip blurry on Google Maps?"
+        },
+        {
+          "id": "https://reason.com/2021/05/13/the-police-dog-who-cried-drugs-at-every-traffic-stop/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://reason.com/2021/05/13/the-police-dog-who-cried-drugs-at-every-traffic-stop/",
+          "publishedOn": "2021-05-17T18:23:39.000Z",
+          "wordCount": 7113,
+          "title": "A police dog who cried drugs at every traffic stop"
+        },
+        {
+          "id": "https://www.grouparoo.com/blog/varchar-191",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.grouparoo.com/blog/varchar-191",
+          "publishedOn": "2021-05-17T18:18:18.000Z",
+          "wordCount": 1307,
+          "title": "Why do database columns have a character length of 191?"
+        },
+        {
+          "id": "https://100r.co/site/uxn.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://100r.co/site/uxn.html",
+          "publishedOn": "2021-05-17T17:35:32.000Z",
+          "wordCount": 674,
+          "title": "uxn: a portable 8-bit virtual computer"
+        },
+        {
+          "id": "https://lwn.net/Articles/414618/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://lwn.net/Articles/414618/",
+          "publishedOn": "2021-05-17T14:25:43.000Z",
+          "wordCount": 16510,
+          "title": "Ghosts of Unix past, part 3: Unfixable designs (2010)"
+        },
+        {
+          "id": "https://www.apple.com/newsroom/2021/05/apple-music-announces-spatial-audio-and-lossless-audio/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.apple.com/newsroom/2021/05/apple-music-announces-spatial-audio-and-lossless-audio/",
+          "publishedOn": "2021-05-17T13:06:31.000Z",
+          "wordCount": 1914,
+          "title": "Apple Music Announces Spatial Audio and Lossless Audio"
+        },
+        {
+          "id": "https://www.anandtech.com/show/16677/amd-and-globalfoundries-update-wafer-share-agreement-through-2024",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.anandtech.com/show/16677/amd-and-globalfoundries-update-wafer-share-agreement-through-2024",
+          "publishedOn": "2021-05-17T12:09:49.000Z",
+          "wordCount": 2955,
+          "title": "AMD and GlobalFoundries Update: Orders Through 2024, Now Non-Exclusive"
+        },
+        {
+          "id": "https://github.com/mikecao/umami",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/mikecao/umami",
+          "publishedOn": "2021-05-17T09:44:37.000Z",
+          "wordCount": 1012,
+          "title": "Umami – An alternative to Google Analytics"
+        },
+        {
+          "id": "http://www.gardening.cornell.edu/homegardening/",
+          "author": null,
+          "description": "Comments",
+          "link": "http://www.gardening.cornell.edu/homegardening/",
+          "publishedOn": "2021-05-17T08:50:35.000Z",
+          "wordCount": 71,
+          "title": "Home Gardening"
+        },
+        {
+          "id": "https://www.newyorker.com/magazine/2021/05/24/the-mysterious-origins-of-the-cerne-abbas-giant",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.newyorker.com/magazine/2021/05/24/the-mysterious-origins-of-the-cerne-abbas-giant",
+          "publishedOn": "2021-05-17T05:08:06.000Z",
+          "wordCount": 6071,
+          "title": "The Mysterious Origins of the Cerne Abbas Giant"
+        },
+        {
+          "id": "https://aneventapart.com/news/post/designing-intrinsic-layouts-aea-video",
+          "author": null,
+          "description": "Comments",
+          "link": "https://aneventapart.com/news/post/designing-intrinsic-layouts-aea-video",
+          "publishedOn": "2021-05-17T04:57:51.000Z",
+          "wordCount": 333,
+          "title": "“Designing Intrinsic Layouts” by Jen Simmons–An Event Apart Video"
+        },
+        {
+          "id": "https://macwright.com/2019/01/02/paper-notes.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://macwright.com/2019/01/02/paper-notes.html",
+          "publishedOn": "2021-05-16T11:14:51.000Z",
+          "wordCount": 520,
+          "title": "Paper Notes"
+        },
+        {
+          "id": "https://www.nytimes.com/2021/05/13/science/virus-origins-lab-leak-scientists.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.nytimes.com/2021/05/13/science/virus-origins-lab-leak-scientists.html",
+          "publishedOn": "2021-05-14T23:52:16.000Z",
+          "wordCount": 1147,
+          "title": "More Scientists Urge Broad Inquiry into Coronavirus Origins"
         }
       ]
     },
@@ -282,6 +282,15 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2021/05/core-web-vitals-case-study/",
+          "author": "hello@smashingmagazine.com (Beau Hartshorne)",
+          "description": "Google’s “Page Experience Update” will start rolling out in June. At first, sites that meet Core Web Vitals thresholds will have a minor ranking advantage in mobile search for all browsers. Search is important to any business, and this is the story of how Beau Hartshorne and his team at Instant Domain Search improved their Core Web Vitals scores.",
+          "link": "https://smashingmagazine.com/2021/05/core-web-vitals-case-study/",
+          "publishedOn": "2021-05-17T11:30:00.000Z",
+          "wordCount": 2906,
+          "title": "How We Improved Our Core Web Vitals (Case Study)"
+        },
         {
           "id": "https://smashingmagazine.com/2021/05/tree-shaking-reference-guide/",
           "author": "hello@smashingmagazine.com (Átila Fassina)",
@@ -497,6 +506,42 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "60a2771762ab9107fe5ab383",
+          "author": "",
+          "description": "HTML vs JSX Hypertext Markup Language (HTML) is the standard language for documents that determine the structure of a web page.  HTML is a very important language in web development. Your code is either in HTML originally or compiles to it so browsers can read it.  JSX, on the other",
+          "link": "https://www.freecodecamp.org/news/html-vs-jsx-whats-the-difference/",
+          "publishedOn": "2021-05-17T21:11:58.000Z",
+          "wordCount": 1169,
+          "title": "HTML vs JSX – What&#x27;s the Difference?"
+        },
+        {
+          "id": "60a16df162ab9107fe5ab01b",
+          "author": "",
+          "description": "When I started out as a web developer, people often threw around the term \"DOM\" in the industry. Every JavaScript tutorial mentioned it, but I didn't know what it meant. Fast forward two years, and now that I know what it's all about, I am going to explain what the",
+          "link": "https://www.freecodecamp.org/news/dom-explained-everything-you-need-to-know-about-the-document-object-model/",
+          "publishedOn": "2021-05-17T17:45:50.000Z",
+          "wordCount": 1282,
+          "title": "The DOM Explained for Beginners – How the Document Object Model Works"
+        },
+        {
+          "id": "609f552e62ab9107fe5aaba0",
+          "author": "",
+          "description": "Lottie is a library that helps render Adobe After Effects animations natively on mobile and the web. I like using Lottie for animations in my projects because: Creating an animation from scratch can be time-consuming, andGIF files can be double the size of Lottie JSON files (the files containing the",
+          "link": "https://www.freecodecamp.org/news/how-to-use-lottie-like-a-pro-resources-for-designers-and-developers/",
+          "publishedOn": "2021-05-17T16:25:22.000Z",
+          "wordCount": 1076,
+          "title": "How to Use the Lottie Library like a Pro – Lottie Resources for Designers and Developers"
+        },
+        {
+          "id": "609cb90262ab9107fe5aa026",
+          "author": "",
+          "description": "I'm a developer who's mostly been writing JavaScript, so the Solidity development environment was a bit hard to learn.  About four months ago, I switched to Hardhat from Truffle. This cool new kid on the block drastically improved my coding experience. So today I want to share it with my",
+          "link": "https://www.freecodecamp.org/news/solidity-tutorial-hardhat-nfts/",
+          "publishedOn": "2021-05-17T14:39:55.000Z",
+          "wordCount": 1233,
+          "title": "Solidity Tutorial – How to Create NFTs with Hardhat"
+        },
+        {
           "id": "609d63e962ab9107fe5aa2ce",
           "author": "",
           "description": "You may have heard of the term SMTP before, and wondered what it is. SMTP is a common method for handling email messages. Today I am going to explain what SMTP is, and how to use an SMTP provider such as SendGrid to send emails from your address. What Is",
@@ -549,45 +594,9 @@
           "publishedOn": "2021-05-13T18:17:49.000Z",
           "wordCount": 1775,
           "title": "React Tutorial – How to Work with Multiple Checkboxes"
-        },
-        {
-          "id": "609ccb0d62ab9107fe5aa0ce",
-          "author": "",
-          "description": "I was a corporate lawyer for 12 years. I never thought I'd be working at Google as a software engineer, but that's what I have been doing for the past year. I'm working remotely until COVID subsides and we can move to San Francisco.  In this article I'm going to",
-          "link": "https://www.freecodecamp.org/news/from-lawyer-to-google-engineer/",
-          "publishedOn": "2021-05-13T16:25:03.000Z",
-          "wordCount": 4024,
-          "title": "From Lawyer to Engineer at Google – How to Switch Careers and Learn New Skills"
-        },
-        {
-          "id": "5fde208ae6787e09839407c3",
-          "author": "",
-          "description": "In this free book, we will build two simple projects and deploy them on Netlify. We will use Vue.js as our front-end framework, and use different technologies to build our projects.  If you follow this tutorial to the end, you will build a simplified version of Twitter and a",
-          "link": "https://www.freecodecamp.org/news/build-a-portfolio-with-vuejs/",
-          "publishedOn": "2021-05-12T20:53:20.000Z",
-          "wordCount": 24536,
-          "title": "How to Build and Deploy a Portfolio with Vue.js Axios, the GitHub REST API, and Netlify"
-        },
-        {
-          "id": "609c215862ab9107fe5a9fa9",
-          "author": "",
-          "description": "Kivy is a free and open source Python framework for developing mobile apps and games with a natural user interface. We just released a 5-hour Kivy course on the freeCodeCamp.org YouTube channel. In this Kivy course, you will learn to create games and applications with Python for every platform",
-          "link": "https://www.freecodecamp.org/news/use-the-kivy-python-library-to-create-games-and-mobile-apps/",
-          "publishedOn": "2021-05-12T18:49:36.000Z",
-          "wordCount": 571,
-          "title": "Use the Kivy Python Library to Create Games and Mobile Apps"
-        },
-        {
-          "id": "6096aafe2cd0545b5e944430",
-          "author": "",
-          "description": "When you're scraping data from the web with Python, Selenium will often come up as an helpful tool to use. It was originally designed for automated testing, but its scraping capabilities are impressive, too. This is because Selenium can do things that other libraries or frameworks often can't when collecting",
-          "link": "https://www.freecodecamp.org/news/improve-web-scraping-with-selenium/",
-          "publishedOn": "2021-05-11T22:53:43.000Z",
-          "wordCount": 1358,
-          "title": "How to Use Selenium and Python to Scrape Websites More Effectively"
         }
       ]
     }
   ],
-  "cliVersion": "1.7.1"
+  "cliVersion": "1.7.2"
 }

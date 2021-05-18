@@ -2,305 +2,355 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rss.sant.sh/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-17T01:03:09.271Z</updated>
-    <generator>osmosfeed 1.7.1</generator>
+    <updated>2021-05-18T01:06:57.451Z</updated>
+    <generator>osmosfeed 1.7.2</generator>
     <link rel="alternate" href="https://rss.sant.sh/index.html"/>
     <link rel="self" href="https://rss.sant.sh/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[CEO Behind 5,500% Stock Gain Says His Secret Is Raising Salaries]]></title>
-        <id>https://www.bloomberg.com/news/articles/2021-05-16/ceo-behind-5-500-stock-gain-says-his-secret-is-raising-salaries</id>
-        <link href="https://www.bloomberg.com/news/articles/2021-05-16/ceo-behind-5-500-stock-gain-says-his-secret-is-raising-salaries"/>
-        <updated>2021-05-16T23:58:50.000Z</updated>
+        <title type="html"><![CDATA[Etleap (YC W13) Is Hiring a Technical End User Documentation Writer]]></title>
+        <id>https://news.ycombinator.com/item?id=27190219</id>
+        <link href="https://news.ycombinator.com/item?id=27190219"/>
+        <updated>2021-05-18T01:01:12.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Microsoft Decided Bill Gates Needed to Leave Board Due to Staff Relationship]]></title>
-        <id>https://www.wsj.com/articles/microsoft-directors-decided-bill-gates-needed-to-leave-board-due-to-prior-relationship-with-staffer-11621205803</id>
-        <link href="https://www.wsj.com/articles/microsoft-directors-decided-bill-gates-needed-to-leave-board-due-to-prior-relationship-with-staffer-11621205803"/>
-        <updated>2021-05-16T23:45:47.000Z</updated>
+        <title type="html"><![CDATA[Saying the Difficult Things]]></title>
+        <id>https://ethan.katzenberg.co.uk/posts/saying-difficult-things/</id>
+        <link href="https://ethan.katzenberg.co.uk/posts/saying-difficult-things/"/>
+        <updated>2021-05-17T22:45:20.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Achilles Heel of the Coronavirus]]></title>
-        <id>https://ethz.ch/en/news-and-events/eth-news/news/2021/05/the-achilles-heel-of-the-coronavirus.html</id>
-        <link href="https://ethz.ch/en/news-and-events/eth-news/news/2021/05/the-achilles-heel-of-the-coronavirus.html"/>
-        <updated>2021-05-16T22:40:35.000Z</updated>
+        <title type="html"><![CDATA[Show HN: Apply for a job through SSH, $ ssh jobs.hackclub.com]]></title>
+        <id>http://jobs.hackclub.com/</id>
+        <link href="http://jobs.hackclub.com/"/>
+        <updated>2021-05-17T22:42:22.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Busy Being Born (2004)]]></title>
-        <id>https://www.folklore.org/StoryView.py?project=Macintosh&amp;story=Busy_Being_Born.txt</id>
-        <link href="https://www.folklore.org/StoryView.py?project=Macintosh&amp;story=Busy_Being_Born.txt"/>
-        <updated>2021-05-16T22:37:37.000Z</updated>
+        <title type="html"><![CDATA[Brood X cicadas, which come out ever 17 years, come out in the Eastern U.S.]]></title>
+        <id>https://www.nps.gov/articles/000/cicadas-brood-x.htm</id>
+        <link href="https://www.nps.gov/articles/000/cicadas-brood-x.htm"/>
+        <updated>2021-05-17T22:25:51.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[There have been 7m-13m excess deaths worldwide during the pandemic]]></title>
-        <id>https://www.economist.com/briefing/2021/05/15/there-have-been-7m-13m-excess-deaths-worldwide-during-the-pandemic</id>
-        <link href="https://www.economist.com/briefing/2021/05/15/there-have-been-7m-13m-excess-deaths-worldwide-during-the-pandemic"/>
-        <updated>2021-05-16T22:09:37.000Z</updated>
+        <title type="html"><![CDATA[Can't Unsee]]></title>
+        <id>https://cantunsee.space/</id>
+        <link href="https://cantunsee.space/"/>
+        <updated>2021-05-17T22:05:32.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Apple-Epic Judge Asks Why Offering iOS Users a Choice Is Bad?]]></title>
-        <id>https://www.pcmag.com/news/apple-epic-judge-asks-why-offering-consumers-a-choice-is-bad?</id>
-        <link href="https://www.pcmag.com/news/apple-epic-judge-asks-why-offering-consumers-a-choice-is-bad?"/>
-        <updated>2021-05-16T20:59:33.000Z</updated>
+        <title type="html"><![CDATA[Positions chess engines don't understand]]></title>
+        <id>https://www.chess.com/article/view/10-positions-chess-engines-just-dont-understand</id>
+        <link href="https://www.chess.com/article/view/10-positions-chess-engines-just-dont-understand"/>
+        <updated>2021-05-17T21:48:54.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[City to pay $350K to settle blog lawsuit, take back criminal hacking accusations]]></title>
-        <id>https://ktla.com/news/local-news/fullerton-to-pay-350k-to-settle-lawsuit-against-bloggers-take-back-criminal-hacking-accusations/</id>
-        <link href="https://ktla.com/news/local-news/fullerton-to-pay-350k-to-settle-lawsuit-against-bloggers-take-back-criminal-hacking-accusations/"/>
-        <updated>2021-05-16T20:37:32.000Z</updated>
+        <title type="html"><![CDATA[First nuclear detonation created ‘impossible’ quasicrystals]]></title>
+        <id>https://www.nature.com/articles/d41586-021-01332-0</id>
+        <link href="https://www.nature.com/articles/d41586-021-01332-0"/>
+        <updated>2021-05-17T21:36:43.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The search for a perfect access control system]]></title>
-        <id>https://goteleport.com/blog/access-controls/</id>
-        <link href="https://goteleport.com/blog/access-controls/"/>
-        <updated>2021-05-16T19:10:49.000Z</updated>
+        <title type="html"><![CDATA[Hot Chips 33: Alder Lake, Sapphire Rapids, Zen 3, Next-Gen Z, Neoverse N2]]></title>
+        <id>https://fuse.wikichip.org/news/4897/hot-chips-33-program-alder-lake-sapphire-rapids-zen-3-next-gen-z-neoverse-n2-and-many-more/</id>
+        <link href="https://fuse.wikichip.org/news/4897/hot-chips-33-program-alder-lake-sapphire-rapids-zen-3-next-gen-z-neoverse-n2-and-many-more/"/>
+        <updated>2021-05-17T21:25:36.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Systemd: The Good Parts]]></title>
-        <id>https://christine.website/talks/systemd-the-good-parts-2021-05-16</id>
-        <link href="https://christine.website/talks/systemd-the-good-parts-2021-05-16"/>
-        <updated>2021-05-16T18:42:26.000Z</updated>
+        <title type="html"><![CDATA[Why Civilization Is Older Than We Thought]]></title>
+        <id>https://palladiummag.com/2021/05/17/why-civilization-is-older-than-we-thought/</id>
+        <link href="https://palladiummag.com/2021/05/17/why-civilization-is-older-than-we-thought/"/>
+        <updated>2021-05-17T21:25:28.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[An iOS app update that annoys me]]></title>
-        <id>https://jpmens.net/2021/05/16/an-ios-app-update-that-really-annoys-me/</id>
-        <link href="https://jpmens.net/2021/05/16/an-ios-app-update-that-really-annoys-me/"/>
-        <updated>2021-05-16T18:41:32.000Z</updated>
+        <title type="html"><![CDATA[HTML vs JSX – What&#x27;s the Difference?]]></title>
+        <id>60a2771762ab9107fe5ab383</id>
+        <link href="https://www.freecodecamp.org/news/html-vs-jsx-whats-the-difference/"/>
+        <updated>2021-05-17T21:11:58.000Z</updated>
+        <summary type="html"><![CDATA[HTML vs JSX Hypertext Markup Language (HTML) is the standard language for documents that determine the structure of a web page.  HTML is a very important language in web development. Your code is either in HTML originally or compiles to it so browsers can read it.  JSX, on the other]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JupyterLab LaTeX – live-editing of LaTeX documents in JupyterLab]]></title>
+        <id>https://github.com/jupyterlab/jupyterlab-latex</id>
+        <link href="https://github.com/jupyterlab/jupyterlab-latex"/>
+        <updated>2021-05-17T21:05:45.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Coin Carbon Cap – PoW cryptocurrencies ranked by energy efficiency]]></title>
-        <id>https://coincarboncap.com/</id>
-        <link href="https://coincarboncap.com/"/>
-        <updated>2021-05-16T18:35:17.000Z</updated>
+        <title type="html"><![CDATA[Identify a Facebook user by his phone number despite privacy settings set]]></title>
+        <id>https://ysamm.com/?p=691</id>
+        <link href="https://ysamm.com/?p=691"/>
+        <updated>2021-05-17T20:41:30.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Orphan Utopia: John Ballou Newbrough’s desert colony (2017)]]></title>
-        <id>https://www.cabinetmagazine.org/issues/63/mcconnell.php</id>
-        <link href="https://www.cabinetmagazine.org/issues/63/mcconnell.php"/>
-        <updated>2021-05-16T18:11:56.000Z</updated>
+        <title type="html"><![CDATA[Legalese – Computational Law]]></title>
+        <id>https://legalese.com/</id>
+        <link href="https://legalese.com/"/>
+        <updated>2021-05-17T20:36:44.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Missing line in a smart contract leads to $10M hack]]></title>
-        <id>https://www.rekt.news/value-rekt2/</id>
-        <link href="https://www.rekt.news/value-rekt2/"/>
-        <updated>2021-05-16T17:59:46.000Z</updated>
+        <title type="html"><![CDATA[A long-lasting, stable solid-state lithium battery]]></title>
+        <id>https://www.seas.harvard.edu/news/2021/05/long-lasting-stable-solid-state-lithium-battery</id>
+        <link href="https://www.seas.harvard.edu/news/2021/05/long-lasting-stable-solid-state-lithium-battery"/>
+        <updated>2021-05-17T20:14:30.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Bette Graham, inventor and founder of Liquid Paper]]></title>
-        <id>https://thehustle.co/the-secretary-who-turned-liquid-paper-into-a-multimillion-dollar-business/</id>
-        <link href="https://thehustle.co/the-secretary-who-turned-liquid-paper-into-a-multimillion-dollar-business/"/>
-        <updated>2021-05-16T17:26:14.000Z</updated>
+        <title type="html"><![CDATA[Caltech professor helps solve Hindenburg disaster]]></title>
+        <id>https://www.caltech.edu/about/news/historys-mysteries-caltech-professor-helps-solve-hindenburg-disaster</id>
+        <link href="https://www.caltech.edu/about/news/historys-mysteries-caltech-professor-helps-solve-hindenburg-disaster"/>
+        <updated>2021-05-17T19:44:55.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Replacing Elasticsearch with Rust and SQLite (2017)]]></title>
-        <id>https://nickb.dev/blog/replacing-elasticsearch-with-rust-and-sqlite</id>
-        <link href="https://nickb.dev/blog/replacing-elasticsearch-with-rust-and-sqlite"/>
-        <updated>2021-05-16T17:24:24.000Z</updated>
+        <title type="html"><![CDATA[Recovering “lost” treasure-filled floppy discs with an oscilloscope]]></title>
+        <id>https://scarybeastsecurity.blogspot.com/2021/05/recovering-lost-treasure-filled-floppy.html</id>
+        <link href="https://scarybeastsecurity.blogspot.com/2021/05/recovering-lost-treasure-filled-floppy.html"/>
+        <updated>2021-05-17T19:38:38.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CoinTracker (YC W18) is hiring people passionate about cryptocurrency]]></title>
-        <id>https://www.cointracker.io/careers</id>
-        <link href="https://www.cointracker.io/careers"/>
-        <updated>2021-05-16T17:00:19.000Z</updated>
+        <title type="html"><![CDATA[SEC Charges S&P Dow Jones for Failures Relating to Volatility-Related Index]]></title>
+        <id>https://www.sec.gov/news/press-release/2021-84</id>
+        <link href="https://www.sec.gov/news/press-release/2021-84"/>
+        <updated>2021-05-17T19:01:48.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[HTML Notepad – HTML WYSIWYG editor]]></title>
-        <id>https://html-notepad.com/</id>
-        <link href="https://html-notepad.com/"/>
-        <updated>2021-05-16T15:04:53.000Z</updated>
+        <title type="html"><![CDATA[Some Night-Shift Workers May Have a 300% Higher Risk of Car Crashes]]></title>
+        <id>https://showme.missouri.edu/2021/study-drivers-who-experience-shift-work-sleep-disorder-are-3x-more-likely-to-be-involved-in-a-vehicle-crash/</id>
+        <link href="https://showme.missouri.edu/2021/study-drivers-who-experience-shift-work-sleep-disorder-are-3x-more-likely-to-be-involved-in-a-vehicle-crash/"/>
+        <updated>2021-05-17T18:51:23.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Awful German Language (1880)]]></title>
-        <id>https://faculty.georgetown.edu/jod/texts/twain.german.html</id>
-        <link href="https://faculty.georgetown.edu/jod/texts/twain.german.html"/>
-        <updated>2021-05-16T14:32:24.000Z</updated>
+        <title type="html"><![CDATA[Why is the Gaza Strip blurry on Google Maps?]]></title>
+        <id>https://www.bbc.com/news/57102499</id>
+        <link href="https://www.bbc.com/news/57102499"/>
+        <updated>2021-05-17T18:42:45.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Learn Datalog Today]]></title>
-        <id>http://www.learndatalogtoday.org</id>
-        <link href="http://www.learndatalogtoday.org"/>
-        <updated>2021-05-16T14:21:10.000Z</updated>
+        <title type="html"><![CDATA[A police dog who cried drugs at every traffic stop]]></title>
+        <id>https://reason.com/2021/05/13/the-police-dog-who-cried-drugs-at-every-traffic-stop/</id>
+        <link href="https://reason.com/2021/05/13/the-police-dog-who-cried-drugs-at-every-traffic-stop/"/>
+        <updated>2021-05-17T18:23:39.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The man who didn't invent Flamin' Hot Cheetos]]></title>
-        <id>https://www.msn.com/en-us/money/smallbusiness/the-man-who-didnt-invent-flamin-hot-cheetos/ar-BB1gMYd1</id>
-        <link href="https://www.msn.com/en-us/money/smallbusiness/the-man-who-didnt-invent-flamin-hot-cheetos/ar-BB1gMYd1"/>
-        <updated>2021-05-16T14:15:59.000Z</updated>
+        <title type="html"><![CDATA[Why do database columns have a character length of 191?]]></title>
+        <id>https://www.grouparoo.com/blog/varchar-191</id>
+        <link href="https://www.grouparoo.com/blog/varchar-191"/>
+        <updated>2021-05-17T18:18:18.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Building a personal website in 2021]]></title>
-        <id>https://origami.kosmulski.org/blog/2021-05-16-building-personal-origami-website-2021</id>
-        <link href="https://origami.kosmulski.org/blog/2021-05-16-building-personal-origami-website-2021"/>
-        <updated>2021-05-16T13:54:56.000Z</updated>
+        <title type="html"><![CDATA[The DOM Explained for Beginners – How the Document Object Model Works]]></title>
+        <id>60a16df162ab9107fe5ab01b</id>
+        <link href="https://www.freecodecamp.org/news/dom-explained-everything-you-need-to-know-about-the-document-object-model/"/>
+        <updated>2021-05-17T17:45:50.000Z</updated>
+        <summary type="html"><![CDATA[When I started out as a web developer, people often threw around the term "DOM" in the industry. Every JavaScript tutorial mentioned it, but I didn't know what it meant. Fast forward two years, and now that I know what it's all about, I am going to explain what the]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[uxn: a portable 8-bit virtual computer]]></title>
+        <id>https://100r.co/site/uxn.html</id>
+        <link href="https://100r.co/site/uxn.html"/>
+        <updated>2021-05-17T17:35:32.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SeaGlass: City-Wide IMSI-Catcher Detection (2017)]]></title>
-        <id>https://seaglass.cs.washington.edu/</id>
-        <link href="https://seaglass.cs.washington.edu/"/>
-        <updated>2021-05-16T13:53:24.000Z</updated>
+        <title type="html"><![CDATA[How to Use the Lottie Library like a Pro – Lottie Resources for Designers and Developers]]></title>
+        <id>609f552e62ab9107fe5aaba0</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-lottie-like-a-pro-resources-for-designers-and-developers/"/>
+        <updated>2021-05-17T16:25:22.000Z</updated>
+        <summary type="html"><![CDATA[Lottie is a library that helps render Adobe After Effects animations natively on mobile and the web. I like using Lottie for animations in my projects because: Creating an animation from scratch can be time-consuming, andGIF files can be double the size of Lottie JSON files (the files containing the]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solidity Tutorial – How to Create NFTs with Hardhat]]></title>
+        <id>609cb90262ab9107fe5aa026</id>
+        <link href="https://www.freecodecamp.org/news/solidity-tutorial-hardhat-nfts/"/>
+        <updated>2021-05-17T14:39:55.000Z</updated>
+        <summary type="html"><![CDATA[I'm a developer who's mostly been writing JavaScript, so the Solidity development environment was a bit hard to learn.  About four months ago, I switched to Hardhat from Truffle. This cool new kid on the block drastically improved my coding experience. So today I want to share it with my]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ghosts of Unix past, part 3: Unfixable designs (2010)]]></title>
+        <id>https://lwn.net/Articles/414618/</id>
+        <link href="https://lwn.net/Articles/414618/"/>
+        <updated>2021-05-17T14:25:43.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Half a million lines of Go]]></title>
-        <id>https://blog.khanacademy.org/half-a-million-lines-of-go/</id>
-        <link href="https://blog.khanacademy.org/half-a-million-lines-of-go/"/>
-        <updated>2021-05-16T13:45:38.000Z</updated>
+        <title type="html"><![CDATA[Apple Music Announces Spatial Audio and Lossless Audio]]></title>
+        <id>https://www.apple.com/newsroom/2021/05/apple-music-announces-spatial-audio-and-lossless-audio/</id>
+        <link href="https://www.apple.com/newsroom/2021/05/apple-music-announces-spatial-audio-and-lossless-audio/"/>
+        <updated>2021-05-17T13:06:31.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Vandal – an alternate navigator to Wayback Machine]]></title>
-        <id>https://vegetableman.github.io/vandal/</id>
-        <link href="https://vegetableman.github.io/vandal/"/>
-        <updated>2021-05-16T12:22:25.000Z</updated>
+        <title type="html"><![CDATA[AMD and GlobalFoundries Update: Orders Through 2024, Now Non-Exclusive]]></title>
+        <id>https://www.anandtech.com/show/16677/amd-and-globalfoundries-update-wafer-share-agreement-through-2024</id>
+        <link href="https://www.anandtech.com/show/16677/amd-and-globalfoundries-update-wafer-share-agreement-through-2024"/>
+        <updated>2021-05-17T12:09:49.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask HN: What are some tools / libraries you built yourself?]]></title>
-        <id>https://news.ycombinator.com/item?id=27171970</id>
-        <link href="https://news.ycombinator.com/item?id=27171970"/>
-        <updated>2021-05-16T07:47:51.000Z</updated>
+        <title type="html"><![CDATA[How We Improved Our Core Web Vitals (Case Study)]]></title>
+        <id>https://smashingmagazine.com/2021/05/core-web-vitals-case-study/</id>
+        <link href="https://smashingmagazine.com/2021/05/core-web-vitals-case-study/"/>
+        <updated>2021-05-17T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Google’s “Page Experience Update” will start rolling out in June. At first, sites that meet Core Web Vitals thresholds will have a minor ranking advantage in mobile search for all browsers. Search is important to any business, and this is the story of how Beau Hartshorne and his team at Instant Domain Search improved their Core Web Vitals scores.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Beau Hartshorne)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Umami – An alternative to Google Analytics]]></title>
+        <id>https://github.com/mikecao/umami</id>
+        <link href="https://github.com/mikecao/umami"/>
+        <updated>2021-05-17T09:44:37.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Observing my cellphone switch towers]]></title>
-        <id>https://fabiensanglard.net/lte/index.html</id>
-        <link href="https://fabiensanglard.net/lte/index.html"/>
-        <updated>2021-05-16T07:16:32.000Z</updated>
+        <title type="html"><![CDATA[Home Gardening]]></title>
+        <id>http://www.gardening.cornell.edu/homegardening/</id>
+        <link href="http://www.gardening.cornell.edu/homegardening/"/>
+        <updated>2021-05-17T08:50:35.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[JPL's Design for a Clockwork Rover to Explore Venus (2017)]]></title>
-        <id>https://spectrum.ieee.org/automaton/robotics/space-robots/jpl-design-for-a-clockwork-rover-to-explore-venus</id>
-        <link href="https://spectrum.ieee.org/automaton/robotics/space-robots/jpl-design-for-a-clockwork-rover-to-explore-venus"/>
-        <updated>2021-05-15T11:10:30.000Z</updated>
+        <title type="html"><![CDATA[The Mysterious Origins of the Cerne Abbas Giant]]></title>
+        <id>https://www.newyorker.com/magazine/2021/05/24/the-mysterious-origins-of-the-cerne-abbas-giant</id>
+        <link href="https://www.newyorker.com/magazine/2021/05/24/the-mysterious-origins-of-the-cerne-abbas-giant"/>
+        <updated>2021-05-17T05:08:06.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The stack monoid revisited]]></title>
-        <id>https://raphlinus.github.io/gpu/2021/05/13/stack-monoid-revisited.html</id>
-        <link href="https://raphlinus.github.io/gpu/2021/05/13/stack-monoid-revisited.html"/>
-        <updated>2021-05-15T10:30:01.000Z</updated>
+        <title type="html"><![CDATA[“Designing Intrinsic Layouts” by Jen Simmons–An Event Apart Video]]></title>
+        <id>https://aneventapart.com/news/post/designing-intrinsic-layouts-aea-video</id>
+        <link href="https://aneventapart.com/news/post/designing-intrinsic-layouts-aea-video"/>
+        <updated>2021-05-17T04:57:51.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Great books on classic video games]]></title>
-        <id>https://bossfightbooks.com</id>
-        <link href="https://bossfightbooks.com"/>
-        <updated>2021-05-15T07:49:46.000Z</updated>
+        <title type="html"><![CDATA[Paper Notes]]></title>
+        <id>https://macwright.com/2019/01/02/paper-notes.html</id>
+        <link href="https://macwright.com/2019/01/02/paper-notes.html"/>
+        <updated>2021-05-16T11:14:51.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Reasons some languages are harder to learn]]></title>
-        <id>https://www.economist.com/books-and-arts/2021/05/08/the-real-reasons-some-languages-are-harder-to-learn</id>
-        <link href="https://www.economist.com/books-and-arts/2021/05/08/the-real-reasons-some-languages-are-harder-to-learn"/>
-        <updated>2021-05-15T00:16:08.000Z</updated>
+        <title type="html"><![CDATA[More Scientists Urge Broad Inquiry into Coronavirus Origins]]></title>
+        <id>https://www.nytimes.com/2021/05/13/science/virus-origins-lab-leak-scientists.html</id>
+        <link href="https://www.nytimes.com/2021/05/13/science/virus-origins-lab-leak-scientists.html"/>
+        <updated>2021-05-14T23:52:16.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -377,36 +427,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[From Lawyer to Engineer at Google – How to Switch Careers and Learn New Skills]]></title>
-        <id>609ccb0d62ab9107fe5aa0ce</id>
-        <link href="https://www.freecodecamp.org/news/from-lawyer-to-google-engineer/"/>
-        <updated>2021-05-13T16:25:03.000Z</updated>
-        <summary type="html"><![CDATA[I was a corporate lawyer for 12 years. I never thought I'd be working at Google as a software engineer, but that's what I have been doing for the past year. I'm working remotely until COVID subsides and we can move to San Francisco.  In this article I'm going to]]></summary>
-        <author>
-            <name/>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build and Deploy a Portfolio with Vue.js Axios, the GitHub REST API, and Netlify]]></title>
-        <id>5fde208ae6787e09839407c3</id>
-        <link href="https://www.freecodecamp.org/news/build-a-portfolio-with-vuejs/"/>
-        <updated>2021-05-12T20:53:20.000Z</updated>
-        <summary type="html"><![CDATA[In this free book, we will build two simple projects and deploy them on Netlify. We will use Vue.js as our front-end framework, and use different technologies to build our projects.  If you follow this tutorial to the end, you will build a simplified version of Twitter and a]]></summary>
-        <author>
-            <name/>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Use the Kivy Python Library to Create Games and Mobile Apps]]></title>
-        <id>609c215862ab9107fe5a9fa9</id>
-        <link href="https://www.freecodecamp.org/news/use-the-kivy-python-library-to-create-games-and-mobile-apps/"/>
-        <updated>2021-05-12T18:49:36.000Z</updated>
-        <summary type="html"><![CDATA[Kivy is a free and open source Python framework for developing mobile apps and games with a natural user interface. We just released a 5-hour Kivy course on the freeCodeCamp.org YouTube channel. In this Kivy course, you will learn to create games and applications with Python for every platform]]></summary>
-        <author>
-            <name/>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Frustrating Design Patterns That Need Fixing: Birthday Picker]]></title>
         <id>https://smashingmagazine.com/2021/05/frustrating-design-patterns-birthday-picker/</id>
         <link href="https://smashingmagazine.com/2021/05/frustrating-design-patterns-birthday-picker/"/>
@@ -424,16 +444,6 @@
         <summary type="html"><![CDATA[Today marks the day we sent out our 300th edition of the Smashing Newsletter. This article is a little celebration in which we share little Smashing stories from people working behind the scenes.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Selenium and Python to Scrape Websites More Effectively]]></title>
-        <id>6096aafe2cd0545b5e944430</id>
-        <link href="https://www.freecodecamp.org/news/improve-web-scraping-with-selenium/"/>
-        <updated>2021-05-11T22:53:43.000Z</updated>
-        <summary type="html"><![CDATA[When you're scraping data from the web with Python, Selenium will often come up as an helpful tool to use. It was originally designed for automated testing, but its scraping capabilities are impressive, too. This is because Selenium can do things that other libraries or frameworks often can't when collecting]]></summary>
-        <author>
-            <name/>
         </author>
     </entry>
     <entry>
