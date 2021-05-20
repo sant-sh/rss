@@ -6,274 +6,274 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
-          "id": "https://www.lynalden.com/may-2021-newsletter/",
+          "id": "https://www.cnet.com/news/nikola-tesla-invention-from-100-years-ago-suddenly-makes-more-sense-today/",
           "author": null,
           "description": "Comments",
-          "link": "https://www.lynalden.com/may-2021-newsletter/",
-          "publishedOn": "2021-05-19T00:56:22.000Z",
-          "wordCount": 4785,
-          "title": "Fiscal-Driven Inflation"
-        },
-        {
-          "id": "https://supermemo.guru/wiki/Why_kids_hate_school%3F",
-          "author": null,
-          "description": "Comments",
-          "link": "https://supermemo.guru/wiki/Why_kids_hate_school%3F",
-          "publishedOn": "2021-05-19T00:26:42.000Z",
-          "wordCount": null,
-          "title": "Why kids hate school? – supermemo.guru"
-        },
-        {
-          "id": "https://github.com/Battelle/movfuscator",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/Battelle/movfuscator",
-          "publishedOn": "2021-05-18T23:47:09.000Z",
-          "wordCount": 2189,
-          "title": "Movfuscator: Compile C into only mov instructions"
-        },
-        {
-          "id": "https://www.npr.org/2021/05/18/990234501/facebook-calls-links-to-depression-inconclusive-these-researchers-disagree",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.npr.org/2021/05/18/990234501/facebook-calls-links-to-depression-inconclusive-these-researchers-disagree",
-          "publishedOn": "2021-05-18T23:19:06.000Z",
-          "wordCount": 2965,
-          "title": "Facebook Calls Links to Depression Inconclusive. These Researchers Disagree"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27201040",
-          "author": null,
-          "description": "Comments",
-          "link": "https://news.ycombinator.com/item?id=27201040",
-          "publishedOn": "2021-05-18T21:00:09.000Z",
-          "wordCount": 209,
-          "title": "Sirum is hiring engineers for the micro-fulfillment of medicine"
-        },
-        {
-          "id": "https://github.com/skullchap/chadstr",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/skullchap/chadstr",
-          "publishedOn": "2021-05-18T20:46:07.000Z",
-          "wordCount": 1011,
-          "title": "Chad Strings – The Chad way to handle strings in C"
-        },
-        {
-          "id": "https://matrix.org/blog/2021/05/17/the-matrix-space-beta",
-          "author": null,
-          "description": "Comments",
-          "link": "https://matrix.org/blog/2021/05/17/the-matrix-space-beta",
-          "publishedOn": "2021-05-18T20:28:16.000Z",
-          "wordCount": 779,
-          "title": "The Matrix Space Beta"
-        },
-        {
-          "id": "https://www.notion.so/blog/data-model-behind-notion",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.notion.so/blog/data-model-behind-notion",
-          "publishedOn": "2021-05-18T19:55:17.000Z",
-          "wordCount": 2808,
-          "title": "The data model behind Notion's flexibility"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/cryptocurrency/nvidia-cripples-cryptocurrency-mining-on-rtx-3080-and-3070-cards/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.bleepingcomputer.com/news/cryptocurrency/nvidia-cripples-cryptocurrency-mining-on-rtx-3080-and-3070-cards/",
-          "publishedOn": "2021-05-18T19:01:49.000Z",
-          "wordCount": 1059,
-          "title": "Nvidia cripples cryptocurrency mining on RTX 3080 and 3070 cards"
-        },
-        {
-          "id": "https://blog.google/technology/research/project-starline/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://blog.google/technology/research/project-starline/",
-          "publishedOn": "2021-05-18T18:54:06.000Z",
+          "link": "https://www.cnet.com/news/nikola-tesla-invention-from-100-years-ago-suddenly-makes-more-sense-today/",
+          "publishedOn": "2021-05-19T23:57:04.000Z",
           "wordCount": 1226,
-          "title": "Project Starline: Feel like you're there, together"
+          "title": "Nikola Tesla invention from 100 years ago suddenly makes more sense today"
         },
         {
-          "id": "https://blog.thea.codes/winterblooms-tech-stack/",
+          "id": "http://0pointer.net/blog/file-descriptor-limits.html",
           "author": null,
           "description": "Comments",
-          "link": "https://blog.thea.codes/winterblooms-tech-stack/",
-          "publishedOn": "2021-05-18T18:47:00.000Z",
-          "wordCount": 3083,
-          "title": "The tools and tech I use to run a one-woman hardware company"
+          "link": "http://0pointer.net/blog/file-descriptor-limits.html",
+          "publishedOn": "2021-05-19T23:22:45.000Z",
+          "wordCount": 1403,
+          "title": "File Descriptor Limits"
         },
         {
-          "id": "https://www.cell.com/patterns/fulltext/S2666-3899(21)00064-7",
+          "id": "https://blog.google/products/search/introducing-mum/",
           "author": null,
           "description": "Comments",
-          "link": "https://www.cell.com/patterns/fulltext/S2666-3899(21)00064-7",
-          "publishedOn": "2021-05-18T17:57:10.000Z",
-          "wordCount": 35,
-          "title": "The overfitted brain: Dreams evolved to assist generalization"
+          "link": "https://blog.google/products/search/introducing-mum/",
+          "publishedOn": "2021-05-19T23:15:51.000Z",
+          "wordCount": 1591,
+          "title": "Google MUM: A new AI milestone for understanding information"
         },
         {
-          "id": "https://blog.google/technology/ai/unveiling-our-new-quantum-ai-campus/",
+          "id": "https://landlock.io/",
           "author": null,
           "description": "Comments",
-          "link": "https://blog.google/technology/ai/unveiling-our-new-quantum-ai-campus/",
-          "publishedOn": "2021-05-18T17:47:36.000Z",
-          "wordCount": 1459,
-          "title": "Unveiling our new Quantum AI campus"
+          "link": "https://landlock.io/",
+          "publishedOn": "2021-05-19T23:00:10.000Z",
+          "wordCount": 405,
+          "title": "Landlock merged in mainline for Linux 5.13"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27198319",
+          "id": "https://groups.google.com/g/ansible-devel/c/AeF2En1RGI8",
           "author": null,
           "description": "Comments",
-          "link": "https://news.ycombinator.com/item?id=27198319",
-          "publishedOn": "2021-05-18T17:45:14.000Z",
-          "wordCount": 1687,
-          "title": "Launch HN: Thryft (YC W21) – Shopify for Instagram Sellers"
+          "link": "https://groups.google.com/g/ansible-devel/c/AeF2En1RGI8",
+          "publishedOn": "2021-05-19T22:45:36.000Z",
+          "wordCount": 549,
+          "title": "Ansible 4.0"
         },
         {
-          "id": "https://dropbox.tech/infrastructure/boosting-dropbox-upload-speed",
+          "id": "https://computerhistory.org/blog/patricias-perfect-pull/",
           "author": null,
           "description": "Comments",
-          "link": "https://dropbox.tech/infrastructure/boosting-dropbox-upload-speed",
-          "publishedOn": "2021-05-18T17:28:41.000Z",
-          "wordCount": 2262,
-          "title": "Boosting upload speed and improving Windows' TCP stack"
+          "link": "https://computerhistory.org/blog/patricias-perfect-pull/",
+          "publishedOn": "2021-05-19T22:28:34.000Z",
+          "wordCount": 2963,
+          "title": "Patricia’s Perfect Pull: A Crystal Grower’s Story"
         },
         {
-          "id": "https://blog.google/technology/ai/lamda/",
+          "id": "https://www.resilience.org/stories/2021-05-17/the-most-colossal-planning-failure-in-human-history/",
           "author": null,
           "description": "Comments",
-          "link": "https://blog.google/technology/ai/lamda/",
-          "publishedOn": "2021-05-18T17:28:41.000Z",
-          "wordCount": 1447,
-          "title": "LaMDA: Google's New Conversation Technology"
+          "link": "https://www.resilience.org/stories/2021-05-17/the-most-colossal-planning-failure-in-human-history/",
+          "publishedOn": "2021-05-19T21:47:33.000Z",
+          "wordCount": 2136,
+          "title": "“Energy in the Future”: a time capsule of energy concerns from 1953"
         },
         {
-          "id": "https://octo.github.com/projects/flat-data",
+          "id": "https://www.damninteresting.com/how-miss-shillings-orifice-helped-win-the-war/",
           "author": null,
           "description": "Comments",
-          "link": "https://octo.github.com/projects/flat-data",
-          "publishedOn": "2021-05-18T17:21:56.000Z",
-          "wordCount": 1994,
-          "title": "Flat Data"
+          "link": "https://www.damninteresting.com/how-miss-shillings-orifice-helped-win-the-war/",
+          "publishedOn": "2021-05-19T21:12:07.000Z",
+          "wordCount": 4351,
+          "title": "Miss Shilling's orifice helped win the war (2020)"
         },
         {
-          "id": "https://www.planetscale.com/blog/announcing-planetscale-the-database-for-developers",
+          "id": "https://jobs.lever.co/cover-2/49bab031-bd9e-4ca6-a558-b80e206f10ca",
           "author": null,
           "description": "Comments",
-          "link": "https://www.planetscale.com/blog/announcing-planetscale-the-database-for-developers",
-          "publishedOn": "2021-05-18T17:16:54.000Z",
-          "wordCount": 311,
-          "title": "PlanetScale – Database for Developers"
+          "link": "https://jobs.lever.co/cover-2/49bab031-bd9e-4ca6-a558-b80e206f10ca",
+          "publishedOn": "2021-05-19T21:00:43.000Z",
+          "wordCount": 637,
+          "title": "Cover (YC W16) Is Hiring"
         },
         {
-          "id": "https://eng.uber.com/jvm-tuning-garbage-collection/",
+          "id": "https://gamemath.com/",
           "author": null,
           "description": "Comments",
-          "link": "https://eng.uber.com/jvm-tuning-garbage-collection/",
-          "publishedOn": "2021-05-18T16:41:25.000Z",
-          "wordCount": 6379,
-          "title": "Uber Engineering Tricks of the Trade: Tuning JVM Memory for Large-Scale Services"
+          "link": "https://gamemath.com/",
+          "publishedOn": "2021-05-19T20:43:42.000Z",
+          "wordCount": 341,
+          "title": "3D Math Primer for Graphics and Game Development"
         },
         {
-          "id": "https://lux.camera/halide-pro-camera-for-ipad/",
+          "id": "https://www.marcolancini.it/2021/blog-cloud-security-roadmap/",
           "author": null,
           "description": "Comments",
-          "link": "https://lux.camera/halide-pro-camera-for-ipad/",
-          "publishedOn": "2021-05-18T16:04:13.000Z",
-          "wordCount": 2625,
-          "title": "Halide for iPad"
+          "link": "https://www.marcolancini.it/2021/blog-cloud-security-roadmap/",
+          "publishedOn": "2021-05-19T19:49:01.000Z",
+          "wordCount": 2777,
+          "title": "On Establishing a Cloud Security Program"
         },
         {
-          "id": "https://blog.mozilla.org/security/2021/05/18/introducing-site-isolation-in-firefox/",
+          "id": "https://adguard.com/en/blog/youtube-ads-in-safari-explained.html",
           "author": null,
           "description": "Comments",
-          "link": "https://blog.mozilla.org/security/2021/05/18/introducing-site-isolation-in-firefox/",
-          "publishedOn": "2021-05-18T16:02:01.000Z",
-          "wordCount": 1006,
-          "title": "Site Isolation in Firefox"
+          "link": "https://adguard.com/en/blog/youtube-ads-in-safari-explained.html",
+          "publishedOn": "2021-05-19T18:54:05.000Z",
+          "wordCount": 2749,
+          "title": "YouTube ads in Safari: you see them now, will you see them in the future?"
         },
         {
-          "id": "https://www.quantamagazine.org/sleep-evolved-before-brains-hydras-are-living-proof-20210518/",
+          "id": "https://sfciti.org/sf-tech-exodus/",
           "author": null,
           "description": "Comments",
-          "link": "https://www.quantamagazine.org/sleep-evolved-before-brains-hydras-are-living-proof-20210518/",
-          "publishedOn": "2021-05-18T15:19:52.000Z",
-          "wordCount": 2626,
-          "title": "Hydras suggest that sleep evolved before brains"
+          "link": "https://sfciti.org/sf-tech-exodus/",
+          "publishedOn": "2021-05-19T18:23:50.000Z",
+          "wordCount": 3090,
+          "title": "Tracking the San Francisco Tech Exodus"
         },
         {
-          "id": "https://blog.ethereum.org/2021/05/18/country-power-no-more/",
+          "id": "https://blog.twitter.com/engineering/en_us/topics/insights/2021/sharing-learnings-about-our-image-cropping-algorithm.html",
           "author": null,
           "description": "Comments",
-          "link": "https://blog.ethereum.org/2021/05/18/country-power-no-more/",
-          "publishedOn": "2021-05-18T13:55:41.000Z",
-          "wordCount": 1037,
-          "title": "Ethereum will use around 99.95% less energy post merge"
+          "link": "https://blog.twitter.com/engineering/en_us/topics/insights/2021/sharing-learnings-about-our-image-cropping-algorithm.html",
+          "publishedOn": "2021-05-19T18:10:21.000Z",
+          "wordCount": 1452,
+          "title": "Sharing learnings about our image cropping algorithm"
         },
         {
-          "id": "http://paulgraham.com/fn.html",
+          "id": "https://blogs.windows.com/windowsexperience/2021/05/19/the-future-of-internet-explorer-on-windows-10-is-in-microsoft-edge/",
           "author": null,
           "description": "Comments",
-          "link": "http://paulgraham.com/fn.html",
-          "publishedOn": "2021-05-18T13:30:45.000Z",
-          "wordCount": 1233,
-          "title": "Fierce Nerds"
+          "link": "https://blogs.windows.com/windowsexperience/2021/05/19/the-future-of-internet-explorer-on-windows-10-is-in-microsoft-edge/",
+          "publishedOn": "2021-05-19T18:00:24.000Z",
+          "wordCount": 1789,
+          "title": "Internet Explorer 11 (IE11) to be retired on June 15, 2022"
         },
         {
-          "id": "https://www.h2-view.com/story/hyundai-nexo-breaks-world-record-for-longest-distance-travelled-in-a-fcev/",
+          "id": "https://www.apple.com/newsroom/2021/05/apple-previews-powerful-software-updates-designed-for-people-with-disabilities/",
           "author": null,
           "description": "Comments",
-          "link": "https://www.h2-view.com/story/hyundai-nexo-breaks-world-record-for-longest-distance-travelled-in-a-fcev/",
-          "publishedOn": "2021-05-18T12:19:59.000Z",
-          "wordCount": 832,
-          "title": "Hyundai Nexo sets new world record 887.5 km travelled on single tank of hydrogen"
+          "link": "https://www.apple.com/newsroom/2021/05/apple-previews-powerful-software-updates-designed-for-people-with-disabilities/",
+          "publishedOn": "2021-05-19T17:19:12.000Z",
+          "wordCount": 2354,
+          "title": "Previews of software updates designed for people with disabilities"
         },
         {
-          "id": "https://plausible.io/blog/google-amp",
+          "id": "https://www.reuters.com/article/ftc-frontier-communications-speed/update-1-u-s-sues-frontier-communications-regarding-internet-speeds-filing-idUSL2N2N62E4",
           "author": null,
           "description": "Comments",
-          "link": "https://plausible.io/blog/google-amp",
-          "publishedOn": "2021-05-18T09:27:27.000Z",
-          "wordCount": 1099,
-          "title": "AMP pages no longer get preferential treatment in Google search"
+          "link": "https://www.reuters.com/article/ftc-frontier-communications-speed/update-1-u-s-sues-frontier-communications-regarding-internet-speeds-filing-idUSL2N2N62E4",
+          "publishedOn": "2021-05-19T17:13:27.000Z",
+          "wordCount": 413,
+          "title": "FTC and several states sue Frontier Communications regarding internet speeds"
         },
         {
-          "id": "https://www.macworld.com/article/344971/adobe-drops-postscript-type1.html",
+          "id": "https://www.netlify.com/blog/2021/05/19/next-generation-deploy-previews-plus-netlify-acquires-featurepeek/",
           "author": null,
           "description": "Comments",
-          "link": "https://www.macworld.com/article/344971/adobe-drops-postscript-type1.html",
-          "publishedOn": "2021-05-18T07:09:01.000Z",
-          "wordCount": 2171,
-          "title": "Adobe is dropping PostScript Type 1 font support"
+          "link": "https://www.netlify.com/blog/2021/05/19/next-generation-deploy-previews-plus-netlify-acquires-featurepeek/",
+          "publishedOn": "2021-05-19T16:01:05.000Z",
+          "wordCount": 1261,
+          "title": "Next-generation Deploy Previews, plus Netlify acquires FeaturePeek (YC S19)"
         },
         {
-          "id": "https://www.theatlantic.com/magazine/archive/2021/06/richard-wright-man-who-lived-underground/618705/",
+          "id": "https://www.nongnu.org/gzz/gi/gi.html",
           "author": null,
           "description": "Comments",
-          "link": "https://www.theatlantic.com/magazine/archive/2021/06/richard-wright-man-who-lived-underground/618705/",
-          "publishedOn": "2021-05-18T05:56:19.000Z",
-          "wordCount": 1923,
-          "title": "The Bleak Prescience of Richard Wright"
+          "link": "https://www.nongnu.org/gzz/gi/gi.html",
+          "publishedOn": "2021-05-19T15:25:40.000Z",
+          "wordCount": 4442,
+          "title": "A Gentle Introduction to Ted Nelson's ZigZag Structure (2002)"
         },
         {
-          "id": "https://www.halcyonmaps.com/map-of-the-internet-2021/",
+          "id": "https://hacks.mozilla.org/2021/05/improving-firefox-stability-on-linux/",
           "author": null,
           "description": "Comments",
-          "link": "https://www.halcyonmaps.com/map-of-the-internet-2021/",
-          "publishedOn": "2021-05-16T10:36:53.000Z",
-          "wordCount": 782,
-          "title": "Map of the Internet"
+          "link": "https://hacks.mozilla.org/2021/05/improving-firefox-stability-on-linux/",
+          "publishedOn": "2021-05-19T14:48:43.000Z",
+          "wordCount": 1411,
+          "title": "Improving Firefox stability on Linux"
         },
         {
-          "id": "https://silverhammermba.github.io/emberb/c/",
+          "id": "https://libera.chat/news/welcome-to-libera-chat",
           "author": null,
           "description": "Comments",
-          "link": "https://silverhammermba.github.io/emberb/c/",
-          "publishedOn": "2021-05-16T09:42:47.000Z",
-          "wordCount": 7839,
-          "title": "The Definitive Guide to Ruby's C API"
+          "link": "https://libera.chat/news/welcome-to-libera-chat",
+          "publishedOn": "2021-05-19T12:39:41.000Z",
+          "wordCount": 359,
+          "title": "Welcome to Libera Chat"
+        },
+        {
+          "id": "https://peterlyons.com/problog/2021/04/squeezebox-keyboard/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://peterlyons.com/problog/2021/04/squeezebox-keyboard/",
+          "publishedOn": "2021-05-19T11:53:42.000Z",
+          "wordCount": 2932,
+          "title": "Squeezebox Keyboard"
+        },
+        {
+          "id": "https://home.cern/news/news/physics/59-new-hadrons-and-counting",
+          "author": null,
+          "description": "Comments",
+          "link": "https://home.cern/news/news/physics/59-new-hadrons-and-counting",
+          "publishedOn": "2021-05-19T11:53:09.000Z",
+          "wordCount": 1357,
+          "title": "Over the past 10 years, the LHC has found more than 50 new hadrons"
+        },
+        {
+          "id": "https://psyche.co/ideas/to-be-more-tech-savvy-borrow-these-strategies-from-the-amish",
+          "author": null,
+          "description": "Comments",
+          "link": "https://psyche.co/ideas/to-be-more-tech-savvy-borrow-these-strategies-from-the-amish",
+          "publishedOn": "2021-05-19T11:17:34.000Z",
+          "wordCount": 1974,
+          "title": "The Amish as a source of tech-savvy guidance"
+        },
+        {
+          "id": "https://www.cambus.net/the-state-of-toolchains-in-openbsd/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.cambus.net/the-state-of-toolchains-in-openbsd/",
+          "publishedOn": "2021-05-19T11:00:35.000Z",
+          "wordCount": 977,
+          "title": "The State of Toolchains in OpenBSD"
+        },
+        {
+          "id": "https://madned.substack.com/p/a-teenagers-guide-to-avoiding-actual",
+          "author": null,
+          "description": "Comments",
+          "link": "https://madned.substack.com/p/a-teenagers-guide-to-avoiding-actual",
+          "publishedOn": "2021-05-19T10:07:21.000Z",
+          "wordCount": 3721,
+          "title": "A teenager's guide to avoiding actual work"
+        },
+        {
+          "id": "https://scattered-thoughts.net/writing/making-live-repls-behave/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://scattered-thoughts.net/writing/making-live-repls-behave/",
+          "publishedOn": "2021-05-19T05:35:35.000Z",
+          "wordCount": 2925,
+          "title": "Making live repls behave"
+        },
+        {
+          "id": "https://jvns.ca/blog/2021/05/17/how-to-look-at-the-stack-in-gdb/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://jvns.ca/blog/2021/05/17/how-to-look-at-the-stack-in-gdb/",
+          "publishedOn": "2021-05-19T05:25:04.000Z",
+          "wordCount": 2421,
+          "title": "How to look at the stack with gdb"
+        },
+        {
+          "id": "https://sw.kovidgoyal.net/kitty/keyboard-protocol.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://sw.kovidgoyal.net/kitty/keyboard-protocol.html",
+          "publishedOn": "2021-05-18T12:22:06.000Z",
+          "wordCount": 4208,
+          "title": "Raw keyboard handling in Unix terminals"
+        },
+        {
+          "id": "https://arstechnica.com/science/2021/05/from-apes-to-birds-there-are-65-animal-species-that-laugh/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://arstechnica.com/science/2021/05/from-apes-to-birds-there-are-65-animal-species-that-laugh/",
+          "publishedOn": "2021-05-18T12:11:32.000Z",
+          "wordCount": 1128,
+          "title": "From apes to birds, animal species that “laugh”"
         }
       ]
     },
@@ -282,6 +282,15 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2021/05/frustrating-design-patterns-mega-dropdown-hover-menus/",
+          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
+          "description": "Do we need mega-dropdown hover menus in 2021? Probably not. Let’s explore things to keep in mind when designing and building a mega-dropdown, alternatives to hover menus and fine details for designing a better UX.",
+          "link": "https://smashingmagazine.com/2021/05/frustrating-design-patterns-mega-dropdown-hover-menus/",
+          "publishedOn": "2021-05-19T11:40:00.000Z",
+          "wordCount": 4986,
+          "title": "Frustrating Design Patterns: Mega-Dropdown Hover Menus"
+        },
         {
           "id": "https://smashingmagazine.com/2021/05/create-edit-animate-svg-svgator3/",
           "author": "hello@smashingmagazine.com (Mikołaj Dobrucki)",
@@ -497,15 +506,6 @@
           "publishedOn": "2021-04-21T08:30:00.000Z",
           "wordCount": 2998,
           "title": "Why Content Is Such A Fundamental Part Of The Web Design Process"
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/04/making-graphql-work-in-wordpress/",
-          "author": "hello@smashingmagazine.com (Leonardo Losoviz)",
-          "description": "Let’s explore the plugins providing GraphQL servers to WordPress. When should we use WPGraphQL, and when the GraphQL API for WordPress? Is there some advantage of one over the other, or some particular task that is easier to accomplish with one of them? In this article, we will find out.",
-          "link": "https://smashingmagazine.com/2021/04/making-graphql-work-in-wordpress/",
-          "publishedOn": "2021-04-20T09:00:00.000Z",
-          "wordCount": 3482,
-          "title": "Making GraphQL Work In WordPress"
         }
       ]
     },
@@ -514,6 +514,33 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "60a42386906c5207e3a7dfe2",
+          "author": "",
+          "description": "The internet is going through a paradigm shift. Learn the differences between Web2 and Web3, and why many developers and companies are shifting their approach in building apps.",
+          "link": "https://www.freecodecamp.org/news/what-is-web3/",
+          "publishedOn": "2021-05-19T21:09:01.000Z",
+          "wordCount": 2086,
+          "title": "What is Web3? The Decentralized Internet of the Future Explained"
+        },
+        {
+          "id": "60a469ec906c5207e3a7e1b9",
+          "author": "",
+          "description": "Imagine that you work at Magic Money Corp, which runs on just three lines of JavaScript: let input = { step1: 'collect underpants' } doStuff(input)  profit(input) // $$$!!! Now imagine that something's wrong with doStuff and you need to take it down for maintenance. What happens if you temporarily comment out the second",
+          "link": "https://www.freecodecamp.org/news/how-to-optimize-for-change-software-development/",
+          "publishedOn": "2021-05-19T17:30:08.000Z",
+          "wordCount": 1981,
+          "title": "How to Optimize for Change in Software Development"
+        },
+        {
+          "id": "60a53182906c5207e3a7e588",
+          "author": "",
+          "description": "Lately, I've been talking about my move into the Web3, Ethereum, and crypto space since making the switch from a traditional web, mobile, and cloud background. Since making that move, a shocking number of people have reached out to me who are also thinking about doing the same.  It's really",
+          "link": "https://www.freecodecamp.org/news/breaking-into-ethereum-crypto-web3-as-a-developer/",
+          "publishedOn": "2021-05-18T21:04:00.000Z",
+          "wordCount": 2258,
+          "title": "How to Break into Ethereum, Crypto, and Web3 as a Developer"
+        },
         {
           "id": "60a3780f906c5207e3a7db5f",
           "author": "",
@@ -569,40 +596,13 @@
           "title": "HTML vs JSX – What&#x27;s the Difference?"
         },
         {
-          "id": "60a16df162ab9107fe5ab01b",
+          "id": "60a536e1906c5207e3a7e6b5",
           "author": "",
-          "description": "When I started out as a web developer, people often threw around the term \"DOM\" in the industry. Every JavaScript tutorial mentioned it, but I didn't know what it meant. Fast forward two years, and now that I know what it's all about, I am going to explain what the",
-          "link": "https://www.freecodecamp.org/news/dom-explained-everything-you-need-to-know-about-the-document-object-model/",
-          "publishedOn": "2021-05-17T17:45:50.000Z",
-          "wordCount": 1282,
-          "title": "The DOM Explained for Beginners – How the Document Object Model Works"
-        },
-        {
-          "id": "609f552e62ab9107fe5aaba0",
-          "author": "",
-          "description": "Lottie is a library that helps render Adobe After Effects animations natively on mobile and the web. I like using Lottie for animations in my projects because: Creating an animation from scratch can be time-consuming, andGIF files can be double the size of Lottie JSON files (the files containing the",
-          "link": "https://www.freecodecamp.org/news/how-to-use-lottie-like-a-pro-resources-for-designers-and-developers/",
-          "publishedOn": "2021-05-17T16:25:22.000Z",
-          "wordCount": 1076,
-          "title": "How to Use the Lottie Library like a Pro – Lottie Resources for Designers and Developers"
-        },
-        {
-          "id": "609cb90262ab9107fe5aa026",
-          "author": "",
-          "description": "I'm a developer who's mostly been writing JavaScript, so the Solidity development environment was a bit hard to learn.  About four months ago, I switched to Hardhat from Truffle. This cool new kid on the block drastically improved my coding experience. So today I want to share it with my",
-          "link": "https://www.freecodecamp.org/news/solidity-tutorial-hardhat-nfts/",
-          "publishedOn": "2021-05-17T14:39:55.000Z",
-          "wordCount": 1233,
-          "title": "Solidity Tutorial – How to Create NFTs with Hardhat"
-        },
-        {
-          "id": "609d63e962ab9107fe5aa2ce",
-          "author": "",
-          "description": "You may have heard of the term SMTP before, and wondered what it is. SMTP is a common method for handling email messages. Today I am going to explain what SMTP is, and how to use an SMTP provider such as SendGrid to send emails from your address. What Is",
-          "link": "https://www.freecodecamp.org/news/what-is-sendgrid-smpt-email-newsletter-tutorial/",
-          "publishedOn": "2021-05-14T20:31:30.000Z",
-          "wordCount": 1293,
-          "title": "What is SendGrid? SMTP Email Newsletter Tutorial"
+          "description": "In this article, you'll learn how to build full stack dApps with React, Ethers.js, Solidity, and Hardhat. You can find the code for this project here. The video course for this tutorial is here. I recently joined Edge & Node as a Developer Relations Engineer and have been diving",
+          "link": "https://www.freecodecamp.org/news/full-stack-ethereum-development/",
+          "publishedOn": "2021-05-17T20:45:00.000Z",
+          "wordCount": 4218,
+          "title": "The Complete Guide to Full Stack Ethereum Development"
         }
       ]
     }
