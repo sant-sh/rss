@@ -6,274 +6,274 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
-          "id": "https://www.cnet.com/news/nikola-tesla-invention-from-100-years-ago-suddenly-makes-more-sense-today/",
+          "id": "https://www.theatlantic.com/science/archive/2021/05/evolution-butts/618915/",
           "author": null,
           "description": "Comments",
-          "link": "https://www.cnet.com/news/nikola-tesla-invention-from-100-years-ago-suddenly-makes-more-sense-today/",
-          "publishedOn": "2021-05-19T23:57:04.000Z",
-          "wordCount": 1226,
-          "title": "Nikola Tesla invention from 100 years ago suddenly makes more sense today"
+          "link": "https://www.theatlantic.com/science/archive/2021/05/evolution-butts/618915/",
+          "publishedOn": "2021-05-20T23:05:07.000Z",
+          "wordCount": 2273,
+          "title": "The Anus Is an Evolutionary Marvel"
         },
         {
-          "id": "http://0pointer.net/blog/file-descriptor-limits.html",
+          "id": "https://www.microsoft.com/security/blog/2021/05/20/simuland-understand-adversary-tradecraft-and-improve-detection-strategies/",
           "author": null,
           "description": "Comments",
-          "link": "http://0pointer.net/blog/file-descriptor-limits.html",
-          "publishedOn": "2021-05-19T23:22:45.000Z",
-          "wordCount": 1403,
-          "title": "File Descriptor Limits"
+          "link": "https://www.microsoft.com/security/blog/2021/05/20/simuland-understand-adversary-tradecraft-and-improve-detection-strategies/",
+          "publishedOn": "2021-05-20T21:44:18.000Z",
+          "wordCount": 1839,
+          "title": "SimuLand, a lab environment to simulate attacker tradecraft"
         },
         {
-          "id": "https://blog.google/products/search/introducing-mum/",
+          "id": "https://ionescu007.github.io/SimpleVisor/",
           "author": null,
           "description": "Comments",
-          "link": "https://blog.google/products/search/introducing-mum/",
-          "publishedOn": "2021-05-19T23:15:51.000Z",
-          "wordCount": 1591,
-          "title": "Google MUM: A new AI milestone for understanding information"
+          "link": "https://ionescu007.github.io/SimpleVisor/",
+          "publishedOn": "2021-05-20T21:40:16.000Z",
+          "wordCount": 1672,
+          "title": "SimpleVisor – Intel VT-x hypervisor in 500 lines of C code"
         },
         {
-          "id": "https://landlock.io/",
+          "id": "https://www.mozilla.org/en-US/security/advisories/mfsa2021-22/#CVE-2021-29956",
           "author": null,
           "description": "Comments",
-          "link": "https://landlock.io/",
-          "publishedOn": "2021-05-19T23:00:10.000Z",
-          "wordCount": 405,
-          "title": "Landlock merged in mainline for Linux 5.13"
+          "link": "https://www.mozilla.org/en-US/security/advisories/mfsa2021-22/#CVE-2021-29956",
+          "publishedOn": "2021-05-20T21:25:27.000Z",
+          "wordCount": 610,
+          "title": "Thunderbird stored OpenPGP secret keys without master password protection"
         },
         {
-          "id": "https://groups.google.com/g/ansible-devel/c/AeF2En1RGI8",
+          "id": "https://www.alaskapublic.org/2021/05/19/red-cross-honors-igiugig-woman-for-helping-light-runway-during-late-night-medevac/",
           "author": null,
           "description": "Comments",
-          "link": "https://groups.google.com/g/ansible-devel/c/AeF2En1RGI8",
-          "publishedOn": "2021-05-19T22:45:36.000Z",
-          "wordCount": 549,
-          "title": "Ansible 4.0"
+          "link": "https://www.alaskapublic.org/2021/05/19/red-cross-honors-igiugig-woman-for-helping-light-runway-during-late-night-medevac/",
+          "publishedOn": "2021-05-20T21:25:03.000Z",
+          "wordCount": 983,
+          "title": "Red Cross honors Igiugig woman for helping light runway during nighttime medevac"
         },
         {
-          "id": "https://computerhistory.org/blog/patricias-perfect-pull/",
+          "id": "https://jobs.lever.co/rainforest?lever-origin=applied&lever-source%5B%5D=HN",
           "author": null,
           "description": "Comments",
-          "link": "https://computerhistory.org/blog/patricias-perfect-pull/",
-          "publishedOn": "2021-05-19T22:28:34.000Z",
-          "wordCount": 2963,
-          "title": "Patricia’s Perfect Pull: A Crystal Grower’s Story"
+          "link": "https://jobs.lever.co/rainforest?lever-origin=applied&lever-source%5B%5D=HN",
+          "publishedOn": "2021-05-20T21:00:37.000Z",
+          "wordCount": 48,
+          "title": "Rainforest (YC S12) Is Hiring Remote Engineers, Designers and CSM"
         },
         {
-          "id": "https://www.resilience.org/stories/2021-05-17/the-most-colossal-planning-failure-in-human-history/",
+          "id": "https://science.sciencemag.org/content/early/2021/05/19/science.abg6296",
           "author": null,
           "description": "Comments",
-          "link": "https://www.resilience.org/stories/2021-05-17/the-most-colossal-planning-failure-in-human-history/",
-          "publishedOn": "2021-05-19T21:47:33.000Z",
-          "wordCount": 2136,
-          "title": "“Energy in the Future”: a time capsule of energy concerns from 1953"
+          "link": "https://science.sciencemag.org/content/early/2021/05/19/science.abg6296",
+          "publishedOn": "2021-05-20T20:27:02.000Z",
+          "wordCount": 6846,
+          "title": "Face masks effectively limit the probability of SARS-CoV-2 transmission"
         },
         {
-          "id": "https://www.damninteresting.com/how-miss-shillings-orifice-helped-win-the-war/",
+          "id": "https://lwn.net/SubscriberLink/856685/10206d3c9d10daf2/",
           "author": null,
           "description": "Comments",
-          "link": "https://www.damninteresting.com/how-miss-shillings-orifice-helped-win-the-war/",
-          "publishedOn": "2021-05-19T21:12:07.000Z",
-          "wordCount": 4351,
-          "title": "Miss Shilling's orifice helped win the war (2020)"
+          "link": "https://lwn.net/SubscriberLink/856685/10206d3c9d10daf2/",
+          "publishedOn": "2021-05-20T20:18:32.000Z",
+          "wordCount": 1387,
+          "title": "Why RISC-V doesn't yet support KVM"
         },
         {
-          "id": "https://jobs.lever.co/cover-2/49bab031-bd9e-4ca6-a558-b80e206f10ca",
+          "id": "https://talawah.io/blog/extreme-http-performance-tuning-one-point-two-million/",
           "author": null,
           "description": "Comments",
-          "link": "https://jobs.lever.co/cover-2/49bab031-bd9e-4ca6-a558-b80e206f10ca",
-          "publishedOn": "2021-05-19T21:00:43.000Z",
-          "wordCount": 637,
-          "title": "Cover (YC W16) Is Hiring"
+          "link": "https://talawah.io/blog/extreme-http-performance-tuning-one-point-two-million/",
+          "publishedOn": "2021-05-20T20:01:28.000Z",
+          "wordCount": 14589,
+          "title": "Extreme HTTP Performance Tuning"
         },
         {
-          "id": "https://gamemath.com/",
+          "id": "https://www.jeffgeerling.com/blog/2021/setting-raspberry-pi-2-network-interfaces-very-simple-router",
           "author": null,
           "description": "Comments",
-          "link": "https://gamemath.com/",
-          "publishedOn": "2021-05-19T20:43:42.000Z",
-          "wordCount": 341,
-          "title": "3D Math Primer for Graphics and Game Development"
+          "link": "https://www.jeffgeerling.com/blog/2021/setting-raspberry-pi-2-network-interfaces-very-simple-router",
+          "publishedOn": "2021-05-20T19:20:29.000Z",
+          "wordCount": 665,
+          "title": "Setting up a Raspberry Pi with 2 Network Interfaces as a simple router"
         },
         {
-          "id": "https://www.marcolancini.it/2021/blog-cloud-security-roadmap/",
+          "id": "https://www.upi.com/Top_News/US/2021/05/19/Oregon-Idaho-Donald-Trump-Joe-Biden/3341621450876/",
           "author": null,
           "description": "Comments",
-          "link": "https://www.marcolancini.it/2021/blog-cloud-security-roadmap/",
-          "publishedOn": "2021-05-19T19:49:01.000Z",
-          "wordCount": 2777,
-          "title": "On Establishing a Cloud Security Program"
+          "link": "https://www.upi.com/Top_News/US/2021/05/19/Oregon-Idaho-Donald-Trump-Joe-Biden/3341621450876/",
+          "publishedOn": "2021-05-20T19:16:40.000Z",
+          "wordCount": 984,
+          "title": "Five Oregon counties vote to leave state, create 'Greater Idaho'"
         },
         {
-          "id": "https://adguard.com/en/blog/youtube-ads-in-safari-explained.html",
+          "id": "https://www.spectacles.com/new-spectacles",
           "author": null,
           "description": "Comments",
-          "link": "https://adguard.com/en/blog/youtube-ads-in-safari-explained.html",
-          "publishedOn": "2021-05-19T18:54:05.000Z",
-          "wordCount": 2749,
-          "title": "YouTube ads in Safari: you see them now, will you see them in the future?"
+          "link": "https://www.spectacles.com/new-spectacles",
+          "publishedOn": "2021-05-20T18:00:05.000Z",
+          "wordCount": 12,
+          "title": "New Snap Spectacles Feature Augmented Reality Display"
         },
         {
-          "id": "https://sfciti.org/sf-tech-exodus/",
+          "id": "https://javier.xyz/pintr/",
           "author": null,
           "description": "Comments",
-          "link": "https://sfciti.org/sf-tech-exodus/",
-          "publishedOn": "2021-05-19T18:23:50.000Z",
-          "wordCount": 3090,
-          "title": "Tracking the San Francisco Tech Exodus"
+          "link": "https://javier.xyz/pintr/",
+          "publishedOn": "2021-05-20T17:22:33.000Z",
+          "wordCount": 50,
+          "title": "Show HN: Tool that turns your images into plotter-like line drawings"
         },
         {
-          "id": "https://blog.twitter.com/engineering/en_us/topics/insights/2021/sharing-learnings-about-our-image-cropping-algorithm.html",
+          "id": "https://www.quantamagazine.org/physicists-identify-the-engine-powering-black-hole-energy-beams-20210520/",
           "author": null,
           "description": "Comments",
-          "link": "https://blog.twitter.com/engineering/en_us/topics/insights/2021/sharing-learnings-about-our-image-cropping-algorithm.html",
-          "publishedOn": "2021-05-19T18:10:21.000Z",
-          "wordCount": 1452,
-          "title": "Sharing learnings about our image cropping algorithm"
+          "link": "https://www.quantamagazine.org/physicists-identify-the-engine-powering-black-hole-energy-beams-20210520/",
+          "publishedOn": "2021-05-20T16:43:51.000Z",
+          "wordCount": 2634,
+          "title": "Physicists identify the engine powering black hole energy beams"
         },
         {
-          "id": "https://blogs.windows.com/windowsexperience/2021/05/19/the-future-of-internet-explorer-on-windows-10-is-in-microsoft-edge/",
+          "id": "https://blogs.sciencemag.org/pipeline/archives/2021/05/20/crispr-editing-in-primates",
           "author": null,
           "description": "Comments",
-          "link": "https://blogs.windows.com/windowsexperience/2021/05/19/the-future-of-internet-explorer-on-windows-10-is-in-microsoft-edge/",
-          "publishedOn": "2021-05-19T18:00:24.000Z",
-          "wordCount": 1789,
-          "title": "Internet Explorer 11 (IE11) to be retired on June 15, 2022"
+          "link": "https://blogs.sciencemag.org/pipeline/archives/2021/05/20/crispr-editing-in-primates",
+          "publishedOn": "2021-05-20T16:31:47.000Z",
+          "wordCount": 3050,
+          "title": "CRISPR Editing in Primates"
         },
         {
-          "id": "https://www.apple.com/newsroom/2021/05/apple-previews-powerful-software-updates-designed-for-people-with-disabilities/",
+          "id": "https://blog.stackblitz.com/posts/introducing-webcontainers/",
           "author": null,
           "description": "Comments",
-          "link": "https://www.apple.com/newsroom/2021/05/apple-previews-powerful-software-updates-designed-for-people-with-disabilities/",
-          "publishedOn": "2021-05-19T17:19:12.000Z",
-          "wordCount": 2354,
-          "title": "Previews of software updates designed for people with disabilities"
+          "link": "https://blog.stackblitz.com/posts/introducing-webcontainers/",
+          "publishedOn": "2021-05-20T16:10:26.000Z",
+          "wordCount": 1811,
+          "title": "WebContainers: Run Node.js natively in the browser"
         },
         {
-          "id": "https://www.reuters.com/article/ftc-frontier-communications-speed/update-1-u-s-sues-frontier-communications-regarding-internet-speeds-filing-idUSL2N2N62E4",
+          "id": "https://news.ycombinator.com/item?id=27222985",
           "author": null,
           "description": "Comments",
-          "link": "https://www.reuters.com/article/ftc-frontier-communications-speed/update-1-u-s-sues-frontier-communications-regarding-internet-speeds-filing-idUSL2N2N62E4",
-          "publishedOn": "2021-05-19T17:13:27.000Z",
-          "wordCount": 413,
-          "title": "FTC and several states sue Frontier Communications regarding internet speeds"
+          "link": "https://news.ycombinator.com/item?id=27222985",
+          "publishedOn": "2021-05-20T16:08:30.000Z",
+          "wordCount": 4179,
+          "title": "Launch HN: YSplit (YC W19) – Automatically split and pay any bill"
         },
         {
-          "id": "https://www.netlify.com/blog/2021/05/19/next-generation-deploy-previews-plus-netlify-acquires-featurepeek/",
+          "id": "https://v2.parceljs.org/blog/beta3/",
           "author": null,
           "description": "Comments",
-          "link": "https://www.netlify.com/blog/2021/05/19/next-generation-deploy-previews-plus-netlify-acquires-featurepeek/",
-          "publishedOn": "2021-05-19T16:01:05.000Z",
-          "wordCount": 1261,
-          "title": "Next-generation Deploy Previews, plus Netlify acquires FeaturePeek (YC S19)"
+          "link": "https://v2.parceljs.org/blog/beta3/",
+          "publishedOn": "2021-05-20T15:31:22.000Z",
+          "wordCount": 1972,
+          "title": "Parcel 2 Beta 3 – improved build performance"
         },
         {
-          "id": "https://www.nongnu.org/gzz/gi/gi.html",
+          "id": "https://www.kickstarter.com/projects/upperstory/spintronics-build-mechanical-circuits",
           "author": null,
           "description": "Comments",
-          "link": "https://www.nongnu.org/gzz/gi/gi.html",
-          "publishedOn": "2021-05-19T15:25:40.000Z",
-          "wordCount": 4442,
-          "title": "A Gentle Introduction to Ted Nelson's ZigZag Structure (2002)"
+          "link": "https://www.kickstarter.com/projects/upperstory/spintronics-build-mechanical-circuits",
+          "publishedOn": "2021-05-20T15:31:06.000Z",
+          "wordCount": 3655,
+          "title": "Spintronics: Build Mechanical Circuits"
         },
         {
-          "id": "https://hacks.mozilla.org/2021/05/improving-firefox-stability-on-linux/",
+          "id": "https://www.yodaiken.com/2021/05/19/undefined-behavior-in-c-is-a-reading-error/",
           "author": null,
           "description": "Comments",
-          "link": "https://hacks.mozilla.org/2021/05/improving-firefox-stability-on-linux/",
-          "publishedOn": "2021-05-19T14:48:43.000Z",
-          "wordCount": 1411,
-          "title": "Improving Firefox stability on Linux"
+          "link": "https://www.yodaiken.com/2021/05/19/undefined-behavior-in-c-is-a-reading-error/",
+          "publishedOn": "2021-05-20T14:29:55.000Z",
+          "wordCount": 1980,
+          "title": "Undefined behavior in C is a reading error"
         },
         {
-          "id": "https://libera.chat/news/welcome-to-libera-chat",
+          "id": "https://www.bbc.com/worklife/article/20161028-native-english-speakers-are-the-worlds-worst-communicators",
           "author": null,
           "description": "Comments",
-          "link": "https://libera.chat/news/welcome-to-libera-chat",
-          "publishedOn": "2021-05-19T12:39:41.000Z",
-          "wordCount": 359,
-          "title": "Welcome to Libera Chat"
+          "link": "https://www.bbc.com/worklife/article/20161028-native-english-speakers-are-the-worlds-worst-communicators",
+          "publishedOn": "2021-05-20T13:24:19.000Z",
+          "wordCount": 1326,
+          "title": "Native speakers are hard to understand in a lingua franca situation"
         },
         {
-          "id": "https://peterlyons.com/problog/2021/04/squeezebox-keyboard/",
+          "id": "https://twitter.com/id_aa_carmack/status/1395089205986988043",
           "author": null,
           "description": "Comments",
-          "link": "https://peterlyons.com/problog/2021/04/squeezebox-keyboard/",
-          "publishedOn": "2021-05-19T11:53:42.000Z",
-          "wordCount": 2932,
-          "title": "Squeezebox Keyboard"
+          "link": "https://twitter.com/id_aa_carmack/status/1395089205986988043",
+          "publishedOn": "2021-05-20T13:12:49.000Z",
+          "wordCount": 196,
+          "title": "Before the iPhone, I worked on a few games for what were called \"feature phones\""
         },
         {
-          "id": "https://home.cern/news/news/physics/59-new-hadrons-and-counting",
+          "id": "https://nyxt.atlas.engineer/article/release-2.0.0.org",
           "author": null,
           "description": "Comments",
-          "link": "https://home.cern/news/news/physics/59-new-hadrons-and-counting",
-          "publishedOn": "2021-05-19T11:53:09.000Z",
-          "wordCount": 1357,
-          "title": "Over the past 10 years, the LHC has found more than 50 new hadrons"
+          "link": "https://nyxt.atlas.engineer/article/release-2.0.0.org",
+          "publishedOn": "2021-05-20T11:04:43.000Z",
+          "wordCount": 766,
+          "title": "Show HN: Nyxt Browser 2.0.0"
         },
         {
-          "id": "https://psyche.co/ideas/to-be-more-tech-savvy-borrow-these-strategies-from-the-amish",
+          "id": "https://www.atlasobscura.com/articles/long-pepper-better-than-black-pepper",
           "author": null,
           "description": "Comments",
-          "link": "https://psyche.co/ideas/to-be-more-tech-savvy-borrow-these-strategies-from-the-amish",
-          "publishedOn": "2021-05-19T11:17:34.000Z",
-          "wordCount": 1974,
-          "title": "The Amish as a source of tech-savvy guidance"
+          "link": "https://www.atlasobscura.com/articles/long-pepper-better-than-black-pepper",
+          "publishedOn": "2021-05-20T03:05:09.000Z",
+          "wordCount": null,
+          "title": "Europe fell in love with long pepper before black pepper (2016)"
         },
         {
-          "id": "https://www.cambus.net/the-state-of-toolchains-in-openbsd/",
+          "id": "https://doodles.mountainmath.ca/blog/2020/09/28/first-time-buyer-lorenz-curves/",
           "author": null,
           "description": "Comments",
-          "link": "https://www.cambus.net/the-state-of-toolchains-in-openbsd/",
-          "publishedOn": "2021-05-19T11:00:35.000Z",
-          "wordCount": 977,
-          "title": "The State of Toolchains in OpenBSD"
+          "link": "https://doodles.mountainmath.ca/blog/2020/09/28/first-time-buyer-lorenz-curves/",
+          "publishedOn": "2021-05-19T20:14:15.000Z",
+          "wordCount": 3006,
+          "title": "First-Time Buyer Lorenz Curves (2020)"
         },
         {
-          "id": "https://madned.substack.com/p/a-teenagers-guide-to-avoiding-actual",
+          "id": "https://www.theatlantic.com/science/archive/2021/05/ant-tapeworm/618919/",
           "author": null,
           "description": "Comments",
-          "link": "https://madned.substack.com/p/a-teenagers-guide-to-avoiding-actual",
-          "publishedOn": "2021-05-19T10:07:21.000Z",
-          "wordCount": 3721,
-          "title": "A teenager's guide to avoiding actual work"
+          "link": "https://www.theatlantic.com/science/archive/2021/05/ant-tapeworm/618919/",
+          "publishedOn": "2021-05-19T14:25:51.000Z",
+          "wordCount": 1376,
+          "title": "Ant parasites that prolong the life of their host"
         },
         {
-          "id": "https://scattered-thoughts.net/writing/making-live-repls-behave/",
+          "id": "https://phys.org/news/2021-05-quasars-rare-extragalactic-easier.html",
           "author": null,
           "description": "Comments",
-          "link": "https://scattered-thoughts.net/writing/making-live-repls-behave/",
-          "publishedOn": "2021-05-19T05:35:35.000Z",
-          "wordCount": 2925,
-          "title": "Making live repls behave"
+          "link": "https://phys.org/news/2021-05-quasars-rare-extragalactic-easier.html",
+          "publishedOn": "2021-05-19T12:26:44.000Z",
+          "wordCount": 1691,
+          "title": "Rare extragalactic objects are now easier to spot"
         },
         {
-          "id": "https://jvns.ca/blog/2021/05/17/how-to-look-at-the-stack-in-gdb/",
+          "id": "https://www.hillelwayne.com/talks/esolangs/",
           "author": null,
           "description": "Comments",
-          "link": "https://jvns.ca/blog/2021/05/17/how-to-look-at-the-stack-in-gdb/",
-          "publishedOn": "2021-05-19T05:25:04.000Z",
-          "wordCount": 2421,
-          "title": "How to look at the stack with gdb"
+          "link": "https://www.hillelwayne.com/talks/esolangs/",
+          "publishedOn": "2021-05-19T08:45:06.000Z",
+          "wordCount": 4249,
+          "title": "A brief introduction to esoteric programming languages"
         },
         {
-          "id": "https://sw.kovidgoyal.net/kitty/keyboard-protocol.html",
+          "id": "https://discuss.python.org/t/what-to-do-about-gpus-and-the-built-distributions-that-support-them/7125",
           "author": null,
           "description": "Comments",
-          "link": "https://sw.kovidgoyal.net/kitty/keyboard-protocol.html",
-          "publishedOn": "2021-05-18T12:22:06.000Z",
-          "wordCount": 4208,
-          "title": "Raw keyboard handling in Unix terminals"
+          "link": "https://discuss.python.org/t/what-to-do-about-gpus-and-the-built-distributions-that-support-them/7125",
+          "publishedOn": "2021-05-19T07:20:31.000Z",
+          "wordCount": 4804,
+          "title": "What to do about GPU packages on PyPI?"
         },
         {
-          "id": "https://arstechnica.com/science/2021/05/from-apes-to-birds-there-are-65-animal-species-that-laugh/",
+          "id": "https://www.theparisreview.org/blog/2021/05/17/americas-dead-souls/",
           "author": null,
           "description": "Comments",
-          "link": "https://arstechnica.com/science/2021/05/from-apes-to-birds-there-are-65-animal-species-that-laugh/",
-          "publishedOn": "2021-05-18T12:11:32.000Z",
-          "wordCount": 1128,
-          "title": "From apes to birds, animal species that “laugh”"
+          "link": "https://www.theparisreview.org/blog/2021/05/17/americas-dead-souls/",
+          "publishedOn": "2021-05-18T04:44:40.000Z",
+          "wordCount": 1835,
+          "title": "America’s Dead Souls"
         }
       ]
     },
@@ -282,6 +282,24 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2021/05/new-online-workshops-front-end-ux/",
+          "author": "hello@smashingmagazine.com (Iris Lješnjanin)",
+          "description": "Front-end and design are remarkably complex these days. That’s why we invite kind, smart folks from the community to run online workshops for all of us to learn together. And we have new ones coming up, and we’d like to kindly welcome you to join in.",
+          "link": "https://smashingmagazine.com/2021/05/new-online-workshops-front-end-ux/",
+          "publishedOn": "2021-05-20T14:20:00.000Z",
+          "wordCount": 831,
+          "title": "Boost Your Skills Online: Smashing Workshops On Front-End And Design"
+        },
+        {
+          "id": "https://smashingmagazine.com/2021/05/implement-authentication-nextjs-auth0/",
+          "author": "hello@smashingmagazine.com (Facundo Giuliani)",
+          "description": "A step-by-step tutorial on adding authentication and authorization to your Next.js apps, with Auth0. We’ll be using a Next.js SDK to connect our application to the Auth0 API and will create the dynamic API route for React.",
+          "link": "https://smashingmagazine.com/2021/05/implement-authentication-nextjs-auth0/",
+          "publishedOn": "2021-05-20T11:00:00.000Z",
+          "wordCount": 1919,
+          "title": "How To Implement Authentication In Next.js With Auth0"
+        },
         {
           "id": "https://smashingmagazine.com/2021/05/frustrating-design-patterns-mega-dropdown-hover-menus/",
           "author": "hello@smashingmagazine.com (Vitaly Friedman)",
@@ -497,15 +515,6 @@
           "publishedOn": "2021-04-21T13:55:00.000Z",
           "wordCount": 1929,
           "title": "A Complete Guide To Incremental Static Regeneration (ISR) With Next.js"
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/04/content-fundamental-part-web-design-process/",
-          "author": "hello@smashingmagazine.com (Matt Saunders)",
-          "description": "As designers, we are often burdened by the responsibility of producing and managing website content. It’s not our job to write it, but it’s not the client’s either. We can avert disaster by including content production in the design process.",
-          "link": "https://smashingmagazine.com/2021/04/content-fundamental-part-web-design-process/",
-          "publishedOn": "2021-04-21T08:30:00.000Z",
-          "wordCount": 2998,
-          "title": "Why Content Is Such A Fundamental Part Of The Web Design Process"
         }
       ]
     },
@@ -515,12 +524,57 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "60a6b3ab906c5207e3a7f5fa",
+          "author": "",
+          "description": "Angular is one of the most popular web frameworks. We just released a course on the freeCodeCamp.org YouTube channel that will teach you how to create an Angular 11 project from scratch. It uses a public API to create a game database website. You will gain a great foundation",
+          "link": "https://www.freecodecamp.org/news/angular-11-tutorial-code-a-project-from-scratch/",
+          "publishedOn": "2021-05-20T19:14:48.000Z",
+          "wordCount": 397,
+          "title": "Angular 11 Tutorial: Code a Project from Scratch"
+        },
+        {
+          "id": "60a694ab906c5207e3a7f544",
+          "author": "",
+          "description": "A lot of C++ courses teach you how to build toy projects with no real-world application. But it can often be more helpful to write programs people would actually use. We just released a 5-hour C++ course that will teach you how to write modern C++ code by building an",
+          "link": "https://www.freecodecamp.org/news/learn-modern-cpp-by-building-an-audio-plugin/",
+          "publishedOn": "2021-05-20T17:12:29.000Z",
+          "wordCount": 436,
+          "title": "Learn Modern C++ by Building an Audio Plugin"
+        },
+        {
+          "id": "60a4b5c7906c5207e3a7e2bb",
+          "author": "",
+          "description": "In this tutorial, you'll learn what version control is and how you can contribute to open-source projects using Git.  We'll get through the fundamentals of Git and I'll give you the knowledge that is indispensable for any web developer. What is Git?Git is a version control software which lets",
+          "link": "https://www.freecodecamp.org/news/get-started-with-version-control-and-git/",
+          "publishedOn": "2021-05-20T15:20:53.000Z",
+          "wordCount": 1493,
+          "title": "How to Get Started with Version Control Using Git"
+        },
+        {
+          "id": "60a36742906c5207e3a7da6e",
+          "author": "",
+          "description": "Over the last four months, I have recorded what is probably the most interactive JavaScript course that has ever been created. The reason I have done this is because I often see new coders fall into the same pitfalls again and again when trying to learn JavaScript, with the most",
+          "link": "https://www.freecodecamp.org/news/learn-javascript-interactive-course/",
+          "publishedOn": "2021-05-20T14:53:38.000Z",
+          "wordCount": 1202,
+          "title": "Learn JavaScript - A Free 7-hour Interactive Tutorial"
+        },
+        {
+          "id": "60a341f5906c5207e3a7da61",
+          "author": "",
+          "description": "CSS selectors are one of the most important parts of CSS. They give you the ability to target HTML elements on your web page that you want to style. Without CSS selectors, you wouldn't be able to style your page to look how you want. Thankfully CSS selectors have been",
+          "link": "https://www.freecodecamp.org/news/use-css-selectors-to-style-webpage/",
+          "publishedOn": "2021-05-19T23:17:21.000Z",
+          "wordCount": 2742,
+          "title": "How to Use CSS Selectors to Style Your Web Page"
+        },
+        {
           "id": "60a42386906c5207e3a7dfe2",
           "author": "",
           "description": "The internet is going through a paradigm shift. Learn the differences between Web2 and Web3, and why many developers and companies are shifting their approach in building apps.",
           "link": "https://www.freecodecamp.org/news/what-is-web3/",
           "publishedOn": "2021-05-19T21:09:01.000Z",
-          "wordCount": 2086,
+          "wordCount": 2087,
           "title": "What is Web3? The Decentralized Internet of the Future Explained"
         },
         {
@@ -558,51 +612,6 @@
           "publishedOn": "2021-05-18T16:50:36.000Z",
           "wordCount": 3309,
           "title": "Coding Programs – 101 Ways to Learn to Code for Free"
-        },
-        {
-          "id": "609bea6b62ab9107fe5a9f89",
-          "author": "",
-          "description": "If you're a Python developer who works with Keras SavedModels, this article is for you.  Perhaps you're not sure how to use SavedModels to leverage the power of machine learning in browser-based web apps. But don't worry – we'll cover all the basic steps you need to get started.  Along with",
-          "link": "https://www.freecodecamp.org/news/convert-keras-savedmodel-into-browser-based-webapp/",
-          "publishedOn": "2021-05-18T16:36:22.000Z",
-          "wordCount": 1938,
-          "title": "How to Convert a Keras SavedModel into a Browser-based Web App"
-        },
-        {
-          "id": "609fc4cc62ab9107fe5aac91",
-          "author": "",
-          "description": "Redux can be confusing for beginner React developers to understand. There are a lot of concepts you need to know to use it properly, like reducers, actions, store, pure functions, immutability, and much more. But every React developer should know the basics of how to work with Redux, since industry",
-          "link": "https://www.freecodecamp.org/news/redux-for-beginners/",
-          "publishedOn": "2021-05-18T16:18:18.000Z",
-          "wordCount": 2037,
-          "title": "Redux for Beginners – Learn Redux Basics with Code Examples"
-        },
-        {
-          "id": "60685767d5756f080ba93df4",
-          "author": "",
-          "description": "According to freeCodeCamp’s 2018 New Coder Survey, 40.3% of participants want to build a business of their own, either as a freelancer or as an entrepreneur.  If you are in that 40.3%, then this article is for you. If you are in the remaining 59.7%, you",
-          "link": "https://www.freecodecamp.org/news/be-a-successful-entrepreneur-developers-guide-to-startup-strategy-and-design/",
-          "publishedOn": "2021-05-18T16:08:27.000Z",
-          "wordCount": 4368,
-          "title": "How to Be a Successful Entrepreneur – A Developer&#x27;s Guide to Startup Strategy and Design"
-        },
-        {
-          "id": "60a2771762ab9107fe5ab383",
-          "author": "",
-          "description": "HTML vs JSX Hypertext Markup Language (HTML) is the standard language for documents that determine the structure of a web page.  HTML is a very important language in web development. Your code is either in HTML originally or compiles to it so browsers can read it.  JSX, on the other",
-          "link": "https://www.freecodecamp.org/news/html-vs-jsx-whats-the-difference/",
-          "publishedOn": "2021-05-17T21:11:58.000Z",
-          "wordCount": 1169,
-          "title": "HTML vs JSX – What&#x27;s the Difference?"
-        },
-        {
-          "id": "60a536e1906c5207e3a7e6b5",
-          "author": "",
-          "description": "In this article, you'll learn how to build full stack dApps with React, Ethers.js, Solidity, and Hardhat. You can find the code for this project here. The video course for this tutorial is here. I recently joined Edge & Node as a Developer Relations Engineer and have been diving",
-          "link": "https://www.freecodecamp.org/news/full-stack-ethereum-development/",
-          "publishedOn": "2021-05-17T20:45:00.000Z",
-          "wordCount": 4218,
-          "title": "The Complete Guide to Full Stack Ethereum Development"
         }
       ]
     }
