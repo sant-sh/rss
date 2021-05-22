@@ -6,274 +6,274 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
-          "id": "https://www.theatlantic.com/science/archive/2021/05/evolution-butts/618915/",
+          "id": "https://ucsdnews.ucsd.edu/pressrelease/a-new-replication-crisis-research-that-is-less-likely-be-true-is-cited-more",
           "author": null,
           "description": "Comments",
-          "link": "https://www.theatlantic.com/science/archive/2021/05/evolution-butts/618915/",
-          "publishedOn": "2021-05-20T23:05:07.000Z",
-          "wordCount": 2273,
-          "title": "The Anus Is an Evolutionary Marvel"
+          "link": "https://ucsdnews.ucsd.edu/pressrelease/a-new-replication-crisis-research-that-is-less-likely-be-true-is-cited-more",
+          "publishedOn": "2021-05-22T00:14:53.000Z",
+          "wordCount": 1161,
+          "title": "A new replication crisis: Research that is less likely to be true is cited more"
         },
         {
-          "id": "https://www.microsoft.com/security/blog/2021/05/20/simuland-understand-adversary-tradecraft-and-improve-detection-strategies/",
+          "id": "https://www.nytimes.com/2021/05/21/us/san-francisco-shoplifting-epidemic.html",
           "author": null,
           "description": "Comments",
-          "link": "https://www.microsoft.com/security/blog/2021/05/20/simuland-understand-adversary-tradecraft-and-improve-detection-strategies/",
-          "publishedOn": "2021-05-20T21:44:18.000Z",
-          "wordCount": 1839,
-          "title": "SimuLand, a lab environment to simulate attacker tradecraft"
+          "link": "https://www.nytimes.com/2021/05/21/us/san-francisco-shoplifting-epidemic.html",
+          "publishedOn": "2021-05-21T23:10:52.000Z",
+          "wordCount": 1026,
+          "title": "San Francisco’s Shoplifting Surge"
         },
         {
-          "id": "https://ionescu007.github.io/SimpleVisor/",
+          "id": "http://algorithmicbotany.org/papers/abop/abop.pdf",
           "author": null,
           "description": "Comments",
-          "link": "https://ionescu007.github.io/SimpleVisor/",
-          "publishedOn": "2021-05-20T21:40:16.000Z",
-          "wordCount": 1672,
-          "title": "SimpleVisor – Intel VT-x hypervisor in 500 lines of C code"
+          "link": "http://algorithmicbotany.org/papers/abop/abop.pdf",
+          "publishedOn": "2021-05-21T22:50:22.000Z",
+          "wordCount": 318004,
+          "title": "The Algorithmic Beauty of Plants (1990) [pdf]"
         },
         {
-          "id": "https://www.mozilla.org/en-US/security/advisories/mfsa2021-22/#CVE-2021-29956",
+          "id": "https://www.motherjones.com/environment/2021/05/canada-declares-plastics-toxic-ban-restrictions/",
           "author": null,
           "description": "Comments",
-          "link": "https://www.mozilla.org/en-US/security/advisories/mfsa2021-22/#CVE-2021-29956",
-          "publishedOn": "2021-05-20T21:25:27.000Z",
-          "wordCount": 610,
-          "title": "Thunderbird stored OpenPGP secret keys without master password protection"
+          "link": "https://www.motherjones.com/environment/2021/05/canada-declares-plastics-toxic-ban-restrictions/",
+          "publishedOn": "2021-05-21T22:31:57.000Z",
+          "wordCount": 1707,
+          "title": "Canada declares plastics toxic, paving the way for restrictions"
         },
         {
-          "id": "https://www.alaskapublic.org/2021/05/19/red-cross-honors-igiugig-woman-for-helping-light-runway-during-late-night-medevac/",
+          "id": "https://www.economist.com/united-states/2021/05/22/why-tech-firms-are-trying-to-run-away-from-politics-and-failing",
           "author": null,
           "description": "Comments",
-          "link": "https://www.alaskapublic.org/2021/05/19/red-cross-honors-igiugig-woman-for-helping-light-runway-during-late-night-medevac/",
-          "publishedOn": "2021-05-20T21:25:03.000Z",
-          "wordCount": 983,
-          "title": "Red Cross honors Igiugig woman for helping light runway during nighttime medevac"
+          "link": "https://www.economist.com/united-states/2021/05/22/why-tech-firms-are-trying-to-run-away-from-politics-and-failing",
+          "publishedOn": "2021-05-21T22:20:15.000Z",
+          "wordCount": 772,
+          "title": "Woke at Work: Why tech firms are trying to run away from politics and failing"
         },
         {
-          "id": "https://jobs.lever.co/rainforest?lever-origin=applied&lever-source%5B%5D=HN",
+          "id": "https://directorsblog.nih.gov/2021/05/18/human-antibodies-target-many-parts-of-coronavirus-spike-protein/",
           "author": null,
           "description": "Comments",
-          "link": "https://jobs.lever.co/rainforest?lever-origin=applied&lever-source%5B%5D=HN",
-          "publishedOn": "2021-05-20T21:00:37.000Z",
-          "wordCount": 48,
-          "title": "Rainforest (YC S12) Is Hiring Remote Engineers, Designers and CSM"
+          "link": "https://directorsblog.nih.gov/2021/05/18/human-antibodies-target-many-parts-of-coronavirus-spike-protein/",
+          "publishedOn": "2021-05-21T22:17:02.000Z",
+          "wordCount": 2598,
+          "title": "Human Antibodies Target Many Parts of Coronavirus Spike Protein"
         },
         {
-          "id": "https://science.sciencemag.org/content/early/2021/05/19/science.abg6296",
+          "id": "http://web.archive.org/web/19980701120538/http://www.php.net/",
           "author": null,
           "description": "Comments",
-          "link": "https://science.sciencemag.org/content/early/2021/05/19/science.abg6296",
-          "publishedOn": "2021-05-20T20:27:02.000Z",
-          "wordCount": 6846,
-          "title": "Face masks effectively limit the probability of SARS-CoV-2 transmission"
+          "link": "http://web.archive.org/web/19980701120538/http://www.php.net/",
+          "publishedOn": "2021-05-21T21:51:20.000Z",
+          "wordCount": 474,
+          "title": "PHP 3.0 Final is out (1998)"
         },
         {
-          "id": "https://lwn.net/SubscriberLink/856685/10206d3c9d10daf2/",
+          "id": "https://www.bloomberg.com/news/articles/2021-05-20/microsoft-and-apple-wage-war-on-gadget-right-to-repair-laws",
           "author": null,
           "description": "Comments",
-          "link": "https://lwn.net/SubscriberLink/856685/10206d3c9d10daf2/",
-          "publishedOn": "2021-05-20T20:18:32.000Z",
-          "wordCount": 1387,
-          "title": "Why RISC-V doesn't yet support KVM"
+          "link": "https://www.bloomberg.com/news/articles/2021-05-20/microsoft-and-apple-wage-war-on-gadget-right-to-repair-laws",
+          "publishedOn": "2021-05-21T21:10:00.000Z",
+          "wordCount": 93,
+          "title": "Microsoft and Apple wage war on gadget right-to-repair laws"
         },
         {
-          "id": "https://talawah.io/blog/extreme-http-performance-tuning-one-point-two-million/",
+          "id": "https://jobs.lever.co/substackinc/c98439dd-6560-4b58-b827-42eb92c61dbd",
           "author": null,
           "description": "Comments",
-          "link": "https://talawah.io/blog/extreme-http-performance-tuning-one-point-two-million/",
-          "publishedOn": "2021-05-20T20:01:28.000Z",
-          "wordCount": 14589,
-          "title": "Extreme HTTP Performance Tuning"
+          "link": "https://jobs.lever.co/substackinc/c98439dd-6560-4b58-b827-42eb92c61dbd",
+          "publishedOn": "2021-05-21T21:00:33.000Z",
+          "wordCount": 746,
+          "title": "Substack (YC W18) is hiring technical recruiters to build the future of writing"
         },
         {
-          "id": "https://www.jeffgeerling.com/blog/2021/setting-raspberry-pi-2-network-interfaces-very-simple-router",
+          "id": "https://wordhistories.net/2020/01/06/put-pipe-and-smoke/",
           "author": null,
           "description": "Comments",
-          "link": "https://www.jeffgeerling.com/blog/2021/setting-raspberry-pi-2-network-interfaces-very-simple-router",
-          "publishedOn": "2021-05-20T19:20:29.000Z",
-          "wordCount": 665,
-          "title": "Setting up a Raspberry Pi with 2 Network Interfaces as a simple router"
+          "link": "https://wordhistories.net/2020/01/06/put-pipe-and-smoke/",
+          "publishedOn": "2021-05-21T19:57:05.000Z",
+          "wordCount": 1713,
+          "title": "“Put that in your pipe and smoke it”"
         },
         {
-          "id": "https://www.upi.com/Top_News/US/2021/05/19/Oregon-Idaho-Donald-Trump-Joe-Biden/3341621450876/",
+          "id": "https://flutterflow.io/launch",
           "author": null,
           "description": "Comments",
-          "link": "https://www.upi.com/Top_News/US/2021/05/19/Oregon-Idaho-Donald-Trump-Joe-Biden/3341621450876/",
-          "publishedOn": "2021-05-20T19:16:40.000Z",
-          "wordCount": 984,
-          "title": "Five Oregon counties vote to leave state, create 'Greater Idaho'"
+          "link": "https://flutterflow.io/launch",
+          "publishedOn": "2021-05-21T18:58:25.000Z",
+          "wordCount": 465,
+          "title": "FlutterFlow: Low-code Flutter apps"
         },
         {
-          "id": "https://www.spectacles.com/new-spectacles",
+          "id": "https://blog.twitch.tv/en/2021/05/21/lets-talk-about-hot-tub-streams/",
           "author": null,
           "description": "Comments",
-          "link": "https://www.spectacles.com/new-spectacles",
-          "publishedOn": "2021-05-20T18:00:05.000Z",
-          "wordCount": 12,
-          "title": "New Snap Spectacles Feature Augmented Reality Display"
+          "link": "https://blog.twitch.tv/en/2021/05/21/lets-talk-about-hot-tub-streams/",
+          "publishedOn": "2021-05-21T18:53:56.000Z",
+          "wordCount": 1298,
+          "title": "Let’s Talk About Hot Tub Streams"
         },
         {
-          "id": "https://javier.xyz/pintr/",
+          "id": "https://www.newyorker.com/tech/annals-of-technology/the-cicadas-love-affair-with-prime-numbers",
           "author": null,
           "description": "Comments",
-          "link": "https://javier.xyz/pintr/",
-          "publishedOn": "2021-05-20T17:22:33.000Z",
-          "wordCount": 50,
-          "title": "Show HN: Tool that turns your images into plotter-like line drawings"
+          "link": "https://www.newyorker.com/tech/annals-of-technology/the-cicadas-love-affair-with-prime-numbers",
+          "publishedOn": "2021-05-21T18:52:21.000Z",
+          "wordCount": 1008,
+          "title": "The Cicada's Love Affair with Prime Numbers (2013)"
         },
         {
-          "id": "https://www.quantamagazine.org/physicists-identify-the-engine-powering-black-hole-energy-beams-20210520/",
+          "id": "https://www.vice.com/en/article/v7evbx/citizen-app-private-security-leaked-emails",
           "author": null,
           "description": "Comments",
-          "link": "https://www.quantamagazine.org/physicists-identify-the-engine-powering-black-hole-energy-beams-20210520/",
-          "publishedOn": "2021-05-20T16:43:51.000Z",
-          "wordCount": 2634,
-          "title": "Physicists identify the engine powering black hole energy beams"
+          "link": "https://www.vice.com/en/article/v7evbx/citizen-app-private-security-leaked-emails",
+          "publishedOn": "2021-05-21T17:56:20.000Z",
+          "wordCount": 1004,
+          "title": "Leaked emails show crime app Citizen is testing on-demand security force"
         },
         {
-          "id": "https://blogs.sciencemag.org/pipeline/archives/2021/05/20/crispr-editing-in-primates",
+          "id": "https://ai.facebook.com/blog/wav2vec-unsupervised-speech-recognition-without-supervision/",
           "author": null,
           "description": "Comments",
-          "link": "https://blogs.sciencemag.org/pipeline/archives/2021/05/20/crispr-editing-in-primates",
-          "publishedOn": "2021-05-20T16:31:47.000Z",
-          "wordCount": 3050,
-          "title": "CRISPR Editing in Primates"
+          "link": "https://ai.facebook.com/blog/wav2vec-unsupervised-speech-recognition-without-supervision/",
+          "publishedOn": "2021-05-21T17:18:23.000Z",
+          "wordCount": 1074,
+          "title": "High-performance speech recognition with no supervision at all"
         },
         {
-          "id": "https://blog.stackblitz.com/posts/introducing-webcontainers/",
+          "id": "https://lord.io/text-editing-hates-you-too/",
           "author": null,
           "description": "Comments",
-          "link": "https://blog.stackblitz.com/posts/introducing-webcontainers/",
-          "publishedOn": "2021-05-20T16:10:26.000Z",
-          "wordCount": 1811,
-          "title": "WebContainers: Run Node.js natively in the browser"
+          "link": "https://lord.io/text-editing-hates-you-too/",
+          "publishedOn": "2021-05-21T17:12:44.000Z",
+          "wordCount": 1713,
+          "title": "Text editing hates you too (2019)"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27222985",
+          "id": "https://turtlespaces.org/2021/05/21/past-and-future-turtles-the-evolution-of-the-logo-programming-language-part-1/",
           "author": null,
           "description": "Comments",
-          "link": "https://news.ycombinator.com/item?id=27222985",
-          "publishedOn": "2021-05-20T16:08:30.000Z",
-          "wordCount": 4179,
-          "title": "Launch HN: YSplit (YC W19) – Automatically split and pay any bill"
+          "link": "https://turtlespaces.org/2021/05/21/past-and-future-turtles-the-evolution-of-the-logo-programming-language-part-1/",
+          "publishedOn": "2021-05-21T16:33:04.000Z",
+          "wordCount": 3190,
+          "title": "Past and Future Turtles: The Evolution of the Logo Programming Language (Part 1)"
         },
         {
-          "id": "https://v2.parceljs.org/blog/beta3/",
+          "id": "https://voice2json.org/",
           "author": null,
           "description": "Comments",
-          "link": "https://v2.parceljs.org/blog/beta3/",
-          "publishedOn": "2021-05-20T15:31:22.000Z",
-          "wordCount": 1972,
-          "title": "Parcel 2 Beta 3 – improved build performance"
+          "link": "https://voice2json.org/",
+          "publishedOn": "2021-05-21T16:14:46.000Z",
+          "wordCount": 1925,
+          "title": "Voice2json: Offline speech and intent recognition on Linux"
         },
         {
-          "id": "https://www.kickstarter.com/projects/upperstory/spintronics-build-mechanical-circuits",
+          "id": "https://ephtracy.github.io/index.html?page=magicacsg",
           "author": null,
           "description": "Comments",
-          "link": "https://www.kickstarter.com/projects/upperstory/spintronics-build-mechanical-circuits",
-          "publishedOn": "2021-05-20T15:31:06.000Z",
-          "wordCount": 3655,
-          "title": "Spintronics: Build Mechanical Circuits"
+          "link": "https://ephtracy.github.io/index.html?page=magicacsg",
+          "publishedOn": "2021-05-21T14:51:16.000Z",
+          "wordCount": 18,
+          "title": "MagicaCSG: A lightweight signed distance field editor and renderer"
         },
         {
-          "id": "https://www.yodaiken.com/2021/05/19/undefined-behavior-in-c-is-a-reading-error/",
+          "id": "https://www.ford.com/trucks/f150/f150-lightning/2022/",
           "author": null,
           "description": "Comments",
-          "link": "https://www.yodaiken.com/2021/05/19/undefined-behavior-in-c-is-a-reading-error/",
-          "publishedOn": "2021-05-20T14:29:55.000Z",
-          "wordCount": 1980,
-          "title": "Undefined behavior in C is a reading error"
+          "link": "https://www.ford.com/trucks/f150/f150-lightning/2022/",
+          "publishedOn": "2021-05-21T13:57:56.000Z",
+          "wordCount": 5709,
+          "title": "2022 Ford F-150 Lightning"
         },
         {
-          "id": "https://www.bbc.com/worklife/article/20161028-native-english-speakers-are-the-worlds-worst-communicators",
+          "id": "https://news.ycombinator.com/item?id=27233718",
           "author": null,
           "description": "Comments",
-          "link": "https://www.bbc.com/worklife/article/20161028-native-english-speakers-are-the-worlds-worst-communicators",
-          "publishedOn": "2021-05-20T13:24:19.000Z",
-          "wordCount": 1326,
-          "title": "Native speakers are hard to understand in a lingua franca situation"
+          "link": "https://news.ycombinator.com/item?id=27233718",
+          "publishedOn": "2021-05-21T13:28:41.000Z",
+          "wordCount": 3381,
+          "title": "Launch HN: Journey (YC W21) – a better tool for selling software"
         },
         {
-          "id": "https://twitter.com/id_aa_carmack/status/1395089205986988043",
+          "id": "https://jenson.org/games/",
           "author": null,
           "description": "Comments",
-          "link": "https://twitter.com/id_aa_carmack/status/1395089205986988043",
-          "publishedOn": "2021-05-20T13:12:49.000Z",
-          "wordCount": 196,
-          "title": "Before the iPhone, I worked on a few games for what were called \"feature phones\""
+          "link": "https://jenson.org/games/",
+          "publishedOn": "2021-05-21T12:15:56.000Z",
+          "wordCount": 5036,
+          "title": "Video Games Inspire Great UX (2019)"
         },
         {
-          "id": "https://nyxt.atlas.engineer/article/release-2.0.0.org",
+          "id": "https://web.dev/learn/css/",
           "author": null,
           "description": "Comments",
-          "link": "https://nyxt.atlas.engineer/article/release-2.0.0.org",
-          "publishedOn": "2021-05-20T11:04:43.000Z",
-          "wordCount": 766,
-          "title": "Show HN: Nyxt Browser 2.0.0"
+          "link": "https://web.dev/learn/css/",
+          "publishedOn": "2021-05-21T12:10:56.000Z",
+          "wordCount": 1040,
+          "title": "Learn CSS"
         },
         {
-          "id": "https://www.atlasobscura.com/articles/long-pepper-better-than-black-pepper",
+          "id": "https://developer.oculus.com/blog/a-vr-frames-life/",
           "author": null,
           "description": "Comments",
-          "link": "https://www.atlasobscura.com/articles/long-pepper-better-than-black-pepper",
-          "publishedOn": "2021-05-20T03:05:09.000Z",
-          "wordCount": null,
-          "title": "Europe fell in love with long pepper before black pepper (2016)"
+          "link": "https://developer.oculus.com/blog/a-vr-frames-life/",
+          "publishedOn": "2021-05-21T11:14:38.000Z",
+          "wordCount": 2019,
+          "title": "A VR Frame’s Life"
         },
         {
-          "id": "https://doodles.mountainmath.ca/blog/2020/09/28/first-time-buyer-lorenz-curves/",
+          "id": "https://www.cbc.ca/news/science/coffee-stenophylla-1.5995940",
           "author": null,
           "description": "Comments",
-          "link": "https://doodles.mountainmath.ca/blog/2020/09/28/first-time-buyer-lorenz-curves/",
-          "publishedOn": "2021-05-19T20:14:15.000Z",
-          "wordCount": 3006,
-          "title": "First-Time Buyer Lorenz Curves (2020)"
+          "link": "https://www.cbc.ca/news/science/coffee-stenophylla-1.5995940",
+          "publishedOn": "2021-05-21T11:01:19.000Z",
+          "wordCount": 1145,
+          "title": "Scientists rediscover lost coffee species suited to a warmer climate"
         },
         {
-          "id": "https://www.theatlantic.com/science/archive/2021/05/ant-tapeworm/618919/",
+          "id": "https://www.daemonology.net/blog/2018-07-14-port-OS-to-EC2.html",
           "author": null,
           "description": "Comments",
-          "link": "https://www.theatlantic.com/science/archive/2021/05/ant-tapeworm/618919/",
-          "publishedOn": "2021-05-19T14:25:51.000Z",
-          "wordCount": 1376,
-          "title": "Ant parasites that prolong the life of their host"
+          "link": "https://www.daemonology.net/blog/2018-07-14-port-OS-to-EC2.html",
+          "publishedOn": "2021-05-21T08:08:50.000Z",
+          "wordCount": 1927,
+          "title": "How to port your OS to EC2"
         },
         {
-          "id": "https://phys.org/news/2021-05-quasars-rare-extragalactic-easier.html",
+          "id": "https://mega65.org/",
           "author": null,
           "description": "Comments",
-          "link": "https://phys.org/news/2021-05-quasars-rare-extragalactic-easier.html",
-          "publishedOn": "2021-05-19T12:26:44.000Z",
-          "wordCount": 1691,
-          "title": "Rare extragalactic objects are now easier to spot"
+          "link": "https://mega65.org/",
+          "publishedOn": "2021-05-21T07:07:47.000Z",
+          "wordCount": 867,
+          "title": "Mega65 – Open 8-Bit Computer"
         },
         {
-          "id": "https://www.hillelwayne.com/talks/esolangs/",
+          "id": "https://medium.engineering/the-curious-case-of-disappearing-polish-s-fa398313d4df",
           "author": null,
           "description": "Comments",
-          "link": "https://www.hillelwayne.com/talks/esolangs/",
-          "publishedOn": "2021-05-19T08:45:06.000Z",
-          "wordCount": 4249,
-          "title": "A brief introduction to esoteric programming languages"
+          "link": "https://medium.engineering/the-curious-case-of-disappearing-polish-s-fa398313d4df",
+          "publishedOn": "2021-05-21T05:32:00.000Z",
+          "wordCount": 2233,
+          "title": "The curious case of the disappearing Polish S (2015)"
         },
         {
-          "id": "https://discuss.python.org/t/what-to-do-about-gpus-and-the-built-distributions-that-support-them/7125",
+          "id": "https://yarchive.net/blog/carrington-event/",
           "author": null,
           "description": "Comments",
-          "link": "https://discuss.python.org/t/what-to-do-about-gpus-and-the-built-distributions-that-support-them/7125",
-          "publishedOn": "2021-05-19T07:20:31.000Z",
-          "wordCount": 4804,
-          "title": "What to do about GPU packages on PyPI?"
+          "link": "https://yarchive.net/blog/carrington-event/",
+          "publishedOn": "2021-05-21T01:28:06.000Z",
+          "wordCount": 2449,
+          "title": "The Carrington Event: not something to worry about (2020)"
         },
         {
-          "id": "https://www.theparisreview.org/blog/2021/05/17/americas-dead-souls/",
+          "id": "https://nautil.us/issue/100/outsiders/the-man-who-drank-cholera-and-launched-the-yogurt-craze-rp",
           "author": null,
           "description": "Comments",
-          "link": "https://www.theparisreview.org/blog/2021/05/17/americas-dead-souls/",
-          "publishedOn": "2021-05-18T04:44:40.000Z",
-          "wordCount": 1835,
-          "title": "America’s Dead Souls"
+          "link": "https://nautil.us/issue/100/outsiders/the-man-who-drank-cholera-and-launched-the-yogurt-craze-rp",
+          "publishedOn": "2021-05-20T21:07:32.000Z",
+          "wordCount": 2679,
+          "title": "Ilya Metchnikoff laid the foundation for modern probiotics (2015)"
         }
       ]
     },
@@ -282,6 +282,15 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2021/05/building-wysiwyg-editor-javascript-slatejs/",
+          "author": "hello@smashingmagazine.com (Shalabh Vyas)",
+          "description": "Let’s build a rich text, WYSIWYG-editor that supports rich text, images, links and some nuanced features from word processing apps. We will use SlateJS to build the shell of the editor and then add a toolbar and custom configurations.",
+          "link": "https://smashingmagazine.com/2021/05/building-wysiwyg-editor-javascript-slatejs/",
+          "publishedOn": "2021-05-21T11:30:00.000Z",
+          "wordCount": 9398,
+          "title": "Building A Rich Text Editor (WYSIWYG) From Scratch"
+        },
         {
           "id": "https://smashingmagazine.com/2021/05/new-online-workshops-front-end-ux/",
           "author": "hello@smashingmagazine.com (Iris Lješnjanin)",
@@ -303,7 +312,7 @@
         {
           "id": "https://smashingmagazine.com/2021/05/frustrating-design-patterns-mega-dropdown-hover-menus/",
           "author": "hello@smashingmagazine.com (Vitaly Friedman)",
-          "description": "Do we need mega-dropdown hover menus in 2021? Probably not. Let’s explore things to keep in mind when designing and building a mega-dropdown, alternatives to hover menus and fine details for designing a better UX.",
+          "description": "Everything to keep in mind when designing and building a mega-dropdown, common pitfalls, hover entry/exit delays, trajectory triangle technique and SVG path exit areas.",
           "link": "https://smashingmagazine.com/2021/05/frustrating-design-patterns-mega-dropdown-hover-menus/",
           "publishedOn": "2021-05-19T11:40:00.000Z",
           "wordCount": 4986,
@@ -506,15 +515,6 @@
           "publishedOn": "2021-04-22T14:00:00.000Z",
           "wordCount": 1764,
           "title": "Web Design Done Well: The Ordinary Made Extraordinary (Part 1)"
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/04/incremental-static-regeneration-nextjs/",
-          "author": "hello@smashingmagazine.com (Lee Robinson)",
-          "description": "Incremental Static Regeneration (ISR) is a new evolution of the Jamstack, allowing you to update static content instantly without needing a full rebuild of your site. The hybrid approach of Next.js allows you to use ISR for e-commerce, marketing pages, blog posts, ad-backed media, and more.",
-          "link": "https://smashingmagazine.com/2021/04/incremental-static-regeneration-nextjs/",
-          "publishedOn": "2021-04-21T13:55:00.000Z",
-          "wordCount": 1929,
-          "title": "A Complete Guide To Incremental Static Regeneration (ISR) With Next.js"
         }
       ]
     },
@@ -523,6 +523,15 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "6098ce302cd0545b5e944d0b",
+          "author": "",
+          "description": "In programming, an array is a collection of elements or items. Arrays store data as elements and retrieve them back when you need them.  The array data structure is widely used in all programming languages that support it. In this handbook, I'll teach you all about arrays in JavaScript. You'll",
+          "link": "https://www.freecodecamp.org/news/the-javascript-array-handbook/",
+          "publishedOn": "2021-05-21T15:33:45.000Z",
+          "wordCount": 4309,
+          "title": "The JavaScript Array Handbook – JS Array Methods Explained with Examples"
+        },
         {
           "id": "60a6b3ab906c5207e3a7f5fa",
           "author": "",
@@ -603,15 +612,6 @@
           "publishedOn": "2021-05-18T17:12:59.000Z",
           "wordCount": 1973,
           "title": "Freelance Development Pricing Guide – Should Freelancers Bill by the Hour?"
-        },
-        {
-          "id": "6068f146d5756f080ba9402d",
-          "author": "",
-          "description": "Yes, you can learn to code for free, from the convenience of your own home, and at your own pace. I'm going to show you 101 courses where you can learn computer science and programming for free.  The freeCodeCamp courses are completely free and some of them include a free",
-          "link": "https://www.freecodecamp.org/news/coding-programs-101-ways-to-learn-to-code-for-free/",
-          "publishedOn": "2021-05-18T16:50:36.000Z",
-          "wordCount": 3309,
-          "title": "Coding Programs – 101 Ways to Learn to Code for Free"
         }
       ]
     }
