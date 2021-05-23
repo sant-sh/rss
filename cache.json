@@ -6,6 +6,213 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
+          "id": "https://prog21.dadgum.com/22.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://prog21.dadgum.com/22.html",
+          "publishedOn": "2021-05-22T21:56:52.000Z",
+          "wordCount": 1079,
+          "title": "My Road to Erlang (2008)"
+        },
+        {
+          "id": "https://www.ajc.com/news/gwinnett-student-challenges-suspension-over-zoom-bombing-allegations/UMQAYE3COVAB3DE4M2Q6QPHVCI/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.ajc.com/news/gwinnett-student-challenges-suspension-over-zoom-bombing-allegations/UMQAYE3COVAB3DE4M2Q6QPHVCI/",
+          "publishedOn": "2021-05-22T20:40:31.000Z",
+          "wordCount": 1445,
+          "title": "Sixth grader expelled after Zoom provided possibly inaccurate IP address"
+        },
+        {
+          "id": "https://github.com/mikroskeem/tosh",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/mikroskeem/tosh",
+          "publishedOn": "2021-05-22T19:26:09.000Z",
+          "wordCount": 922,
+          "title": "Tosh: Changing your SSH server's listen address every 30 seconds based on TOTP"
+        },
+        {
+          "id": "https://pakkly.com",
+          "author": null,
+          "description": "Comments",
+          "link": "https://pakkly.com",
+          "publishedOn": "2021-05-22T19:09:27.000Z",
+          "wordCount": 471,
+          "title": "Show HN: I hate adding updating to my apps, so I created Pakkly"
+        },
+        {
+          "id": "https://instruments.digital/inflation-adjusted-hn/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://instruments.digital/inflation-adjusted-hn/",
+          "publishedOn": "2021-05-22T18:30:57.000Z",
+          "wordCount": 382,
+          "title": "Show HN: Inflation-adjusted Hacker News"
+        },
+        {
+          "id": "http://www.kolibrios.org/en/",
+          "author": null,
+          "description": "Comments",
+          "link": "http://www.kolibrios.org/en/",
+          "publishedOn": "2021-05-22T18:29:47.000Z",
+          "wordCount": 206,
+          "title": "KolibriOS"
+        },
+        {
+          "id": "https://github.com/frabert/ClangQL",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/frabert/ClangQL",
+          "publishedOn": "2021-05-22T18:15:22.000Z",
+          "wordCount": 1389,
+          "title": "Show HN: ClangQL – Query C++ codebases using SQLite"
+        },
+        {
+          "id": "https://nv-tlabs.github.io/datasetGAN/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://nv-tlabs.github.io/datasetGAN/",
+          "publishedOn": "2021-05-22T17:49:32.000Z",
+          "wordCount": 441,
+          "title": "DatasetGAN: Efficient Labeled Data for AI Training"
+        },
+        {
+          "id": "https://www.nature.com/articles/s41591-021-01377-8",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.nature.com/articles/s41591-021-01377-8",
+          "publishedOn": "2021-05-22T17:11:13.000Z",
+          "wordCount": 10533,
+          "title": "Antibody levels highly predictive of immune protection from symptomatic Covid"
+        },
+        {
+          "id": "https://www.romanzolotarev.com/rssg.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.romanzolotarev.com/rssg.html",
+          "publishedOn": "2021-05-22T17:09:17.000Z",
+          "wordCount": 271,
+          "title": "Generate RSS feeds with grep(1), sed(1), and Awk(1)"
+        },
+        {
+          "id": "https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915",
+          "author": null,
+          "description": "Comments",
+          "link": "https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915",
+          "publishedOn": "2021-05-22T17:01:06.000Z",
+          "wordCount": 386,
+          "title": "GiveCampus (YC S15) is hiring remote senior engineers"
+        },
+        {
+          "id": "https://www.metabase.com/learn/data-diet/analytics/data-model-mistakes.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.metabase.com/learn/data-diet/analytics/data-model-mistakes.html",
+          "publishedOn": "2021-05-22T16:34:56.000Z",
+          "wordCount": 1481,
+          "title": "Common data model mistakes made by startups"
+        },
+        {
+          "id": "https://pganalyze.com/blog/postgres-14-performance-monitoring",
+          "author": null,
+          "description": "Comments",
+          "link": "https://pganalyze.com/blog/postgres-14-performance-monitoring",
+          "publishedOn": "2021-05-22T15:47:37.000Z",
+          "wordCount": 2370,
+          "title": "An early look at Postgres 14: Performance and monitoring Improvements"
+        },
+        {
+          "id": "https://bits.p1x.in/floppinux-an-embedded-linux-on-a-single-floppy/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://bits.p1x.in/floppinux-an-embedded-linux-on-a-single-floppy/",
+          "publishedOn": "2021-05-22T15:46:56.000Z",
+          "wordCount": 1548,
+          "title": "Floppinux – An Embedded Linux on a Single Floppy"
+        },
+        {
+          "id": "https://news.cornell.edu/stories/2021/05/cornell-researchers-see-atoms-record-resolution",
+          "author": null,
+          "description": "Comments",
+          "link": "https://news.cornell.edu/stories/2021/05/cornell-researchers-see-atoms-record-resolution",
+          "publishedOn": "2021-05-22T15:46:33.000Z",
+          "wordCount": 985,
+          "title": "Cornell researchers see atoms at record resolution"
+        },
+        {
+          "id": "https://www.philipzucker.com/minikanren-z3py/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.philipzucker.com/minikanren-z3py/",
+          "publishedOn": "2021-05-22T15:22:49.000Z",
+          "wordCount": 1808,
+          "title": "Making a “MiniKanren” using Z3Py"
+        },
+        {
+          "id": "http://ai.stanford.edu/blog/introduction-to-knowledge-graphs/",
+          "author": null,
+          "description": "Comments",
+          "link": "http://ai.stanford.edu/blog/introduction-to-knowledge-graphs/",
+          "publishedOn": "2021-05-22T12:02:54.000Z",
+          "wordCount": 3858,
+          "title": "An Introduction to Knowledge Graphs"
+        },
+        {
+          "id": "https://nav.al/rich",
+          "author": null,
+          "description": "Comments",
+          "link": "https://nav.al/rich",
+          "publishedOn": "2021-05-22T12:00:49.000Z",
+          "wordCount": 43429,
+          "title": "How to get rich without being lucky (2019)"
+        },
+        {
+          "id": "https://en.wikipedia.org/wiki/Initial-stress-derived_noun",
+          "author": null,
+          "description": "Comments",
+          "link": "https://en.wikipedia.org/wiki/Initial-stress-derived_noun",
+          "publishedOn": "2021-05-22T11:20:21.000Z",
+          "wordCount": 1801,
+          "title": "Initial Stress-Derived Noun"
+        },
+        {
+          "id": "https://github.com/p-e-w/plotinus",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/p-e-w/plotinus",
+          "publishedOn": "2021-05-22T10:52:00.000Z",
+          "wordCount": 1593,
+          "title": "Plotinus: A searchable command palette in every modern GTK+ application"
+        },
+        {
+          "id": "https://eng.uber.com/architecture-api-gateway/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://eng.uber.com/architecture-api-gateway/",
+          "publishedOn": "2021-05-22T09:52:35.000Z",
+          "wordCount": 3616,
+          "title": "The Architecture of Uber’s API Gateway"
+        },
+        {
+          "id": "https://www.atlasobscura.com/articles/uranium-glass-radioactive-plates-cups.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.atlasobscura.com/articles/uranium-glass-radioactive-plates-cups.html",
+          "publishedOn": "2021-05-22T05:05:16.000Z",
+          "wordCount": null,
+          "title": "The Collectors Who Hunt Down Radioactive Glassware"
+        },
+        {
+          "id": "https://www.yorkshirepost.co.uk/lifestyle/why-bronte-sisters-died-so-young-1757920",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.yorkshirepost.co.uk/lifestyle/why-bronte-sisters-died-so-young-1757920",
+          "publishedOn": "2021-05-22T02:28:26.000Z",
+          "wordCount": 1056,
+          "title": "Why the Bronte sisters may have died so young (2019)"
+        },
+        {
           "id": "https://ucsdnews.ucsd.edu/pressrelease/a-new-replication-crisis-research-that-is-less-likely-be-true-is-cited-more",
           "author": null,
           "description": "Comments",
@@ -96,6 +303,15 @@
           "title": "“Put that in your pipe and smoke it”"
         },
         {
+          "id": "https://publicdomainreview.org/collection/optics-illustrations-from-the-physics-textbooks-of-amedee-guillemin-1868-1882",
+          "author": null,
+          "description": "Comments",
+          "link": "https://publicdomainreview.org/collection/optics-illustrations-from-the-physics-textbooks-of-amedee-guillemin-1868-1882",
+          "publishedOn": "2021-05-21T19:02:24.000Z",
+          "wordCount": 966,
+          "title": "Optics Illustrations from the Physics Textbooks of Amédée Guillemin (1868/1882)"
+        },
+        {
           "id": "https://flutterflow.io/launch",
           "author": null,
           "description": "Comments",
@@ -177,6 +393,15 @@
           "title": "MagicaCSG: A lightweight signed distance field editor and renderer"
         },
         {
+          "id": "https://blog.eiler.eu/posts/20210512/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://blog.eiler.eu/posts/20210512/",
+          "publishedOn": "2021-05-21T13:58:25.000Z",
+          "wordCount": 3774,
+          "title": "C++20: Building a Thread-Pool with Coroutines"
+        },
+        {
           "id": "https://www.ford.com/trucks/f150/f150-lightning/2022/",
           "author": null,
           "description": "Comments",
@@ -222,6 +447,15 @@
           "title": "A VR Frame’s Life"
         },
         {
+          "id": "https://shkspr.mobi/blog/2021/05/whats-your-apis-time-to-200/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://shkspr.mobi/blog/2021/05/whats-your-apis-time-to-200/",
+          "publishedOn": "2021-05-21T11:04:08.000Z",
+          "wordCount": 962,
+          "title": "What’s your API’s “Time To 200”?"
+        },
+        {
           "id": "https://www.cbc.ca/news/science/coffee-stenophylla-1.5995940",
           "author": null,
           "description": "Comments",
@@ -231,6 +465,33 @@
           "title": "Scientists rediscover lost coffee species suited to a warmer climate"
         },
         {
+          "id": "https://www.newscientist.com/article/2277380-isotope-study-hints-ancient-greeks-used-foreign-fighters-in-key-battle/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.newscientist.com/article/2277380-isotope-study-hints-ancient-greeks-used-foreign-fighters-in-key-battle/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
+          "publishedOn": "2021-05-21T10:44:09.000Z",
+          "wordCount": 983,
+          "title": "Isotope study hints ancient Greeks used foreign fighters in key battle"
+        },
+        {
+          "id": "https://blog.freesound.org/?p=1340",
+          "author": null,
+          "description": "Comments",
+          "link": "https://blog.freesound.org/?p=1340",
+          "publishedOn": "2021-05-21T10:25:05.000Z",
+          "wordCount": 806,
+          "title": "Freesound just reached 500K Creative Commons sounds"
+        },
+        {
+          "id": "https://buttondown.email/hillelwayne/archive/the-jame-of-life/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://buttondown.email/hillelwayne/archive/the-jame-of-life/",
+          "publishedOn": "2021-05-21T09:25:21.000Z",
+          "wordCount": 1556,
+          "title": "The Jame of Life"
+        },
+        {
           "id": "https://www.daemonology.net/blog/2018-07-14-port-OS-to-EC2.html",
           "author": null,
           "description": "Comments",
@@ -238,6 +499,15 @@
           "publishedOn": "2021-05-21T08:08:50.000Z",
           "wordCount": 1927,
           "title": "How to port your OS to EC2"
+        },
+        {
+          "id": "https://www.galiglobal.com/blog/2021/20210313-The-principal-role.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.galiglobal.com/blog/2021/20210313-The-principal-role.html",
+          "publishedOn": "2021-05-21T07:52:39.000Z",
+          "wordCount": 2637,
+          "title": "My thoughts about the Principal role"
         },
         {
           "id": "https://mega65.org/",
@@ -497,24 +767,6 @@
           "publishedOn": "2021-04-26T11:00:00.000Z",
           "wordCount": 3279,
           "title": "How To Bake Layers Of Accessibility Testing Into Your Process"
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/04/guide-supported-modern-css-pseudo-class-selectors/",
-          "author": "hello@smashingmagazine.com (Stephanie Eckles)",
-          "description": "The CSS Working Group Editor’s Draft for [Selectors Level 4](https://drafts.csswg.org/selectors-4/) includes several pseudo-class selectors that already have proposal candidates in most modern browsers. This guide will cover ones that currently have the best support along with examples to demonstrate how you can start using them today!",
-          "link": "https://smashingmagazine.com/2021/04/guide-supported-modern-css-pseudo-class-selectors/",
-          "publishedOn": "2021-04-23T08:30:00.000Z",
-          "wordCount": 2430,
-          "title": "A Guide To Newly Supported, Modern CSS Pseudo-Class Selectors"
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/04/web-design-done-well-part1/",
-          "author": "hello@smashingmagazine.com (Frederick O’Brien)",
-          "description": "Sometimes it’s the little things in web life that make us look twice. From carousels to documentation to cookie disclaimers, here are some sites taking the mundane and sprinkling in a little magic.",
-          "link": "https://smashingmagazine.com/2021/04/web-design-done-well-part1/",
-          "publishedOn": "2021-04-22T14:00:00.000Z",
-          "wordCount": 1764,
-          "title": "Web Design Done Well: The Ordinary Made Extraordinary (Part 1)"
         }
       ]
     },
