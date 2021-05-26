@@ -6,274 +6,274 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
-          "id": "https://apply.workable.com/jerry/j/07E1D2B302/",
+          "id": "https://careers.atob.com/",
           "author": null,
           "description": "Comments",
-          "link": "https://apply.workable.com/jerry/j/07E1D2B302/",
-          "publishedOn": "2021-05-25T01:01:02.000Z",
-          "wordCount": 7,
-          "title": "Jerry, Inc. (YC S17) Is Hiring Senior Software Engineers"
+          "link": "https://careers.atob.com/",
+          "publishedOn": "2021-05-26T01:00:48.000Z",
+          "wordCount": 172,
+          "title": "AtoB (YC S20) – Stripe for Transportation – hiring early engineers and operators"
         },
         {
-          "id": "https://thanaverage.xyz/",
+          "id": "https://robotacademy.net.au/masterclass/introduction-to-robotics/?lesson=206",
           "author": null,
           "description": "Comments",
-          "link": "https://thanaverage.xyz/",
-          "publishedOn": "2021-05-24T23:29:03.000Z",
-          "wordCount": 110,
-          "title": "Than Average"
+          "link": "https://robotacademy.net.au/masterclass/introduction-to-robotics/?lesson=206",
+          "publishedOn": "2021-05-25T23:44:17.000Z",
+          "wordCount": null,
+          "title": "Introduction to Robotics"
         },
         {
-          "id": "https://80000hours.org/podcast/episodes/depression-anxiety-imposter-syndrome/",
+          "id": "https://therecord.media/thousands-of-chrome-extensions-are-tampering-with-security-headers/",
           "author": null,
           "description": "Comments",
-          "link": "https://80000hours.org/podcast/episodes/depression-anxiety-imposter-syndrome/",
-          "publishedOn": "2021-05-24T22:57:12.000Z",
-          "wordCount": 40568,
-          "title": "Having a successful career with depression, anxiety and imposter syndrome"
+          "link": "https://therecord.media/thousands-of-chrome-extensions-are-tampering-with-security-headers/",
+          "publishedOn": "2021-05-25T23:38:28.000Z",
+          "wordCount": 828,
+          "title": "Thousands of Chrome extensions are tampering with security headers"
         },
         {
-          "id": "https://inkscape.org/news/2021/05/24/welcome-inkscape-11/",
+          "id": "https://rarehistoricalphotos.com/vietnam-war-images-from-vietnamese-photographers/",
           "author": null,
           "description": "Comments",
-          "link": "https://inkscape.org/news/2021/05/24/welcome-inkscape-11/",
-          "publishedOn": "2021-05-24T21:45:05.000Z",
-          "wordCount": 1433,
-          "title": "Inkscape 1.1"
+          "link": "https://rarehistoricalphotos.com/vietnam-war-images-from-vietnamese-photographers/",
+          "publishedOn": "2021-05-25T22:36:35.000Z",
+          "wordCount": 1524,
+          "title": "Rare Vietnam War images from the winning side, 1965-1975"
         },
         {
-          "id": "https://elk.audio/audio-os/",
+          "id": "https://theconversation.com/the-problem-with-reinforced-concrete-56078",
           "author": null,
           "description": "Comments",
-          "link": "https://elk.audio/audio-os/",
-          "publishedOn": "2021-05-24T20:54:54.000Z",
-          "wordCount": 529,
-          "title": "Elk OS – Audio Operating System"
+          "link": "https://theconversation.com/the-problem-with-reinforced-concrete-56078",
+          "publishedOn": "2021-05-25T21:29:15.000Z",
+          "wordCount": 1338,
+          "title": "The problem with reinforced concrete (2016)"
         },
         {
-          "id": "https://kevlinhenney.medium.com/need-something-sorted-sleep-on-it-11fdf8453914",
+          "id": "https://cascade.page",
           "author": null,
           "description": "Comments",
-          "link": "https://kevlinhenney.medium.com/need-something-sorted-sleep-on-it-11fdf8453914",
-          "publishedOn": "2021-05-24T20:54:38.000Z",
-          "wordCount": 3435,
-          "title": "Need Something Sorted? Sleep on It"
+          "link": "https://cascade.page",
+          "publishedOn": "2021-05-25T21:21:14.000Z",
+          "wordCount": 5,
+          "title": "Show HN: Cascade Timeline Maker"
         },
         {
-          "id": "https://blog.replit.com/nix",
+          "id": "https://twitter.com/TadeuszGiczan/status/1397200848145559552",
           "author": null,
           "description": "Comments",
-          "link": "https://blog.replit.com/nix",
-          "publishedOn": "2021-05-24T20:26:14.000Z",
-          "wordCount": 810,
-          "title": "Replit now supports every programming language in Nix"
+          "link": "https://twitter.com/TadeuszGiczan/status/1397200848145559552",
+          "publishedOn": "2021-05-25T20:14:04.000Z",
+          "wordCount": 196,
+          "title": "YouTube approves ad by Belarusian gov with journalist from hijackd Ryanair plane"
         },
         {
-          "id": "https://www.statnews.com/2021/05/24/scientists-use-optogenetics-for-first-time-to-help-blind-patient-see/",
+          "id": "https://lwn.net/SubscriberLink/856819/c865652ad4dc06d0/",
           "author": null,
           "description": "Comments",
-          "link": "https://www.statnews.com/2021/05/24/scientists-use-optogenetics-for-first-time-to-help-blind-patient-see/",
-          "publishedOn": "2021-05-24T19:17:49.000Z",
-          "wordCount": 2259,
-          "title": "Scientists use optogenetics to help a blind patient see again"
+          "link": "https://lwn.net/SubscriberLink/856819/c865652ad4dc06d0/",
+          "publishedOn": "2021-05-25T18:07:01.000Z",
+          "wordCount": 3283,
+          "title": "Julia 1.6 addresses latency issues"
         },
         {
-          "id": "https://wejn.org/2021/02/urbit-good-bad-insane/",
+          "id": "https://stripe.com/payments/payment-links",
           "author": null,
           "description": "Comments",
-          "link": "https://wejn.org/2021/02/urbit-good-bad-insane/",
-          "publishedOn": "2021-05-24T19:09:23.000Z",
-          "wordCount": 2573,
-          "title": "Urbit: The good, the bad, and the insane"
+          "link": "https://stripe.com/payments/payment-links",
+          "publishedOn": "2021-05-25T18:00:30.000Z",
+          "wordCount": 872,
+          "title": "Stripe Payment Links"
         },
         {
-          "id": "http://www.cmyr.net/blog/rust-python-learnings.html",
+          "id": "https://writings.stephenwolfram.com/2021/05/how-inevitable-is-the-concept-of-numbers/",
           "author": null,
           "description": "Comments",
-          "link": "http://www.cmyr.net/blog/rust-python-learnings.html",
-          "publishedOn": "2021-05-24T17:18:15.000Z",
-          "wordCount": 2596,
-          "title": "Writing Pythonic Rust"
+          "link": "https://writings.stephenwolfram.com/2021/05/how-inevitable-is-the-concept-of-numbers/",
+          "publishedOn": "2021-05-25T17:46:08.000Z",
+          "wordCount": 7960,
+          "title": "How inevitable is the concept of numbers?"
         },
         {
-          "id": "https://clickhouse.tech/blog/en/2021/reading-from-external-memory/",
+          "id": "https://blog.adafruit.com/2021/05/17/siemens-acquires-supplyframe-hackaday-tindie-too/",
           "author": null,
           "description": "Comments",
-          "link": "https://clickhouse.tech/blog/en/2021/reading-from-external-memory/",
-          "publishedOn": "2021-05-24T17:13:44.000Z",
-          "wordCount": 1174,
-          "title": "A journey to io_uring, AIO and modern storage devices"
+          "link": "https://blog.adafruit.com/2021/05/17/siemens-acquires-supplyframe-hackaday-tindie-too/",
+          "publishedOn": "2021-05-25T16:38:52.000Z",
+          "wordCount": 1091,
+          "title": "Siemens acquires Supplyframe, owners of Hackaday and Tindie"
         },
         {
-          "id": "http://www.knosof.co.uk/ESEUR/",
+          "id": "https://security.googleblog.com/2021/05/introducing-half-double-new-hammering.html",
           "author": null,
           "description": "Comments",
-          "link": "http://www.knosof.co.uk/ESEUR/",
-          "publishedOn": "2021-05-24T16:43:30.000Z",
-          "wordCount": 453,
-          "title": "Evidence-based Software Engineering: based on the publicly available data"
+          "link": "https://security.googleblog.com/2021/05/introducing-half-double-new-hammering.html",
+          "publishedOn": "2021-05-25T16:02:06.000Z",
+          "wordCount": 862,
+          "title": "Half-Double: New hammering technique for DRAM Rowhammer bug"
         },
         {
-          "id": "https://www.r-bloggers.com/2019/07/complexity-is-a-source-of-income-in-open-source-ecosystems/",
+          "id": "https://fig.io?ref=hn",
           "author": null,
           "description": "Comments",
-          "link": "https://www.r-bloggers.com/2019/07/complexity-is-a-source-of-income-in-open-source-ecosystems/",
-          "publishedOn": "2021-05-24T16:39:07.000Z",
-          "wordCount": 1736,
-          "title": "Complexity is a source of income in open source ecosystems (2019)"
+          "link": "https://fig.io?ref=hn",
+          "publishedOn": "2021-05-25T15:09:02.000Z",
+          "wordCount": 541,
+          "title": "Launch HN: Fig (YC S20) – Autocomplete for the Terminal"
         },
         {
-          "id": "https://www.quantamagazine.org/radioactivity-may-fuel-life-deep-underground-and-inside-other-worlds-20210524/",
+          "id": "https://github.com/robert-strandh/Second-Climacs",
           "author": null,
           "description": "Comments",
-          "link": "https://www.quantamagazine.org/radioactivity-may-fuel-life-deep-underground-and-inside-other-worlds-20210524/",
-          "publishedOn": "2021-05-24T15:52:49.000Z",
-          "wordCount": 2854,
-          "title": "Radioactivity may fuel life deep underground and inside other worlds"
+          "link": "https://github.com/robert-strandh/Second-Climacs",
+          "publishedOn": "2021-05-25T14:53:12.000Z",
+          "wordCount": 993,
+          "title": "Second Climacs – Emacs Implementation in Common Lisp"
         },
         {
-          "id": "https://brainybiker.com/why-did-bar-ends-go-away-from-mountain-bikes-the-nostalgia-is-real/",
+          "id": "https://www.npr.org/sections/therecord/2015/06/02/411473508/how-well-can-you-hear-audio-quality",
           "author": null,
           "description": "Comments",
-          "link": "https://brainybiker.com/why-did-bar-ends-go-away-from-mountain-bikes-the-nostalgia-is-real/",
-          "publishedOn": "2021-05-24T15:40:49.000Z",
-          "wordCount": 2440,
-          "title": "Why did bar ends go away from mountain bikes?"
+          "link": "https://www.npr.org/sections/therecord/2015/06/02/411473508/how-well-can-you-hear-audio-quality",
+          "publishedOn": "2021-05-25T14:50:23.000Z",
+          "wordCount": 482,
+          "title": "How Well Can You Hear Audio Quality? (2015)"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27265380",
+          "id": "https://www.europeanscientist.com/en/environment/biodiversity-decline-will-require-millions-of-years-to-recover/",
           "author": null,
           "description": "Comments",
-          "link": "https://news.ycombinator.com/item?id=27265380",
-          "publishedOn": "2021-05-24T15:20:10.000Z",
-          "wordCount": 2123,
-          "title": "Launch HN: Curvenote (YC W21) – Collaborative writing tools for science"
+          "link": "https://www.europeanscientist.com/en/environment/biodiversity-decline-will-require-millions-of-years-to-recover/",
+          "publishedOn": "2021-05-25T14:35:51.000Z",
+          "wordCount": 1222,
+          "title": "Biodiversity decline will require millions of years to recover"
         },
         {
-          "id": "https://windows-internals.com/i-o-rings-when-one-i-o-operation-is-not-enough/",
+          "id": "https://www.theguardian.com/books/2021/may/22/john-steinbecks-estate-urged-to-let-the-world-read-his-shunned-werewolf-novel",
           "author": null,
           "description": "Comments",
-          "link": "https://windows-internals.com/i-o-rings-when-one-i-o-operation-is-not-enough/",
-          "publishedOn": "2021-05-24T14:56:42.000Z",
-          "wordCount": 3060,
-          "title": "I/O Rings: When One I/O Operation is Not Enough"
+          "link": "https://www.theguardian.com/books/2021/may/22/john-steinbecks-estate-urged-to-let-the-world-read-his-shunned-werewolf-novel",
+          "publishedOn": "2021-05-25T14:17:36.000Z",
+          "wordCount": 1131,
+          "title": "John Steinbeck’s estate urged to let the world read his shunned werewolf novel"
         },
         {
-          "id": "https://vivirenremoto.github.io/doomcaptcha/",
+          "id": "https://qntm.org/clean?tw=",
           "author": null,
           "description": "Comments",
-          "link": "https://vivirenremoto.github.io/doomcaptcha/",
-          "publishedOn": "2021-05-24T14:48:57.000Z",
-          "wordCount": 318,
-          "title": "DOOM Captcha"
+          "link": "https://qntm.org/clean?tw=",
+          "publishedOn": "2021-05-25T13:48:37.000Z",
+          "wordCount": 12535,
+          "title": "It's probably time to stop recommending Clean Code (2020)"
         },
         {
-          "id": "https://arxiv.org/abs/2105.08712",
+          "id": "https://www.anandtech.com/show/16693/arm-announces-mobile-armv9-cpu-microarchitectures-cortexx2-cortexa710-cortexa510",
           "author": null,
           "description": "Comments",
-          "link": "https://arxiv.org/abs/2105.08712",
-          "publishedOn": "2021-05-24T14:13:57.000Z",
-          "wordCount": 562,
-          "title": "HeapSafe: Securing Unprotected Heaps in RISC-V [pdf]"
+          "link": "https://www.anandtech.com/show/16693/arm-announces-mobile-armv9-cpu-microarchitectures-cortexx2-cortexa710-cortexa510",
+          "publishedOn": "2021-05-25T13:45:36.000Z",
+          "wordCount": 2622,
+          "title": "Arm Announces New Mobile Armv9 CPU Microarchitectures"
         },
         {
-          "id": "https://pkg.go.dev/rsc.io/rf",
+          "id": "https://github.com/TheEconomist/covid-19-the-economist-global-excess-deaths-model",
           "author": null,
           "description": "Comments",
-          "link": "https://pkg.go.dev/rsc.io/rf",
-          "publishedOn": "2021-05-24T14:09:58.000Z",
-          "wordCount": 1949,
-          "title": "Rf: an experimental refactoring tool for Go"
+          "link": "https://github.com/TheEconomist/covid-19-the-economist-global-excess-deaths-model",
+          "publishedOn": "2021-05-25T13:25:30.000Z",
+          "wordCount": 710,
+          "title": "The Economist's excess deaths model"
         },
         {
-          "id": "https://cloudbite.attejuvonen.fi/",
+          "id": "https://timdaub.github.io/2020/02/19/wasm-synth/",
           "author": null,
           "description": "Comments",
-          "link": "https://cloudbite.attejuvonen.fi/",
-          "publishedOn": "2021-05-24T14:06:03.000Z",
-          "wordCount": 62,
-          "title": "Show HN: Flashcards to learn AWS skills"
+          "link": "https://timdaub.github.io/2020/02/19/wasm-synth/",
+          "publishedOn": "2021-05-25T13:15:48.000Z",
+          "wordCount": 4168,
+          "title": "WASM SYNTH, or, how music taught me the beauty of math"
         },
         {
-          "id": "http://oceans.nautil.us/feature/695/in-the-deep-sea-incredible-animals-abound",
+          "id": "https://www.codenotary.com/blog/immudb-release-1-0",
           "author": null,
           "description": "Comments",
-          "link": "http://oceans.nautil.us/feature/695/in-the-deep-sea-incredible-animals-abound",
-          "publishedOn": "2021-05-24T12:36:21.000Z",
-          "wordCount": 1233,
-          "title": "In the Deep Sea, Animals Abound"
+          "link": "https://www.codenotary.com/blog/immudb-release-1-0",
+          "publishedOn": "2021-05-25T11:49:50.000Z",
+          "wordCount": 705,
+          "title": "Immudb 1.0 – open-source, immutable database with SQL and verified timetravel"
         },
         {
-          "id": "https://drewdevault.com/2021/05/24/io_uring-finger-server.html",
+          "id": "https://news.mit.edu/2021/misinformation-correcting-worse-0520",
           "author": null,
           "description": "Comments",
-          "link": "https://drewdevault.com/2021/05/24/io_uring-finger-server.html",
-          "publishedOn": "2021-05-24T11:31:40.000Z",
-          "wordCount": 5171,
-          "title": "Using io_uring to make a high-performance finger server"
+          "link": "https://news.mit.edu/2021/misinformation-correcting-worse-0520",
+          "publishedOn": "2021-05-25T11:11:00.000Z",
+          "wordCount": 2018,
+          "title": "Users post more falsehoods after others correct them: study"
         },
         {
-          "id": "https://www.netmeister.org/blog/email.html",
+          "id": "https://www.newyorker.com/culture/cultural-comment/remote-work-not-from-home",
           "author": null,
           "description": "Comments",
-          "link": "https://www.netmeister.org/blog/email.html",
-          "publishedOn": "2021-05-24T11:27:24.000Z",
-          "wordCount": 1872,
-          "title": "Complexities of e-mail validation logic"
+          "link": "https://www.newyorker.com/culture/cultural-comment/remote-work-not-from-home",
+          "publishedOn": "2021-05-25T11:00:42.000Z",
+          "wordCount": 1959,
+          "title": "What if remote work didn’t mean working from home?"
         },
         {
-          "id": "https://www.gresearch.co.uk/article/in-praise-of-dry-run/",
+          "id": "https://www.smithsonianmag.com/science-nature/cardiovascular-secrets-giraffes-180977785/",
           "author": null,
           "description": "Comments",
-          "link": "https://www.gresearch.co.uk/article/in-praise-of-dry-run/",
-          "publishedOn": "2021-05-24T11:26:15.000Z",
-          "wordCount": 2252,
-          "title": "In praise of --dry-run"
+          "link": "https://www.smithsonianmag.com/science-nature/cardiovascular-secrets-giraffes-180977785/",
+          "publishedOn": "2021-05-25T10:38:49.000Z",
+          "wordCount": 1981,
+          "title": "The Cardiovascular Secrets of Giraffes"
         },
         {
-          "id": "https://dolphin-emu.org/blog/2021/05/24/temptation-of-the-apple-dolphin-on-macos-m1/",
+          "id": "https://newsletter.butwhatfor.com/p/takeaway-tuesday-the-missing-piece",
           "author": null,
           "description": "Comments",
-          "link": "https://dolphin-emu.org/blog/2021/05/24/temptation-of-the-apple-dolphin-on-macos-m1/",
-          "publishedOn": "2021-05-24T10:58:30.000Z",
-          "wordCount": 2199,
-          "title": "Temptation of the Apple: Dolphin on macOS M1"
+          "link": "https://newsletter.butwhatfor.com/p/takeaway-tuesday-the-missing-piece",
+          "publishedOn": "2021-05-25T05:19:25.000Z",
+          "wordCount": 1643,
+          "title": "Shel Silverstein and the Missing Piece Meets the Big O"
         },
         {
-          "id": "https://www.bbc.co.uk/news/uk-england-merseyside-57226165",
+          "id": "https://www.youtube.com/watch?v=1ZTRb-2DZGs&list=PL1y1iaEtjSYitzKXzrE8wcQvEsw9dImn0&index=33",
           "author": null,
           "description": "Comments",
-          "link": "https://www.bbc.co.uk/news/uk-england-merseyside-57226165",
-          "publishedOn": "2021-05-24T10:28:10.000Z",
-          "wordCount": 745,
-          "title": "Cheese photo leads to Liverpool drug dealer's downfall"
+          "link": "https://www.youtube.com/watch?v=1ZTRb-2DZGs&list=PL1y1iaEtjSYitzKXzrE8wcQvEsw9dImn0&index=33",
+          "publishedOn": "2021-05-25T03:53:52.000Z",
+          "wordCount": 23,
+          "title": "Redbean: Actually Portable Executable Web Server [video]"
         },
         {
-          "id": "https://germandiagogomez.medium.com/c-scripting-alternatives-easy-to-bind-scripting-binding-chaiscript-and-wren-into-a-small-game-174c86b0ecd7",
+          "id": "https://www.cnbc.com/2021/05/24/peloton-to-invest-400-million-on-first-us-production-facility-in-ohio.html",
           "author": null,
           "description": "Comments",
-          "link": "https://germandiagogomez.medium.com/c-scripting-alternatives-easy-to-bind-scripting-binding-chaiscript-and-wren-into-a-small-game-174c86b0ecd7",
-          "publishedOn": "2021-05-24T09:38:23.000Z",
-          "wordCount": 2713,
-          "title": "My experience binding a couple of scripting engines with C++"
+          "link": "https://www.cnbc.com/2021/05/24/peloton-to-invest-400-million-on-first-us-production-facility-in-ohio.html",
+          "publishedOn": "2021-05-24T18:26:51.000Z",
+          "wordCount": 802,
+          "title": "Peloton to invest $400M to build its first U.S. manufacturing facility in Ohio"
         },
         {
-          "id": "https://github.com/magic-wormhole/magic-wormhole",
+          "id": "https://eliasdaler.github.io/using-cmake/",
           "author": null,
           "description": "Comments",
-          "link": "https://github.com/magic-wormhole/magic-wormhole",
-          "publishedOn": "2021-05-24T08:37:35.000Z",
-          "wordCount": 851,
-          "title": "Magic Wormhole: Get things from one computer to another, safely"
+          "link": "https://eliasdaler.github.io/using-cmake/",
+          "publishedOn": "2021-05-24T14:55:13.000Z",
+          "wordCount": 4346,
+          "title": "Using CMake and Managing Dependencies"
         },
         {
-          "id": "https://www.openbookpublishers.com/product/979",
+          "id": "https://phys.org/news/2021-05-reveals-microsecond-big.html",
           "author": null,
           "description": "Comments",
-          "link": "https://www.openbookpublishers.com/product/979",
-          "publishedOn": "2021-05-23T12:02:17.000Z",
-          "wordCount": 1402,
-          "title": "The Essence of Mathematics Through Elementary Problems"
+          "link": "https://phys.org/news/2021-05-reveals-microsecond-big.html",
+          "publishedOn": "2021-05-24T12:37:14.000Z",
+          "wordCount": 1622,
+          "title": "Study reveals new details on what happened in the first microsecond of Big Bang"
         }
       ]
     },
@@ -283,12 +283,30 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2021/05/undoing-mistakes-git-part2/",
+          "author": "hello@smashingmagazine.com (Tobias Günther)",
+          "description": "Mistakes. These cruel villains do not even stop at the beautiful world of software development. But although we cannot avoid making mistakes, we can learn to undo them! This post will show the right tools for your daily work with Git.",
+          "link": "https://smashingmagazine.com/2021/05/undoing-mistakes-git-part2/",
+          "publishedOn": "2021-05-25T14:00:00.000Z",
+          "wordCount": 2079,
+          "title": "A Guide To Undoing Mistakes With Git (Part 2)"
+        },
+        {
+          "id": "https://smashingmagazine.com/2021/05/reduce-font-loading-impact-css-descriptors/",
+          "author": "hello@smashingmagazine.com (Barry Pollard)",
+          "description": "Web fonts are often terrible for web performance and none of the font loading strategies are particularly effective to address that. Upcoming font options may finally deliver on the promise of making it easier to align fallback fonts to the final fonts.",
+          "link": "https://smashingmagazine.com/2021/05/reduce-font-loading-impact-css-descriptors/",
+          "publishedOn": "2021-05-25T09:30:00.000Z",
+          "wordCount": 2062,
+          "title": "A New Way To Reduce Font Loading Impact: CSS Font Descriptors"
+        },
+        {
           "id": "https://smashingmagazine.com/2021/05/css-container-queries-use-cases-migration-strategies/",
           "author": "hello@smashingmagazine.com (Adrian Bece)",
           "description": "CSS Container queries bring media queries closer to the target elements themselves and enables them to adapt to virtually any given container or layout. In this article, we’re going to cover CSS container query basics and how to use them today with progressive enhancement or polyfills.",
           "link": "https://smashingmagazine.com/2021/05/css-container-queries-use-cases-migration-strategies/",
           "publishedOn": "2021-05-24T11:30:00.000Z",
-          "wordCount": 2665,
+          "wordCount": 2707,
           "title": "CSS Container Queries: Use-Cases And Migration Strategies"
         },
         {
@@ -315,7 +333,7 @@
           "description": "A step-by-step tutorial on adding authentication and authorization to your Next.js apps, with Auth0. We’ll be using a Next.js SDK to connect our application to the Auth0 API and will create the dynamic API route for React.",
           "link": "https://smashingmagazine.com/2021/05/implement-authentication-nextjs-auth0/",
           "publishedOn": "2021-05-20T11:00:00.000Z",
-          "wordCount": 1919,
+          "wordCount": 1956,
           "title": "How To Implement Authentication In Next.js With Auth0"
         },
         {
@@ -324,7 +342,7 @@
           "description": "Everything to keep in mind when designing and building a mega-dropdown, common pitfalls, hover entry/exit delays, trajectory triangle technique and SVG path exit areas.",
           "link": "https://smashingmagazine.com/2021/05/frustrating-design-patterns-mega-dropdown-hover-menus/",
           "publishedOn": "2021-05-19T11:40:00.000Z",
-          "wordCount": 4986,
+          "wordCount": 5028,
           "title": "Frustrating Design Patterns: Mega-Dropdown Hover Menus"
         },
         {
@@ -360,7 +378,7 @@
           "description": "“Tree-shaking” is a must-have performance optimization when bundling JavaScript. In this article, we dive deeper on how exactly it works and how specs and practice intertwine to make bundles leaner and more performant. Plus, you’ll get a tree-shaking checklist to use for your projects.",
           "link": "https://smashingmagazine.com/2021/05/tree-shaking-reference-guide/",
           "publishedOn": "2021-05-14T10:30:00.000Z",
-          "wordCount": 2393,
+          "wordCount": 2430,
           "title": "Tree-Shaking: A Reference Guide"
         },
         {
@@ -369,7 +387,7 @@
           "description": "In this new series of articles on UX, we take a closer look at some frustrating design patterns and explore better alternatives, along with plenty of examples to keep in mind when building or designing one. Let’s start with an infamous birthday picker.",
           "link": "https://smashingmagazine.com/2021/05/frustrating-design-patterns-birthday-picker/",
           "publishedOn": "2021-05-12T12:42:00.000Z",
-          "wordCount": 3443,
+          "wordCount": 3485,
           "title": "Frustrating Design Patterns That Need Fixing: Birthday Picker"
         },
         {
@@ -414,7 +432,7 @@
           "description": "How do you organize your Google Drive assets? How do you name your Dropbox Paper documents? How do you deal with comments? Let’s get it right.",
           "link": "https://smashingmagazine.com/2021/05/product-records-organization-collaboration-best-practices/",
           "publishedOn": "2021-05-07T10:00:00.000Z",
-          "wordCount": 4127,
+          "wordCount": 4169,
           "title": "How To Organize Product-Related Assets And Collaborate Better"
         },
         {
@@ -423,7 +441,7 @@
           "description": "When dealing with themes for large platforms and CMS, legacy issues often become a bottleneck. In this article, Carson Shold discusses how his team improved the performance and organization of their Shopify themes, and improved maintainability along the way.",
           "link": "https://smashingmagazine.com/2021/05/improving-performance-shopify-themes-case-study/",
           "publishedOn": "2021-05-06T11:00:00.000Z",
-          "wordCount": 2617,
+          "wordCount": 2654,
           "title": "Improving The Performance Of Shopify Themes (Case Study)"
         },
         {
@@ -432,7 +450,7 @@
           "description": "This article showcases a case study of Bookaway’s landing page performance. We’ll see how taking care of the props we send to Next.js pages can make loading times and Web Vitals better.",
           "link": "https://smashingmagazine.com/2021/05/reduce-data-sent-client-nextjs/",
           "publishedOn": "2021-05-05T10:30:00.000Z",
-          "wordCount": 2296,
+          "wordCount": 2333,
           "title": "Reducing HTML Payload With Next.js (Case Study)"
         },
         {
@@ -441,8 +459,8 @@
           "description": "No matter how experienced you are, mistakes are an inevitable part of software development. But we can learn to repair them! And this is what we'll be looking at in this two-part series: how to undo mistakes using Git.",
           "link": "https://smashingmagazine.com/2021/05/undoing-mistakes-git-part1/",
           "publishedOn": "2021-05-04T14:30:00.000Z",
-          "wordCount": 1791,
-          "title": "A Guide To Undoing Mistakes With Git"
+          "wordCount": 1832,
+          "title": "A Guide To Undoing Mistakes With Git (Part 1)"
         },
         {
           "id": "https://smashingmagazine.com/2021/05/smashing-podcast-episode-36/",
@@ -459,7 +477,7 @@
           "description": "Web-oriented databases, frameworks like Nuxt and Next.js, and even frameworkless approaches are evolving the Jamstack, but the core principles are more powerful than ever.",
           "link": "https://smashingmagazine.com/2021/05/evolution-jamstack/",
           "publishedOn": "2021-05-03T07:00:00.000Z",
-          "wordCount": 2141,
+          "wordCount": 2178,
           "title": "The Evolution Of Jamstack"
         },
         {
@@ -468,7 +486,7 @@
           "description": "Do you need a little inspiration boost? Well, then our new collection of wallpapers is for you. Designed with love by the community for the community, the wallpapers are available with and without a calendar for May 2021.",
           "link": "https://smashingmagazine.com/2021/04/desktop-wallpaper-calendars-may-2021/",
           "publishedOn": "2021-04-30T09:00:00.000Z",
-          "wordCount": 2139,
+          "wordCount": 2181,
           "title": "May Is In The Air (2021 Wallpapers Edition)"
         },
         {
@@ -477,7 +495,7 @@
           "description": "Images have also been a key part of the web. They communicate ideas instantly, but they are also a lot heavier than text to load. This means that it’s essential to get loading and displaying them right, if you want to give your users a fantastic first impression. An excerpt from [Addy's new book](https://www.smashingmagazine.com/2021/04/image-optimization-pre-release/) (also, check a [free PDF preview](http://provide.smashingmagazine.com/eBooks/image-optimization-sample-chapter.pdf)).",
           "link": "https://smashingmagazine.com/2021/04/humble-img-element-core-web-vitals/",
           "publishedOn": "2021-04-29T12:15:00.000Z",
-          "wordCount": 5325,
+          "wordCount": 5322,
           "title": "The Humble `<img>` Element And Core Web Vitals"
         },
         {
@@ -486,7 +504,7 @@
           "description": "The cat is out! For the last year, we’ve been working with Addy Osmani on a new Smashing Book all around image optimization. And now it’s here. Meet “Image Optimization”, our practical modern guide to delivering high-quality images on the web with the best performance.",
           "link": "https://smashingmagazine.com/2021/04/image-optimization-pre-release/",
           "publishedOn": "2021-04-28T13:20:00.000Z",
-          "wordCount": 2130,
+          "wordCount": 2121,
           "title": "Meet Image Optimization, A New Smashing Book By Addy Osmani"
         },
         {
@@ -495,17 +513,8 @@
           "description": "Easing functions can change the look and feel of an animation by affecting the rate, or speed, of an animation. In this article, we’re going to take a deep dive into easing functions and see how we can use them to create those natural and stunning animations.",
           "link": "https://smashingmagazine.com/2021/04/easing-functions-css-animations-transitions/",
           "publishedOn": "2021-04-27T12:00:00.000Z",
-          "wordCount": 2623,
+          "wordCount": 2665,
           "title": "Understanding Easing Functions For CSS Animations And Transitions"
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/04/bake-layers-accessibility-testing-process/",
-          "author": "hello@smashingmagazine.com (Kate Kalcevich & Mike Gifford)",
-          "description": "Accessibility experts Kate Kalcevich and Mike Gifford introduce readers to \"layered accessibility testing”, a practice of using a variety of tools and approaches at different stages in the digital product lifecycle to catch accessibility issues early — when it’s easier and cheaper to fix them.",
-          "link": "https://smashingmagazine.com/2021/04/bake-layers-accessibility-testing-process/",
-          "publishedOn": "2021-04-26T11:00:00.000Z",
-          "wordCount": 3279,
-          "title": "How To Bake Layers Of Accessibility Testing Into Your Process"
         }
       ]
     },
@@ -514,6 +523,33 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "60ac3a2711ffb70827ef6aec",
+          "author": null,
+          "description": "Walkthrough for Hack The Box Valentine machine",
+          "link": "https://www.freecodecamp.org/news/keep-calm-and-hack-the-box-valentine/",
+          "publishedOn": "2021-05-25T22:43:11.000Z",
+          "wordCount": 1664,
+          "title": "Keep Calm and Hack The Box – Valentine"
+        },
+        {
+          "id": "60a93b0011ffb70827ef5b0d",
+          "author": null,
+          "description": "In HTML, it’s the default behavior for forms to redirect to a new page whenever they're submitted. So in order to provide dynamic functionality, React uses a strategy called controlled components. If you have recently gone through a React course, you probably didn't like this part, because there are",
+          "link": "https://www.freecodecamp.org/news/how-to-use-react-hook-form-with-chakra-ui/",
+          "publishedOn": "2021-05-25T20:26:38.000Z",
+          "wordCount": 1752,
+          "title": "How to Use React-Hook-Form to Build Beautiful Forms with Chakra UI"
+        },
+        {
+          "id": "608706aedd38b9088c2c012c",
+          "author": null,
+          "description": "If you're a beginner developer, it can be difficult to find ways to use your limited knowledge to support yourself. And at the same time, you won't be able to hone your skills if you aren't using them full time.  It's a precarious spot that I remember being in when",
+          "link": "https://www.freecodecamp.org/news/web-design-best-practices-for-new-developers/",
+          "publishedOn": "2021-05-25T16:51:37.000Z",
+          "wordCount": 1940,
+          "title": "Web Design Best Practices for New Developers – How to Create Portfolio-Worthy Work"
+        },
         {
           "id": "60abc6d011ffb70827ef630f",
           "author": null,
@@ -576,33 +612,6 @@
           "publishedOn": "2021-05-21T15:33:45.000Z",
           "wordCount": 4309,
           "title": "The JavaScript Array Handbook – JS Array Methods Explained with Examples"
-        },
-        {
-          "id": "60a6b3ab906c5207e3a7f5fa",
-          "author": null,
-          "description": "Angular is one of the most popular web frameworks. We just released a course on the freeCodeCamp.org YouTube channel that will teach you how to create an Angular 11 project from scratch. It uses a public API to create a game database website. You will gain a great foundation",
-          "link": "https://www.freecodecamp.org/news/angular-11-tutorial-code-a-project-from-scratch/",
-          "publishedOn": "2021-05-20T19:14:48.000Z",
-          "wordCount": 397,
-          "title": "Angular 11 Tutorial: Code a Project from Scratch"
-        },
-        {
-          "id": "60a694ab906c5207e3a7f544",
-          "author": null,
-          "description": "A lot of C++ courses teach you how to build toy projects with no real-world application. But it can often be more helpful to write programs people would actually use. We just released a 5-hour C++ course that will teach you how to write modern C++ code by building an",
-          "link": "https://www.freecodecamp.org/news/learn-modern-cpp-by-building-an-audio-plugin/",
-          "publishedOn": "2021-05-20T17:12:29.000Z",
-          "wordCount": 436,
-          "title": "Learn Modern C++ by Building an Audio Plugin"
-        },
-        {
-          "id": "60a4b5c7906c5207e3a7e2bb",
-          "author": null,
-          "description": "In this tutorial, you'll learn what version control is and how you can contribute to open-source projects using Git.  We'll get through the fundamentals of Git and I'll give you the knowledge that is indispensable for any web developer. What is Git?Git is a version control software which lets",
-          "link": "https://www.freecodecamp.org/news/get-started-with-version-control-and-git/",
-          "publishedOn": "2021-05-20T15:20:53.000Z",
-          "wordCount": 1493,
-          "title": "How to Get Started with Version Control Using Git"
         }
       ]
     }
