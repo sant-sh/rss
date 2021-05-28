@@ -2,55 +2,305 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rss.sant.sh/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-27T01:30:28.224Z</updated>
+    <updated>2021-05-28T01:41:37.849Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="https://rss.sant.sh/index.html"/>
     <link rel="self" href="https://rss.sant.sh/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[Rainforest (YC S12) Is Hiring Remote Engineers, Product Designers and CSM]]></title>
-        <id>https://jobs.lever.co/rainforest?lever-origin=applied&amp;lever-source%5B%5D=HN</id>
-        <link href="https://jobs.lever.co/rainforest?lever-origin=applied&amp;lever-source%5B%5D=HN"/>
-        <updated>2021-05-27T01:01:11.000Z</updated>
+        <title type="html"><![CDATA[Etleap (YC W13) Is Hiring a Technical End User Documentation Writer]]></title>
+        <id>https://news.ycombinator.com/item?id=27310586</id>
+        <link href="https://news.ycombinator.com/item?id=27310586"/>
+        <updated>2021-05-28T01:00:14.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[LA pays $2600 per homeless tent, per month]]></title>
-        <id>https://www.npr.org/2021/05/25/999969718/high-cost-of-los-angeles-homeless-camp-raises-eyebrows-and-questions</id>
-        <link href="https://www.npr.org/2021/05/25/999969718/high-cost-of-los-angeles-homeless-camp-raises-eyebrows-and-questions"/>
-        <updated>2021-05-27T00:38:24.000Z</updated>
+        <title type="html"><![CDATA[QUIC is now RFC 9000]]></title>
+        <id>https://www.fastly.com/blog/quic-is-now-rfc-9000</id>
+        <link href="https://www.fastly.com/blog/quic-is-now-rfc-9000"/>
+        <updated>2021-05-28T00:25:49.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I still like C and strongly dislike C++]]></title>
-        <id>https://codecs.multimedia.cx/2021/05/why-i-still-like-c-and-strongly-dislike-cpp/</id>
-        <link href="https://codecs.multimedia.cx/2021/05/why-i-still-like-c-and-strongly-dislike-cpp/"/>
-        <updated>2021-05-26T23:07:15.000Z</updated>
+        <title type="html"><![CDATA[A six figure meme making job at a legit company]]></title>
+        <id>https://twitter.com/nateliason/status/1397719837204418561</id>
+        <link href="https://twitter.com/nateliason/status/1397719837204418561"/>
+        <updated>2021-05-28T00:25:13.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[When scientific orthodoxy resembles religious dogma]]></title>
-        <id>https://www.scientificamerican.com/article/when-scientific-orthodoxy-resembles-religious-dogma/</id>
-        <link href="https://www.scientificamerican.com/article/when-scientific-orthodoxy-resembles-religious-dogma/"/>
-        <updated>2021-05-26T22:32:26.000Z</updated>
+        <title type="html"><![CDATA[Stuffed Dormouse and Fish Gut Sauce: The Flavors of Pompeii (2019)]]></title>
+        <id>https://www.nytimes.com/2019/08/07/arts/design/rome-food-last-supper-in-pompeii.html</id>
+        <link href="https://www.nytimes.com/2019/08/07/arts/design/rome-food-last-supper-in-pompeii.html"/>
+        <updated>2021-05-28T00:05:28.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SKreen: Human Centric Smartphones for Everyone]]></title>
-        <id>https://skreen.site/</id>
-        <link href="https://skreen.site/"/>
-        <updated>2021-05-26T21:47:45.000Z</updated>
+        <title type="html"><![CDATA[Second-guessing the modern web (2020)]]></title>
+        <id>https://macwright.com/2020/05/10/spa-fatigue.html</id>
+        <link href="https://macwright.com/2020/05/10/spa-fatigue.html"/>
+        <updated>2021-05-27T21:48:11.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An Intuition for Lisp Syntax]]></title>
+        <id>https://stopa.io/post/265?repost=true</id>
+        <link href="https://stopa.io/post/265?repost=true"/>
+        <updated>2021-05-27T19:50:33.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The media's lab leak fiasco]]></title>
+        <id>https://www.slowboring.com/p/the-medias-lab-leak-fiasco</id>
+        <link href="https://www.slowboring.com/p/the-medias-lab-leak-fiasco"/>
+        <updated>2021-05-27T19:34:05.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JsonLogic]]></title>
+        <id>https://jsonlogic.com/</id>
+        <link href="https://jsonlogic.com/"/>
+        <updated>2021-05-27T18:16:58.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Improve Machine Learning Model Performance by Combining Categorical Features]]></title>
+        <id>60af931811ffb70827ef85d3</id>
+        <link href="https://www.freecodecamp.org/news/improve-machine-learning-model-performance-by-combining-categorical-features/"/>
+        <updated>2021-05-27T17:55:23.000Z</updated>
+        <summary type="html"><![CDATA[When you're training a machine learning model, you can have some features in your dataset that represent categorical values. Categorical features are types of data that you can divide into groups. There are three common categorical data types: Ordinal – a set of values in ascending or descending order. Example: rating]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New dark matter map reveals cosmic mystery]]></title>
+        <id>https://www.bbc.com/news/science-environment-57244708</id>
+        <link href="https://www.bbc.com/news/science-environment-57244708"/>
+        <updated>2021-05-27T17:29:00.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stacked Git – manage commits as a stack of patches]]></title>
+        <id>https://stacked-git.github.io/</id>
+        <link href="https://stacked-git.github.io/"/>
+        <updated>2021-05-27T17:17:51.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Manifest v3 Update]]></title>
+        <id>https://blog.mozilla.org/addons/2021/05/27/manifest-v3-update/</id>
+        <link href="https://blog.mozilla.org/addons/2021/05/27/manifest-v3-update/"/>
+        <updated>2021-05-27T16:47:03.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Egyptian Circumnavigation of Africa ~600 BC]]></title>
+        <id>https://www.livius.org/sources/content/herodotus/herodotus-on-the-first-circumnavigation-of-africa/</id>
+        <link href="https://www.livius.org/sources/content/herodotus/herodotus-on-the-first-circumnavigation-of-africa/"/>
+        <updated>2021-05-27T16:37:04.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[V8 Sparkplug – A non-optimizing JavaScript compiler]]></title>
+        <id>https://v8.dev/blog/sparkplug</id>
+        <link href="https://v8.dev/blog/sparkplug"/>
+        <updated>2021-05-27T16:19:02.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Make a Bouncing Basketball in Unity with Materials and Textures 🏀]]></title>
+        <id>60a325c6906c5207e3a7da25</id>
+        <link href="https://www.freecodecamp.org/news/how-to-make-a-basketball-in-unity-with-materials-and-textures/"/>
+        <updated>2021-05-27T15:16:34.000Z</updated>
+        <summary type="html"><![CDATA[In this article, I'll teach you how to make a basketball using materials and textures in Unity. You can extend this micro-concept to create any kind of ball like a football, tennis ball, or snooker balls.  That said, these techniques aren't just limited to creating round 3D objects like balls.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Phil's Old Radios]]></title>
+        <id>https://antiqueradio.org/welcome.htm</id>
+        <link href="https://antiqueradio.org/welcome.htm"/>
+        <updated>2021-05-27T14:54:37.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: NocoDB – The Open Source Airtable Alternative]]></title>
+        <id>https://github.com/nocodb/nocodb</id>
+        <link href="https://github.com/nocodb/nocodb"/>
+        <updated>2021-05-27T14:47:14.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Convect – Instant Serverless Deployment of ML Models]]></title>
+        <id>https://convect.ml</id>
+        <link href="https://convect.ml"/>
+        <updated>2021-05-27T14:39:28.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Marvell Announces First PCIe 5.0 NVMe SSD Controllers: Up to 14 GB/S]]></title>
+        <id>https://www.anandtech.com/show/16703/marvell-announces-first-pcie-50-nvme-ssd-controllers</id>
+        <link href="https://www.anandtech.com/show/16703/marvell-announces-first-pcie-50-nvme-ssd-controllers"/>
+        <updated>2021-05-27T14:01:04.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Useful VS Code Extensions For Front-End Developers]]></title>
+        <id>https://smashingmagazine.com/2021/05/useful-vs-code-extensions-web-developers/</id>
+        <link href="https://smashingmagazine.com/2021/05/useful-vs-code-extensions-web-developers/"/>
+        <updated>2021-05-27T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Meet useful Visual Studio Code extensions for web developers: little helpers to minimize slow-downs and frustrations, and boost developer’s workflow along the way. With auto log messages, auto code formatting, file utils, file labels, code snippets, highlight brackets, tags, indents and workspaces, onboarding and remote SSH.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MDN Plus]]></title>
+        <id>https://developer.mozilla.org/en/plus</id>
+        <link href="https://developer.mozilla.org/en/plus"/>
+        <updated>2021-05-27T13:16:50.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask HN: Favorite Blogs by Individuals?]]></title>
+        <id>https://news.ycombinator.com/item?id=27302195</id>
+        <link href="https://news.ycombinator.com/item?id=27302195"/>
+        <updated>2021-05-27T12:29:09.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I, as someone who is visually impaired, use my iPhone (2020)]]></title>
+        <id>https://twitter.com/Kristy_Viers/status/1287189581926981634</id>
+        <link href="https://twitter.com/Kristy_Viers/status/1287189581926981634"/>
+        <updated>2021-05-27T12:16:10.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: I made a free blogging/bookmarking platform with discussions/discovery]]></title>
+        <id>http://wndr.xyz</id>
+        <link href="http://wndr.xyz"/>
+        <updated>2021-05-27T11:07:00.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Klarna users are being signed in to random accounts]]></title>
+        <id>https://twitter.com/esraefe/status/1397842160607711232</id>
+        <link href="https://twitter.com/esraefe/status/1397842160607711232"/>
+        <updated>2021-05-27T10:28:55.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Build And Launch Responsive Websites Faster With Editor X]]></title>
+        <id>https://smashingmagazine.com/2021/05/build-launch-responsive-websites-editorx/</id>
+        <link href="https://smashingmagazine.com/2021/05/build-launch-responsive-websites-editorx/"/>
+        <updated>2021-05-27T09:30:00.000Z</updated>
+        <summary type="html"><![CDATA[While web builders have been around for a long time, it wasn’t until recently that they became practical for professional use. Closing the gap between design and code has become the north star for many companies and we are seeing a wave of tools that deliver on this promise.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Miroslav Bekyarov)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Roots of 'Program' Revisited]]></title>
+        <id>https://cacm.acm.org/magazines/2021/4/251342-roots-of-program-revisited/fulltext</id>
+        <link href="https://cacm.acm.org/magazines/2021/4/251342-roots-of-program-revisited/fulltext"/>
+        <updated>2021-05-27T09:23:39.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blog about what you've struggled with]]></title>
+        <id>https://jvns.ca/blog/2021/05/24/blog-about-what-you-ve-struggled-with/</id>
+        <link href="https://jvns.ca/blog/2021/05/24/blog-about-what-you-ve-struggled-with/"/>
+        <updated>2021-05-27T08:18:17.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mathematicians Find Long-Sought Building Blocks for Special Polynomials]]></title>
+        <id>https://www.quantamagazine.org/mathematicians-find-polynomial-building-blocks-hilbert-sought-20210525</id>
+        <link href="https://www.quantamagazine.org/mathematicians-find-polynomial-building-blocks-hilbert-sought-20210525"/>
+        <updated>2021-05-27T05:01:17.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Eric Carle has died]]></title>
+        <id>https://www.washingtonpost.com/local/obituaries/eric-carle-dead/2021/05/26/cbb39414-2234-11e4-8593-da634b334390_story.html</id>
+        <link href="https://www.washingtonpost.com/local/obituaries/eric-carle-dead/2021/05/26/cbb39414-2234-11e4-8593-da634b334390_story.html"/>
+        <updated>2021-05-27T03:25:09.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -64,76 +314,6 @@
         <summary type="html"><![CDATA[In this tutorial you will create an app that generates dynamic animated text using Giphy's API with ReactJS. After that I'll go over some of the other API features Giphy provides that you can use to make other interesting projects. You can find the code for the tutorial here. Video]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[You can't have too many angels]]></title>
-        <id>https://waseem.substack.com/p/you-cant-have-too-many-angels</id>
-        <link href="https://waseem.substack.com/p/you-cant-have-too-many-angels"/>
-        <updated>2021-05-26T21:26:35.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Collusion rings threaten the integrity of computer science research]]></title>
-        <id>https://m-cacm.acm.org/magazines/2021/6/252840-collusion-rings-threaten-the-integrity-of-computer-science-research/fulltext</id>
-        <link href="https://m-cacm.acm.org/magazines/2021/6/252840-collusion-rings-threaten-the-integrity-of-computer-science-research/fulltext"/>
-        <updated>2021-05-26T20:49:16.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Life after an internet mob attack]]></title>
-        <id>https://pasquale.cool/internet-mob</id>
-        <link href="https://pasquale.cool/internet-mob"/>
-        <updated>2021-05-26T19:56:46.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why and how GitHub is adopting OpenTelemetry]]></title>
-        <id>https://github.blog/2021-05-26-why-and-how-github-is-adopting-opentelemetry/</id>
-        <link href="https://github.blog/2021-05-26-why-and-how-github-is-adopting-opentelemetry/"/>
-        <updated>2021-05-26T19:21:28.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Servers as they should be – shipping early 2022]]></title>
-        <id>https://oxide.computer</id>
-        <link href="https://oxide.computer"/>
-        <updated>2021-05-26T18:45:35.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A new algorithm for graph crossings, hiding in plain sight (2020)]]></title>
-        <id>https://www.quantamagazine.org/a-new-algorithm-for-graph-crossings-hiding-in-plain-sight-20200915/?s=feedly</id>
-        <link href="https://www.quantamagazine.org/a-new-algorithm-for-graph-crossings-hiding-in-plain-sight-20200915/?s=feedly"/>
-        <updated>2021-05-26T18:39:40.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using the “X-AMZN-Trace-Id” Header for Request Tracing Through AWS Load Balancer]]></title>
-        <id>https://www.bennadel.com/blog/4054-using-the-x-amzn-trace-id-header-for-request-tracing-through-amazons-load-balancers.htm</id>
-        <link href="https://www.bennadel.com/blog/4054-using-the-x-amzn-trace-id-header-for-request-tracing-through-amazons-load-balancers.htm"/>
-        <updated>2021-05-26T18:35:43.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
@@ -157,46 +337,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Find Subreddits for Your Niche]]></title>
-        <id>https://www.findareddit.com/</id>
-        <link href="https://www.findareddit.com/"/>
-        <updated>2021-05-26T17:59:47.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI Announces Funding for Startups]]></title>
-        <id>https://openai.com/fund/</id>
-        <link href="https://openai.com/fund/"/>
-        <updated>2021-05-26T17:43:06.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Different browsers see different colors]]></title>
-        <id>https://mux.com/blog/your-browser-and-my-browser-see-different-colors/</id>
-        <link href="https://mux.com/blog/your-browser-and-my-browser-see-different-colors/"/>
-        <updated>2021-05-26T17:13:58.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using NetBSD’s pkgsrc everywhere I can]]></title>
-        <id>https://rubenerd.com/using-netbsds-pkgsrc-everywhere-i-can/</id>
-        <link href="https://rubenerd.com/using-netbsds-pkgsrc-everywhere-i-can/"/>
-        <updated>2021-05-26T17:03:16.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How to Build a GraphQL API Using Laravel]]></title>
         <id>60abc59d11ffb70827ef6304</id>
         <link href="https://www.freecodecamp.org/news/build-a-graphql-api-using-laravel/"/>
@@ -211,16 +351,6 @@
         <id>https://blog.nikitas.link/have-you-ever-hurt-yourself-from-your-own-code</id>
         <link href="https://blog.nikitas.link/have-you-ever-hurt-yourself-from-your-own-code"/>
         <updated>2021-05-26T16:00:27.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Neovim 0.5 is overpowering]]></title>
-        <id>https://crispgm.com/page/neovim-is-overpowering.html</id>
-        <link href="https://crispgm.com/page/neovim-is-overpowering.html"/>
-        <updated>2021-05-26T14:56:41.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -247,90 +377,30 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Amazon acquires MGM for $8.5B]]></title>
-        <id>https://www.reuters.com/technology/amazon-snaps-up-james-bond-owner-mgm-845-bln-streaming-war-heats-up-2021-05-26/</id>
-        <link href="https://www.reuters.com/technology/amazon-snaps-up-james-bond-owner-mgm-845-bln-streaming-war-heats-up-2021-05-26/"/>
-        <updated>2021-05-26T13:00:11.000Z</updated>
+        <title type="html"><![CDATA[First Tasmanian Devils born in the wild of Australia mainland in 3k years]]></title>
+        <id>https://www.reuters.com/world/asia-pacific/first-tasmanian-devils-born-wild-australia-mainland-3000-years-2021-05-26/</id>
+        <link href="https://www.reuters.com/world/asia-pacific/first-tasmanian-devils-born-wild-australia-mainland-3000-years-2021-05-26/"/>
+        <updated>2021-05-26T11:59:27.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Build a RISC-V CPU from scratch]]></title>
-        <id>https://spectrum.ieee.org/geek-life/hands-on/build-a-riscv-cpu-from-scratch</id>
-        <link href="https://spectrum.ieee.org/geek-life/hands-on/build-a-riscv-cpu-from-scratch"/>
-        <updated>2021-05-26T11:43:58.000Z</updated>
+        <title type="html"><![CDATA[Battlefield of the Cold War: Nevada Test Site 1951 - 1963 [pdf]]]></title>
+        <id>https://www.osti.gov/opennet/servlets/purl/969352.pdf</id>
+        <link href="https://www.osti.gov/opennet/servlets/purl/969352.pdf"/>
+        <updated>2021-05-26T06:10:28.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Analysis of blood markers predicts human lifespan limit]]></title>
-        <id>https://www.nature.com/articles/s41467-021-23014-1</id>
-        <link href="https://www.nature.com/articles/s41467-021-23014-1"/>
-        <updated>2021-05-26T10:51:35.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USB-C is about to go from 100W to 240W, enough to power beefier laptops]]></title>
-        <id>https://www.theverge.com/circuitbreaker/2021/5/25/22453936/usb-c-power-delivery-extended-power-range-epr</id>
-        <link href="https://www.theverge.com/circuitbreaker/2021/5/25/22453936/usb-c-power-delivery-extended-power-range-epr"/>
-        <updated>2021-05-26T10:09:46.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The only Buddhist region in Europe]]></title>
-        <id>https://www.dw.com/en/the-only-buddhist-region-in-europe/a-57572543</id>
-        <link href="https://www.dw.com/en/the-only-buddhist-region-in-europe/a-57572543"/>
-        <updated>2021-05-26T10:03:57.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Enigmatic designs found in India may be the largest images made by human hands]]></title>
-        <id>https://www.sciencealert.com/enigmatic-designs-found-in-india-may-be-the-largest-images-ever-made-by-human-hands</id>
-        <link href="https://www.sciencealert.com/enigmatic-designs-found-in-india-may-be-the-largest-images-ever-made-by-human-hands"/>
-        <updated>2021-05-26T09:55:47.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Let's Build a Regex Engine]]></title>
-        <id>https://kean.blog/post/lets-build-regex</id>
-        <link href="https://kean.blog/post/lets-build-regex"/>
-        <updated>2021-05-26T08:52:54.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[After a decade of VC influence at Stanford, what’s next?]]></title>
-        <id>https://gabygoldberg.medium.com/after-a-decade-of-strong-vc-funding-at-stanford-whats-next-69c98d574be9</id>
-        <link href="https://gabygoldberg.medium.com/after-a-decade-of-strong-vc-funding-at-stanford-whats-next-69c98d574be9"/>
-        <updated>2021-05-26T07:03:59.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Iceland played an unexpected and crucial role in the Second World War]]></title>
-        <id>https://www.hakaimagazine.com/features/that-time-hitlers-girlfriend-visited-iceland-and-the-british-invaded/</id>
-        <link href="https://www.hakaimagazine.com/features/that-time-hitlers-girlfriend-visited-iceland-and-the-british-invaded/"/>
-        <updated>2021-05-26T01:08:04.000Z</updated>
+        <title type="html"><![CDATA[Persian legends and their Western counterparts (2020)]]></title>
+        <id>https://www.tor.com/2020/07/06/5-persian-legends-and-their-western-counterparts/</id>
+        <link href="https://www.tor.com/2020/07/06/5-persian-legends-and-their-western-counterparts/"/>
+        <updated>2021-05-26T02:31:57.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -347,27 +417,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Benefits of 2D code layouts (2018)]]></title>
-        <id>https://twitter.com/mesh_ide/status/984122863878680576</id>
-        <link href="https://twitter.com/mesh_ide/status/984122863878680576"/>
-        <updated>2021-05-25T21:52:23.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SICL: A New Common Lisp Implementation]]></title>
-        <id>https://github.com/robert-strandh/SICL</id>
-        <link href="https://github.com/robert-strandh/SICL"/>
-        <updated>2021-05-25T21:19:00.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use React-Hook-Form to Build Beautiful Forms with Chakra UI]]></title>
+        <title type="html"><![CDATA[Chakra UI and React-Hook-Form –How to Build Beautiful Forms]]></title>
         <id>60a93b0011ffb70827ef5b0d</id>
         <link href="https://www.freecodecamp.org/news/how-to-use-react-hook-form-with-chakra-ui/"/>
         <updated>2021-05-25T20:26:38.000Z</updated>
@@ -377,7 +427,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Web Design Best Practices for New Developers – How to Create Portfolio-Worthy Work]]></title>
+        <title type="html"><![CDATA[How to Create Portfolio-Worthy Work – Web Design Best Practices for New Developers]]></title>
         <id>608706aedd38b9088c2c012c</id>
         <link href="https://www.freecodecamp.org/news/web-design-best-practices-for-new-developers/"/>
         <updated>2021-05-25T16:51:37.000Z</updated>
@@ -404,36 +454,6 @@
         <summary type="html"><![CDATA[Web fonts are often terrible for web performance and none of the font loading strategies are particularly effective to address that. Upcoming font options may finally deliver on the promise of making it easier to align fallback fonts to the final fonts.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Barry Pollard)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tune Your PID Controller]]></title>
-        <id>https://pidtuner.com/</id>
-        <link href="https://pidtuner.com/"/>
-        <updated>2021-05-25T06:21:10.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Node Environment Variables with a DotEnv File for Node.js and npm]]></title>
-        <id>60abc6d011ffb70827ef630f</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-node-environment-variables-with-a-dotenv-file-for-node-js-and-npm/"/>
-        <updated>2021-05-25T00:48:45.000Z</updated>
-        <summary type="html"><![CDATA[Environment variables are variables that are set outside of a program, often through a cloud provider or operating system.  In Node, environment variables are a great way to securely and conveniently configure things that don't change often, like URLs, authentication keys, and passwords. How to Create Environment VariablesEnvironment variables are]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Keep Calm and Hack The Box – Nibbles]]></title>
-        <id>60626dc29618b008528a9589</id>
-        <link href="https://www.freecodecamp.org/news/keep-calm-and-hack-the-box-nibbles/"/>
-        <updated>2021-05-25T00:20:22.000Z</updated>
-        <summary type="html"><![CDATA[Walkthrough for Hack The Box Nibbles machine]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -654,16 +674,6 @@
         <summary type="html"><![CDATA[Images have also been a key part of the web. They communicate ideas instantly, but they are also a lot heavier than text to load. This means that it’s essential to get loading and displaying them right, if you want to give your users a fantastic first impression. An excerpt from [Addy's new book](https://www.smashingmagazine.com/2021/04/image-optimization-pre-release/) (also, check a [free PDF preview](http://provide.smashingmagazine.com/eBooks/image-optimization-sample-chapter.pdf)).]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Addy Osmani)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meet Image Optimization, A New Smashing Book By Addy Osmani]]></title>
-        <id>https://smashingmagazine.com/2021/04/image-optimization-pre-release/</id>
-        <link href="https://smashingmagazine.com/2021/04/image-optimization-pre-release/"/>
-        <updated>2021-04-28T13:20:00.000Z</updated>
-        <summary type="html"><![CDATA[The cat is out! For the last year, we’ve been working with Addy Osmani on a new Smashing Book all around image optimization. And now it’s here. Meet “Image Optimization”, our practical modern guide to delivering high-quality images on the web with the best performance.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
         </author>
     </entry>
 </feed>
