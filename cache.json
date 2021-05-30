@@ -6,274 +6,274 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
-          "id": "https://www.ycombinator.com/companies/greywing/jobs/J2SJ4dn-frontend-lead",
+          "id": "https://orhun.dev/blog/introducing-gpg-tui/",
           "author": null,
           "description": "Comments",
-          "link": "https://www.ycombinator.com/companies/greywing/jobs/J2SJ4dn-frontend-lead",
-          "publishedOn": "2021-05-29T01:00:15.000Z",
-          "wordCount": 944,
-          "title": "Greywing (YC W21) Is Hiring (Remote) Front End Lead Engineers"
+          "link": "https://orhun.dev/blog/introducing-gpg-tui/",
+          "publishedOn": "2021-05-30T00:43:26.000Z",
+          "wordCount": 1019,
+          "title": "GPG-Tui, a Terminal User Interface for GnuPG"
         },
         {
-          "id": "https://www.hpcwire.com/2021/05/27/nersc-debuts-perlmutter-worlds-fastest-ai-supercomputer/",
+          "id": "https://dangerousminds.net/comments/firesign_theatres_dope_humor_of_the_seventies",
           "author": null,
           "description": "Comments",
-          "link": "https://www.hpcwire.com/2021/05/27/nersc-debuts-perlmutter-worlds-fastest-ai-supercomputer/",
-          "publishedOn": "2021-05-28T23:39:34.000Z",
-          "wordCount": 3433,
-          "title": "Berkeley Lab Debuts Perlmutter, World’s Fastest AI Supercomputer"
+          "link": "https://dangerousminds.net/comments/firesign_theatres_dope_humor_of_the_seventies",
+          "publishedOn": "2021-05-30T00:25:44.000Z",
+          "wordCount": 3154,
+          "title": "Firesign Theatre’s ‘Dope Humor of the Seventies’"
         },
         {
-          "id": "https://www.troyhunt.com/pwned-passwords-open-source-in-the-dot-net-foundation-and-working-with-the-fbi/",
+          "id": "https://en.wikisource.org/wiki/What_is_the_Fourth_Dimension%3F",
           "author": null,
           "description": "Comments",
-          "link": "https://www.troyhunt.com/pwned-passwords-open-source-in-the-dot-net-foundation-and-working-with-the-fbi/",
-          "publishedOn": "2021-05-28T23:35:29.000Z",
-          "wordCount": 2161,
-          "title": "Pwned passwords, open source in the .NET foundation and working with the FBI"
+          "link": "https://en.wikisource.org/wiki/What_is_the_Fourth_Dimension%3F",
+          "publishedOn": "2021-05-29T23:35:37.000Z",
+          "wordCount": 9838,
+          "title": "What is the Fourth Dimension? (1884)"
         },
         {
-          "id": "https://www.aboveavalon.com/notes/2021/5/27/apple-has-a-decade-long-lead-in-wearables",
+          "id": "https://en.wikipedia.org/wiki/Scottish_Café",
           "author": null,
           "description": "Comments",
-          "link": "https://www.aboveavalon.com/notes/2021/5/27/apple-has-a-decade-long-lead-in-wearables",
-          "publishedOn": "2021-05-28T22:43:25.000Z",
-          "wordCount": 2251,
-          "title": "Apple has a decade-long lead in wearables"
-        },
-        {
-          "id": "https://review.chicagobooth.edu/economics/2017/article/never-mind-1-percent-lets-talk-about-001-percent",
-          "author": null,
-          "description": "Comments",
-          "link": "https://review.chicagobooth.edu/economics/2017/article/never-mind-1-percent-lets-talk-about-001-percent",
-          "publishedOn": "2021-05-28T20:14:00.000Z",
-          "wordCount": 4079,
-          "title": "Never mind the 1 percent: Let's talk about the 0.01 percent"
-        },
-        {
-          "id": "https://unixgame.io/unix50",
-          "author": null,
-          "description": "Comments",
-          "link": "https://unixgame.io/unix50",
-          "publishedOn": "2021-05-28T19:31:02.000Z",
-          "wordCount": 264,
-          "title": "The Unix Game"
-        },
-        {
-          "id": "https://www.pcgamer.com/dreamworld-infinite-world-mmo-kickstarter-fiasco/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.pcgamer.com/dreamworld-infinite-world-mmo-kickstarter-fiasco/",
-          "publishedOn": "2021-05-28T19:23:34.000Z",
-          "wordCount": 3482,
-          "title": "Y Combinator backed MMO metaverse game is a blatant scam"
-        },
-        {
-          "id": "https://keydiscussions.com/2021/05/28/apple-charges-for-storing-gigabytes-worth-of-old-imessages-you-cant-reliably-access/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://keydiscussions.com/2021/05/28/apple-charges-for-storing-gigabytes-worth-of-old-imessages-you-cant-reliably-access/",
-          "publishedOn": "2021-05-28T18:48:34.000Z",
-          "wordCount": 1488,
-          "title": "It's virtually impossible to read old iMessages and they take up tons of storage"
-        },
-        {
-          "id": "https://www.npr.org/2021/05/17/997462169/thousands-of-people-are-dying-from-working-long-hours-a-new-who-study-finds",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.npr.org/2021/05/17/997462169/thousands-of-people-are-dying-from-working-long-hours-a-new-who-study-finds",
-          "publishedOn": "2021-05-28T18:46:39.000Z",
-          "wordCount": 911,
-          "title": "Overwork killed more than 745k people in a year, WHO study finds"
-        },
-        {
-          "id": "https://vaclavkosar.com/ml/PID-controller-control-loop-mechanism",
-          "author": null,
-          "description": "Comments",
-          "link": "https://vaclavkosar.com/ml/PID-controller-control-loop-mechanism",
-          "publishedOn": "2021-05-28T18:34:51.000Z",
-          "wordCount": 360,
-          "title": "PID Controller: A Simple Control Loop Mechanism"
-        },
-        {
-          "id": "https://www.anthropic.com/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.anthropic.com/",
-          "publishedOn": "2021-05-28T17:25:17.000Z",
-          "wordCount": 9,
-          "title": "Anthropic AI"
-        },
-        {
-          "id": "https://www.chicagomaroon.com/2002/04/12/why-russians-do-not-smile/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.chicagomaroon.com/2002/04/12/why-russians-do-not-smile/",
-          "publishedOn": "2021-05-28T17:02:28.000Z",
-          "wordCount": 1644,
-          "title": "Why Russians do not smile (2002)"
-        },
-        {
-          "id": "https://librefoodpantry.org/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://librefoodpantry.org/",
-          "publishedOn": "2021-05-28T16:51:34.000Z",
-          "wordCount": 263,
-          "title": "LibreFoodPantry – a community building FOSS for food pantries"
-        },
-        {
-          "id": "https://awesomekling.github.io/I-quit-my-job-to-focus-on-SerenityOS-full-time/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://awesomekling.github.io/I-quit-my-job-to-focus-on-SerenityOS-full-time/",
-          "publishedOn": "2021-05-28T16:47:35.000Z",
-          "wordCount": 745,
-          "title": "I quit my job to focus on SerenityOS full time"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27317635",
-          "author": null,
-          "description": "Comments",
-          "link": "https://news.ycombinator.com/item?id=27317635",
-          "publishedOn": "2021-05-28T16:46:24.000Z",
-          "wordCount": 1964,
-          "title": "Launch HN: NextUX (YC S19) – Web UX editor and feedback tool for product teams"
-        },
-        {
-          "id": "https://www.cybertec-postgresql.com/en/how-to-interpret-postgresql-explain-analyze-output/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.cybertec-postgresql.com/en/how-to-interpret-postgresql-explain-analyze-output/",
-          "publishedOn": "2021-05-28T16:01:01.000Z",
-          "wordCount": 2430,
-          "title": "PostgreSQL EXPLAIN Output Explained"
-        },
-        {
-          "id": "https://ninfex.com/hello",
-          "author": null,
-          "description": "Comments",
-          "link": "https://ninfex.com/hello",
-          "publishedOn": "2021-05-28T15:42:21.000Z",
-          "wordCount": 194,
-          "title": "Show HN: An experimental, people-powered search engine"
-        },
-        {
-          "id": "https://twitter.com/wongmjane/status/1398022730553860102",
-          "author": null,
-          "description": "Comments",
-          "link": "https://twitter.com/wongmjane/status/1398022730553860102",
-          "publishedOn": "2021-05-28T14:57:19.000Z",
-          "wordCount": 196,
-          "title": "Twitter confirms Twitter Blue"
-        },
-        {
-          "id": "https://www.nature.com/articles/d41586-021-01442-9",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.nature.com/articles/d41586-021-01442-9",
-          "publishedOn": "2021-05-28T13:27:47.000Z",
-          "wordCount": 1517,
-          "title": "Had Covid? You’ll probably make antibodies for a lifetime"
-        },
-        {
-          "id": "https://iopscience.iop.org/article/10.1088/1361-6382/abdf6e",
-          "author": null,
-          "description": "Comments",
-          "link": "https://iopscience.iop.org/article/10.1088/1361-6382/abdf6e",
-          "publishedOn": "2021-05-28T12:58:08.000Z",
+          "link": "https://en.wikipedia.org/wiki/Scottish_Café",
+          "publishedOn": "2021-05-29T23:24:40.000Z",
           "wordCount": null,
-          "title": "Physical Warp Drives"
+          "title": "Scottish Café"
         },
         {
-          "id": "https://newrepublic.com/article/162533/whats-wrong-bob-dylans-biographers-clinton-heylin-review",
+          "id": "https://www.darkpatterns.org/hall-of-shame",
           "author": null,
           "description": "Comments",
-          "link": "https://newrepublic.com/article/162533/whats-wrong-bob-dylans-biographers-clinton-heylin-review",
-          "publishedOn": "2021-05-28T04:43:29.000Z",
-          "wordCount": 2617,
-          "title": "What’s Wrong with Bob Dylan’s Biographers?"
+          "link": "https://www.darkpatterns.org/hall-of-shame",
+          "publishedOn": "2021-05-29T22:45:47.000Z",
+          "wordCount": 74,
+          "title": "Dark Patterns Hall of Shame"
         },
         {
-          "id": "https://fingerspelling.xyz",
+          "id": "https://devjac.dev/posts/2021-05-29-my-personal-creed-of-employment.html",
           "author": null,
           "description": "Comments",
-          "link": "https://fingerspelling.xyz",
-          "publishedOn": "2021-05-27T21:40:40.000Z",
-          "wordCount": 322,
-          "title": "Learn American Sign Language Fingerspelling with Machine Learning"
+          "link": "https://devjac.dev/posts/2021-05-29-my-personal-creed-of-employment.html",
+          "publishedOn": "2021-05-29T22:22:30.000Z",
+          "wordCount": 1034,
+          "title": "My Personal Creed of Employment"
         },
         {
-          "id": "https://www.youtube.com/watch?v=6KejBRUTUjA",
+          "id": "https://dental.washington.edu/trials-begin-on-lozenge-that-rebuilds-tooth-enamel/",
           "author": null,
           "description": "Comments",
-          "link": "https://www.youtube.com/watch?v=6KejBRUTUjA",
-          "publishedOn": "2021-05-27T16:11:16.000Z",
-          "wordCount": 19,
-          "title": "Stay Calm and Stay in the Cab (2002) [video] (1999)"
+          "link": "https://dental.washington.edu/trials-begin-on-lozenge-that-rebuilds-tooth-enamel/",
+          "publishedOn": "2021-05-29T22:15:00.000Z",
+          "wordCount": 1154,
+          "title": "Trials begin on lozenge that rebuilds tooth enamel"
         },
         {
-          "id": "https://redact.dev/?hn",
+          "id": "https://admin.phacility.com/phame/post/view/11/phacility_is_winding_down_operations/",
           "author": null,
           "description": "Comments",
-          "link": "https://redact.dev/?hn",
-          "publishedOn": "2021-05-27T14:10:45.000Z",
-          "wordCount": 16,
-          "title": "Show HN: Redact – Automated deletion for your content on social networks"
+          "link": "https://admin.phacility.com/phame/post/view/11/phacility_is_winding_down_operations/",
+          "publishedOn": "2021-05-29T21:35:14.000Z",
+          "wordCount": 185,
+          "title": "Phacility is winding down, Phabricator no longer actively maintained"
         },
         {
-          "id": "https://catalyst.coop/2021/05/23/automated-data-wrangling/",
+          "id": "https://medlifestyle.news/2021/05/29/waking-up-one-hour-earlier-can-lower-a-persons-chance-of-major-depression-by-23-new-research-finds/",
           "author": null,
           "description": "Comments",
-          "link": "https://catalyst.coop/2021/05/23/automated-data-wrangling/",
-          "publishedOn": "2021-05-27T11:58:40.000Z",
-          "wordCount": 2855,
-          "title": "Automated Data Wrangling"
+          "link": "https://medlifestyle.news/2021/05/29/waking-up-one-hour-earlier-can-lower-a-persons-chance-of-major-depression-by-23-new-research-finds/",
+          "publishedOn": "2021-05-29T21:18:54.000Z",
+          "wordCount": 1945,
+          "title": "Waking up one hour earlier can lower chance of major depression"
         },
         {
-          "id": "https://fangpenlin.com/posts/2019/10/07/elliptic-curve-cryptography-explained/",
+          "id": "https://www.synthesia.io/",
           "author": null,
           "description": "Comments",
-          "link": "https://fangpenlin.com/posts/2019/10/07/elliptic-curve-cryptography-explained/",
-          "publishedOn": "2021-05-27T11:23:55.000Z",
-          "wordCount": 3802,
-          "title": "Elliptic Curve Cryptography Explained (2019)"
+          "link": "https://www.synthesia.io/",
+          "publishedOn": "2021-05-29T21:02:26.000Z",
+          "wordCount": 917,
+          "title": "Create AI videos by simply typing in text"
         },
         {
-          "id": "https://phys.org/news/2021-05-primates-accent-conflict.html",
+          "id": "https://jobs.lever.co/substackinc/c98439dd-6560-4b58-b827-42eb92c61dbd",
           "author": null,
           "description": "Comments",
-          "link": "https://phys.org/news/2021-05-primates-accent-conflict.html",
-          "publishedOn": "2021-05-27T10:34:13.000Z",
-          "wordCount": 1475,
-          "title": "Primates change their 'accent' to avoid conflict"
+          "link": "https://jobs.lever.co/substackinc/c98439dd-6560-4b58-b827-42eb92c61dbd",
+          "publishedOn": "2021-05-29T21:01:11.000Z",
+          "wordCount": 746,
+          "title": "Substack (YC W18) is hiring technical recruiters to build the future of writing"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27301210",
+          "id": "https://harpers.org/archive/2015/04/abolish-high-school/",
           "author": null,
           "description": "Comments",
-          "link": "https://news.ycombinator.com/item?id=27301210",
-          "publishedOn": "2021-05-27T10:27:49.000Z",
-          "wordCount": 1096,
-          "title": "Ask HN: How are you using unikernels?"
+          "link": "https://harpers.org/archive/2015/04/abolish-high-school/",
+          "publishedOn": "2021-05-29T20:44:30.000Z",
+          "wordCount": 2814,
+          "title": "Abolish High School (2015)"
         },
         {
-          "id": "https://lwn.net/SubscriberLink/856514/bd36cc646fac2071/",
+          "id": "https://arstechnica.com/gadgets/2021/05/amazon-devices-will-soon-automatically-share-your-internet-with-neighbors/",
           "author": null,
           "description": "Comments",
-          "link": "https://lwn.net/SubscriberLink/856514/bd36cc646fac2071/",
-          "publishedOn": "2021-05-27T04:26:03.000Z",
-          "wordCount": 3250,
-          "title": "Control-flow integrity in Linux 5.13"
+          "link": "https://arstechnica.com/gadgets/2021/05/amazon-devices-will-soon-automatically-share-your-internet-with-neighbors/",
+          "publishedOn": "2021-05-29T20:39:34.000Z",
+          "wordCount": 1271,
+          "title": "Amazon devices will soon automatically share your Internet with neighbors"
         },
         {
-          "id": "https://therecord.media/google-says-rowhammer-attacks-are-gaining-range-as-ram-is-getting-smaller/",
+          "id": "https://www.eevblog.com/forum/chat/faraday-wax-recreating-old-school-high-vacuum-epoxy!/",
           "author": null,
           "description": "Comments",
-          "link": "https://therecord.media/google-says-rowhammer-attacks-are-gaining-range-as-ram-is-getting-smaller/",
-          "publishedOn": "2021-05-26T09:08:24.000Z",
-          "wordCount": 775,
-          "title": "Google says Rowhammer attacks are gaining range as RAM is getting denser"
+          "link": "https://www.eevblog.com/forum/chat/faraday-wax-recreating-old-school-high-vacuum-epoxy!/",
+          "publishedOn": "2021-05-29T20:03:39.000Z",
+          "wordCount": 1344,
+          "title": "“Faraday Wax” – recreating old school high-vacuum epoxy"
+        },
+        {
+          "id": "https://www.depauw.edu/sfs/backissues/5/lem5art.htm",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.depauw.edu/sfs/backissues/5/lem5art.htm",
+          "publishedOn": "2021-05-29T19:44:52.000Z",
+          "wordCount": 8795,
+          "title": "Philip K. Dick: A Visionary Among the Charlatans (1975)"
+        },
+        {
+          "id": "http://feertech.com/legion/software/game/2021/05/28/game-from-scratch-02.html",
+          "author": null,
+          "description": "Comments",
+          "link": "http://feertech.com/legion/software/game/2021/05/28/game-from-scratch-02.html",
+          "publishedOn": "2021-05-29T17:35:55.000Z",
+          "wordCount": 2741,
+          "title": "Writing a game from first principles in 65c02  – Part One"
+        },
+        {
+          "id": "http://www.breakintoprogram.co.uk/projects/spectrum-next-projects/bbc-basic-for-the-spectrum-next-introduction",
+          "author": null,
+          "description": "Comments",
+          "link": "http://www.breakintoprogram.co.uk/projects/spectrum-next-projects/bbc-basic-for-the-spectrum-next-introduction",
+          "publishedOn": "2021-05-29T17:19:38.000Z",
+          "wordCount": 1053,
+          "title": "Show HN: BBC Basic on the ZX Spectrum Next"
+        },
+        {
+          "id": "https://www.theparisreview.org/blog/2021/05/27/new-yorks-hyphenated-history/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.theparisreview.org/blog/2021/05/27/new-yorks-hyphenated-history/",
+          "publishedOn": "2021-05-29T16:25:40.000Z",
+          "wordCount": 1740,
+          "title": "New York’s Hyphenated History"
+        },
+        {
+          "id": "https://krebsonsecurity.com/2021/05/using-fake-reviews-to-find-dangerous-extensions/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://krebsonsecurity.com/2021/05/using-fake-reviews-to-find-dangerous-extensions/",
+          "publishedOn": "2021-05-29T16:25:31.000Z",
+          "wordCount": 2152,
+          "title": "Using fake reviews to find dangerous extensions"
+        },
+        {
+          "id": "https://wiki.tcl-lang.org/page/Parallel+C%2B%2B+thread+with+OpenMP",
+          "author": null,
+          "description": "Comments",
+          "link": "https://wiki.tcl-lang.org/page/Parallel+C%2B%2B+thread+with+OpenMP",
+          "publishedOn": "2021-05-29T15:48:18.000Z",
+          "wordCount": 360,
+          "title": "Tcl Calling Parallel C++ Code Using OpenMP"
+        },
+        {
+          "id": "https://www.inf.ed.ac.uk/teaching/courses/pi/2016_2017/phil/tufte-powerpoint.pdf",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.inf.ed.ac.uk/teaching/courses/pi/2016_2017/phil/tufte-powerpoint.pdf",
+          "publishedOn": "2021-05-29T15:23:53.000Z",
+          "wordCount": 17618,
+          "title": "The Cognitive Style of PowerPoint (2003) [pdf]"
+        },
+        {
+          "id": "https://www.businessinsider.com/unredacted-google-lawsuit-docs-detail-efforts-to-collect-user-location-2021-5",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.businessinsider.com/unredacted-google-lawsuit-docs-detail-efforts-to-collect-user-location-2021-5",
+          "publishedOn": "2021-05-29T12:14:07.000Z",
+          "wordCount": 1515,
+          "title": "Google made it nearly impossible for users to keep their location private"
+        },
+        {
+          "id": "https://www.urbextour.com/en/urbex-travel/7-ghost-stations-of-the-paris-metro-and-how-to-get-into-the-illegally-unusual-tunnels-rer/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.urbextour.com/en/urbex-travel/7-ghost-stations-of-the-paris-metro-and-how-to-get-into-the-illegally-unusual-tunnels-rer/",
+          "publishedOn": "2021-05-29T10:57:28.000Z",
+          "wordCount": 4389,
+          "title": "Ghost Stations of the Paris Metro"
+        },
+        {
+          "id": "https://www.economist.com/finance-and-economics/2021/05/27/the-pandemic-revives-interest-in-a-morbid-french-financial-scheme",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.economist.com/finance-and-economics/2021/05/27/the-pandemic-revives-interest-in-a-morbid-french-financial-scheme",
+          "publishedOn": "2021-05-29T10:54:13.000Z",
+          "wordCount": 689,
+          "title": "The pandemic revives interest in a morbid French financial scheme"
+        },
+        {
+          "id": "https://statmodeling.stat.columbia.edu/2021/05/25/causal-inference-the-mixtape/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://statmodeling.stat.columbia.edu/2021/05/25/causal-inference-the-mixtape/",
+          "publishedOn": "2021-05-29T10:22:30.000Z",
+          "wordCount": 2836,
+          "title": "Causal Inference: The Mixtape"
+        },
+        {
+          "id": "https://www.newscientist.com/article/2278932-astronomers-have-created-the-largest-ever-map-of-dark-matter",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.newscientist.com/article/2278932-astronomers-have-created-the-largest-ever-map-of-dark-matter",
+          "publishedOn": "2021-05-29T10:16:26.000Z",
+          "wordCount": 851,
+          "title": "Astronomers have created the largest ever map of dark matter"
+        },
+        {
+          "id": "https://catapult.co/stories/comic-shing-yin-khor-chop-suey-chinese-american-food-history",
+          "author": null,
+          "description": "Comments",
+          "link": "https://catapult.co/stories/comic-shing-yin-khor-chop-suey-chinese-american-food-history",
+          "publishedOn": "2021-05-29T02:28:26.000Z",
+          "wordCount": 848,
+          "title": "How Did Chop Suey Become a Staple of Chinese American Cuisine?"
+        },
+        {
+          "id": "https://sites.google.com/view/elizagen-org/the-original-eliza?authuser=0",
+          "author": null,
+          "description": "Comments",
+          "link": "https://sites.google.com/view/elizagen-org/the-original-eliza?authuser=0",
+          "publishedOn": "2021-05-29T00:17:41.000Z",
+          "wordCount": 1702,
+          "title": "Joseph Weizenbaum’s Original ELIZA"
+        },
+        {
+          "id": "https://fusebot.io/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://fusebot.io/",
+          "publishedOn": "2021-05-28T18:18:28.000Z",
+          "wordCount": 141,
+          "title": "Show HN: Fusebot – Developer bot for Discord and Slack"
+        },
+        {
+          "id": "https://thonyc.wordpress.com/2021/05/19/7190/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://thonyc.wordpress.com/2021/05/19/7190/",
+          "publishedOn": "2021-05-28T16:39:19.000Z",
+          "wordCount": 3722,
+          "title": "Renaissance Science – X: Introduction of Algebra to the European academic canon"
         }
       ]
     },
@@ -288,7 +288,7 @@
           "description": "In this article, we’ll be re-using the foundational WYSIWYG Editor built in the first article to build a commenting system for a WYSIWYG Editor that enables users to select text inside a document and share their comments on it. Let’s dig in!",
           "link": "https://smashingmagazine.com/2021/05/commenting-system-wysiwyg-editor/",
           "publishedOn": "2021-05-28T11:00:00.000Z",
-          "wordCount": 10214,
+          "wordCount": 10175,
           "title": "Adding A Commenting System To A WYSIWYG Editor",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ec39e154-d3d3-4a12-91fd-f0c068cd5247/commenting-system-wysiwyg-editor.jpg",
@@ -302,7 +302,7 @@
           "description": "Meet useful Visual Studio Code extensions for web developers: little helpers to minimize slow-downs and frustrations, and boost developer’s workflow along the way. With auto log messages, auto code formatting, file utils, file labels, code snippets, highlight brackets, tags, indents and workspaces, onboarding and remote SSH.",
           "link": "https://smashingmagazine.com/2021/05/useful-vs-code-extensions-web-developers/",
           "publishedOn": "2021-05-27T13:30:00.000Z",
-          "wordCount": 3735,
+          "wordCount": 3696,
           "title": "Useful VS Code Extensions For Front-End Developers",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2c5dbb73-94e1-486f-9daa-351699faaa2d/peacock-extension.png",
@@ -344,7 +344,7 @@
           "description": "Mistakes. These cruel villains do not even stop at the beautiful world of software development. But although we cannot avoid making mistakes, we can learn to undo them! This post will show the right tools for your daily work with Git.",
           "link": "https://smashingmagazine.com/2021/05/undoing-mistakes-git-part2/",
           "publishedOn": "2021-05-25T14:00:00.000Z",
-          "wordCount": 2126,
+          "wordCount": 2130,
           "title": "A Guide To Undoing Mistakes With Git (Part 2)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/211042ae-7a72-42ba-804e-9f8132815200/undoing-mistakes-git-part1.jpg",
@@ -386,7 +386,7 @@
           "description": "Let’s build a rich text, WYSIWYG-editor that supports rich text, images, links and some nuanced features from word processing apps. We will use SlateJS to build the shell of the editor and then add a toolbar and custom configurations.",
           "link": "https://smashingmagazine.com/2021/05/building-wysiwyg-editor-javascript-slatejs/",
           "publishedOn": "2021-05-21T11:30:00.000Z",
-          "wordCount": 9441,
+          "wordCount": 9431,
           "title": "Building A Rich Text Editor (WYSIWYG)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bafdd817-038e-4e70-a830-de0f5da659c4/building-wysiwyg-editor-javascript-slatejs.jpg",
@@ -414,7 +414,7 @@
           "description": "A step-by-step tutorial on adding authentication and authorization to your Next.js apps, with Auth0. We’ll be using a Next.js SDK to connect our application to the Auth0 API and will create the dynamic API route for React.",
           "link": "https://smashingmagazine.com/2021/05/implement-authentication-nextjs-auth0/",
           "publishedOn": "2021-05-20T11:00:00.000Z",
-          "wordCount": 1961,
+          "wordCount": 1956,
           "title": "How To Implement Authentication In Next.js With Auth0",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/3e905cbf-b17b-47da-aec4-15c9701bf4bf/implement-authentication-nextjs-auth0.jpg",
@@ -470,7 +470,7 @@
           "description": "Google’s “Page Experience Update” will start rolling out in June. At first, sites that meet Core Web Vitals thresholds will have a minor ranking advantage in mobile search for all browsers. Search is important to any business, and this is the story of how Beau Hartshorne and his team at Instant Domain Search improved their Core Web Vitals scores.",
           "link": "https://smashingmagazine.com/2021/05/core-web-vitals-case-study/",
           "publishedOn": "2021-05-17T11:30:00.000Z",
-          "wordCount": 2945,
+          "wordCount": 2906,
           "title": "How We Improved Our Core Web Vitals (Case Study)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b68aa1ba-94b7-4e70-83e5-5f58b37bf7cd/core-web-vitals-case-study.jpg",
@@ -484,7 +484,7 @@
           "description": "“Tree-shaking” is a must-have performance optimization when bundling JavaScript. In this article, we dive deeper on how exactly it works and how specs and practice intertwine to make bundles leaner and more performant. Plus, you’ll get a tree-shaking checklist to use for your projects.",
           "link": "https://smashingmagazine.com/2021/05/tree-shaking-reference-guide/",
           "publishedOn": "2021-05-14T10:30:00.000Z",
-          "wordCount": 2438,
+          "wordCount": 2393,
           "title": "Tree-Shaking: A Reference Guide",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0e27a101-d2e0-4661-9e12-b53b68051dbf/tree-shaking-reference-guide.jpg",
@@ -554,7 +554,7 @@
           "description": "Want to get started with React but struggling to find a good place to start? This article should have you covered. We’ll focus on some of the main concepts of React and then we’ll be building a game from scratch!",
           "link": "https://smashingmagazine.com/2021/05/get-started-whac-a-mole-react-game/",
           "publishedOn": "2021-05-10T11:00:00.000Z",
-          "wordCount": 6355,
+          "wordCount": 6349,
           "title": "Get Started With React By Building A Whac-A-Mole Game",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/7a9db037-1a8d-42ad-b0c3-1c885e456693/get-started-whac-a-mole-react-game.jpg",
@@ -568,7 +568,7 @@
           "description": "How do you organize your Google Drive assets? How do you name your Dropbox Paper documents? How do you deal with comments? Let’s get it right.",
           "link": "https://smashingmagazine.com/2021/05/product-records-organization-collaboration-best-practices/",
           "publishedOn": "2021-05-07T10:00:00.000Z",
-          "wordCount": 4174,
+          "wordCount": 4169,
           "title": "How To Organize Product-Related Assets And Collaborate Better",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2bd6b075-9b54-4fa6-a709-1a8248435c17/product-records-organization-collaboration.jpg",
@@ -582,7 +582,7 @@
           "description": "When dealing with themes for large platforms and CMS, legacy issues often become a bottleneck. In this article, Carson Shold discusses how his team improved the performance and organization of their Shopify themes, and improved maintainability along the way.",
           "link": "https://smashingmagazine.com/2021/05/improving-performance-shopify-themes-case-study/",
           "publishedOn": "2021-05-06T11:00:00.000Z",
-          "wordCount": 2617,
+          "wordCount": 2656,
           "title": "Improving The Performance Of Shopify Themes (Case Study)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2286332a-4912-4fb0-9578-530f44f905ed/improving-performance-shopify-themes-case-study.jpg",
@@ -596,7 +596,7 @@
           "description": "This article showcases a case study of Bookaway’s landing page performance. We’ll see how taking care of the props we send to Next.js pages can make loading times and Web Vitals better.",
           "link": "https://smashingmagazine.com/2021/05/reduce-data-sent-client-nextjs/",
           "publishedOn": "2021-05-05T10:30:00.000Z",
-          "wordCount": 2338,
+          "wordCount": 2341,
           "title": "Reducing HTML Payload With Next.js (Case Study)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0019f4c3-ebdd-4b09-9f45-47173587307b/reduce-data-sent-client-nextjs.jpg",
@@ -610,7 +610,7 @@
           "description": "No matter how experienced you are, mistakes are an inevitable part of software development. But we can learn to repair them! And this is what we'll be looking at in this two-part series: how to undo mistakes using Git.",
           "link": "https://smashingmagazine.com/2021/05/undoing-mistakes-git-part1/",
           "publishedOn": "2021-05-04T14:30:00.000Z",
-          "wordCount": 1837,
+          "wordCount": 1832,
           "title": "A Guide To Undoing Mistakes With Git (Part 1)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/211042ae-7a72-42ba-804e-9f8132815200/undoing-mistakes-git-part1.jpg",
@@ -638,26 +638,12 @@
           "description": "Web-oriented databases, frameworks like Nuxt and Next.js, and even frameworkless approaches are evolving the Jamstack, but the core principles are more powerful than ever.",
           "link": "https://smashingmagazine.com/2021/05/evolution-jamstack/",
           "publishedOn": "2021-05-03T07:00:00.000Z",
-          "wordCount": 2180,
+          "wordCount": 2183,
           "title": "The Evolution Of Jamstack",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/77ef8e71-94e8-49bb-9c9b-dc5b68902149/evolution-jamstack.jpg",
             "length": "0",
             "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/04/desktop-wallpaper-calendars-may-2021/",
-          "author": "hello@smashingmagazine.com (Cosima Mielke)",
-          "description": "Do you need a little inspiration boost? Well, then our new collection of wallpapers is for you. Designed with love by the community for the community, the wallpapers are available with and without a calendar for May 2021.",
-          "link": "https://smashingmagazine.com/2021/04/desktop-wallpaper-calendars-may-2021/",
-          "publishedOn": "2021-04-30T09:00:00.000Z",
-          "wordCount": 2178,
-          "title": "May Is In The Air (2021 Wallpapers Edition)",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/1608f515-bf92-4faa-b3e5-1090f1a22696/may-21-from-nope-to-hope-preview-opt.png",
-            "length": "0",
-            "type": "image/png"
           }
         }
       ]
