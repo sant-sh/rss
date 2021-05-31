@@ -6,58 +6,211 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
-          "id": "https://orhun.dev/blog/introducing-gpg-tui/",
+          "id": "https://www.vice.com/en/article/m7egp8/why-corporations-wont-hire-any-remote-workers-in-colorado",
           "author": null,
           "description": "Comments",
-          "link": "https://orhun.dev/blog/introducing-gpg-tui/",
-          "publishedOn": "2021-05-30T00:43:26.000Z",
-          "wordCount": 1019,
-          "title": "GPG-Tui, a Terminal User Interface for GnuPG"
+          "link": "https://www.vice.com/en/article/m7egp8/why-corporations-wont-hire-any-remote-workers-in-colorado",
+          "publishedOn": "2021-05-31T01:29:46.000Z",
+          "wordCount": 942,
+          "title": "Why Corporations Won’t Hire Remote Workers in Colorado"
         },
         {
-          "id": "https://dangerousminds.net/comments/firesign_theatres_dope_humor_of_the_seventies",
+          "id": "https://www.nytimes.com/2021/05/30/opinion/ketamine-treatment-depression.html",
           "author": null,
           "description": "Comments",
-          "link": "https://dangerousminds.net/comments/firesign_theatres_dope_humor_of_the_seventies",
-          "publishedOn": "2021-05-30T00:25:44.000Z",
-          "wordCount": 3154,
-          "title": "Firesign Theatre’s ‘Dope Humor of the Seventies’"
+          "link": "https://www.nytimes.com/2021/05/30/opinion/ketamine-treatment-depression.html",
+          "publishedOn": "2021-05-31T00:45:34.000Z",
+          "wordCount": 1060,
+          "title": "I Was Paralyzed by Severe Depression. Then Came Ketamine"
         },
         {
-          "id": "https://en.wikisource.org/wiki/What_is_the_Fourth_Dimension%3F",
+          "id": "https://github.com/cs01/termpair",
           "author": null,
           "description": "Comments",
-          "link": "https://en.wikisource.org/wiki/What_is_the_Fourth_Dimension%3F",
-          "publishedOn": "2021-05-29T23:35:37.000Z",
-          "wordCount": 9838,
-          "title": "What is the Fourth Dimension? (1884)"
+          "link": "https://github.com/cs01/termpair",
+          "publishedOn": "2021-05-31T00:25:05.000Z",
+          "wordCount": 1014,
+          "title": "TermPair: Terminal sharing with AES-GCM 128 bit end-to-end encryption"
         },
         {
-          "id": "https://en.wikipedia.org/wiki/Scottish_Café",
+          "id": "https://www.nirandfar.com/cancel-new-york-times/",
           "author": null,
           "description": "Comments",
-          "link": "https://en.wikipedia.org/wiki/Scottish_Café",
-          "publishedOn": "2021-05-29T23:24:40.000Z",
-          "wordCount": null,
-          "title": "Scottish Café"
+          "link": "https://www.nirandfar.com/cancel-new-york-times/",
+          "publishedOn": "2021-05-30T23:43:16.000Z",
+          "wordCount": 1658,
+          "title": "The New York Times uses the dark patterns it derides"
         },
         {
-          "id": "https://www.darkpatterns.org/hall-of-shame",
+          "id": "https://twitter.com/TheSofaaa/status/1398990015611473927",
           "author": null,
           "description": "Comments",
-          "link": "https://www.darkpatterns.org/hall-of-shame",
-          "publishedOn": "2021-05-29T22:45:47.000Z",
-          "wordCount": 74,
-          "title": "Dark Patterns Hall of Shame"
+          "link": "https://twitter.com/TheSofaaa/status/1398990015611473927",
+          "publishedOn": "2021-05-30T23:37:08.000Z",
+          "wordCount": 196,
+          "title": "Uber charges driver for completing a 13-mile fare"
         },
         {
-          "id": "https://devjac.dev/posts/2021-05-29-my-personal-creed-of-employment.html",
+          "id": "https://news.ycombinator.com/item?id=27338008",
           "author": null,
           "description": "Comments",
-          "link": "https://devjac.dev/posts/2021-05-29-my-personal-creed-of-employment.html",
-          "publishedOn": "2021-05-29T22:22:30.000Z",
-          "wordCount": 1034,
-          "title": "My Personal Creed of Employment"
+          "link": "https://news.ycombinator.com/item?id=27338008",
+          "publishedOn": "2021-05-30T23:26:44.000Z",
+          "wordCount": 2441,
+          "title": "Ask HN: Alternatives to Google Photos?"
+        },
+        {
+          "id": "https://www.windowslatest.com/2021/05/31/windows-10-is-now-nagging-users-with-microsoft-bing-alerts/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.windowslatest.com/2021/05/31/windows-10-is-now-nagging-users-with-microsoft-bing-alerts/",
+          "publishedOn": "2021-05-30T22:12:30.000Z",
+          "wordCount": 828,
+          "title": "Windows 10 nagging users with Bing advertisements (push alerts)"
+        },
+        {
+          "id": "https://scatter.wordpress.com/2010/05/30/the-shortest-possible-game-of-monopoly-21-seconds/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://scatter.wordpress.com/2010/05/30/the-shortest-possible-game-of-monopoly-21-seconds/",
+          "publishedOn": "2021-05-30T21:46:31.000Z",
+          "wordCount": 5082,
+          "title": "The Shortest Possible Game of Monopoly (2010)"
+        },
+        {
+          "id": "https://www.bbc.com/sport/tennis/57301475",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.bbc.com/sport/tennis/57301475",
+          "publishedOn": "2021-05-30T21:33:03.000Z",
+          "wordCount": 2916,
+          "title": "Naomi Osaka faces default from Grand Slam for refusing to speak to media"
+        },
+        {
+          "id": "https://theamericanscholar.org/if-you-frame-it-like-that/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://theamericanscholar.org/if-you-frame-it-like-that/",
+          "publishedOn": "2021-05-30T21:10:22.000Z",
+          "wordCount": 2811,
+          "title": "If you frame it like that (2020)"
+        },
+        {
+          "id": "https://www.economist.com/science-and-technology/2021/05/26/improving-ventilation-will-help-curb-sars-cov-2",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.economist.com/science-and-technology/2021/05/26/improving-ventilation-will-help-curb-sars-cov-2",
+          "publishedOn": "2021-05-30T21:09:43.000Z",
+          "wordCount": 2817,
+          "title": "Improving ventilation will help curb SARS-CoV-2"
+        },
+        {
+          "id": "https://rfc.fyi/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://rfc.fyi/",
+          "publishedOn": "2021-05-30T20:47:16.000Z",
+          "wordCount": 28,
+          "title": "RFC.fyi: Browse RFCs by keywords, id or collection"
+        },
+        {
+          "id": "https://twitter.com/Pinboard/status/1399058952336277505",
+          "author": null,
+          "description": "Comments",
+          "link": "https://twitter.com/Pinboard/status/1399058952336277505",
+          "publishedOn": "2021-05-30T18:55:41.000Z",
+          "wordCount": 196,
+          "title": "It's time for us in the tech world to speak out about cryptocurrency"
+        },
+        {
+          "id": "https://rootsofprogress.org/nuclear-physics",
+          "author": null,
+          "description": "Comments",
+          "link": "https://rootsofprogress.org/nuclear-physics",
+          "publishedOn": "2021-05-30T18:02:25.000Z",
+          "wordCount": 4327,
+          "title": "How counting neutrons explains nuclear waste"
+        },
+        {
+          "id": "https://readme.com/careers#head-of-product-management",
+          "author": null,
+          "description": "Comments",
+          "link": "https://readme.com/careers#head-of-product-management",
+          "publishedOn": "2021-05-30T17:00:55.000Z",
+          "wordCount": 1517,
+          "title": "ReadMe (YC W15) Is Hiring a Head of Product Management with API Experience"
+        },
+        {
+          "id": "https://github.com/dineshsonachalam/Lucid-Dynamodb",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/dineshsonachalam/Lucid-Dynamodb",
+          "publishedOn": "2021-05-30T16:36:38.000Z",
+          "wordCount": 2158,
+          "title": "A minimalistic Python wrapper to AWS DynamoDB"
+        },
+        {
+          "id": "https://neil.computer/notes/overkill-objects-for-everyday-life/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://neil.computer/notes/overkill-objects-for-everyday-life/",
+          "publishedOn": "2021-05-30T16:10:20.000Z",
+          "wordCount": 876,
+          "title": "Overkill objects for everyday life"
+        },
+        {
+          "id": "https://terralang.org/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://terralang.org/",
+          "publishedOn": "2021-05-30T15:49:19.000Z",
+          "wordCount": 3219,
+          "title": "Terra: Low-level system programming language meta-programmed from Lua"
+        },
+        {
+          "id": "https://mattstoller.substack.com/p/amazon-primes-free-shipping-promise",
+          "author": null,
+          "description": "Comments",
+          "link": "https://mattstoller.substack.com/p/amazon-primes-free-shipping-promise",
+          "publishedOn": "2021-05-30T15:30:57.000Z",
+          "wordCount": 3346,
+          "title": "Amazon Prime inflates prices, using the false promise of ‘free shipping’"
+        },
+        {
+          "id": "https://kalk.strct.net",
+          "author": null,
+          "description": "Comments",
+          "link": "https://kalk.strct.net",
+          "publishedOn": "2021-05-30T15:07:50.000Z",
+          "wordCount": 490,
+          "title": "Show HN: Kalk, A calculator with math syntax, complex numbers"
+        },
+        {
+          "id": "https://old.reddit.com/r/ExperiencedDevs/comments/nmodyl/drunk_post_things_ive_learned_as_a_sr_engineer/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://old.reddit.com/r/ExperiencedDevs/comments/nmodyl/drunk_post_things_ive_learned_as_a_sr_engineer/",
+          "publishedOn": "2021-05-30T13:55:24.000Z",
+          "wordCount": 17620,
+          "title": "Drunk Post: Things I've Learned as a Sr Engineer"
+        },
+        {
+          "id": "https://github.com/pbatard/rufus/issues/1617",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/pbatard/rufus/issues/1617",
+          "publishedOn": "2021-05-30T13:50:51.000Z",
+          "wordCount": 1495,
+          "title": "Creator of Rufus outlines the problems with Microsoft's UWP"
+        },
+        {
+          "id": "https://nypost.com/2021/05/29/killer-drone-hunted-down-a-human-target-without-being-told-to/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://nypost.com/2021/05/29/killer-drone-hunted-down-a-human-target-without-being-told-to/",
+          "publishedOn": "2021-05-30T13:24:21.000Z",
+          "wordCount": 1133,
+          "title": "Drones may have attacked humans fully autonomously for the first time"
         },
         {
           "id": "https://dental.washington.edu/trials-begin-on-lozenge-that-rebuilds-tooth-enamel/",
@@ -69,211 +222,58 @@
           "title": "Trials begin on lozenge that rebuilds tooth enamel"
         },
         {
-          "id": "https://admin.phacility.com/phame/post/view/11/phacility_is_winding_down_operations/",
+          "id": "https://syncedreview.com/2021/05/27/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-28/",
           "author": null,
           "description": "Comments",
-          "link": "https://admin.phacility.com/phame/post/view/11/phacility_is_winding_down_operations/",
-          "publishedOn": "2021-05-29T21:35:14.000Z",
-          "wordCount": 185,
-          "title": "Phacility is winding down, Phabricator no longer actively maintained"
+          "link": "https://syncedreview.com/2021/05/27/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-28/",
+          "publishedOn": "2021-05-29T13:35:01.000Z",
+          "wordCount": 1132,
+          "title": "Cornell and NTT’s Physical Neural Nets Enable Arbitrary Physical System Training"
         },
         {
-          "id": "https://medlifestyle.news/2021/05/29/waking-up-one-hour-earlier-can-lower-a-persons-chance-of-major-depression-by-23-new-research-finds/",
+          "id": "https://www.mdpi.com/1424-8220/21/9/2984/htm",
           "author": null,
           "description": "Comments",
-          "link": "https://medlifestyle.news/2021/05/29/waking-up-one-hour-earlier-can-lower-a-persons-chance-of-major-depression-by-23-new-research-finds/",
-          "publishedOn": "2021-05-29T21:18:54.000Z",
-          "wordCount": 1945,
-          "title": "Waking up one hour earlier can lower chance of major depression"
+          "link": "https://www.mdpi.com/1424-8220/21/9/2984/htm",
+          "publishedOn": "2021-05-29T12:35:49.000Z",
+          "wordCount": 17384,
+          "title": "Quantization and Deployment of Deep Neural Networks on Microcontrollers"
         },
         {
-          "id": "https://www.synthesia.io/",
+          "id": "https://www.atlasobscura.com/articles/edgar-allen-poe-seashell-book",
           "author": null,
           "description": "Comments",
-          "link": "https://www.synthesia.io/",
-          "publishedOn": "2021-05-29T21:02:26.000Z",
-          "wordCount": 917,
-          "title": "Create AI videos by simply typing in text"
+          "link": "https://www.atlasobscura.com/articles/edgar-allen-poe-seashell-book",
+          "publishedOn": "2021-05-29T11:20:20.000Z",
+          "wordCount": 2699,
+          "title": "Poe’s best-selling book during his lifetime was a guide to seashells"
         },
         {
-          "id": "https://jobs.lever.co/substackinc/c98439dd-6560-4b58-b827-42eb92c61dbd",
+          "id": "https://github.com/susam/texme",
           "author": null,
           "description": "Comments",
-          "link": "https://jobs.lever.co/substackinc/c98439dd-6560-4b58-b827-42eb92c61dbd",
-          "publishedOn": "2021-05-29T21:01:11.000Z",
-          "wordCount": 746,
-          "title": "Substack (YC W18) is hiring technical recruiters to build the future of writing"
+          "link": "https://github.com/susam/texme",
+          "publishedOn": "2021-05-29T11:02:02.000Z",
+          "wordCount": 4654,
+          "title": "Show HN: TeXMe – Create self-rendering Markdown + LaTeX documents"
         },
         {
-          "id": "https://harpers.org/archive/2015/04/abolish-high-school/",
+          "id": "https://rhizome.org/editorial/2021/may/18/true-fans-translate-fansubbing-bookstory/",
           "author": null,
           "description": "Comments",
-          "link": "https://harpers.org/archive/2015/04/abolish-high-school/",
-          "publishedOn": "2021-05-29T20:44:30.000Z",
-          "wordCount": 2814,
-          "title": "Abolish High School (2015)"
+          "link": "https://rhizome.org/editorial/2021/may/18/true-fans-translate-fansubbing-bookstory/",
+          "publishedOn": "2021-05-29T08:01:05.000Z",
+          "wordCount": 1245,
+          "title": "Japanese bookstore simulator translated into English after 24 years"
         },
         {
-          "id": "https://arstechnica.com/gadgets/2021/05/amazon-devices-will-soon-automatically-share-your-internet-with-neighbors/",
+          "id": "https://en.wikipedia.org/wiki/Jonbar_hinge",
           "author": null,
           "description": "Comments",
-          "link": "https://arstechnica.com/gadgets/2021/05/amazon-devices-will-soon-automatically-share-your-internet-with-neighbors/",
-          "publishedOn": "2021-05-29T20:39:34.000Z",
-          "wordCount": 1271,
-          "title": "Amazon devices will soon automatically share your Internet with neighbors"
-        },
-        {
-          "id": "https://www.eevblog.com/forum/chat/faraday-wax-recreating-old-school-high-vacuum-epoxy!/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.eevblog.com/forum/chat/faraday-wax-recreating-old-school-high-vacuum-epoxy!/",
-          "publishedOn": "2021-05-29T20:03:39.000Z",
-          "wordCount": 1344,
-          "title": "“Faraday Wax” – recreating old school high-vacuum epoxy"
-        },
-        {
-          "id": "https://www.depauw.edu/sfs/backissues/5/lem5art.htm",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.depauw.edu/sfs/backissues/5/lem5art.htm",
-          "publishedOn": "2021-05-29T19:44:52.000Z",
-          "wordCount": 8795,
-          "title": "Philip K. Dick: A Visionary Among the Charlatans (1975)"
-        },
-        {
-          "id": "http://feertech.com/legion/software/game/2021/05/28/game-from-scratch-02.html",
-          "author": null,
-          "description": "Comments",
-          "link": "http://feertech.com/legion/software/game/2021/05/28/game-from-scratch-02.html",
-          "publishedOn": "2021-05-29T17:35:55.000Z",
-          "wordCount": 2741,
-          "title": "Writing a game from first principles in 65c02  – Part One"
-        },
-        {
-          "id": "http://www.breakintoprogram.co.uk/projects/spectrum-next-projects/bbc-basic-for-the-spectrum-next-introduction",
-          "author": null,
-          "description": "Comments",
-          "link": "http://www.breakintoprogram.co.uk/projects/spectrum-next-projects/bbc-basic-for-the-spectrum-next-introduction",
-          "publishedOn": "2021-05-29T17:19:38.000Z",
-          "wordCount": 1053,
-          "title": "Show HN: BBC Basic on the ZX Spectrum Next"
-        },
-        {
-          "id": "https://www.theparisreview.org/blog/2021/05/27/new-yorks-hyphenated-history/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.theparisreview.org/blog/2021/05/27/new-yorks-hyphenated-history/",
-          "publishedOn": "2021-05-29T16:25:40.000Z",
-          "wordCount": 1740,
-          "title": "New York’s Hyphenated History"
-        },
-        {
-          "id": "https://krebsonsecurity.com/2021/05/using-fake-reviews-to-find-dangerous-extensions/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://krebsonsecurity.com/2021/05/using-fake-reviews-to-find-dangerous-extensions/",
-          "publishedOn": "2021-05-29T16:25:31.000Z",
-          "wordCount": 2152,
-          "title": "Using fake reviews to find dangerous extensions"
-        },
-        {
-          "id": "https://wiki.tcl-lang.org/page/Parallel+C%2B%2B+thread+with+OpenMP",
-          "author": null,
-          "description": "Comments",
-          "link": "https://wiki.tcl-lang.org/page/Parallel+C%2B%2B+thread+with+OpenMP",
-          "publishedOn": "2021-05-29T15:48:18.000Z",
-          "wordCount": 360,
-          "title": "Tcl Calling Parallel C++ Code Using OpenMP"
-        },
-        {
-          "id": "https://www.inf.ed.ac.uk/teaching/courses/pi/2016_2017/phil/tufte-powerpoint.pdf",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.inf.ed.ac.uk/teaching/courses/pi/2016_2017/phil/tufte-powerpoint.pdf",
-          "publishedOn": "2021-05-29T15:23:53.000Z",
-          "wordCount": 17618,
-          "title": "The Cognitive Style of PowerPoint (2003) [pdf]"
-        },
-        {
-          "id": "https://www.businessinsider.com/unredacted-google-lawsuit-docs-detail-efforts-to-collect-user-location-2021-5",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.businessinsider.com/unredacted-google-lawsuit-docs-detail-efforts-to-collect-user-location-2021-5",
-          "publishedOn": "2021-05-29T12:14:07.000Z",
-          "wordCount": 1515,
-          "title": "Google made it nearly impossible for users to keep their location private"
-        },
-        {
-          "id": "https://www.urbextour.com/en/urbex-travel/7-ghost-stations-of-the-paris-metro-and-how-to-get-into-the-illegally-unusual-tunnels-rer/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.urbextour.com/en/urbex-travel/7-ghost-stations-of-the-paris-metro-and-how-to-get-into-the-illegally-unusual-tunnels-rer/",
-          "publishedOn": "2021-05-29T10:57:28.000Z",
-          "wordCount": 4389,
-          "title": "Ghost Stations of the Paris Metro"
-        },
-        {
-          "id": "https://www.economist.com/finance-and-economics/2021/05/27/the-pandemic-revives-interest-in-a-morbid-french-financial-scheme",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.economist.com/finance-and-economics/2021/05/27/the-pandemic-revives-interest-in-a-morbid-french-financial-scheme",
-          "publishedOn": "2021-05-29T10:54:13.000Z",
-          "wordCount": 689,
-          "title": "The pandemic revives interest in a morbid French financial scheme"
-        },
-        {
-          "id": "https://statmodeling.stat.columbia.edu/2021/05/25/causal-inference-the-mixtape/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://statmodeling.stat.columbia.edu/2021/05/25/causal-inference-the-mixtape/",
-          "publishedOn": "2021-05-29T10:22:30.000Z",
-          "wordCount": 2836,
-          "title": "Causal Inference: The Mixtape"
-        },
-        {
-          "id": "https://www.newscientist.com/article/2278932-astronomers-have-created-the-largest-ever-map-of-dark-matter",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.newscientist.com/article/2278932-astronomers-have-created-the-largest-ever-map-of-dark-matter",
-          "publishedOn": "2021-05-29T10:16:26.000Z",
-          "wordCount": 851,
-          "title": "Astronomers have created the largest ever map of dark matter"
-        },
-        {
-          "id": "https://catapult.co/stories/comic-shing-yin-khor-chop-suey-chinese-american-food-history",
-          "author": null,
-          "description": "Comments",
-          "link": "https://catapult.co/stories/comic-shing-yin-khor-chop-suey-chinese-american-food-history",
-          "publishedOn": "2021-05-29T02:28:26.000Z",
-          "wordCount": 848,
-          "title": "How Did Chop Suey Become a Staple of Chinese American Cuisine?"
-        },
-        {
-          "id": "https://sites.google.com/view/elizagen-org/the-original-eliza?authuser=0",
-          "author": null,
-          "description": "Comments",
-          "link": "https://sites.google.com/view/elizagen-org/the-original-eliza?authuser=0",
-          "publishedOn": "2021-05-29T00:17:41.000Z",
-          "wordCount": 1702,
-          "title": "Joseph Weizenbaum’s Original ELIZA"
-        },
-        {
-          "id": "https://fusebot.io/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://fusebot.io/",
-          "publishedOn": "2021-05-28T18:18:28.000Z",
-          "wordCount": 141,
-          "title": "Show HN: Fusebot – Developer bot for Discord and Slack"
-        },
-        {
-          "id": "https://thonyc.wordpress.com/2021/05/19/7190/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://thonyc.wordpress.com/2021/05/19/7190/",
-          "publishedOn": "2021-05-28T16:39:19.000Z",
-          "wordCount": 3722,
-          "title": "Renaissance Science – X: Introduction of Algebra to the European academic canon"
+          "link": "https://en.wikipedia.org/wiki/Jonbar_hinge",
+          "publishedOn": "2021-05-28T17:10:07.000Z",
+          "wordCount": 679,
+          "title": "Jonbar Hinge"
         }
       ]
     },
@@ -288,7 +288,7 @@
           "description": "In this article, we’ll be re-using the foundational WYSIWYG Editor built in the first article to build a commenting system for a WYSIWYG Editor that enables users to select text inside a document and share their comments on it. Let’s dig in!",
           "link": "https://smashingmagazine.com/2021/05/commenting-system-wysiwyg-editor/",
           "publishedOn": "2021-05-28T11:00:00.000Z",
-          "wordCount": 10175,
+          "wordCount": 10217,
           "title": "Adding A Commenting System To A WYSIWYG Editor",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ec39e154-d3d3-4a12-91fd-f0c068cd5247/commenting-system-wysiwyg-editor.jpg",
@@ -302,7 +302,7 @@
           "description": "Meet useful Visual Studio Code extensions for web developers: little helpers to minimize slow-downs and frustrations, and boost developer’s workflow along the way. With auto log messages, auto code formatting, file utils, file labels, code snippets, highlight brackets, tags, indents and workspaces, onboarding and remote SSH.",
           "link": "https://smashingmagazine.com/2021/05/useful-vs-code-extensions-web-developers/",
           "publishedOn": "2021-05-27T13:30:00.000Z",
-          "wordCount": 3696,
+          "wordCount": 3733,
           "title": "Useful VS Code Extensions For Front-End Developers",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2c5dbb73-94e1-486f-9daa-351699faaa2d/peacock-extension.png",
@@ -317,7 +317,7 @@
           "link": "https://smashingmagazine.com/2021/05/build-launch-responsive-websites-editorx/",
           "publishedOn": "2021-05-27T09:30:00.000Z",
           "wordCount": 2676,
-          "title": "How To Build And Launch Responsive Websites Faster With Editor X",
+          "title": "How To Build And Launch Powerful Responsive Websites With Editor X",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e3eaf20c-08e9-4f1c-829b-f0bbd7309e0d/21-build-launch-responsive-websites-editorx.png",
             "length": "0",
@@ -344,7 +344,7 @@
           "description": "Mistakes. These cruel villains do not even stop at the beautiful world of software development. But although we cannot avoid making mistakes, we can learn to undo them! This post will show the right tools for your daily work with Git.",
           "link": "https://smashingmagazine.com/2021/05/undoing-mistakes-git-part2/",
           "publishedOn": "2021-05-25T14:00:00.000Z",
-          "wordCount": 2130,
+          "wordCount": 2079,
           "title": "A Guide To Undoing Mistakes With Git (Part 2)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/211042ae-7a72-42ba-804e-9f8132815200/undoing-mistakes-git-part1.jpg",
@@ -386,7 +386,7 @@
           "description": "Let’s build a rich text, WYSIWYG-editor that supports rich text, images, links and some nuanced features from word processing apps. We will use SlateJS to build the shell of the editor and then add a toolbar and custom configurations.",
           "link": "https://smashingmagazine.com/2021/05/building-wysiwyg-editor-javascript-slatejs/",
           "publishedOn": "2021-05-21T11:30:00.000Z",
-          "wordCount": 9431,
+          "wordCount": 9445,
           "title": "Building A Rich Text Editor (WYSIWYG)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bafdd817-038e-4e70-a830-de0f5da659c4/building-wysiwyg-editor-javascript-slatejs.jpg",
@@ -414,7 +414,7 @@
           "description": "A step-by-step tutorial on adding authentication and authorization to your Next.js apps, with Auth0. We’ll be using a Next.js SDK to connect our application to the Auth0 API and will create the dynamic API route for React.",
           "link": "https://smashingmagazine.com/2021/05/implement-authentication-nextjs-auth0/",
           "publishedOn": "2021-05-20T11:00:00.000Z",
-          "wordCount": 1956,
+          "wordCount": 1964,
           "title": "How To Implement Authentication In Next.js With Auth0",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/3e905cbf-b17b-47da-aec4-15c9701bf4bf/implement-authentication-nextjs-auth0.jpg",
@@ -470,7 +470,7 @@
           "description": "Google’s “Page Experience Update” will start rolling out in June. At first, sites that meet Core Web Vitals thresholds will have a minor ranking advantage in mobile search for all browsers. Search is important to any business, and this is the story of how Beau Hartshorne and his team at Instant Domain Search improved their Core Web Vitals scores.",
           "link": "https://smashingmagazine.com/2021/05/core-web-vitals-case-study/",
           "publishedOn": "2021-05-17T11:30:00.000Z",
-          "wordCount": 2906,
+          "wordCount": 2957,
           "title": "How We Improved Our Core Web Vitals (Case Study)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b68aa1ba-94b7-4e70-83e5-5f58b37bf7cd/core-web-vitals-case-study.jpg",
@@ -484,7 +484,7 @@
           "description": "“Tree-shaking” is a must-have performance optimization when bundling JavaScript. In this article, we dive deeper on how exactly it works and how specs and practice intertwine to make bundles leaner and more performant. Plus, you’ll get a tree-shaking checklist to use for your projects.",
           "link": "https://smashingmagazine.com/2021/05/tree-shaking-reference-guide/",
           "publishedOn": "2021-05-14T10:30:00.000Z",
-          "wordCount": 2393,
+          "wordCount": 2444,
           "title": "Tree-Shaking: A Reference Guide",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0e27a101-d2e0-4661-9e12-b53b68051dbf/tree-shaking-reference-guide.jpg",
@@ -554,7 +554,7 @@
           "description": "Want to get started with React but struggling to find a good place to start? This article should have you covered. We’ll focus on some of the main concepts of React and then we’ll be building a game from scratch!",
           "link": "https://smashingmagazine.com/2021/05/get-started-whac-a-mole-react-game/",
           "publishedOn": "2021-05-10T11:00:00.000Z",
-          "wordCount": 6349,
+          "wordCount": 6357,
           "title": "Get Started With React By Building A Whac-A-Mole Game",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/7a9db037-1a8d-42ad-b0c3-1c885e456693/get-started-whac-a-mole-react-game.jpg",
@@ -568,7 +568,7 @@
           "description": "How do you organize your Google Drive assets? How do you name your Dropbox Paper documents? How do you deal with comments? Let’s get it right.",
           "link": "https://smashingmagazine.com/2021/05/product-records-organization-collaboration-best-practices/",
           "publishedOn": "2021-05-07T10:00:00.000Z",
-          "wordCount": 4169,
+          "wordCount": 4172,
           "title": "How To Organize Product-Related Assets And Collaborate Better",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2bd6b075-9b54-4fa6-a709-1a8248435c17/product-records-organization-collaboration.jpg",
@@ -582,7 +582,7 @@
           "description": "When dealing with themes for large platforms and CMS, legacy issues often become a bottleneck. In this article, Carson Shold discusses how his team improved the performance and organization of their Shopify themes, and improved maintainability along the way.",
           "link": "https://smashingmagazine.com/2021/05/improving-performance-shopify-themes-case-study/",
           "publishedOn": "2021-05-06T11:00:00.000Z",
-          "wordCount": 2656,
+          "wordCount": 2668,
           "title": "Improving The Performance Of Shopify Themes (Case Study)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2286332a-4912-4fb0-9578-530f44f905ed/improving-performance-shopify-themes-case-study.jpg",
@@ -596,7 +596,7 @@
           "description": "This article showcases a case study of Bookaway’s landing page performance. We’ll see how taking care of the props we send to Next.js pages can make loading times and Web Vitals better.",
           "link": "https://smashingmagazine.com/2021/05/reduce-data-sent-client-nextjs/",
           "publishedOn": "2021-05-05T10:30:00.000Z",
-          "wordCount": 2341,
+          "wordCount": 2333,
           "title": "Reducing HTML Payload With Next.js (Case Study)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0019f4c3-ebdd-4b09-9f45-47173587307b/reduce-data-sent-client-nextjs.jpg",
@@ -610,7 +610,7 @@
           "description": "No matter how experienced you are, mistakes are an inevitable part of software development. But we can learn to repair them! And this is what we'll be looking at in this two-part series: how to undo mistakes using Git.",
           "link": "https://smashingmagazine.com/2021/05/undoing-mistakes-git-part1/",
           "publishedOn": "2021-05-04T14:30:00.000Z",
-          "wordCount": 1832,
+          "wordCount": 1846,
           "title": "A Guide To Undoing Mistakes With Git (Part 1)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/211042ae-7a72-42ba-804e-9f8132815200/undoing-mistakes-git-part1.jpg",
@@ -638,7 +638,7 @@
           "description": "Web-oriented databases, frameworks like Nuxt and Next.js, and even frameworkless approaches are evolving the Jamstack, but the core principles are more powerful than ever.",
           "link": "https://smashingmagazine.com/2021/05/evolution-jamstack/",
           "publishedOn": "2021-05-03T07:00:00.000Z",
-          "wordCount": 2183,
+          "wordCount": 2178,
           "title": "The Evolution Of Jamstack",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/77ef8e71-94e8-49bb-9c9b-dc5b68902149/evolution-jamstack.jpg",
