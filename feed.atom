@@ -2,45 +2,345 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rss.sant.sh/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-04T01:54:11.410Z</updated>
+    <updated>2021-06-05T01:29:58.247Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://rss.sant.sh/index.html"/>
     <link rel="self" href="https://rss.sant.sh/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[NitrOS-9, Unix-like operating system for the 6809]]></title>
-        <id>https://nitros9.sourceforge.io/wiki/index.php/Main_Page</id>
-        <link href="https://nitros9.sourceforge.io/wiki/index.php/Main_Page"/>
-        <updated>2021-06-04T00:29:16.000Z</updated>
+        <title type="html"><![CDATA[Remote Controlling a Nintendo Switch for Fun and Profit]]></title>
+        <id>https://aricodes.net/posts/remote-controlling-a-nintendo-switch/</id>
+        <link href="https://aricodes.net/posts/remote-controlling-a-nintendo-switch/"/>
+        <updated>2021-06-05T00:58:22.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Genetic study finds the brain is most similar to – testicles?]]></title>
-        <id>https://www.studyfinds.org/brain-most-similar-to-testicles/</id>
-        <link href="https://www.studyfinds.org/brain-most-similar-to-testicles/"/>
-        <updated>2021-06-04T00:15:59.000Z</updated>
+        <title type="html"><![CDATA[Hackers Breached Colonial Pipeline Using Compromised Password]]></title>
+        <id>https://www.bloomberg.com/news/articles/2021-06-04/hackers-breached-colonial-pipeline-using-compromised-password</id>
+        <link href="https://www.bloomberg.com/news/articles/2021-06-04/hackers-breached-colonial-pipeline-using-compromised-password"/>
+        <updated>2021-06-04T22:54:56.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Facebook deals with PCIe faults to keep our data centers running reliably]]></title>
-        <id>https://engineering.fb.com/2021/06/02/data-center-engineering/how-facebook-deals-with-pcie-faults-to-keep-our-data-centers-running-reliably/</id>
-        <link href="https://engineering.fb.com/2021/06/02/data-center-engineering/how-facebook-deals-with-pcie-faults-to-keep-our-data-centers-running-reliably/"/>
-        <updated>2021-06-03T23:43:07.000Z</updated>
+        <title type="html"><![CDATA[Zig 0.8.0 Release Notes]]></title>
+        <id>https://ziglang.org/download/0.8.0/release-notes.html</id>
+        <link href="https://ziglang.org/download/0.8.0/release-notes.html"/>
+        <updated>2021-06-04T22:40:05.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[HTML and CSS techniques to reduce your JavaScript]]></title>
-        <id>https://calendar.perfplanet.com/2020/html-and-css-techniques-to-reduce-your-javascript/</id>
-        <link href="https://calendar.perfplanet.com/2020/html-and-css-techniques-to-reduce-your-javascript/"/>
-        <updated>2021-06-03T23:20:05.000Z</updated>
+        <title type="html"><![CDATA[Bitcoin’s Reliance on Stablecoins Harks Back to the Wild West of Finance]]></title>
+        <id>https://www.wsj.com/articles/bitcoins-reliance-on-stablecoins-harks-back-to-the-wild-west-of-finance-11622115246</id>
+        <link href="https://www.wsj.com/articles/bitcoins-reliance-on-stablecoins-harks-back-to-the-wild-west-of-finance-11622115246"/>
+        <updated>2021-06-04T22:20:18.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HOWTO: Be more productive (2005)]]></title>
+        <id>http://www.aaronsw.com/weblog/productivity</id>
+        <link href="http://www.aaronsw.com/weblog/productivity"/>
+        <updated>2021-06-04T22:18:01.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lol just got kicked out of  @ycombinator]]></title>
+        <id>https://twitter.com/paulbiggar/status/1400904600421535744</id>
+        <link href="https://twitter.com/paulbiggar/status/1400904600421535744"/>
+        <updated>2021-06-04T22:01:55.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[John Carmack on JPEG]]></title>
+        <id>https://twitter.com/ID_AA_Carmack/status/1400930510671601666</id>
+        <link href="https://twitter.com/ID_AA_Carmack/status/1400930510671601666"/>
+        <updated>2021-06-04T21:43:53.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Search and Filter Components in React]]></title>
+        <id>60b3480c11ffb70827ef9a88</id>
+        <link href="https://www.freecodecamp.org/news/search-and-filter-component-in-reactjs/"/>
+        <updated>2021-06-04T21:34:33.000Z</updated>
+        <summary type="html"><![CDATA[If you're building a React app, you want your users to be able to search and get exact results. And if you are getting tons of items from an API, then you need to create a way for users to be able to find various items easily.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Denmark parliament approves giant artificial island off Copenhagen]]></title>
+        <id>https://www.bbc.co.uk/news/world-europe-57348415</id>
+        <link href="https://www.bbc.co.uk/news/world-europe-57348415"/>
+        <updated>2021-06-04T21:27:13.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[8088ify: Intel 8080 CP/M 2.2 to Intel 8086/8088 IBM PC DOS assembly translator]]></title>
+        <id>https://github.com/ibara/8088ify</id>
+        <link href="https://github.com/ibara/8088ify"/>
+        <updated>2021-06-04T21:01:59.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Clerky (YC S11) Is Hiring Senior Software Engineers (Remote)]]></title>
+        <id>https://jobs.lever.co/clerky/295375d9-c3d9-4ec8-99e0-bc5ac6232a64?lever-origin=applied&amp;lever-source%5B%5D=HN</id>
+        <link href="https://jobs.lever.co/clerky/295375d9-c3d9-4ec8-99e0-bc5ac6232a64?lever-origin=applied&amp;lever-source%5B%5D=HN"/>
+        <updated>2021-06-04T21:00:12.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Machine Learning in Python – The Top New Scikit-Learn 0.24 Features You Should Know]]></title>
+        <id>60ba33d7acb62507dd1d9050</id>
+        <link href="https://www.freecodecamp.org/news/machine-learning-python-new-scikit-learn-features-you-should-know/"/>
+        <updated>2021-06-04T20:58:07.000Z</updated>
+        <summary type="html"><![CDATA[Scikit-learn is one of the most popular open-source and free machine learning libraries for Python.  The scikit-learn library contains a lot of efficient tools for machine learning and statistical modeling including classification, regression, clustering, and dimensionality reduction. Many data scientists, machine learning engineers, and researchers rely on this library for]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PyCon US 2021 Recordings are Available]]></title>
+        <id>https://pycon.blogspot.com/2021/06/pycon-us-2021-recordings-are-complete.html?m=1</id>
+        <link href="https://pycon.blogspot.com/2021/06/pycon-us-2021-recordings-are-complete.html?m=1"/>
+        <updated>2021-06-04T20:57:36.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Recover from Deployment Hell – What I Learned After My Discord Bot Crashed on a 1000+ User Server]]></title>
+        <id>60b8f5c7acb62507dd1d8500</id>
+        <link href="https://www.freecodecamp.org/news/recovering-from-deployment-hell-what-i-learned-from-deploying-my-discord-bot-to-a-1000-user-server/"/>
+        <updated>2021-06-04T20:41:29.000Z</updated>
+        <summary type="html"><![CDATA[I deployed a Discord bot to a 1000+ user server. In the first hour, Deployment Hell struck and my bot crashed. In the next hour, I brought it back, surviving and even thriving in Deployment Hell. In this post, I'll show you how.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Not a drill: VMware vuln with 9.8 severity rating is under attack]]></title>
+        <id>https://arstechnica.com/gadgets/2021/06/under-exploit-vmware-vulnerability-with-severity-rating-of-9-8-out-of-10/</id>
+        <link href="https://arstechnica.com/gadgets/2021/06/under-exploit-vmware-vulnerability-with-severity-rating-of-9-8-out-of-10/"/>
+        <updated>2021-06-04T20:34:52.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Elijah Miller’s NEC v30 on a Pi hat]]></title>
+        <id>https://virtuallyfun.com/wordpress/2021/06/04/elijah-millers-nec-v30-on-a-pi-hat/</id>
+        <link href="https://virtuallyfun.com/wordpress/2021/06/04/elijah-millers-nec-v30-on-a-pi-hat/"/>
+        <updated>2021-06-04T19:47:00.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pokegb: A gameboy emulator that only plays Pokémon Blue, in 68 lines of C++]]></title>
+        <id>https://binji.github.io/posts/pokegb/</id>
+        <link href="https://binji.github.io/posts/pokegb/"/>
+        <updated>2021-06-04T18:31:27.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ultra-processed food targets bone quality via endochondral ossification]]></title>
+        <id>https://www.nature.com/articles/s41413-020-00127-9</id>
+        <link href="https://www.nature.com/articles/s41413-020-00127-9"/>
+        <updated>2021-06-04T18:11:44.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intel and AMD Contemplate Different Replacements for x86 Interrupt Handling]]></title>
+        <id>https://www.eejournal.com/article/we-interrupt-this-program/</id>
+        <link href="https://www.eejournal.com/article/we-interrupt-this-program/"/>
+        <updated>2021-06-04T18:10:27.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Heroic Rat Retiring from Detecting Land Mines]]></title>
+        <id>https://www.npr.org/2021/06/04/1003258540/after-years-of-detecting-land-mines-a-heroic-rat-is-hanging-up-his-sniffer</id>
+        <link href="https://www.npr.org/2021/06/04/1003258540/after-years-of-detecting-land-mines-a-heroic-rat-is-hanging-up-his-sniffer"/>
+        <updated>2021-06-04T18:08:14.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn TypeScript Basics in this Beginner&#x27;s Guide]]></title>
+        <id>60b2a4c611ffb70827ef9842</id>
+        <link href="https://www.freecodecamp.org/news/learn-typescript-basics/"/>
+        <updated>2021-06-04T18:01:00.000Z</updated>
+        <summary type="html"><![CDATA[TypeScript has taken the development world by storm. No wonder it has over 15 million weekly downloads on npm. But what is TypeScript, and what do you need to know about it?  In this article, I am going answer those questions. By the end you'll have a grasp of the]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anatomy of a Linux DNS Lookup]]></title>
+        <id>https://zwischenzugs.com/2018/06/08/anatomy-of-a-linux-dns-lookup-part-i/</id>
+        <link href="https://zwischenzugs.com/2018/06/08/anatomy-of-a-linux-dns-lookup-part-i/"/>
+        <updated>2021-06-04T17:28:44.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Social virtual spaces with Elixir at Mozilla]]></title>
+        <id>https://elixir-lang.org/blog/2021/06/02/social-virtual-spaces-with-elixir-at-mozilla/</id>
+        <link href="https://elixir-lang.org/blog/2021/06/02/social-virtual-spaces-with-elixir-at-mozilla/"/>
+        <updated>2021-06-04T17:06:33.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[There are no results for tank man]]></title>
+        <id>https://www.bing.com/images/search?q=tank+man</id>
+        <link href="https://www.bing.com/images/search?q=tank+man"/>
+        <updated>2021-06-04T16:51:37.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Haiku Monthly Activity Report – May 2021]]></title>
+        <id>https://www.haiku-os.org/blog/pulkomandy/2021-06-03-haiku_activity_report_may_2021/</id>
+        <link href="https://www.haiku-os.org/blog/pulkomandy/2021-06-03-haiku_activity_report_may_2021/"/>
+        <updated>2021-06-04T16:43:43.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Launch HN: InBalance (YC W21) – Short-term energy market forecasting]]></title>
+        <id>https://news.ycombinator.com/item?id=27395238</id>
+        <link href="https://news.ycombinator.com/item?id=27395238"/>
+        <updated>2021-06-04T16:22:16.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why We Should End the Data Economy]]></title>
+        <id>https://thereboot.com/why-we-should-end-the-data-economy/</id>
+        <link href="https://thereboot.com/why-we-should-end-the-data-economy/"/>
+        <updated>2021-06-04T16:02:21.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Implementing a LLVM Micro C compiler in Haskell]]></title>
+        <id>https://blog.josephmorag.com/posts/mcc0/</id>
+        <link href="https://blog.josephmorag.com/posts/mcc0/"/>
+        <updated>2021-06-04T15:50:40.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Neural Actor: Neural Free-View Synthesis of Human Actors with Pose Control]]></title>
+        <id>http://gvv.mpi-inf.mpg.de/projects/NeuralActor/</id>
+        <link href="http://gvv.mpi-inf.mpg.de/projects/NeuralActor/"/>
+        <updated>2021-06-04T12:48:22.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UK and EU launch antitrust probes into Facebook]]></title>
+        <id>https://www.ft.com/content/1836b3a0-cf7b-4dd1-9821-85f209e15667</id>
+        <link href="https://www.ft.com/content/1836b3a0-cf7b-4dd1-9821-85f209e15667"/>
+        <updated>2021-06-04T11:44:15.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Getting Started With Webpack]]></title>
+        <id>https://smashingmagazine.com/2021/06/getting-started-webpack/</id>
+        <link href="https://smashingmagazine.com/2021/06/getting-started-webpack/"/>
+        <updated>2021-06-04T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Modern browsers provide good support for JavaScript modules, but module bundlers such as webpack stay a critical part of the JavaScript toolchain. Let’s take a deep dive into what webpack is and how to use it in your development workflow.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Nwani Victory)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An Unbelievable Demo]]></title>
+        <id>https://brendangregg.com/blog/2021-06-04/an-unbelievable-demo.html</id>
+        <link href="https://brendangregg.com/blog/2021-06-04/an-unbelievable-demo.html"/>
+        <updated>2021-06-04T04:21:31.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python for Bioinformatics: Use Machine Learning and Data Analysis for Drug Discovery]]></title>
+        <id>60b98ebfacb62507dd1d8ec4</id>
+        <link href="https://www.freecodecamp.org/news/python-for-bioinformatics-use-machine-learning-and-data-analysis-for-drug-discovery/"/>
+        <updated>2021-06-04T02:32:22.000Z</updated>
+        <summary type="html"><![CDATA[Are you looking for a way to apply Python and machine learning to a real-world application? You should consider Bioinformatics. Bioinformatics is an interdisciplinary field that develops methods and software tools for understanding biological data, in particular when the data sets are large and complex. We just released a course]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Van Buren is a victory against overbroad interpretations of the CFAA]]></title>
+        <id>https://www.eff.org/deeplinks/2021/06/van-buren-victory-against-overbroad-interpretations-cfaa-protects-security</id>
+        <link href="https://www.eff.org/deeplinks/2021/06/van-buren-victory-against-overbroad-interpretations-cfaa-protects-security"/>
+        <updated>2021-06-04T01:32:47.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -57,56 +357,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The lab-leak theory: inside the fight to uncover Covid-19’s origins]]></title>
-        <id>https://www.vanityfair.com/news/2021/06/the-lab-leak-theory-inside-the-fight-to-uncover-covid-19s-origins</id>
-        <link href="https://www.vanityfair.com/news/2021/06/the-lab-leak-theory-inside-the-fight-to-uncover-covid-19s-origins"/>
-        <updated>2021-06-03T23:07:39.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘I Had Never Faced the Reality of Death’: A Surgeon Becomes a Patient]]></title>
-        <id>https://www.nytimes.com/2021/06/03/health/covid-19-diagnosis-surgeon.html</id>
-        <link href="https://www.nytimes.com/2021/06/03/health/covid-19-diagnosis-surgeon.html"/>
-        <updated>2021-06-03T22:57:34.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stanford CS Curriculum 2021]]></title>
-        <id>https://docs.google.com/spreadsheets/d/1zfw8nPvJeewxcFUBpKUKmAVE8PjnJI7H0CKimdQXxr0/htmlview</id>
-        <link href="https://docs.google.com/spreadsheets/d/1zfw8nPvJeewxcFUBpKUKmAVE8PjnJI7H0CKimdQXxr0/htmlview"/>
-        <updated>2021-06-03T22:42:53.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Elixir at Ramp]]></title>
-        <id>https://engineering.ramp.com/elixir-at-ramp/</id>
-        <link href="https://engineering.ramp.com/elixir-at-ramp/"/>
-        <updated>2021-06-03T22:15:24.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TinyPilot: Month 11]]></title>
-        <id>https://mtlynch.io/retrospectives/2021/06/</id>
-        <link href="https://mtlynch.io/retrospectives/2021/06/"/>
-        <updated>2021-06-03T22:01:44.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[JavaScript Tutorial – How to Set Up a Front End Development Project]]></title>
         <id>60b11ff811ffb70827ef8f94</id>
         <link href="https://www.freecodecamp.org/news/how-to-set-up-a-front-end-development-project/"/>
@@ -117,71 +367,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Telnet Mapscii.me]]></title>
-        <id>http://mapscii.me</id>
-        <link href="http://mapscii.me"/>
-        <updated>2021-06-03T21:28:58.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[7-11 is opening 500 EV charging stations by the end of 2022]]></title>
-        <id>https://www.cnet.com/roadshow/news/7-11-charging-station-ev-500-2022/</id>
-        <link href="https://www.cnet.com/roadshow/news/7-11-charging-station-ev-500-2022/"/>
-        <updated>2021-06-03T21:19:54.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Compound (YC S19) is hiring to build financial products for startup employees]]></title>
-        <id>https://jobs.lever.co/compound</id>
-        <link href="https://jobs.lever.co/compound"/>
-        <updated>2021-06-03T21:00:30.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Predictive Coding Can Do Exact Backpropagation on Any Neural Network]]></title>
-        <id>https://arxiv.org/abs/2103.04689</id>
-        <link href="https://arxiv.org/abs/2103.04689"/>
-        <updated>2021-06-03T20:53:31.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Yann LeCun Deep Learning Course 2021]]></title>
-        <id>https://atcold.github.io/NYU-DLSP21/</id>
-        <link href="https://atcold.github.io/NYU-DLSP21/"/>
-        <updated>2021-06-03T20:53:30.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[U.S. to give ransomware hacks similar priority as terrorism, official says]]></title>
-        <id>https://www.reuters.com/article/cyber-usa-ransomware-idUSL2N2NC1SD</id>
-        <link href="https://www.reuters.com/article/cyber-usa-ransomware-idUSL2N2NC1SD"/>
-        <updated>2021-06-03T20:50:26.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Schofield&#x27;s Laws of Computing – What they Are and Why You Should Know Them]]></title>
         <id>60afd68611ffb70827ef86d8</id>
         <link href="https://www.freecodecamp.org/news/schofields-laws-of-computing/"/>
         <updated>2021-06-03T18:46:12.000Z</updated>
-        <summary type="html"><![CDATA[Schofield's Laws of Computing are principles that anyone who works with computers should know. They're focused on data portability, integrity, and security.  Jack Schofield was a British journalist who wrote for The Guardian. During that time, he wrote three particular articles called "Schofield's Laws of Computing". Jack didn't create these]]></summary>
+        <summary type="html"><![CDATA[Schofield's Laws of Computing are principles that anyone who works with computers should know. They're focused on data portability, integrity, and security.  Jack Schofield was a prolific journalist who wrote for The Guardian and covered technology for nearly four decades. During that time, he wrote three particular articles called "Schofield's]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
@@ -197,26 +387,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tour of our 250k line Clojure codebase]]></title>
-        <id>https://tech.redplanetlabs.com/2021/06/03/tour-of-our-250k-line-clojure-codebase/</id>
-        <link href="https://tech.redplanetlabs.com/2021/06/03/tour-of-our-250k-line-clojure-codebase/"/>
-        <updated>2021-06-03T18:12:18.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Patents in Open Source: the important parts of real cases]]></title>
-        <id>https://google.github.io/opencasebook/patents/</id>
-        <link href="https://google.github.io/opencasebook/patents/"/>
-        <updated>2021-06-03T18:09:07.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How to Build a Hackintosh - Install MacOS Big Sur on a PC Using OpenCore]]></title>
         <id>60affbe411ffb70827ef8951</id>
         <link href="https://www.freecodecamp.org/news/build-a-hackintosh/"/>
@@ -224,36 +394,6 @@
         <summary type="html"><![CDATA[A Hackintosh is a non-Mac computer system, made with PC parts, that runs the macOS operating system. In this tutorial, you will learn how to create a Hackintosh. You will learn how to install macOS Big Sur (or any other version of macOS) using OpenCore. The main benefit of a]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A new ProtoBuf generator for Go]]></title>
-        <id>https://vitess.io/blog/2021-06-03-a-new-protobuf-generator-for-go/</id>
-        <link href="https://vitess.io/blog/2021-06-03-a-new-protobuf-generator-for-go/"/>
-        <updated>2021-06-03T17:50:15.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How a Jenkins Job Broke our Jenkins UI]]></title>
-        <id>https://slack.engineering/how-a-jenkins-job-broke-our-jenkins-ui/</id>
-        <link href="https://slack.engineering/how-a-jenkins-job-broke-our-jenkins-ui/"/>
-        <updated>2021-06-03T17:36:08.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Camera Calibration from Scratch Using Rust]]></title>
-        <id>https://www.tangramvision.com/blog/calibration-from-scratch-using-rust-part-1-of-3</id>
-        <link href="https://www.tangramvision.com/blog/calibration-from-scratch-using-rust-part-1-of-3"/>
-        <updated>2021-06-03T17:03:15.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
@@ -267,70 +407,10 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Cipher Definition – What is a Block Cipher and How Does it Work to Protect Your Data?]]></title>
-        <id>5fff3d3098be260817e495bd</id>
-        <link href="https://www.freecodecamp.org/news/what-is-a-block-cipher/"/>
-        <updated>2021-06-03T16:21:19.000Z</updated>
-        <summary type="html"><![CDATA[Cryptography is the science of using codes and ciphers to protect messages. And encryption involves encoding messages so that only the intended recipient can understand the meaning of the message. It's often used to protect data in transit. Encryption is a two way function – that is, you need to be]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cocoa Touch apps (2007)]]></title>
-        <id>https://twitter.com/techemails/status/1400270458608664577</id>
-        <link href="https://twitter.com/techemails/status/1400270458608664577"/>
-        <updated>2021-06-03T15:56:17.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[US Supreme Court Restricts Scope of Computer Fraud and Abuse Act [pdf]]]></title>
-        <id>https://www.supremecourt.gov/opinions/20pdf/19-783_k53l.pdf</id>
-        <link href="https://www.supremecourt.gov/opinions/20pdf/19-783_k53l.pdf"/>
-        <updated>2021-06-03T15:25:56.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[United Airlines will buy 15 planes from Boom Supersonic]]></title>
-        <id>https://www.cnbc.com/2021/06/03/united-will-buy-15-ultrafast-airplanes-from-start-up-boom-supersonic.html</id>
-        <link href="https://www.cnbc.com/2021/06/03/united-will-buy-15-ultrafast-airplanes-from-start-up-boom-supersonic.html"/>
-        <updated>2021-06-03T13:12:24.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The theft and ransom of dogs in the 18th century]]></title>
-        <id>https://www.historytoday.com/miscellanies/whos-afraid-dog-banditti</id>
-        <link href="https://www.historytoday.com/miscellanies/whos-afraid-dog-banditti"/>
-        <updated>2021-06-03T11:54:16.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The long, strange life of the naked mole rat]]></title>
-        <id>https://www.wired.com/story/long-strange-life-worlds-oldest-naked-mole-rat/</id>
-        <link href="https://www.wired.com/story/long-strange-life-worlds-oldest-naked-mole-rat/"/>
-        <updated>2021-06-03T10:54:29.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Concrete Introduction to Probability (2018)]]></title>
-        <id>https://github.com/norvig/pytudes/blob/master/ipynb/Probability.ipynb</id>
-        <link href="https://github.com/norvig/pytudes/blob/master/ipynb/Probability.ipynb"/>
-        <updated>2021-06-03T10:50:18.000Z</updated>
+        <title type="html"><![CDATA[Performance Booster with System.IO.Pipelines in C#]]></title>
+        <id>https://goldytech.wordpress.com/2021/05/31/performance-booster-with-system-io-pipelines-in-c/</id>
+        <link href="https://goldytech.wordpress.com/2021/05/31/performance-booster-with-system-io-pipelines-in-c/"/>
+        <updated>2021-06-03T11:24:56.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -344,66 +424,6 @@
         <summary type="html"><![CDATA[Writing large-scale Vue applications can be a challenge. In this article, Shawn Wildermuth dives into the pros and cons of approaches like factories, shared objects, and using Vuex. He also explains what is coming in Vuex 5.0 that might change how we all use shared state in Vue 3.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Shawn Wildermuth)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Endless Work of Trying to Win Yourself a New Life]]></title>
-        <id>https://newrepublic.com/article/162328/endless-work-trying-win-new-life</id>
-        <link href="https://newrepublic.com/article/162328/endless-work-trying-win-new-life"/>
-        <updated>2021-06-03T10:08:10.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Command Palette Interfaces]]></title>
-        <id>https://philipcdavis.com/writing/command-palette-interfaces</id>
-        <link href="https://philipcdavis.com/writing/command-palette-interfaces"/>
-        <updated>2021-06-03T08:40:18.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is Commit Signing in Git?]]></title>
-        <id>60afce3011ffb70827ef869c</id>
-        <link href="https://www.freecodecamp.org/news/what-is-commit-signing-in-git/"/>
-        <updated>2021-06-02T23:14:01.000Z</updated>
-        <summary type="html"><![CDATA[Git has a feature to "sign" commits, but what is signing, and what are the benefits? TL;DR: If you don't care for the details, and just need to get commit signing setup quickly, skip to How to Sign Commits. Signing, or code signing specifically, is the process of using]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Environment Variables in VanillaJS]]></title>
-        <id>60b3a25211ffb70827ef9b39</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-environment-variables-in-vanillajs/"/>
-        <updated>2021-06-02T22:54:18.000Z</updated>
-        <summary type="html"><![CDATA[In this article, you will learn about environment variables in Vanilla JavaScript. You'll also learn how to serve API keys to your application through the Netlify build command. What are JavaScript environment variables?Environment variables are very common when you're using JavaScript frameworks like React or Vue for creating frontend]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Design Your Own Learning Plan for Any Tech Stack]]></title>
-        <id>60b3ccee11ffb70827ef9bc0</id>
-        <link href="https://www.freecodecamp.org/news/how-to-design-your-own-learning-plan-for-any-tech-stack/"/>
-        <updated>2021-06-02T21:18:15.000Z</updated>
-        <summary type="html"><![CDATA[One of the most difficult things about getting started in a new career as a developer is figuring out exactly what you should be learning – and then translating that into an effective plan. There are so many resources out there for learning, so lack of information is not the problem.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vimrc Configuration Guide - How to Customize Your Vim Code Editor with Mappings, Vimscript, Status Line, and More]]></title>
-        <id>60a699b0906c5207e3a7f5ab</id>
-        <link href="https://www.freecodecamp.org/news/vimrc-configuration-guide-customize-your-vim-editor/"/>
-        <updated>2021-06-02T20:44:22.000Z</updated>
-        <summary type="html"><![CDATA[Configuring your .vimrc file lets you use the full power of Vim. With a customized .vimrc file you can increase your Vim powers tenfold. In this article I will show you a few ways you can customize your .vimrc file. I will go over: Basic SettingsPluginsFoldingVimscriptStatus lineFirst create the following]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -424,16 +444,6 @@
         <summary type="html"><![CDATA[Getting a good performance score from Google is hard for any website — but doing so for an online store is even harder. We achieved green scores — even several for mobile. Here is how we did it.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Jennifer Brehm)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Types of Intuition: Thomas Nagel on human rights and moral knowledge]]></title>
-        <id>https://www.lrb.co.uk/the-paper/v43/n11/thomas-nagel/types-of-intuition</id>
-        <link href="https://www.lrb.co.uk/the-paper/v43/n11/thomas-nagel/types-of-intuition"/>
-        <updated>2021-06-01T17:13:40.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
@@ -674,16 +684,6 @@
         <summary type="html"><![CDATA[How do you organize your Google Drive assets? How do you name your Dropbox Paper documents? How do you deal with comments? Let’s get it right.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Valeriia Panina)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Improving The Performance Of Shopify Themes (Case Study)]]></title>
-        <id>https://smashingmagazine.com/2021/05/improving-performance-shopify-themes-case-study/</id>
-        <link href="https://smashingmagazine.com/2021/05/improving-performance-shopify-themes-case-study/"/>
-        <updated>2021-05-06T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[When dealing with themes for large platforms and CMS, legacy issues often become a bottleneck. In this article, Carson Shold discusses how his team improved the performance and organization of their Shopify themes, and improved maintainability along the way.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Carson Shold)</name>
         </author>
     </entry>
 </feed>
