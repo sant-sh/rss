@@ -2,45 +2,325 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rss.sant.sh/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-10T01:00:18.757Z</updated>
+    <updated>2021-06-11T00:54:56.270Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://rss.sant.sh/index.html"/>
     <link rel="self" href="https://rss.sant.sh/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[The Risk of Cargo Liquefication]]></title>
-        <id>https://www.maritime-executive.com/editorials/the-risk-of-cargo-liquefaction</id>
-        <link href="https://www.maritime-executive.com/editorials/the-risk-of-cargo-liquefaction"/>
-        <updated>2021-06-10T00:08:03.000Z</updated>
+        <title type="html"><![CDATA[“Crunch” Open Source Texture Compression Library vs. US Patent #20110115806]]></title>
+        <id>https://richg42.blogspot.com/2012/07/the-saga-of-crunch.html</id>
+        <link href="https://richg42.blogspot.com/2012/07/the-saga-of-crunch.html"/>
+        <updated>2021-06-11T00:09:32.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Developer Abandons Keystone XL Pipeline Project, Ending Decade-Long Battle]]></title>
-        <id>https://www.npr.org/2021/06/09/1004908006/developer-abandons-keystone-xl-pipeline-project-ending-decade-long-battle</id>
-        <link href="https://www.npr.org/2021/06/09/1004908006/developer-abandons-keystone-xl-pipeline-project-ending-decade-long-battle"/>
-        <updated>2021-06-09T23:44:37.000Z</updated>
+        <title type="html"><![CDATA[Chrome abandons 'simplified domain experiment' in omnibar]]></title>
+        <id>https://bugs.chromium.org/p/chromium/issues/detail?id=1090393#c75</id>
+        <link href="https://bugs.chromium.org/p/chromium/issues/detail?id=1090393#c75"/>
+        <updated>2021-06-10T23:12:18.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Reddit Sunsets Secret Santa and Reddit Gifts]]></title>
-        <id>https://www.reddit.com/r/announcements/comments/nw2hs6/sunsetting_secret_santa_and_reddit_gifts/</id>
-        <link href="https://www.reddit.com/r/announcements/comments/nw2hs6/sunsetting_secret_santa_and_reddit_gifts/"/>
-        <updated>2021-06-09T22:56:37.000Z</updated>
+        <title type="html"><![CDATA[Chime has detected 535 fast radio bursts, quadrupling the known tally]]></title>
+        <id>https://www.nature.com/articles/d41586-021-01560-4</id>
+        <link href="https://www.nature.com/articles/d41586-021-01560-4"/>
+        <updated>2021-06-10T22:47:34.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Facebook extends its work-at-home policy to most employees]]></title>
-        <id>https://www.cnbc.com/2021/06/09/facebook-will-let-all-employees-who-can-work-remotely-to-request-full-time-remote-work.html</id>
-        <link href="https://www.cnbc.com/2021/06/09/facebook-will-let-all-employees-who-can-work-remotely-to-request-full-time-remote-work.html"/>
-        <updated>2021-06-09T22:07:37.000Z</updated>
+        <title type="html"><![CDATA[FDA approves drug to treat smallpox]]></title>
+        <id>https://www.fda.gov/drugs/drug-safety-and-availability/fda-approves-drug-treat-smallpox</id>
+        <link href="https://www.fda.gov/drugs/drug-safety-and-availability/fda-approves-drug-treat-smallpox"/>
+        <updated>2021-06-10T22:31:36.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Frankfurt Status: Engineers are still not able to enter the affected part]]></title>
+        <id>https://status.aws.amazon.com/#EU_block</id>
+        <link href="https://status.aws.amazon.com/#EU_block"/>
+        <updated>2021-06-10T22:29:15.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linus Torvalds: Get vaccinated. Stop believing the anti-vax lies]]></title>
+        <id>https://lkml.org/lkml/2021/6/10/957</id>
+        <link href="https://lkml.org/lkml/2021/6/10/957"/>
+        <updated>2021-06-10T21:57:43.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Physicists measure the gravitational force between the smallest masses yet]]></title>
+        <id>https://www.scientificamerican.com/article/physicists-measure-the-gravitational-force-between-the-smallest-masses-yet/</id>
+        <link href="https://www.scientificamerican.com/article/physicists-measure-the-gravitational-force-between-the-smallest-masses-yet/"/>
+        <updated>2021-06-10T21:35:34.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Fermi-Pasta-Ulam-Tsingou problem: A foray into the beautifully simple]]></title>
+        <id>https://3quarksdaily.com/3quarksdaily/2020/01/the-fermi-pasta-ulam-tsingou-problem-a-foray-into-the-beautifully-simple-and-the-simply-beautiful.html</id>
+        <link href="https://3quarksdaily.com/3quarksdaily/2020/01/the-fermi-pasta-ulam-tsingou-problem-a-foray-into-the-beautifully-simple-and-the-simply-beautiful.html"/>
+        <updated>2021-06-10T21:05:21.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kraftful (YC S19) hiring a founding engineer to build an IoT platform]]></title>
+        <id>https://www.kraftful.com/blog/engineering-roles</id>
+        <link href="https://www.kraftful.com/blog/engineering-roles"/>
+        <updated>2021-06-10T21:00:42.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using aligned word vectors for instant translations with Python and Rust]]></title>
+        <id>https://instantdomainsearch.com/engineering/how-to-use-fasttext-for-instant-translations</id>
+        <link href="https://instantdomainsearch.com/engineering/how-to-use-fasttext-for-instant-translations"/>
+        <updated>2021-06-10T20:22:10.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Raspberry Pi WiFi to ethernet bridge]]></title>
+        <id>https://willhaley.com/blog/raspberry-pi-wifi-ethernet-bridge/</id>
+        <link href="https://willhaley.com/blog/raspberry-pi-wifi-ethernet-bridge/"/>
+        <updated>2021-06-10T19:51:36.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using Argo to Train Predictive Models at FlightAware]]></title>
+        <id>https://flightaware.engineering/using-argo-to-train-predictive-models/</id>
+        <link href="https://flightaware.engineering/using-argo-to-train-predictive-models/"/>
+        <updated>2021-06-10T19:16:16.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Privacy Analysis of FLoC]]></title>
+        <id>https://blog.mozilla.org/en/mozilla/privacy-analysis-of-floc/</id>
+        <link href="https://blog.mozilla.org/en/mozilla/privacy-analysis-of-floc/"/>
+        <updated>2021-06-10T18:25:17.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Heart inflammation cases in young men higher than expected after mRNA vaccines]]></title>
+        <id>https://www.reuters.com/world/us/cdc-heart-inflammation-cases-ages-16-24-higher-than-expected-after-mrna-covid-19-2021-06-10/</id>
+        <link href="https://www.reuters.com/world/us/cdc-heart-inflammation-cases-ages-16-24-higher-than-expected-after-mrna-covid-19-2021-06-10/"/>
+        <updated>2021-06-10T18:19:17.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Good and Bad Elixir]]></title>
+        <id>https://keathley.io/blog/good-and-bad-elixir.html</id>
+        <link href="https://keathley.io/blog/good-and-bad-elixir.html"/>
+        <updated>2021-06-10T18:18:52.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Software is eating the car]]></title>
+        <id>https://spectrum.ieee.org/cars-that-think/transportation/advanced-cars/software-eating-car</id>
+        <link href="https://spectrum.ieee.org/cars-that-think/transportation/advanced-cars/software-eating-car"/>
+        <updated>2021-06-10T16:02:58.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Link shorteners: the long and short of why you shouldn’t use them]]></title>
+        <id>https://gcs.civilservice.gov.uk/blog/link-shorteners-the-long-and-short-of-why-you-shouldnt-use-them/</id>
+        <link href="https://gcs.civilservice.gov.uk/blog/link-shorteners-the-long-and-short-of-why-you-shouldnt-use-them/"/>
+        <updated>2021-06-10T16:02:44.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A robot to replace the need for farmers to go inside the grain bin]]></title>
+        <id>https://www.agweb.com/news/business/technology/robot-replace-need-farmers-go-inside-grain-bin</id>
+        <link href="https://www.agweb.com/news/business/technology/robot-replace-need-farmers-go-inside-grain-bin"/>
+        <updated>2021-06-10T15:58:17.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My startup journey]]></title>
+        <id>https://johnjianwang.medium.com/my-startup-journey-dcf86a38676d</id>
+        <link href="https://johnjianwang.medium.com/my-startup-journey-dcf86a38676d"/>
+        <updated>2021-06-10T15:57:46.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The work-from-home future is destroying bosses' brains]]></title>
+        <id>https://ez.substack.com/p/the-work-from-home-future-is-destroying</id>
+        <link href="https://ez.substack.com/p/the-work-from-home-future-is-destroying"/>
+        <updated>2021-06-10T15:38:49.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Launch HN: Okay (YC W20) – Analytics for engineering teams]]></title>
+        <id>https://news.ycombinator.com/item?id=27461564</id>
+        <link href="https://news.ycombinator.com/item?id=27461564"/>
+        <updated>2021-06-10T15:04:10.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Useful Front-End Boilerplates And Starter Kits]]></title>
+        <id>https://smashingmagazine.com/2021/06/useful-frontend-boilerplates-starter-kits/</id>
+        <link href="https://smashingmagazine.com/2021/06/useful-frontend-boilerplates-starter-kits/"/>
+        <updated>2021-06-10T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We don’t need to write everything from scratch every single time. With boilerplates and starter kits, we can set up our projects faster, and get to work immediately.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Try APL]]></title>
+        <id>https://tryapl.org</id>
+        <link href="https://tryapl.org"/>
+        <updated>2021-06-10T14:02:39.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rqlite 6.0: the evolution of a distributed database design]]></title>
+        <id>https://www.philipotoole.com/rqlite-6-0-0-building-for-the-future/</id>
+        <link href="https://www.philipotoole.com/rqlite-6-0-0-building-for-the-future/"/>
+        <updated>2021-06-10T12:45:23.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stripe Tax]]></title>
+        <id>https://stripe.com/tax</id>
+        <link href="https://stripe.com/tax"/>
+        <updated>2021-06-10T12:09:49.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Azure Data Fundamentals Certification (DP-900) – Pass the Exam With This Free 4.5-Hour Course]]></title>
+        <id>60b93afaacb62507dd1d8915</id>
+        <link href="https://www.freecodecamp.org/news/azure-data-fundamentals-certification-dp-900-pass-the-exam-with-this-free-4-5-hour-course/"/>
+        <updated>2021-06-10T11:35:00.000Z</updated>
+        <summary type="html"><![CDATA[You can learn everything you need to know to earn the Azure Data Fundamentals certification by completing this free 4.5 hour course. What is the Azure Data Fundamentals Certification?The Azure Data Fundamentals Certification is for those seeking a data-related role such as Data Analyst, Data Engineer, or Data]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Three Front-End Auditing Tools I Discovered Recently]]></title>
+        <id>https://smashingmagazine.com/2021/06/three-frontend-auditing-tools/</id>
+        <link href="https://smashingmagazine.com/2021/06/three-frontend-auditing-tools/"/>
+        <updated>2021-06-10T11:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Building a faster website can be a rocket task these days. There are so many things to consider, so it’s challenging to get everything right. Here are some less-known tools that might help you get there.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Stefan Judis)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Developers can't fix bad management (2020)]]></title>
+        <id>https://iism.org/article/developers-can-t-fix-bad-management-57</id>
+        <link href="https://iism.org/article/developers-can-t-fix-bad-management-57"/>
+        <updated>2021-06-10T09:39:24.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Did I break you? Reverse dependency verification]]></title>
+        <id>https://developers.soundcloud.com/blog/did-i-break-you</id>
+        <link href="https://developers.soundcloud.com/blog/did-i-break-you"/>
+        <updated>2021-06-10T06:37:51.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[All at Sea]]></title>
+        <id>https://www.historytoday.com/reviews/all-sea</id>
+        <link href="https://www.historytoday.com/reviews/all-sea"/>
+        <updated>2021-06-10T00:34:05.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Amateur Photographers of Midcentury São Paulo]]></title>
+        <id>https://www.theparisreview.org/blog/2021/05/21/the-amateur-photographers-of-midcentury-sao-paulo/</id>
+        <link href="https://www.theparisreview.org/blog/2021/05/21/the-amateur-photographers-of-midcentury-sao-paulo/"/>
+        <updated>2021-06-10T00:24:49.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Prison Cell of Ludger Sylbaris]]></title>
+        <id>https://www.atlasobscura.com/places/the-prison-cell-of-ludger-sylbaris-saint-pierre-martinique</id>
+        <link href="https://www.atlasobscura.com/places/the-prison-cell-of-ludger-sylbaris-saint-pierre-martinique"/>
+        <updated>2021-06-09T22:22:23.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -57,36 +337,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Evaluating necessity of Covid-19 vaccination in previously infected individuals]]></title>
-        <id>https://www.medrxiv.org/content/10.1101/2021.06.01.21258176v2</id>
-        <link href="https://www.medrxiv.org/content/10.1101/2021.06.01.21258176v2"/>
-        <updated>2021-06-09T21:50:49.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TC Energy scraps Keystone XL pipeline project after Biden revokes key permit]]></title>
-        <id>https://www.reuters.com/business/energy/tc-energy-terminates-keystone-xl-pipeline-project-2021-06-09/</id>
-        <link href="https://www.reuters.com/business/energy/tc-energy-terminates-keystone-xl-pipeline-project-2021-06-09/"/>
-        <updated>2021-06-09T21:06:13.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LayerCI (YC S20) Is hiring interns to build devtools for webapps in Canada]]></title>
-        <id>https://www.ycombinator.com/companies/layerci/jobs/wyUcmvS-software-developer-intern-sep-dec-2021</id>
-        <link href="https://www.ycombinator.com/companies/layerci/jobs/wyUcmvS-software-developer-intern-sep-dec-2021"/>
-        <updated>2021-06-09T21:00:45.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Skills You Need to Start Freelancing as a Developer]]></title>
         <id>60c0ccbed3126007592d5781</id>
         <link href="https://www.freecodecamp.org/news/the-skills-you-need-to-start-freelancing/"/>
@@ -97,180 +347,20 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[You use more open source software than you think]]></title>
-        <id>https://github.com/readme/unseen-oss</id>
-        <link href="https://github.com/readme/unseen-oss"/>
-        <updated>2021-06-09T19:38:24.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to circumvent Sci-Hub ISP block]]></title>
-        <id>https://fragile-credences.github.io/scihub-proxy/</id>
-        <link href="https://fragile-credences.github.io/scihub-proxy/"/>
-        <updated>2021-06-09T19:12:02.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple is threatening to remove Fanhouse unless they give 30% of creator earning]]></title>
-        <id>https://twitter.com/jasminericegirl/status/1402691047940100100</id>
-        <link href="https://twitter.com/jasminericegirl/status/1402691047940100100"/>
-        <updated>2021-06-09T18:58:29.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Learn Bootstrap 5 and SASS by Building a Portfolio Website]]></title>
         <id>60c10a1dd3126007592d5988</id>
         <link href="https://www.freecodecamp.org/news/learn-bootstrap-5-and-sass-by-building-a-portfolio-website/"/>
         <updated>2021-06-09T18:43:07.000Z</updated>
-        <summary type="html"><![CDATA[Bootstrap is one of the most popular CSS frameworks and Sass is one of the most popular preprocessors for CSS. We just released a course on the freeCodeCamp.org YouTube channel that will teach you about Bootstrap 5 and Sass by building a portfolio website. Patrick Muriungi developed this course.]]></summary>
+        <summary type="html"><![CDATA[Bootstrap is one of the most popular CSS frameworks and Sass is one of the most popular preprocessors for CSS. We just published a course on the freeCodeCamp.org YouTube channel that will teach you about Bootstrap 5 and Sass by building a portfolio website. Patrick Muriungi developed this course.]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Expanse UI Design]]></title>
-        <id>https://www.hudsandguis.com/home/2021/theexpanse?ref=sidebar</id>
-        <link href="https://www.hudsandguis.com/home/2021/theexpanse?ref=sidebar"/>
-        <updated>2021-06-09T18:41:14.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Universal Control on macOS Monterey Works]]></title>
-        <id>https://www.theverge.com/2021/6/8/22523613/macos-monterey-wwdc-apple-ipad</id>
-        <link href="https://www.theverge.com/2021/6/8/22523613/macos-monterey-wwdc-apple-ipad"/>
-        <updated>2021-06-09T18:34:24.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Positive Psychology Goes to War]]></title>
-        <id>https://www.chronicle.com/article/positive-psychology-goes-to-war</id>
-        <link href="https://www.chronicle.com/article/positive-psychology-goes-to-war"/>
-        <updated>2021-06-09T17:22:24.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Angband 4.2.2: A free, single-player roguelike dungeon exploration game]]></title>
-        <id>http://rephial.org/</id>
-        <link href="http://rephial.org/"/>
-        <updated>2021-06-09T17:05:25.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021.06.08 Certificate Lifetime Incident]]></title>
-        <id>https://community.letsencrypt.org/t/2021-06-08-certificate-lifetime-incident/153426</id>
-        <link href="https://community.letsencrypt.org/t/2021-06-08-certificate-lifetime-incident/153426"/>
-        <updated>2021-06-09T17:04:46.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sweden’s Northvolt raises $2.8B to supercharge EV battery output]]></title>
-        <id>https://www.reuters.com/business/energy/battery-maker-northvolt-raises-275-bln-expand-factory-2021-06-09/</id>
-        <link href="https://www.reuters.com/business/energy/battery-maker-northvolt-raises-275-bln-expand-factory-2021-06-09/"/>
-        <updated>2021-06-09T16:34:38.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: A tool to self host game servers with a free static IP]]></title>
-        <id>https://playit.gg/</id>
-        <link href="https://playit.gg/"/>
-        <updated>2021-06-09T16:31:01.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Resistor Noise Can Be Deafening, and Hard to Reduce (2007)]]></title>
-        <id>https://www.analog.com/en/analog-dialogue/raqs/raq-issue-25.html</id>
-        <link href="https://www.analog.com/en/analog-dialogue/raqs/raq-issue-25.html"/>
-        <updated>2021-06-09T13:47:06.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Alpaca Attack]]></title>
-        <id>https://alpaca-attack.com/</id>
-        <link href="https://alpaca-attack.com/"/>
-        <updated>2021-06-09T12:58:48.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tell HN: SMS-based two-factor authentication is not secure]]></title>
-        <id>https://news.ycombinator.com/item?id=27447206</id>
-        <link href="https://news.ycombinator.com/item?id=27447206"/>
-        <updated>2021-06-09T12:40:08.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Launch HN: Explo (YC W20) – Customer-facing dashboards and reports]]></title>
-        <id>https://www.explo.co/</id>
-        <link href="https://www.explo.co/"/>
-        <updated>2021-06-09T12:23:58.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Seven Years of Factorio Friday Facts (2020)]]></title>
-        <id>https://spieswl.github.io/blog/2020/seven-years-of-factorio-friday-facts</id>
-        <link href="https://spieswl.github.io/blog/2020/seven-years-of-factorio-friday-facts"/>
-        <updated>2021-06-09T12:01:25.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[One Fastly customer triggered internet meltdown]]></title>
-        <id>https://www.bbc.co.uk/news/technology-57413224</id>
-        <link href="https://www.bbc.co.uk/news/technology-57413224"/>
-        <updated>2021-06-09T11:14:13.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lua-RTOS: a real-time operating system for ESP32]]></title>
-        <id>https://github.com/whitecatboard/Lua-RTOS-ESP32</id>
-        <link href="https://github.com/whitecatboard/Lua-RTOS-ESP32"/>
-        <updated>2021-06-09T10:38:44.000Z</updated>
+        <title type="html"><![CDATA[Will Apple Mail threaten the newsletter boom?]]></title>
+        <id>https://www.platformer.news/p/will-apple-mail-end-the-newsletter</id>
+        <link href="https://www.platformer.news/p/will-apple-mail-end-the-newsletter"/>
+        <updated>2021-06-09T14:25:53.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -307,16 +397,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Bafflement Fires]]></title>
-        <id>http://www.dpoetry.com/fires/</id>
-        <link href="http://www.dpoetry.com/fires/"/>
-        <updated>2021-06-08T17:44:00.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How to Pass Data and Events Between Components in React]]></title>
         <id>60b23b8911ffb70827ef954e</id>
         <link href="https://www.freecodecamp.org/news/pass-data-between-components-in-react/"/>
@@ -347,56 +427,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Don't create for an imaginary group of people]]></title>
-        <id>https://sarvasvkulpati.com/blog/the-faceless-other</id>
-        <link href="https://sarvasvkulpati.com/blog/the-faceless-other"/>
-        <updated>2021-06-08T11:28:14.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AMD 3D Stacks SRAM Bumplessly]]></title>
-        <id>https://fuse.wikichip.org/news/5531/amd-3d-stacks-sram-bumplessly/</id>
-        <link href="https://fuse.wikichip.org/news/5531/amd-3d-stacks-sram-bumplessly/"/>
-        <updated>2021-06-08T11:10:21.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kelly Criterion – how to calculate optimal bet sizes]]></title>
-        <id>https://fhur.github.io/notes/articles/the-kelly-criterion/index.html</id>
-        <link href="https://fhur.github.io/notes/articles/the-kelly-criterion/index.html"/>
-        <updated>2021-06-08T07:37:36.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A technique that enables people to hear ultrasonic sources above 20kHz]]></title>
-        <id>https://www.aalto.fi/en/news/anyone-can-get-super-hearing</id>
-        <link href="https://www.aalto.fi/en/news/anyone-can-get-super-hearing"/>
-        <updated>2021-06-08T07:02:42.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Goa’s last typewriter repair shop defied the digital age]]></title>
-        <id>https://www.theguardian.com/global-development/2021/jun/08/revert-to-type-how-goas-last-typewriter-repair-shop-defied-the-digital-age</id>
-        <link href="https://www.theguardian.com/global-development/2021/jun/08/revert-to-type-how-goas-last-typewriter-repair-shop-defied-the-digital-age"/>
-        <updated>2021-06-08T06:06:01.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Full Stack Development with Next.js and Supabase – The Complete Guide]]></title>
         <id>60bbd28eacb62507dd1d99fb</id>
         <link href="https://www.freecodecamp.org/news/the-complete-guide-to-full-stack-development-with-supabas/"/>
@@ -412,16 +442,6 @@
         <link href="https://www.freecodecamp.org/news/how-to-use-opencv-and-python-for-computer-vision-and-ai/"/>
         <updated>2021-06-07T20:54:41.000Z</updated>
         <summary type="html"><![CDATA[OpenCV is a popular Python library for real-time computer vision. We just released a new OpenCV course on the freeCodeCamp.org YouTube channel. This course comes directly from the creators of OpenCV and is the perfect course for beginners.  You will learn how to use OpenCV for Computer Vision and]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Closures in JavaScript – A Beginner&#x27;s Guide]]></title>
-        <id>5ff625967af2371468bb8645</id>
-        <link href="https://www.freecodecamp.org/news/closures-in-javascript/"/>
-        <updated>2021-06-07T18:18:01.000Z</updated>
-        <summary type="html"><![CDATA[Closures are a confusing JavaScript concept to learn, because it's hard to see how they're actually used.  Unlike other concepts such as functions, variables, and objects, you don't always use closures conscientiously and directly. You don't say: Oh! Here I will use a closure as a solution. But at the]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
@@ -654,36 +674,6 @@
         <summary type="html"><![CDATA[“Tree-shaking” is a must-have performance optimization when bundling JavaScript. In this article, we dive deeper on how exactly it works and how specs and practice intertwine to make bundles leaner and more performant. Plus, you’ll get a tree-shaking checklist to use for your projects.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Átila Fassina)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Frustrating Design Patterns That Need Fixing: Birthday Picker]]></title>
-        <id>https://smashingmagazine.com/2021/05/frustrating-design-patterns-birthday-picker/</id>
-        <link href="https://smashingmagazine.com/2021/05/frustrating-design-patterns-birthday-picker/"/>
-        <updated>2021-05-12T12:42:00.000Z</updated>
-        <summary type="html"><![CDATA[In this new series of articles on UX, we take a closer look at some frustrating design patterns and explore better alternatives, along with plenty of examples to keep in mind when building or designing one. Let’s start with an infamous birthday picker.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Little Smashing Stories]]></title>
-        <id>https://smashingmagazine.com/2021/05/little-smashing-stories/</id>
-        <link href="https://smashingmagazine.com/2021/05/little-smashing-stories/"/>
-        <updated>2021-05-12T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Today marks the day we sent out our 300th edition of the Smashing Newsletter. This article is a little celebration in which we share little Smashing stories from people working behind the scenes.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Primer On CSS Container Queries]]></title>
-        <id>https://smashingmagazine.com/2021/05/complete-guide-css-container-queries/</id>
-        <link href="https://smashingmagazine.com/2021/05/complete-guide-css-container-queries/"/>
-        <updated>2021-05-11T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[A prototype of the long-awaited CSS container queries has landed in Chrome Canary and is available for experimentation. Let’s look at what problem is being solved, learn how container queries work, and see how they compare with and complement existing CSS features for layout.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Stephanie Eckles)</name>
         </author>
     </entry>
 </feed>
