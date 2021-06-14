@@ -6,274 +6,274 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
-          "id": "https://github.com/dtinth/comic-mono-font",
+          "id": "https://en.wikipedia.org/wiki/List_of_commercial_video_games_with_available_source_code",
           "author": null,
           "description": "Comments",
-          "link": "https://github.com/dtinth/comic-mono-font",
-          "publishedOn": "2021-06-13T00:03:16.000Z",
-          "wordCount": 875,
-          "title": "Comic Mono – a legible monospace font"
+          "link": "https://en.wikipedia.org/wiki/List_of_commercial_video_games_with_available_source_code",
+          "publishedOn": "2021-06-13T23:53:35.000Z",
+          "wordCount": 17091,
+          "title": "List of commercial video games with available source code"
         },
         {
-          "id": "https://shane-o.dev/blog/binary-search-rust-part-2",
+          "id": "https://solana.com/news/solana-labs-completes-a-314-15m-private-token-sale-led-by-andreessen-horowitz-and-polychain-capital",
           "author": null,
           "description": "Comments",
-          "link": "https://shane-o.dev/blog/binary-search-rust-part-2",
-          "publishedOn": "2021-06-12T23:09:18.000Z",
-          "wordCount": 1998,
-          "title": "Idiomatic Rust? Implementing binary search (part 2)"
+          "link": "https://solana.com/news/solana-labs-completes-a-314-15m-private-token-sale-led-by-andreessen-horowitz-and-polychain-capital",
+          "publishedOn": "2021-06-13T21:39:28.000Z",
+          "wordCount": 705,
+          "title": "Solana Labs completes a $314M private token sale led by Andreessen Horowitz"
         },
         {
-          "id": "https://twitter.com/Andrew_Taylor/status/1403709080737390592",
+          "id": "https://scitechdaily.com/an-omega-3-thats-poison-for-cancer-tumors/",
           "author": null,
           "description": "Comments",
-          "link": "https://twitter.com/Andrew_Taylor/status/1403709080737390592",
-          "publishedOn": "2021-06-12T22:33:26.000Z",
-          "wordCount": 196,
-          "title": "The code on the laptop in the stock photo at developer.bbc.com is user-editable"
+          "link": "https://scitechdaily.com/an-omega-3-thats-poison-for-cancer-tumors/",
+          "publishedOn": "2021-06-13T21:33:23.000Z",
+          "wordCount": 2019,
+          "title": "An Omega-3 that’s poison for cancer tumors"
         },
         {
-          "id": "https://blog.cr0.org/2021/06/a-few-thoughts-on-fuchsia-security.html",
+          "id": "https://juliagpu.org/post/2021-06-10-cuda_3.3/",
           "author": null,
           "description": "Comments",
-          "link": "https://blog.cr0.org/2021/06/a-few-thoughts-on-fuchsia-security.html",
-          "publishedOn": "2021-06-12T21:11:49.000Z",
-          "wordCount": 854,
-          "title": "A few thoughts on Fuchsia security"
+          "link": "https://juliagpu.org/post/2021-06-10-cuda_3.3/",
+          "publishedOn": "2021-06-13T21:29:13.000Z",
+          "wordCount": 985,
+          "title": "Cuda.jl v3.3: union types, debug info, graph APIs"
         },
         {
-          "id": "https://jobs.lever.co/substackinc/5b1f2f5c-3809-4278-b93d-379433a34d81",
+          "id": "https://www.aboutchromebooks.com/news/linux-on-chromebooks-just-might-get-me-through-a-masters-in-computer-science/",
           "author": null,
           "description": "Comments",
-          "link": "https://jobs.lever.co/substackinc/5b1f2f5c-3809-4278-b93d-379433a34d81",
-          "publishedOn": "2021-06-12T21:00:51.000Z",
-          "wordCount": 742,
-          "title": "Substack (YC W18) is hiring engineers to build the future of writing"
+          "link": "https://www.aboutchromebooks.com/news/linux-on-chromebooks-just-might-get-me-through-a-masters-in-computer-science/",
+          "publishedOn": "2021-06-13T21:19:25.000Z",
+          "wordCount": 1963,
+          "title": "Linux on Chromebooks just might get me through a masters in computer science"
         },
         {
-          "id": "https://play.elevatorsaga.com/",
+          "id": "https://jobs.lever.co/buildzoom",
           "author": null,
           "description": "Comments",
-          "link": "https://play.elevatorsaga.com/",
-          "publishedOn": "2021-06-12T20:08:05.000Z",
-          "wordCount": 76,
-          "title": "Elevator Saga – An elevator programming game"
+          "link": "https://jobs.lever.co/buildzoom",
+          "publishedOn": "2021-06-13T21:00:23.000Z",
+          "wordCount": 129,
+          "title": "BuildZoom (better way to build custom homes) Is hiring a Growth Associate"
         },
         {
-          "id": "https://www.facebook.com/dan.colascione/posts/10107358290728348",
+          "id": "https://www.si.com/mlb/2021/06/04/sticky-stuff-is-the-new-steroids-daily-cover",
           "author": null,
           "description": "Comments",
-          "link": "https://www.facebook.com/dan.colascione/posts/10107358290728348",
-          "publishedOn": "2021-06-12T19:52:10.000Z",
-          "wordCount": 59,
-          "title": "Python is 1.3x faster by just adjusting some compiling options for libpython"
+          "link": "https://www.si.com/mlb/2021/06/04/sticky-stuff-is-the-new-steroids-daily-cover",
+          "publishedOn": "2021-06-13T20:28:03.000Z",
+          "wordCount": 4609,
+          "title": "Pitch doctoring should be the biggest scandal in sports"
         },
         {
-          "id": "https://rebeccaskinner.net/posts/2021-06-09-getting-to-the-fixed-point.html",
+          "id": "https://klim.co.nz/blog/manuka-design-information/",
           "author": null,
           "description": "Comments",
-          "link": "https://rebeccaskinner.net/posts/2021-06-09-getting-to-the-fixed-point.html",
-          "publishedOn": "2021-06-12T19:19:45.000Z",
-          "wordCount": 4168,
-          "title": "The Fixed Point: Laziness, Recursion and Fixed Points in Haskell"
+          "link": "https://klim.co.nz/blog/manuka-design-information/",
+          "publishedOn": "2021-06-13T19:31:06.000Z",
+          "wordCount": 1910,
+          "title": "Mānuka – a antipodean aesthetic on 19th century German root-stock"
         },
         {
-          "id": "https://blog.metaobject.com/2021/06/glue-dark-matter-of-software.html?m=1",
+          "id": "https://brave.com/the-mounting-cost-of-stale-ad-blocking-rules/",
           "author": null,
           "description": "Comments",
-          "link": "https://blog.metaobject.com/2021/06/glue-dark-matter-of-software.html?m=1",
-          "publishedOn": "2021-06-12T19:02:48.000Z",
-          "wordCount": 765,
-          "title": "Making invisible glue code first-class"
+          "link": "https://brave.com/the-mounting-cost-of-stale-ad-blocking-rules/",
+          "publishedOn": "2021-06-13T18:13:46.000Z",
+          "wordCount": 2341,
+          "title": "The mounting cost of stale ad blocking rules (2018)"
         },
         {
-          "id": "https://www.cs.ox.ac.uk/people/nicolas.wu/papers/URS.pdf",
+          "id": "https://www.vice.com/en/article/v7e77y/the-dollar149-smartphone-that-could-bring-the-linux-mobile-ecosystem-to-life",
           "author": null,
           "description": "Comments",
-          "link": "https://www.cs.ox.ac.uk/people/nicolas.wu/papers/URS.pdf",
-          "publishedOn": "2021-06-12T19:01:17.000Z",
-          "wordCount": 6004,
-          "title": "Unifying Structured Recursion Schemes [pdf] (2013)"
+          "link": "https://www.vice.com/en/article/v7e77y/the-dollar149-smartphone-that-could-bring-the-linux-mobile-ecosystem-to-life",
+          "publishedOn": "2021-06-13T16:37:39.000Z",
+          "wordCount": 3295,
+          "title": "The PinePhone could bring the Linux mobile ecosystem to life"
         },
         {
-          "id": "https://www.reuters.com/business/autos-transportation/vw-says-data-breach-vendor-impacted-33-million-people-north-america-2021-06-11/",
+          "id": "https://www.wsj.com/articles/forget-going-back-to-the-officepeople-are-just-quitting-instead-11623576602",
           "author": null,
           "description": "Comments",
-          "link": "https://www.reuters.com/business/autos-transportation/vw-says-data-breach-vendor-impacted-33-million-people-north-america-2021-06-11/",
-          "publishedOn": "2021-06-12T18:15:10.000Z",
-          "wordCount": 720,
-          "title": "VW says data breach at vendor impacted 3.3M people in North America"
+          "link": "https://www.wsj.com/articles/forget-going-back-to-the-officepeople-are-just-quitting-instead-11623576602",
+          "publishedOn": "2021-06-13T16:32:00.000Z",
+          "wordCount": 1199,
+          "title": "Forget going back to the office – people are just quitting instead"
         },
         {
-          "id": "https://www.ox.ac.uk/news/2021-06-08-subatomic-particle-seen-changing-antiparticle-and-back-first-time",
+          "id": "https://cicilline.house.gov/press-release/house-lawmakers-release-anti-monopoly-agenda-stronger-online-economy-opportunity",
           "author": null,
           "description": "Comments",
-          "link": "https://www.ox.ac.uk/news/2021-06-08-subatomic-particle-seen-changing-antiparticle-and-back-first-time",
-          "publishedOn": "2021-06-12T17:15:27.000Z",
-          "wordCount": null,
-          "title": "Subatomic particle seen changing to antiparticle and back for the first time"
+          "link": "https://cicilline.house.gov/press-release/house-lawmakers-release-anti-monopoly-agenda-stronger-online-economy-opportunity",
+          "publishedOn": "2021-06-13T16:21:25.000Z",
+          "wordCount": 1683,
+          "title": "House lawmakers release anti-monopoly agenda for “a stronger online economy”"
         },
         {
-          "id": "https://arxiv.org/abs/2105.04026",
+          "id": "https://news.virginia.edu/content/doing-something-better-doing-nothing-most-people-study-shows",
           "author": null,
           "description": "Comments",
-          "link": "https://arxiv.org/abs/2105.04026",
-          "publishedOn": "2021-06-12T16:37:55.000Z",
-          "wordCount": 582,
-          "title": "The Modern Mathematics of Deep Learning"
+          "link": "https://news.virginia.edu/content/doing-something-better-doing-nothing-most-people-study-shows",
+          "publishedOn": "2021-06-13T13:21:49.000Z",
+          "wordCount": 1212,
+          "title": "Doing something is better than doing nothing for most people: study (2014)"
         },
         {
-          "id": "https://www.npr.org/2021/06/12/1005690930/detectives-just-used-dna-to-solve-a-1956-double-homicide-they-may-have-made-hist",
+          "id": "https://eclecticlight.co/2021/06/13/last-week-on-my-mac-the-elephant-at-wwdc/",
           "author": null,
           "description": "Comments",
-          "link": "https://www.npr.org/2021/06/12/1005690930/detectives-just-used-dna-to-solve-a-1956-double-homicide-they-may-have-made-hist",
-          "publishedOn": "2021-06-12T16:22:58.000Z",
-          "wordCount": 1592,
-          "title": "Detectives Just Used DNA to Solve a 1956 Double Homicide"
+          "link": "https://eclecticlight.co/2021/06/13/last-week-on-my-mac-the-elephant-at-wwdc/",
+          "publishedOn": "2021-06-13T13:08:56.000Z",
+          "wordCount": 2923,
+          "title": "The Elephant at WWDC"
         },
         {
-          "id": "https://www.ucsf.edu/news/2019/08/415261/after-10-year-search-scientists-find-second-short-sleep-gene",
+          "id": "https://www.biorxiv.org/content/10.1101/517847v2.full",
           "author": null,
           "description": "Comments",
-          "link": "https://www.ucsf.edu/news/2019/08/415261/after-10-year-search-scientists-find-second-short-sleep-gene",
-          "publishedOn": "2021-06-12T15:54:54.000Z",
-          "wordCount": 1676,
-          "title": "Scientists Find Second ‘Short Sleep’ Gene (2019)"
+          "link": "https://www.biorxiv.org/content/10.1101/517847v2.full",
+          "publishedOn": "2021-06-13T12:36:47.000Z",
+          "wordCount": 12234,
+          "title": "LSD and psilocybin increase the fractal dimension of brain activity"
         },
         {
-          "id": "https://ssir.org/articles/entry/burnout_from_an_organizational_perspective",
+          "id": "https://www.cbc.ca/radio/spark/could-face-and-voice-recognition-become-the-new-phrenology-1.6046992",
           "author": null,
           "description": "Comments",
-          "link": "https://ssir.org/articles/entry/burnout_from_an_organizational_perspective",
-          "publishedOn": "2021-06-12T15:52:38.000Z",
-          "wordCount": 3080,
-          "title": "Burnout from an Organizational Perspective"
+          "link": "https://www.cbc.ca/radio/spark/could-face-and-voice-recognition-become-the-new-phrenology-1.6046992",
+          "publishedOn": "2021-06-13T11:21:41.000Z",
+          "wordCount": 973,
+          "title": "Could face and voice recognition become the new 'phrenology'?"
         },
         {
-          "id": "https://linearmouse.lujjjh.com/",
+          "id": "https://www.sffworld.com/forum/threads/i-miss-the-old-internet.57195/",
           "author": null,
           "description": "Comments",
-          "link": "https://linearmouse.lujjjh.com/",
-          "publishedOn": "2021-06-12T15:16:27.000Z",
-          "wordCount": 18,
-          "title": "LinearMouse – A minimal app to get rid of scrolling acceleration on macOS"
+          "link": "https://www.sffworld.com/forum/threads/i-miss-the-old-internet.57195/",
+          "publishedOn": "2021-06-13T10:58:55.000Z",
+          "wordCount": 5400,
+          "title": "I Miss the Old Internet (2019)"
         },
         {
-          "id": "https://thesystemisdown.substack.com/p/how-to-win-at-risk-every-time-by",
+          "id": "https://spectrum.ieee.org/computing/hardware/why-the-future-of-data-storage-is-still-magnetic-tape",
           "author": null,
           "description": "Comments",
-          "link": "https://thesystemisdown.substack.com/p/how-to-win-at-risk-every-time-by",
-          "publishedOn": "2021-06-12T13:17:02.000Z",
-          "wordCount": 3629,
-          "title": "Win at Risk by using systems thinking"
+          "link": "https://spectrum.ieee.org/computing/hardware/why-the-future-of-data-storage-is-still-magnetic-tape",
+          "publishedOn": "2021-06-13T10:39:05.000Z",
+          "wordCount": 44,
+          "title": "The future of data storage is still magnetic tape (2018)"
         },
         {
-          "id": "https://newatlas.com/physics/charm-meson-particle-matter-antimatter/",
+          "id": "https://www.netmeister.org/blog/infosec-competencies.html",
           "author": null,
           "description": "Comments",
-          "link": "https://newatlas.com/physics/charm-meson-particle-matter-antimatter/",
-          "publishedOn": "2021-06-12T12:20:58.000Z",
-          "wordCount": 1401,
-          "title": "Particle seen switching between matter and antimatter at CERN"
+          "link": "https://www.netmeister.org/blog/infosec-competencies.html",
+          "publishedOn": "2021-06-13T10:38:25.000Z",
+          "wordCount": 1440,
+          "title": "Infosec Core Competencies"
         },
         {
-          "id": "http://blog.pnas.org/2021/06/a-popular-household-fern-may-be-the-first-known-eusocial-plant/",
+          "id": "https://eagain.net/articles/git-for-computer-scientists/",
           "author": null,
           "description": "Comments",
-          "link": "http://blog.pnas.org/2021/06/a-popular-household-fern-may-be-the-first-known-eusocial-plant/",
-          "publishedOn": "2021-06-12T10:39:44.000Z",
-          "wordCount": 1386,
-          "title": "A popular household fern may be the first known eusocial plant"
+          "link": "https://eagain.net/articles/git-for-computer-scientists/",
+          "publishedOn": "2021-06-13T10:06:13.000Z",
+          "wordCount": 964,
+          "title": "Git for Computer Scientists (2010)"
         },
         {
-          "id": "https://www.quora.com/How-does-a-fighter-jet-lock-onto-and-keep-track-of-an-enemy-aircraft-Can-an-aircraft-detect-that-it-has-been-locked-onto-or-is-it-just-a-convenient-plot-device-in-movies?share=1",
+          "id": "https://web.archive.org/web/19990117022714/https://www.pcworld.com/hardware/storage_backup/articles/jan96/jan9621.html",
           "author": null,
           "description": "Comments",
-          "link": "https://www.quora.com/How-does-a-fighter-jet-lock-onto-and-keep-track-of-an-enemy-aircraft-Can-an-aircraft-detect-that-it-has-been-locked-onto-or-is-it-just-a-convenient-plot-device-in-movies?share=1",
-          "publishedOn": "2021-06-12T10:34:27.000Z",
-          "wordCount": 55,
-          "title": "How fighter jets lock on, and how the targets know (2014)"
+          "link": "https://web.archive.org/web/19990117022714/https://www.pcworld.com/hardware/storage_backup/articles/jan96/jan9621.html",
+          "publishedOn": "2021-06-13T09:42:16.000Z",
+          "wordCount": 355,
+          "title": "Is Sony's 140MB MiniDisc Drive the Next Betamax? (1996)"
         },
         {
-          "id": "https://spin.atomicobject.com/2021/02/04/redis-postgresql/",
+          "id": "http://www.tikalon.com/blog/blog.php?article=2021/ENIAC",
           "author": null,
           "description": "Comments",
-          "link": "https://spin.atomicobject.com/2021/02/04/redis-postgresql/",
-          "publishedOn": "2021-06-12T06:57:14.000Z",
-          "wordCount": 1031,
-          "title": "Do you really need Redis? How to get away with just PostgreSQL"
+          "link": "http://www.tikalon.com/blog/blog.php?article=2021/ENIAC",
+          "publishedOn": "2021-06-13T09:26:51.000Z",
+          "wordCount": 1930,
+          "title": "Eniac at 75"
         },
         {
-          "id": "https://if50.substack.com/p/1992-silverwolf",
+          "id": "https://www.nongnu.org/skribilo/",
           "author": null,
           "description": "Comments",
-          "link": "https://if50.substack.com/p/1992-silverwolf",
-          "publishedOn": "2021-06-12T06:55:37.000Z",
-          "wordCount": 5399,
-          "title": "1992: Silverwolf"
+          "link": "https://www.nongnu.org/skribilo/",
+          "publishedOn": "2021-06-13T06:09:04.000Z",
+          "wordCount": 3327,
+          "title": "Skribilo: A Document Programming Framework"
         },
         {
-          "id": "https://anchor.fm/bowl",
+          "id": "http://hp9825.com/html/the_9825_projects.html",
           "author": null,
           "description": "Comments",
-          "link": "https://anchor.fm/bowl",
-          "publishedOn": "2021-06-12T03:35:41.000Z",
-          "wordCount": 1558,
-          "title": "The Empty Bowl, a meditative podcast about cereal"
+          "link": "http://hp9825.com/html/the_9825_projects.html",
+          "publishedOn": "2021-06-13T04:45:25.000Z",
+          "wordCount": 595,
+          "title": "HP 9825 Projects"
         },
         {
-          "id": "https://codeberg.org/CoopCoding/Lesser-Known-Terminal-Editors",
+          "id": "http://darbelofflab.mit.edu/robotics-research/supernumerary-robotic-limbs-srl/",
           "author": null,
           "description": "Comments",
-          "link": "https://codeberg.org/CoopCoding/Lesser-Known-Terminal-Editors",
-          "publishedOn": "2021-06-12T03:34:49.000Z",
-          "wordCount": 295,
-          "title": "Lesser Known Terminal Editors"
+          "link": "http://darbelofflab.mit.edu/robotics-research/supernumerary-robotic-limbs-srl/",
+          "publishedOn": "2021-06-12T19:23:52.000Z",
+          "wordCount": 1539,
+          "title": "Supernumerary Robotic Limbs"
         },
         {
-          "id": "https://www.theverge.com/2021/6/11/22528701/apple-rank-own-app-over-competitor-files-dropbox-wwdc-2017",
+          "id": "https://andersource.dev/2020/10/10/procedural-butterfly.html#1621896297080",
           "author": null,
           "description": "Comments",
-          "link": "https://www.theverge.com/2021/6/11/22528701/apple-rank-own-app-over-competitor-files-dropbox-wwdc-2017",
-          "publishedOn": "2021-06-11T17:33:00.000Z",
-          "wordCount": 1254,
-          "title": "Apple admits it ranked its Files app ahead of competitor Dropbox"
+          "link": "https://andersource.dev/2020/10/10/procedural-butterfly.html#1621896297080",
+          "publishedOn": "2021-06-12T19:04:49.000Z",
+          "wordCount": 25,
+          "title": "Procedural Butterfly"
         },
         {
-          "id": "https://psyche.co/guides/how-to-think-clearly-to-improve-understanding-and-communication",
+          "id": "http://joeduffyblog.com/2015/11/19/asynchronous-everything/",
           "author": null,
           "description": "Comments",
-          "link": "https://psyche.co/guides/how-to-think-clearly-to-improve-understanding-and-communication",
-          "publishedOn": "2021-06-11T15:14:49.000Z",
-          "wordCount": 3851,
-          "title": "How to Think Clearly"
+          "link": "http://joeduffyblog.com/2015/11/19/asynchronous-everything/",
+          "publishedOn": "2021-06-12T11:25:48.000Z",
+          "wordCount": 7229,
+          "title": "Asynchronous Everything (2015)"
         },
         {
-          "id": "https://www.theatlantic.com/magazine/archive/2021/04/america-politics-religion/618072/",
+          "id": "https://nanochess.org/notebook.html",
           "author": null,
           "description": "Comments",
-          "link": "https://www.theatlantic.com/magazine/archive/2021/04/america-politics-religion/618072/",
-          "publishedOn": "2021-06-11T13:40:22.000Z",
-          "wordCount": 2372,
-          "title": "As religious faith has declined, ideological intensity has risen"
+          "link": "https://nanochess.org/notebook.html",
+          "publishedOn": "2021-06-12T10:39:20.000Z",
+          "wordCount": 3533,
+          "title": "My first Z80 assembly language program"
         },
         {
-          "id": "https://www.newyorker.com/magazine/2021/06/14/how-nasty-was-nero-really",
+          "id": "https://ms-paint-i.de/",
           "author": null,
           "description": "Comments",
-          "link": "https://www.newyorker.com/magazine/2021/06/14/how-nasty-was-nero-really",
-          "publishedOn": "2021-06-10T20:49:42.000Z",
-          "wordCount": 3883,
-          "title": "How Nasty Was Nero, Really?"
+          "link": "https://ms-paint-i.de/",
+          "publishedOn": "2021-06-12T05:14:36.000Z",
+          "wordCount": 430,
+          "title": "MS Paint IDE"
         },
         {
-          "id": "https://twitter.com/eshear/status/1402449647122018304",
+          "id": "https://xcorr.net/2021/06/02/dynamic-scientific-visualizations-in-the-browser-for-python-users/",
           "author": null,
           "description": "Comments",
-          "link": "https://twitter.com/eshear/status/1402449647122018304",
-          "publishedOn": "2021-06-09T12:41:39.000Z",
-          "wordCount": 196,
-          "title": "Twitch: Lessons Learned"
+          "link": "https://xcorr.net/2021/06/02/dynamic-scientific-visualizations-in-the-browser-for-python-users/",
+          "publishedOn": "2021-06-11T06:33:55.000Z",
+          "wordCount": 3244,
+          "title": "Dynamic scientific visualizations in the browser for Python users"
         }
       ]
     },
@@ -288,7 +288,7 @@
           "description": "Design often revolves around visuals, but the other senses deserve love too. In this article, we tune in to audio features that are making sites sing.",
           "link": "https://smashingmagazine.com/2021/06/web-design-done-well-audio/",
           "publishedOn": "2021-06-11T15:00:00.000Z",
-          "wordCount": 1587,
+          "wordCount": 1550,
           "title": "Web Design Done Well: Making Use Of Audio",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bf0cbb26-546e-43b7-9b9a-9077259ea84b/making-use-of-audio.jpg",
@@ -302,7 +302,7 @@
           "description": "We don’t need to write everything from scratch every single time. With boilerplates and starter kits, we can set up our projects faster, and get to work immediately.",
           "link": "https://smashingmagazine.com/2021/06/useful-frontend-boilerplates-starter-kits/",
           "publishedOn": "2021-06-10T15:00:00.000Z",
-          "wordCount": 4864,
+          "wordCount": 4869,
           "title": "Useful Front-End Boilerplates And Starter Kits",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/598e7f3e-9dca-4922-b17d-76089efab46f/25-frontend-boilerplates-starter-kits.png",
@@ -316,7 +316,7 @@
           "description": "Building a faster website can be a rocket task these days. There are so many things to consider, so it’s challenging to get everything right. Here are some less-known tools that might help you get there.",
           "link": "https://smashingmagazine.com/2021/06/three-frontend-auditing-tools/",
           "publishedOn": "2021-06-10T11:15:00.000Z",
-          "wordCount": 708,
+          "wordCount": 747,
           "title": "Three Front-End Auditing Tools I Discovered Recently",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e21066b1-baa0-4a85-90ee-8074029d0a32/three-frontend-auditing-tools.jpg",
@@ -330,7 +330,7 @@
           "description": "What makes relational selector one of the most requested features and how are we, as developers, working around not having it? In this article, we’re going to check the early spec of the :has selector, and see how it should improve the CSS workflow once it’s released.",
           "link": "https://smashingmagazine.com/2021/06/has-native-css-parent-selector/",
           "publishedOn": "2021-06-09T10:30:00.000Z",
-          "wordCount": 2600,
+          "wordCount": 2603,
           "title": "Meet <code>:has</code>, A Native CSS Parent Selector (And More)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/89aef48d-9be9-45df-a7f4-775168deb8dd/has-native-css-parent-selector.jpg",
@@ -358,7 +358,7 @@
           "description": "In this guide, we’ll be taking a general look at the concepts of forward geocoding and reverse geocoding, and will build a mini-app that applies these concepts to display specific locations, using Mapbox and Vue.js 2.6.11 to achieve this.",
           "link": "https://smashingmagazine.com/2021/06/building-geocoding-app-vue-mapbox/",
           "publishedOn": "2021-06-07T11:00:00.000Z",
-          "wordCount": 2238,
+          "wordCount": 2239,
           "title": "How To Build A Geocoding App In Vue.js Using Mapbox",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/20dc2361-e5a5-4a78-b380-2f5942ecfba8/building-geocoding-app-vue-mapbox.jpg",
@@ -372,7 +372,7 @@
           "description": "Modern browsers provide good support for JavaScript modules, but module bundlers such as webpack stay a critical part of the JavaScript toolchain. Let’s take a deep dive into what webpack is and how to use it in your development workflow.",
           "link": "https://smashingmagazine.com/2021/06/getting-started-webpack/",
           "publishedOn": "2021-06-04T10:00:00.000Z",
-          "wordCount": 4128,
+          "wordCount": 4172,
           "title": "Getting Started With Webpack",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/66ba7a41-2a37-471b-9c60-66a3162d8f05/webpack-dependency-graph-opt.png",
@@ -400,7 +400,7 @@
           "description": "Google’s Core Web Vitals initiative has taken the SEO and Web Performance worlds by storm and many sites are busy optimizing their Page Experience to maximize the ranking factor. The Cumulative Layout Shift metric is causing trouble to a lot of sites, so let’s have a look at ways of addressing any issues for that metric.",
           "link": "https://smashingmagazine.com/2021/06/how-to-fix-cumulative-layout-shift-issues/",
           "publishedOn": "2021-06-02T12:30:00.000Z",
-          "wordCount": 4376,
+          "wordCount": 4378,
           "title": "How To Fix Cumulative Layout Shift (CLS) Issues",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/87fbe5f9-d311-4542-a3f0-14e860415946/cumulative-layout-shift-issues.jpg",
@@ -414,7 +414,7 @@
           "description": "Getting a good performance score from Google is hard for any website — but doing so for an online store is even harder. We achieved green scores — even several for mobile. Here is how we did it.",
           "link": "https://smashingmagazine.com/2021/06/front-end-performance-online-store-jewellerybox/",
           "publishedOn": "2021-06-02T10:30:00.000Z",
-          "wordCount": 5416,
+          "wordCount": 5414,
           "title": "Improving The Performance Of An Online Store (Case Study)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8a350bf5-9114-420c-b587-fee03ea4acb6/jewellerybox-uk-online-store-scipioerp.jpg",
@@ -456,7 +456,7 @@
           "description": "What could be a better way to welcome June than with some colorful inspiration? Well, we might have something for you: wallpapers created with love by artists and designers from across the globe.",
           "link": "https://smashingmagazine.com/2021/05/desktop-wallpaper-calendars-june-2021/",
           "publishedOn": "2021-05-31T11:30:00.000Z",
-          "wordCount": 2515,
+          "wordCount": 2524,
           "title": "Happy June Vibes For Your Screen (2021 Desktop Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/374464b5-093e-4ca2-9397-6f26c83756d4/june-20-summer-coziness-preview-opt.png",
@@ -470,7 +470,7 @@
           "description": "In this article, we’ll be re-using the foundational WYSIWYG Editor built in the first article to build a commenting system for a WYSIWYG Editor that enables users to select text inside a document and share their comments on it. Let’s dig in!",
           "link": "https://smashingmagazine.com/2021/05/commenting-system-wysiwyg-editor/",
           "publishedOn": "2021-05-28T11:00:00.000Z",
-          "wordCount": 10246,
+          "wordCount": 10247,
           "title": "Adding A Commenting System To A WYSIWYG Editor",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ec39e154-d3d3-4a12-91fd-f0c068cd5247/commenting-system-wysiwyg-editor.jpg",
@@ -484,7 +484,7 @@
           "description": "Meet useful Visual Studio Code extensions for web developers: little helpers to minimize slow-downs and frustrations, and boost developer’s workflow along the way. With auto log messages, auto code formatting, file utils, file labels, code snippets, highlight brackets, tags, indents and workspaces, onboarding and remote SSH.",
           "link": "https://smashingmagazine.com/2021/05/useful-vs-code-extensions-web-developers/",
           "publishedOn": "2021-05-27T13:30:00.000Z",
-          "wordCount": 3767,
+          "wordCount": 3769,
           "title": "Useful VS Code Extensions For Front-End Developers",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2c5dbb73-94e1-486f-9daa-351699faaa2d/peacock-extension.png",
@@ -526,7 +526,7 @@
           "description": "Mistakes. These cruel villains do not even stop at the beautiful world of software development. But although we cannot avoid making mistakes, we can learn to undo them! This post will show the right tools for your daily work with Git.",
           "link": "https://smashingmagazine.com/2021/05/undoing-mistakes-git-part2/",
           "publishedOn": "2021-05-25T14:00:00.000Z",
-          "wordCount": 2152,
+          "wordCount": 2158,
           "title": "A Guide To Undoing Mistakes With Git (Part 2)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/211042ae-7a72-42ba-804e-9f8132815200/undoing-mistakes-git-part1.jpg",
@@ -554,7 +554,7 @@
           "description": "CSS Container queries bring media queries closer to the target elements themselves and enables them to adapt to virtually any given container or layout. In this article, we’re going to cover CSS container query basics and how to use them today with progressive enhancement or polyfills.",
           "link": "https://smashingmagazine.com/2021/05/css-container-queries-use-cases-migration-strategies/",
           "publishedOn": "2021-05-24T11:30:00.000Z",
-          "wordCount": 2737,
+          "wordCount": 2739,
           "title": "CSS Container Queries: Use-Cases And Migration Strategies",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/4d6d809b-0c1a-4074-9eeb-8509dc4d383f/css-container-queries-use-cases-migration-strategies.jpg",
@@ -596,7 +596,7 @@
           "description": "A step-by-step tutorial on adding authentication and authorization to your Next.js apps, with Auth0. We’ll be using a Next.js SDK to connect our application to the Auth0 API and will create the dynamic API route for React.",
           "link": "https://smashingmagazine.com/2021/05/implement-authentication-nextjs-auth0/",
           "publishedOn": "2021-05-20T11:00:00.000Z",
-          "wordCount": 2004,
+          "wordCount": 1990,
           "title": "How To Implement Authentication In Next.js With Auth0",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/3e905cbf-b17b-47da-aec4-15c9701bf4bf/implement-authentication-nextjs-auth0.jpg",
@@ -610,7 +610,7 @@
           "description": "Everything to keep in mind when designing and building a mega-dropdown, common pitfalls, hover entry/exit delays, trajectory triangle technique and SVG path exit areas.",
           "link": "https://smashingmagazine.com/2021/05/frustrating-design-patterns-mega-dropdown-hover-menus/",
           "publishedOn": "2021-05-19T11:40:00.000Z",
-          "wordCount": 5060,
+          "wordCount": 5058,
           "title": "Frustrating Design Patterns: Mega-Dropdown Hover Menus",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/7c233470-63c3-4557-93c0-a8cc6709b6dd/13-mega-dropdown-hover-menus.png",
@@ -652,7 +652,7 @@
           "description": "Google’s “Page Experience Update” will start rolling out in June. At first, sites that meet Core Web Vitals thresholds will have a minor ranking advantage in mobile search for all browsers. Search is important to any business, and this is the story of how Beau Hartshorne and his team at Instant Domain Search improved their Core Web Vitals scores.",
           "link": "https://smashingmagazine.com/2021/05/core-web-vitals-case-study/",
           "publishedOn": "2021-05-17T11:30:00.000Z",
-          "wordCount": 2988,
+          "wordCount": 2985,
           "title": "How We Improved Our Core Web Vitals (Case Study)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b68aa1ba-94b7-4e70-83e5-5f58b37bf7cd/core-web-vitals-case-study.jpg",
