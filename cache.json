@@ -6,274 +6,274 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
-          "id": "https://lwn.net/SubscriberLink/860607/ef7cdf174ccbe54d/",
+          "id": "https://eval.ai/",
           "author": null,
           "description": "Comments",
-          "link": "https://lwn.net/SubscriberLink/860607/ef7cdf174ccbe54d/",
-          "publishedOn": "2021-06-23T23:07:12.000Z",
-          "wordCount": 2549,
-          "title": "Pulling GitHub into the Linux kernel process"
+          "link": "https://eval.ai/",
+          "publishedOn": "2021-06-25T00:03:57.000Z",
+          "wordCount": 2,
+          "title": "EvalAI: An Open-Source Alternative to Kaggle"
         },
         {
-          "id": "https://www.legoisland.org/wiki/index.php/LEGO_Island_Rebuilder",
+          "id": "https://argon2.online/",
           "author": null,
           "description": "Comments",
-          "link": "https://www.legoisland.org/wiki/index.php/LEGO_Island_Rebuilder",
-          "publishedOn": "2021-06-23T22:36:35.000Z",
-          "wordCount": 252,
-          "title": "Lego Island Rebuilder"
+          "link": "https://argon2.online/",
+          "publishedOn": "2021-06-24T23:44:11.000Z",
+          "wordCount": 453,
+          "title": "Password with Argon2 Algorithm, the Winner of the Password Hashing Competition"
         },
         {
-          "id": "https://support.google.com/youtube/answer/9230970",
+          "id": "https://arstechnica.com/gadgets/2021/06/mass-data-wipe-in-my-book-devices-prompts-warning-from-western-digital/",
           "author": null,
           "description": "Comments",
-          "link": "https://support.google.com/youtube/answer/9230970",
-          "publishedOn": "2021-06-23T21:09:40.000Z",
-          "wordCount": 1436,
-          "title": "“Older unlisted videos will be made private unless you opt out”"
+          "link": "https://arstechnica.com/gadgets/2021/06/mass-data-wipe-in-my-book-devices-prompts-warning-from-western-digital/",
+          "publishedOn": "2021-06-24T22:30:52.000Z",
+          "wordCount": 1049,
+          "title": "WD My Book users wake up to find their data deleted"
         },
         {
-          "id": "https://www.workatastartup.com/jobs/44386",
+          "id": "https://tinyacquisitions.com",
           "author": null,
           "description": "Comments",
-          "link": "https://www.workatastartup.com/jobs/44386",
-          "publishedOn": "2021-06-23T21:00:34.000Z",
+          "link": "https://tinyacquisitions.com",
+          "publishedOn": "2021-06-24T22:01:48.000Z",
+          "wordCount": 6,
+          "title": "Tiny Acquisitions"
+        },
+        {
+          "id": "https://mobile.nixos.org/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://mobile.nixos.org/",
+          "publishedOn": "2021-06-24T21:44:35.000Z",
+          "wordCount": 5105,
+          "title": "Mobile NixOS"
+        },
+        {
+          "id": "https://careers.atob.com/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://careers.atob.com/",
+          "publishedOn": "2021-06-24T21:00:49.000Z",
+          "wordCount": 172,
+          "title": "AtoB (YC S20) – Stripe for Transportation – hiring early engineers and operators"
+        },
+        {
+          "id": "https://www.wsj.com/articles/twilio-asana-to-list-on-long-term-stock-exchange-as-esg-push-continues-11624565701",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.wsj.com/articles/twilio-asana-to-list-on-long-term-stock-exchange-as-esg-push-continues-11624565701",
+          "publishedOn": "2021-06-24T20:53:09.000Z",
+          "wordCount": 2144,
+          "title": "Twilio, Asana to List on Long Term Stock Exchange"
+        },
+        {
+          "id": "https://www.zdnet.com/article/stop-using-your-work-laptop-or-phone-for-personal-stuff-because-i-know-you-are/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.zdnet.com/article/stop-using-your-work-laptop-or-phone-for-personal-stuff-because-i-know-you-are/",
+          "publishedOn": "2021-06-24T19:54:57.000Z",
+          "wordCount": 2344,
+          "title": "Stop using your work laptop or phone for personal stuff, because I know you are"
+        },
+        {
+          "id": "https://www.tindie.com/products/nsayer/crazy-clock/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.tindie.com/products/nsayer/crazy-clock/",
+          "publishedOn": "2021-06-24T19:38:17.000Z",
+          "wordCount": 4635,
+          "title": "Crazy Clock"
+        },
+        {
+          "id": "https://hristo-georgiev.com/google-turned-me-into-a-serial-killer",
+          "author": null,
+          "description": "Comments",
+          "link": "https://hristo-georgiev.com/google-turned-me-into-a-serial-killer",
+          "publishedOn": "2021-06-24T18:44:30.000Z",
+          "wordCount": 508,
+          "title": "Google turned me into a serial killer"
+        },
+        {
+          "id": "https://minimaxir.com/2021/06/gpt-j-6b/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://minimaxir.com/2021/06/gpt-j-6b/",
+          "publishedOn": "2021-06-24T17:36:50.000Z",
+          "wordCount": 3425,
+          "title": "Fun and dystopia with AI-based code generation using GPT-J-6B"
+        },
+        {
+          "id": "https://borodust.org/projects/cl-bodge/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://borodust.org/projects/cl-bodge/",
+          "publishedOn": "2021-06-24T17:30:35.000Z",
+          "wordCount": 229,
+          "title": "Cl-bodge: a cross-platform Common Lisp game and application framework"
+        },
+        {
+          "id": "https://quad9.net/news/blog/quad9-and-sony-music-german-injunction-status/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://quad9.net/news/blog/quad9-and-sony-music-german-injunction-status/",
+          "publishedOn": "2021-06-24T16:52:40.000Z",
+          "wordCount": 749,
+          "title": "Quad9 and Sony Music: German Injunction Status"
+        },
+        {
+          "id": "https://crimereads.com/banned-books-ulysses-joyce-morris-ernst/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://crimereads.com/banned-books-ulysses-joyce-morris-ernst/",
+          "publishedOn": "2021-06-24T16:51:19.000Z",
+          "wordCount": 2857,
+          "title": "The Banning of Joyce's Ulysses"
+        },
+        {
+          "id": "https://blog.system76.com/post/654884924769370112/developing-games-on-linux-an-interview-with",
+          "author": null,
+          "description": "Comments",
+          "link": "https://blog.system76.com/post/654884924769370112/developing-games-on-linux-an-interview-with",
+          "publishedOn": "2021-06-24T16:32:35.000Z",
+          "wordCount": 1621,
+          "title": "Developing Games on Linux: An Interview with Little Red Dog Games"
+        },
+        {
+          "id": "https://www.backblaze.com/blog/next-backblaze-storage-pod/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.backblaze.com/blog/next-backblaze-storage-pod/",
+          "publishedOn": "2021-06-24T16:11:06.000Z",
+          "wordCount": 2054,
+          "title": "The Next Backblaze Storage Pod"
+        },
+        {
+          "id": "https://www.theverge.com/2021/6/24/22548428/microsoft-windows-11-android-apps-support-amazon-store",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.theverge.com/2021/6/24/22548428/microsoft-windows-11-android-apps-support-amazon-store",
+          "publishedOn": "2021-06-24T15:40:46.000Z",
+          "wordCount": 856,
+          "title": "Microsoft is bringing Android apps to Windows 11"
+        },
+        {
+          "id": "https://blog.m3o.com/2021/06/24/micro-apis-for-everyday-use.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://blog.m3o.com/2021/06/24/micro-apis-for-everyday-use.html",
+          "publishedOn": "2021-06-24T15:28:44.000Z",
           "wordCount": 668,
-          "title": "Synthetic Minds (YC S18) is hiring a compiler engineer for program synthesis"
+          "title": "Micro APIs for Everyday Use"
         },
         {
-          "id": "https://www.nature.com/articles/d41586-021-01596-6",
+          "id": "https://www.theverge.com/2021/6/24/22546791/microsoft-windows-11-announcement-features-updates",
           "author": null,
           "description": "Comments",
-          "link": "https://www.nature.com/articles/d41586-021-01596-6",
-          "publishedOn": "2021-06-23T20:51:51.000Z",
-          "wordCount": 2519,
-          "title": "Unravelling the Enigma of Bird Magnetoreception"
+          "link": "https://www.theverge.com/2021/6/24/22546791/microsoft-windows-11-announcement-features-updates",
+          "publishedOn": "2021-06-24T15:14:02.000Z",
+          "wordCount": 1451,
+          "title": "Microsoft announces Windows 11"
         },
         {
-          "id": "https://www.nytimes.com/2021/06/23/science/coronavirus-sequences.html",
+          "id": "https://www.bbc.com/news/world-us-canada-57592243",
           "author": null,
           "description": "Comments",
-          "link": "https://www.nytimes.com/2021/06/23/science/coronavirus-sequences.html",
-          "publishedOn": "2021-06-23T20:32:00.000Z",
-          "wordCount": 1666,
-          "title": "Scientist finds early virus sequences that had been mysteriously deleted"
+          "link": "https://www.bbc.com/news/world-us-canada-57592243",
+          "publishedOn": "2021-06-24T14:09:09.000Z",
+          "wordCount": 1166,
+          "title": "Canada: Hundreds of unmarked graves found at residential school"
         },
         {
-          "id": "https://www.bbc.com/news/world-europe-57589822",
+          "id": "https://www.npr.org/2021/06/23/1009567351/hubble-trouble-nasa-cant-figure-out-whats-causing-computer-issues-on-the-telesco",
           "author": null,
           "description": "Comments",
-          "link": "https://www.bbc.com/news/world-europe-57589822",
-          "publishedOn": "2021-06-23T19:36:59.000Z",
-          "wordCount": 1213,
-          "title": "John McAfee found dead in Spanish jail after court approves extradition to US"
+          "link": "https://www.npr.org/2021/06/23/1009567351/hubble-trouble-nasa-cant-figure-out-whats-causing-computer-issues-on-the-telesco",
+          "publishedOn": "2021-06-24T13:43:36.000Z",
+          "wordCount": 899,
+          "title": "NASA can't figure out what's causing computer issues on the Hubble telescope"
         },
         {
-          "id": "https://www.monash.edu/medicine/news/latest/2021-articles/drug-researchers-discover-potent-class-of-molecules-that-kills-malaria-parasite",
+          "id": "https://mrale.ph/blog/2018/02/03/maybe-you-dont-need-rust-to-speed-up-your-js.html",
           "author": null,
           "description": "Comments",
-          "link": "https://www.monash.edu/medicine/news/latest/2021-articles/drug-researchers-discover-potent-class-of-molecules-that-kills-malaria-parasite",
-          "publishedOn": "2021-06-23T18:43:44.000Z",
-          "wordCount": 1233,
-          "title": "Drug researchers discover potent class of molecules that kills malaria parasite"
+          "link": "https://mrale.ph/blog/2018/02/03/maybe-you-dont-need-rust-to-speed-up-your-js.html",
+          "publishedOn": "2021-06-24T12:42:19.000Z",
+          "wordCount": 7565,
+          "title": "Maybe you don't need Rust and WASM to speed up your JS (2018)"
         },
         {
-          "id": "https://blog.adafruit.com/2021/06/23/neorv32-a-customizable-risc-v-soc-riscv-fpga/",
+          "id": "https://www.propublica.org/article/lord-of-the-roths-how-tech-mogul-peter-thiel-turned-a-retirement-account-for-the-middle-class-into-a-5-billion-dollar-tax-free-piggy-bank",
           "author": null,
           "description": "Comments",
-          "link": "https://blog.adafruit.com/2021/06/23/neorv32-a-customizable-risc-v-soc-riscv-fpga/",
-          "publishedOn": "2021-06-23T17:21:56.000Z",
-          "wordCount": 1031,
-          "title": "NEORV32: A customizable RISC-V SoC"
+          "link": "https://www.propublica.org/article/lord-of-the-roths-how-tech-mogul-peter-thiel-turned-a-retirement-account-for-the-middle-class-into-a-5-billion-dollar-tax-free-piggy-bank",
+          "publishedOn": "2021-06-24T11:20:08.000Z",
+          "wordCount": 7080,
+          "title": "Peter Thiel turned a Roth IRA into a $5B tax-free piggy bank"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27606860",
+          "id": "https://www.theverge.com/2021/6/23/22547397/medical-records-health-data-hospitals-research",
           "author": null,
           "description": "Comments",
-          "link": "https://news.ycombinator.com/item?id=27606860",
-          "publishedOn": "2021-06-23T17:02:35.000Z",
-          "wordCount": 1282,
-          "title": "Launch HN: Alpas (YC W21) – Software to find suppliers for industrial parts"
+          "link": "https://www.theverge.com/2021/6/23/22547397/medical-records-health-data-hospitals-research",
+          "publishedOn": "2021-06-24T10:04:53.000Z",
+          "wordCount": 1814,
+          "title": "Hospitals are selling troves of medical data"
         },
         {
-          "id": "https://github.com/features/issues",
+          "id": "https://3dasd.com/",
           "author": null,
           "description": "Comments",
-          "link": "https://github.com/features/issues",
-          "publishedOn": "2021-06-23T16:50:27.000Z",
-          "wordCount": 1441,
-          "title": "New GitHub Issues Beta"
+          "link": "https://3dasd.com/",
+          "publishedOn": "2021-06-24T07:34:43.000Z",
+          "wordCount": 357,
+          "title": "Show HN: 3dasd – open-source DIY room-scale 3D scanner"
         },
         {
-          "id": "https://github.com/Sambigeara/fuzzynote",
+          "id": "https://adam.nels.onl/blog/parentheses-are-just-typechecking/",
           "author": null,
           "description": "Comments",
-          "link": "https://github.com/Sambigeara/fuzzynote",
-          "publishedOn": "2021-06-23T16:46:30.000Z",
-          "wordCount": 1941,
-          "title": "Show HN: Fuzzynote – terminal-based, CRDT-backed, collaborative note-taking"
+          "link": "https://adam.nels.onl/blog/parentheses-are-just-typechecking/",
+          "publishedOn": "2021-06-23T12:13:56.000Z",
+          "wordCount": 626,
+          "title": "Parentheses Are Just Typechecking"
         },
         {
-          "id": "https://nvlabs.github.io/alias-free-gan/",
+          "id": "https://www.theatlantic.com/culture/archive/2021/06/new-deal-american-guides-federal-writers-project/619255/",
           "author": null,
           "description": "Comments",
-          "link": "https://nvlabs.github.io/alias-free-gan/",
-          "publishedOn": "2021-06-23T16:26:36.000Z",
-          "wordCount": 1001,
-          "title": "Alias-Free GAN"
+          "link": "https://www.theatlantic.com/culture/archive/2021/06/new-deal-american-guides-federal-writers-project/619255/",
+          "publishedOn": "2021-06-23T11:29:42.000Z",
+          "wordCount": 2209,
+          "title": "The rich, weird, and frustrating world of Depression-era travel guides"
         },
         {
-          "id": "https://tannerv.com/ipod",
+          "id": "http://bostonreview.net/class-inequality-politics-philosophy-religion/simon-torracinta-we-dont-know-lets-try-it",
           "author": null,
           "description": "Comments",
-          "link": "https://tannerv.com/ipod",
-          "publishedOn": "2021-06-23T16:04:42.000Z",
-          "wordCount": 9,
-          "title": "Show HN: iPod.js – An online iPod that connects to Spotify and Apple Music"
+          "link": "http://bostonreview.net/class-inequality-politics-philosophy-religion/simon-torracinta-we-dont-know-lets-try-it",
+          "publishedOn": "2021-06-23T04:20:18.000Z",
+          "wordCount": 7125,
+          "title": "We Don't Know, But Let's Try It"
         },
         {
-          "id": "http://scriber.tech/Marae.html",
+          "id": "https://github.com/facebookresearch/Cupcake",
           "author": null,
           "description": "Comments",
-          "link": "http://scriber.tech/Marae.html",
-          "publishedOn": "2021-06-23T16:04:28.000Z",
-          "wordCount": 6246,
-          "title": "The End of Marae – my attempt to build the AR cloud"
+          "link": "https://github.com/facebookresearch/Cupcake",
+          "publishedOn": "2021-06-22T07:40:53.000Z",
+          "wordCount": 721,
+          "title": "Cupcake - A Rust library for lattice-based additive homomorphic encryption"
         },
         {
-          "id": "https://dabit3.medium.com/the-prosperous-software-consultant-5dc8d705c5dd",
+          "id": "https://iquilezles.org/www/articles/smoothstepintegral/smoothstepintegral.htm",
           "author": null,
           "description": "Comments",
-          "link": "https://dabit3.medium.com/the-prosperous-software-consultant-5dc8d705c5dd",
-          "publishedOn": "2021-06-23T15:44:22.000Z",
-          "wordCount": 3173,
-          "title": "The Prosperous Software Consultant (2018)"
-        },
-        {
-          "id": "https://thatgeoguy.ca/blog/2021/06/22/Librem-5-Evergreen-vs-Pinephone/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://thatgeoguy.ca/blog/2021/06/22/Librem-5-Evergreen-vs-Pinephone/",
-          "publishedOn": "2021-06-23T15:35:13.000Z",
-          "wordCount": 4141,
-          "title": "Librem 5 Evergreen vs. PinePhone (Part 2)"
-        },
-        {
-          "id": "https://maplibre.org/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://maplibre.org/",
-          "publishedOn": "2021-06-23T15:30:09.000Z",
-          "wordCount": 33,
-          "title": "Maplibre: community-driven Mapbox GL fork"
-        },
-        {
-          "id": "https://alexkrupp.typepad.com/sensemaking/2021/06/django-for-startup-founders-a-better-software-architecture-for-saas-startups-and-consumer-apps.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://alexkrupp.typepad.com/sensemaking/2021/06/django-for-startup-founders-a-better-software-architecture-for-saas-startups-and-consumer-apps.html",
-          "publishedOn": "2021-06-23T14:38:23.000Z",
-          "wordCount": 22593,
-          "title": "Django for Startup Founders: A better software architecture for SaaS startups"
-        },
-        {
-          "id": "https://www.under30experiences.com/blog/costa-rica-has-run-on-100-renewable-energy-for-299-days",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.under30experiences.com/blog/costa-rica-has-run-on-100-renewable-energy-for-299-days",
-          "publishedOn": "2021-06-23T14:16:54.000Z",
-          "wordCount": 939,
-          "title": "Costa Rica Has Run on 100% Renewable Electricity for 299 Days"
-        },
-        {
-          "id": "https://fuse.wikichip.org/news/5699/arm-introduces-its-confidential-compute-architecture/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://fuse.wikichip.org/news/5699/arm-introduces-its-confidential-compute-architecture/",
-          "publishedOn": "2021-06-23T14:10:21.000Z",
-          "wordCount": 2455,
-          "title": "Arm Introduces Its Confidential Compute Architecture"
-        },
-        {
-          "id": "https://www.economist.com/international/2021/06/05/a-backlash-against-gender-ideology-is-starting-in-universities",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.economist.com/international/2021/06/05/a-backlash-against-gender-ideology-is-starting-in-universities",
-          "publishedOn": "2021-06-23T12:51:56.000Z",
-          "wordCount": 1915,
-          "title": "A backlash against gender ideology is starting in universities"
-        },
-        {
-          "id": "https://www.nytimes.com/2021/06/23/opinion/education-poverty-intervention.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.nytimes.com/2021/06/23/opinion/education-poverty-intervention.html",
-          "publishedOn": "2021-06-23T10:58:54.000Z",
-          "wordCount": 2763,
-          "title": "Is education no longer the ‘great equalizer’?"
-        },
-        {
-          "id": "https://multiverse.plus/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://multiverse.plus/",
-          "publishedOn": "2021-06-23T01:05:00.000Z",
-          "wordCount": 525,
-          "title": "Show HN: Multiverse.plus – what if blogging was more collage-like and colorful?"
-        },
-        {
-          "id": "https://www.quantamagazine.org/secret-workings-of-smell-receptors-revealed-for-first-time-20210621/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.quantamagazine.org/secret-workings-of-smell-receptors-revealed-for-first-time-20210621/",
-          "publishedOn": "2021-06-22T10:30:43.000Z",
-          "wordCount": 2132,
-          "title": "Secret Workings of Smell Receptors Revealed for First Time"
-        },
-        {
-          "id": "https://austinmeyer.com/now-copyright-trolling/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://austinmeyer.com/now-copyright-trolling/",
-          "publishedOn": "2021-06-22T09:22:21.000Z",
-          "wordCount": 1562,
-          "title": "Patent Trolling’s twin: Copyright trolling"
-        },
-        {
-          "id": "https://en.wikipedia.org/wiki/Homotopy_type_theory",
-          "author": null,
-          "description": "Comments",
-          "link": "https://en.wikipedia.org/wiki/Homotopy_type_theory",
-          "publishedOn": "2021-06-22T09:08:39.000Z",
-          "wordCount": 4934,
-          "title": "Homotopy Type Theory"
-        },
-        {
-          "id": "https://www.netmeister.org/blog/urls.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.netmeister.org/blog/urls.html",
-          "publishedOn": "2021-06-22T05:30:35.000Z",
-          "wordCount": 3264,
-          "title": "URLs: It's Complicated"
-        },
-        {
-          "id": "https://rolisz.com/the-best-text-classification-library-for-a-quick-baseline/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://rolisz.com/the-best-text-classification-library-for-a-quick-baseline/",
-          "publishedOn": "2021-06-21T19:27:57.000Z",
-          "wordCount": 949,
-          "title": "FastText is the best text classification library for a quick baseline"
-        },
-        {
-          "id": "https://www.da.vidbuchanan.co.uk/adamation/image.png",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.da.vidbuchanan.co.uk/adamation/image.png",
-          "publishedOn": "2021-06-21T14:54:41.000Z",
-          "wordCount": 3073,
-          "title": "PNG files can be animated via network latency"
+          "link": "https://iquilezles.org/www/articles/smoothstepintegral/smoothstepintegral.htm",
+          "publishedOn": "2021-06-22T07:35:11.000Z",
+          "wordCount": 712,
+          "title": "Smoothstep Integral"
         }
       ]
     },
@@ -282,6 +282,20 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2021/06/design-thinking-problem-solving-strategy/",
+          "author": "hello@smashingmagazine.com (Josh Singer)",
+          "description": "In the dynamic and unpredictable environments in which we work, even the most carefully crafted solutions can have a short shelf life. When we accept that our work is impermanent and our problem-solving abilities are limited, our goal can shift from delivering full solutions to developing tools that empower our users to adaptively design for themselves.",
+          "link": "https://smashingmagazine.com/2021/06/design-thinking-problem-solving-strategy/",
+          "publishedOn": "2021-06-24T14:00:00.000Z",
+          "wordCount": 4172,
+          "title": "The Rise Of Design Thinking As A Problem Solving Strategy",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e5ea9274-2ff4-49d8-b259-a5f0904cec77/design-thinking-problem-solving-strategy.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
         {
           "id": "https://smashingmagazine.com/2021/06/new-smashing-online-workshops-frontend-ux-design/",
           "author": "hello@smashingmagazine.com (Iris Lješnjanin)",
@@ -302,7 +316,7 @@
           "description": "Automated testing is an important part of any software project, including testing for accessibility. There are already tools for linting and integration testing accessibility, but what about end-to-end testing with real assistive technology? Since I hadn’t seen this before, I set out to build Auto VO, a driver for the VoiceOver screen reader.",
           "link": "https://smashingmagazine.com/2021/06/automating-screen-reader-testing-macos-autovo/",
           "publishedOn": "2021-06-23T09:30:00.000Z",
-          "wordCount": 1350,
+          "wordCount": 1402,
           "title": "Automating Screen Reader Testing On macOS Using Auto VO",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c81018b9-c45e-4c21-9762-dff84dd2682c/automating-screen-reader-testing-macos-autovo.jpg",
@@ -330,7 +344,7 @@
           "description": "Do you have to process data manually because it is served through images or scanned documents? An image-to-text conversion makes it possible to extract text from images to automate the processing of texts on images, videos, and scanned documents. In this article, we look at how to convert an image to text with React and Tesseract.js(OCR), preprocess images, and deal with the limitations of Tesseract (OCR).",
           "link": "https://smashingmagazine.com/2021/06/image-text-conversion-react-tesseract-js-ocr/",
           "publishedOn": "2021-06-21T14:30:00.000Z",
-          "wordCount": 5358,
+          "wordCount": 5352,
           "title": "Image To Text Conversion With React And Tesseract.js (OCR)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/012f3fbe-980a-44fc-b973-a459f6d9bf1a/image-text-conversion-react-tesseract-js-ocr.jpg",
@@ -344,7 +358,7 @@
           "description": "Voice assistants are currently the most popular use case for voice user interfaces. However, due to the bad feedback loop resulting from voice assistants can only solve simple user tasks such as setting an alarm or playing music. In order for voice user interfaces to really break through, feedback to the user must be visual, not auditive.",
           "link": "https://smashingmagazine.com/2021/06/alternative-voice-ui-voice-assistants/",
           "publishedOn": "2021-06-18T15:00:00.000Z",
-          "wordCount": 3415,
+          "wordCount": 3411,
           "title": "An Alternative Voice UI To Voice Assistants",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8ebd2c76-ebe5-4885-be3e-f9acc3608072/alternative-voice-ui-voice-assistants.jpg",
@@ -358,7 +372,7 @@
           "description": "Next.js has a file-based routing system in which each page automatically becomes a route based on its file name. This article will guide you through almost everything you need to know about Routing in Next.js and point you in the direction of related topics and concepts.",
           "link": "https://smashingmagazine.com/2021/06/client-side-routing-next-js/",
           "publishedOn": "2021-06-18T13:00:00.000Z",
-          "wordCount": 3916,
+          "wordCount": 3955,
           "title": "Client-Side Routing In Next.js",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a51f6c83-5e1a-4535-b28a-2018310ffc3b/client-side-routing-next-js.jpg",
@@ -372,7 +386,7 @@
           "description": "Image placement on the modern web is highly intentional, helping to communicate the overall purpose of a page or view. This means that nearly every image you declare needs to have an alternate description.",
           "link": "https://smashingmagazine.com/2021/06/img-alt-attribute-alternate-description-decorative/",
           "publishedOn": "2021-06-17T10:30:00.000Z",
-          "wordCount": 1639,
+          "wordCount": 1636,
           "title": "Your Image Is Probably Not Decorative",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/95585fe9-52b8-4bd4-adac-a3580ef87b98/img-alt-attribute-alternate-description-decorative.jpg",
@@ -386,7 +400,7 @@
           "description": "In a new short series of posts, we highlight some of the useful tools and techniques for developers and designers. Recently we’ve covered HTML Emails and SVG Generators. This time we look into different kinds of tools to help you streamline your accessibility testing process. Don’t miss the next one.",
           "link": "https://smashingmagazine.com/2021/06/complete-guide-accessibility-tooling/",
           "publishedOn": "2021-06-16T10:30:00.000Z",
-          "wordCount": 4104,
+          "wordCount": 4101,
           "title": "A Complete Guide To Accessibility Tooling",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0e0ea8e6-a4ad-489c-b062-749a22d5e38e/complete-guide-accessibility-tooling.jpg",
@@ -428,7 +442,7 @@
           "description": "Spoiler alert: tooltips, modals, tabs, carousels, and dropdown menus are some of the user interface components that require more than CSS. To ensure accessibility of your interface, JavaScript is a necessary addition to accomplish focus management, respond to keyboard events, and toggle ARIA attributes.",
           "link": "https://smashingmagazine.com/2021/06/css-javascript-requirements-accessible-components/",
           "publishedOn": "2021-06-14T10:30:00.000Z",
-          "wordCount": 3670,
+          "wordCount": 3671,
           "title": "When CSS Isn’t Enough: JavaScript Requirements For Accessible Components",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9982fa1e-806c-4343-9de1-eb804a48451e/css-javascript-requirements-accessible-components.jpg",
@@ -456,7 +470,7 @@
           "description": "We don’t need to write everything from scratch every single time. With boilerplates and starter kits, we can set up our projects faster, and get to work immediately.",
           "link": "https://smashingmagazine.com/2021/06/useful-frontend-boilerplates-starter-kits/",
           "publishedOn": "2021-06-10T15:00:00.000Z",
-          "wordCount": 5149,
+          "wordCount": 5154,
           "title": "Useful Front-End Boilerplates And Starter Kits",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/598e7f3e-9dca-4922-b17d-76089efab46f/25-frontend-boilerplates-starter-kits.png",
@@ -470,7 +484,7 @@
           "description": "Building a faster website can be a rocket task these days. There are so many things to consider, so it’s challenging to get everything right. Here are some less-known tools that might help you get there.",
           "link": "https://smashingmagazine.com/2021/06/three-frontend-auditing-tools/",
           "publishedOn": "2021-06-10T11:15:00.000Z",
-          "wordCount": 867,
+          "wordCount": 872,
           "title": "Three Front-End Auditing Tools I Discovered Recently",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e21066b1-baa0-4a85-90ee-8074029d0a32/three-frontend-auditing-tools.jpg",
@@ -484,7 +498,7 @@
           "description": "What makes relational selector one of the most requested features and how are we, as developers, working around not having it? In this article, we’re going to check the early spec of the :has selector, and see how it should improve the CSS workflow once it’s released.",
           "link": "https://smashingmagazine.com/2021/06/has-native-css-parent-selector/",
           "publishedOn": "2021-06-09T10:30:00.000Z",
-          "wordCount": 2779,
+          "wordCount": 2780,
           "title": "Meet <code>:has</code>, A Native CSS Parent Selector (And More)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/89aef48d-9be9-45df-a7f4-775168deb8dd/has-native-css-parent-selector.jpg",
@@ -512,7 +526,7 @@
           "description": "In this guide, we’ll be taking a general look at the concepts of forward geocoding and reverse geocoding, and will build a mini-app that applies these concepts to display specific locations, using Mapbox and Vue.js 2.6.11 to achieve this.",
           "link": "https://smashingmagazine.com/2021/06/building-geocoding-app-vue-mapbox/",
           "publishedOn": "2021-06-07T11:00:00.000Z",
-          "wordCount": 2445,
+          "wordCount": 2435,
           "title": "How To Build A Geocoding App In Vue.js Using Mapbox",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/20dc2361-e5a5-4a78-b380-2f5942ecfba8/building-geocoding-app-vue-mapbox.jpg",
@@ -526,7 +540,7 @@
           "description": "Modern browsers provide good support for JavaScript modules, but module bundlers such as webpack stay a critical part of the JavaScript toolchain. Let’s take a deep dive into what webpack is and how to use it in your development workflow.",
           "link": "https://smashingmagazine.com/2021/06/getting-started-webpack/",
           "publishedOn": "2021-06-04T10:00:00.000Z",
-          "wordCount": 4412,
+          "wordCount": 4418,
           "title": "Getting Started With Webpack",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/66ba7a41-2a37-471b-9c60-66a3162d8f05/webpack-dependency-graph-opt.png",
@@ -540,7 +554,7 @@
           "description": "Writing large-scale Vue applications can be a challenge. In this article, Shawn Wildermuth dives into the pros and cons of approaches like factories, shared objects, and using Vuex. He also explains what is coming in Vuex 5.0 that might change how we all use shared state in Vue 3.",
           "link": "https://smashingmagazine.com/2021/06/managing-shared-state-vue3/",
           "publishedOn": "2021-06-03T10:30:00.000Z",
-          "wordCount": 3729,
+          "wordCount": 3722,
           "title": "Managing Shared State In Vue 3",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0a70815d-28e5-44af-8306-0e992e99593a/managing-shared-state-vue3.jpg",
@@ -554,7 +568,7 @@
           "description": "Google’s Core Web Vitals initiative has taken the SEO and Web Performance worlds by storm and many sites are busy optimizing their Page Experience to maximize the ranking factor. The Cumulative Layout Shift metric is causing trouble to a lot of sites, so let’s have a look at ways of addressing any issues for that metric.",
           "link": "https://smashingmagazine.com/2021/06/how-to-fix-cumulative-layout-shift-issues/",
           "publishedOn": "2021-06-02T12:30:00.000Z",
-          "wordCount": 4585,
+          "wordCount": 4584,
           "title": "How To Fix Cumulative Layout Shift (CLS) Issues",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/87fbe5f9-d311-4542-a3f0-14e860415946/cumulative-layout-shift-issues.jpg",
@@ -568,7 +582,7 @@
           "description": "Getting a good performance score from Google is hard for any website — but doing so for an online store is even harder. We achieved green scores — even several for mobile. Here is how we did it.",
           "link": "https://smashingmagazine.com/2021/06/front-end-performance-online-store-jewellerybox/",
           "publishedOn": "2021-06-02T10:30:00.000Z",
-          "wordCount": 5663,
+          "wordCount": 5653,
           "title": "Improving The Performance Of An Online Store (Case Study)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8a350bf5-9114-420c-b587-fee03ea4acb6/jewellerybox-uk-online-store-scipioerp.jpg",
@@ -610,7 +624,7 @@
           "description": "What could be a better way to welcome June than with some colorful inspiration? Well, we might have something for you: wallpapers created with love by artists and designers from across the globe.",
           "link": "https://smashingmagazine.com/2021/05/desktop-wallpaper-calendars-june-2021/",
           "publishedOn": "2021-05-31T11:30:00.000Z",
-          "wordCount": 2772,
+          "wordCount": 2771,
           "title": "Happy June Vibes For Your Screen (2021 Desktop Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/374464b5-093e-4ca2-9397-6f26c83756d4/june-20-summer-coziness-preview-opt.png",
@@ -624,7 +638,7 @@
           "description": "In this article, we’ll be re-using the foundational WYSIWYG Editor built in the first article to build a commenting system for a WYSIWYG Editor that enables users to select text inside a document and share their comments on it. Let’s dig in!",
           "link": "https://smashingmagazine.com/2021/05/commenting-system-wysiwyg-editor/",
           "publishedOn": "2021-05-28T11:00:00.000Z",
-          "wordCount": 10593,
+          "wordCount": 10595,
           "title": "Adding A Commenting System To A WYSIWYG Editor",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ec39e154-d3d3-4a12-91fd-f0c068cd5247/commenting-system-wysiwyg-editor.jpg",
@@ -666,24 +680,10 @@
           "description": "Discover which SVG patterns we should avoid and which patterns are the most inclusive when comparing different combinations of OSs, browsers, and screen readers.",
           "link": "https://smashingmagazine.com/2021/05/accessible-svg-patterns-comparison/",
           "publishedOn": "2021-05-26T13:20:00.000Z",
-          "wordCount": 1750,
+          "wordCount": 1752,
           "title": "Accessible SVGs: Perfect Patterns For Screen Reader Users",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/35bf2e3a-ae5b-49a3-843a-318b4c81f5af/accessible-svg-patterns.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/05/undoing-mistakes-git-part2/",
-          "author": "hello@smashingmagazine.com (Tobias Günther)",
-          "description": "Mistakes. These cruel villains do not even stop at the beautiful world of software development. But although we cannot avoid making mistakes, we can learn to undo them! This post will show the right tools for your daily work with Git.",
-          "link": "https://smashingmagazine.com/2021/05/undoing-mistakes-git-part2/",
-          "publishedOn": "2021-05-25T14:00:00.000Z",
-          "wordCount": 2337,
-          "title": "A Guide To Undoing Mistakes With Git (Part 2)",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/211042ae-7a72-42ba-804e-9f8132815200/undoing-mistakes-git-part1.jpg",
             "length": "0",
             "type": "image/jpg"
           }
@@ -696,12 +696,30 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "60d3ee396e1a1407b6b0b6ef",
+          "author": null,
+          "description": "Let's go over the most common mistakes you might be making in your React code right now, plus how to fix them. If you want to create amazing React applications, it's essential to avoid many common errors along the way. In this article, we'll not only cover how to fix",
+          "link": "https://www.freecodecamp.org/news/common-react-mistakes-and-how-to-fix-them/",
+          "publishedOn": "2021-06-24T17:01:44.000Z",
+          "wordCount": 1511,
+          "title": "4 Common React Mistakes You Might Be Making – And How to Fix Them"
+        },
+        {
+          "id": "60d4b5e96e1a1407b6b0bac4",
+          "author": null,
+          "description": "If you want good performance in your application, you need to collect data to figure out where to make improvements. That's where OpenTelemetry comes in. OpenTelemetry offers a single set of APIs and libraries that standardize how you collect and transfer telemetry data. OpenTelemetry provides a specification for instrumentation so",
+          "link": "https://www.freecodecamp.org/news/how-to-use-opentelemetry/",
+          "publishedOn": "2021-06-24T16:50:36.000Z",
+          "wordCount": 9777,
+          "title": "How to Use OpenTelemetry to Understand Software Performance"
+        },
+        {
           "id": "605abca5687d62084bf6b7cd",
           "author": null,
           "description": "Data Analysis is the process of exploring, investigating, and gathering insights from data using statistical measures and visualizations.  The objective of data analysis is to develop an understanding of data by uncovering trends, relationships, and patterns. Data analysis is both a science and an art. On the one hand it",
           "link": "https://www.freecodecamp.org/news/exploratory-data-analysis-with-numpy-pandas-matplotlib-seaborn/",
           "publishedOn": "2021-06-24T00:11:01.000Z",
-          "wordCount": 8365,
+          "wordCount": 8363,
           "title": "What is Data Analysis? How to Visualize Data with Python, Numpy, Pandas, Matplotlib &amp; Seaborn Tutorial"
         },
         {
@@ -719,7 +737,7 @@
           "description": ".NET is a popular software framework developed by Microsoft. We just released a course on the freeCodeCamp.org YouTube channel that will teach you how to create a REST API end-to-end from scratch using the latest .NET 5 innovations and Visual Studio Code. The course uses the C# programming language.",
           "link": "https://www.freecodecamp.org/news/create-a-rest-api-with-dot-net-5-and-c-sharp/",
           "publishedOn": "2021-06-23T18:08:14.000Z",
-          "wordCount": 60401,
+          "wordCount": 60402,
           "title": "Create a REST API with .NET 5 and  C#"
         },
         {
@@ -730,6 +748,15 @@
           "publishedOn": "2021-06-23T17:19:24.000Z",
           "wordCount": 2330,
           "title": "How to Create a Great Technical Course"
+        },
+        {
+          "id": "607f5fafdd38b9088c2bd0c9",
+          "author": null,
+          "description": "When you're debating someone, you want to use all the resources at your disposal to convince them you're right. And that's great – but you should be careful that you don't end up using a logical fallacy to help you make your point. What is a Logical Fallacy?A logical fallacy",
+          "link": "https://www.freecodecamp.org/news/logical-fallacies-definition-fallacy-examples/",
+          "publishedOn": "2021-06-23T04:19:00.000Z",
+          "wordCount": 6255,
+          "title": "Logical Fallacies – Definition and Fallacy Examples"
         },
         {
           "id": "60d2323d6e1a1407b6b0ac4f",
@@ -757,33 +784,6 @@
           "publishedOn": "2021-06-22T16:20:36.000Z",
           "wordCount": 7385,
           "title": "How to Use TypeScript and MongoDB to Build a 100 Days of Code Discord Bot"
-        },
-        {
-          "id": "60cfff5a4dc1a607ed7b5e58",
-          "author": null,
-          "description": "Do you have a story idea that you'd like to turn into a novel? How about adding visual appeal and interactivity to that novel?  A Visual Novel might be the game genre you are looking for. And this tutorial is here to help set you up in 10 minutes, with",
-          "link": "https://www.freecodecamp.org/news/use-python-to-create-a-visual-novel/",
-          "publishedOn": "2021-06-22T16:18:29.000Z",
-          "wordCount": 1611,
-          "title": "How to Use Python to Create a Visual Novel Game in 10 Minutes"
-        },
-        {
-          "id": "60c81f774dc1a607ed7b2f66",
-          "author": null,
-          "description": "I've been using Vim since the first year I started coding. For all the IDEs/editors that I have used, the Vim plugin is always the very first plugin that I install. I know that Vim can be challenging to work in for people who are not familiar with it.",
-          "link": "https://www.freecodecamp.org/news/how-to-exit-vim/",
-          "publishedOn": "2021-06-21T21:52:43.000Z",
-          "wordCount": 1785,
-          "title": "How to Exit Vim – Vim Save and Quit Command Tutorial"
-        },
-        {
-          "id": "60bce157acb62507dd1d9f11",
-          "author": null,
-          "description": "When you're working with Python lists, you often need to combine data from multiple lists. So how do you do that? In this tutorial, we'll see the different ways you can combine data from multiple lists. We'll also learn how the list methods append() and extend() work through simple examples.",
-          "link": "https://www.freecodecamp.org/news/python-list-methods-append-vs-extend/",
-          "publishedOn": "2021-06-21T21:25:11.000Z",
-          "wordCount": 1085,
-          "title": "Python List Methods – append( ) vs extend( ) in Python Explained with Code Examples"
         }
       ]
     }
