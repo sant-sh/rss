@@ -6,274 +6,274 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
-          "id": "https://www.sparkfun.com/news/3917",
+          "id": "https://web.archive.org/web/20131130191257/http://www.shirky.com/writings/group_enemy.html",
           "author": null,
           "description": "Comments",
-          "link": "https://www.sparkfun.com/news/3917",
-          "publishedOn": "2021-06-30T23:00:58.000Z",
-          "wordCount": null,
-          "title": "SparkFun Hooks a Patent Troll"
+          "link": "https://web.archive.org/web/20131130191257/http://www.shirky.com/writings/group_enemy.html",
+          "publishedOn": "2021-07-02T00:00:50.000Z",
+          "wordCount": 9498,
+          "title": "A Group Is Its Own Worst Enemy (2003)"
         },
         {
-          "id": "https://www.tohoku.ac.jp/en/press/eversing_dementia_stage_set_for_human_clinical_trials.html",
+          "id": "https://www.theregister.com/2021/07/01/ibm_email_disruption_sales",
           "author": null,
           "description": "Comments",
-          "link": "https://www.tohoku.ac.jp/en/press/eversing_dementia_stage_set_for_human_clinical_trials.html",
-          "publishedOn": "2021-06-30T22:28:37.000Z",
-          "wordCount": 998,
-          "title": "Success in Reversing Dementia in Mice Sets the Stage for Human Clinical Trials"
+          "link": "https://www.theregister.com/2021/07/01/ibm_email_disruption_sales",
+          "publishedOn": "2021-07-01T23:21:50.000Z",
+          "wordCount": 2872,
+          "title": "IBM email fiasco complicates sales deals, is worse than biz is letting on"
         },
         {
-          "id": "https://www.seattletimes.com/business/federal-targeting-of-americans-records-is-routine-microsoft-exec-testifies/",
+          "id": "https://github.com/randy3k/radian",
           "author": null,
           "description": "Comments",
-          "link": "https://www.seattletimes.com/business/federal-targeting-of-americans-records-is-routine-microsoft-exec-testifies/",
-          "publishedOn": "2021-06-30T22:02:47.000Z",
-          "wordCount": 1160,
-          "title": "Microsoft exec: Targeting of Americans’ records ‘routine’"
+          "link": "https://github.com/randy3k/radian",
+          "publishedOn": "2021-07-01T23:10:30.000Z",
+          "wordCount": 1802,
+          "title": "Radian: A 21 century R console"
         },
         {
-          "id": "https://www.tesorio.com/careers#job-openings",
+          "id": "https://github.com/reacherhq/check-if-email-exists",
           "author": null,
           "description": "Comments",
-          "link": "https://www.tesorio.com/careers#job-openings",
-          "publishedOn": "2021-06-30T21:52:24.000Z",
-          "wordCount": 386,
-          "title": "Tesorio (YC S15) Is Hiring – Join Our 100% Distributed Fintech Team"
+          "link": "https://github.com/reacherhq/check-if-email-exists",
+          "publishedOn": "2021-07-01T22:37:35.000Z",
+          "wordCount": 2226,
+          "title": "Check If Email Exists"
         },
         {
-          "id": "https://www.rainforestqa.com/blog/accessible-quality",
+          "id": "https://drossbucket.com/2021/06/30/hacker-news-folk-wisdom-on-visual-programming/",
           "author": null,
           "description": "Comments",
-          "link": "https://www.rainforestqa.com/blog/accessible-quality",
-          "publishedOn": "2021-06-30T21:45:33.000Z",
-          "wordCount": 3798,
-          "title": "Asking developers to do QA is broken – why anyone should own QA"
+          "link": "https://drossbucket.com/2021/06/30/hacker-news-folk-wisdom-on-visual-programming/",
+          "publishedOn": "2021-07-01T22:24:19.000Z",
+          "wordCount": 9005,
+          "title": "Folk wisdom on visual programming"
         },
         {
-          "id": "https://www.macrumors.com/2021/06/30/os-x-lion-mountain-lion-free-to-download/",
+          "id": "https://befinitiv.wordpress.com/2021/06/30/installing-linux-into-a-286-laptop-from-the-year-1989/",
           "author": null,
           "description": "Comments",
-          "link": "https://www.macrumors.com/2021/06/30/os-x-lion-mountain-lion-free-to-download/",
-          "publishedOn": "2021-06-30T20:26:46.000Z",
-          "wordCount": 2093,
-          "title": "Apple Makes Mac OS X Lion and Mountain Lion Free to Download"
+          "link": "https://befinitiv.wordpress.com/2021/06/30/installing-linux-into-a-286-laptop-from-the-year-1989/",
+          "publishedOn": "2021-07-01T21:51:33.000Z",
+          "wordCount": 660,
+          "title": "Installing Linux into a 286 laptop from the year 1989"
         },
         {
-          "id": "https://www.theregister.com/2021/06/30/ibm_email_outage/",
+          "id": "https://blog.flipperzero.one/electronics-testing/",
           "author": null,
           "description": "Comments",
-          "link": "https://www.theregister.com/2021/06/30/ibm_email_outage/",
-          "publishedOn": "2021-06-30T20:15:50.000Z",
-          "wordCount": 2595,
-          "title": "IBM's 18-month company-wide email system migration has been a disaster: sources"
+          "link": "https://blog.flipperzero.one/electronics-testing/",
+          "publishedOn": "2021-07-01T21:07:09.000Z",
+          "wordCount": 1581,
+          "title": "Flipper Zero: How it’s made and tested"
         },
         {
-          "id": "https://jacobobryant.com/blog/understand/",
+          "id": "https://jobs.ashbyhq.com/zendar/56ea9fff-f961-404e-b094-5584a36c0f8c",
           "author": null,
           "description": "Comments",
-          "link": "https://jacobobryant.com/blog/understand/",
-          "publishedOn": "2021-06-30T17:59:09.000Z",
-          "wordCount": 497,
-          "title": "Move fast, but understand the problem first"
+          "link": "https://jobs.ashbyhq.com/zendar/56ea9fff-f961-404e-b094-5584a36c0f8c",
+          "publishedOn": "2021-07-01T21:00:52.000Z",
+          "wordCount": 18,
+          "title": "Zendar (YC S17) is hiring a R&D electronics technician (part time)"
         },
         {
-          "id": "https://fly.io/blog/globally-distributed-postgres/",
+          "id": "http://www.arrl.org/news/view/fcc-reaffirms-nearly-3-million-fine-for-marketing-unauthorized-drone-transmitters",
           "author": null,
           "description": "Comments",
-          "link": "https://fly.io/blog/globally-distributed-postgres/",
-          "publishedOn": "2021-06-30T17:08:33.000Z",
-          "wordCount": 2350,
-          "title": "Globally Distributed Postgres"
+          "link": "http://www.arrl.org/news/view/fcc-reaffirms-nearly-3-million-fine-for-marketing-unauthorized-drone-transmitters",
+          "publishedOn": "2021-07-01T20:46:42.000Z",
+          "wordCount": 1305,
+          "title": "FCC reaffirms $3M fine for marketing unauthorized drone transmitters"
         },
         {
-          "id": "https://pluralistic.net/2021/06/29/three-times-is-enemy-action/#ctc",
+          "id": "https://blog.pakkly.com/why-does-my-installer-get-flagged-by-windows/",
           "author": null,
           "description": "Comments",
-          "link": "https://pluralistic.net/2021/06/29/three-times-is-enemy-action/#ctc",
-          "publishedOn": "2021-06-30T16:36:33.000Z",
-          "wordCount": 2323,
-          "title": "Intuit sabotages the Child Tax Credit"
+          "link": "https://blog.pakkly.com/why-does-my-installer-get-flagged-by-windows/",
+          "publishedOn": "2021-07-01T20:30:47.000Z",
+          "wordCount": 687,
+          "title": "Why does my installer get flagged by Windows?"
         },
         {
-          "id": "https://www.reuters.com/technology/broker-robinhood-pay-70-mln-systemic-supervisory-failures-2021-06-30/",
+          "id": "https://www.npr.org/sections/health-shots/2021/06/29/1010319240/stuck-in-a-rut-sometimes-joy-takes-a-little-practice",
           "author": null,
           "description": "Comments",
-          "link": "https://www.reuters.com/technology/broker-robinhood-pay-70-mln-systemic-supervisory-failures-2021-06-30/",
-          "publishedOn": "2021-06-30T16:33:01.000Z",
-          "wordCount": 1051,
-          "title": "Robinhood to pay $70M for 'systemic supervisory failures'"
+          "link": "https://www.npr.org/sections/health-shots/2021/06/29/1010319240/stuck-in-a-rut-sometimes-joy-takes-a-little-practice",
+          "publishedOn": "2021-07-01T19:38:26.000Z",
+          "wordCount": 3290,
+          "title": "A simple way to feel happier, according to the new science of emotion"
         },
         {
-          "id": "http://crpgaddict.blogspot.com/2021/06/brief-everything-we-know-about-1970s.html",
+          "id": "https://krebsonsecurity.com/2021/07/intuit-to-share-payroll-data-from-1-4m-small-businesses-with-equifax/",
           "author": null,
           "description": "Comments",
-          "link": "http://crpgaddict.blogspot.com/2021/06/brief-everything-we-know-about-1970s.html",
-          "publishedOn": "2021-06-30T16:30:04.000Z",
-          "wordCount": 6117,
-          "title": "1970s mainframe RPGs we can no longer play"
+          "link": "https://krebsonsecurity.com/2021/07/intuit-to-share-payroll-data-from-1-4m-small-businesses-with-equifax/",
+          "publishedOn": "2021-07-01T19:02:45.000Z",
+          "wordCount": 1758,
+          "title": "Intuit to share payroll data from 1.4M small businesses with Equifax"
         },
         {
-          "id": "https://git-history.jpalmer.dev/",
+          "id": "https://j3-fortran.org/doc/year/21/21-157r2.txt",
           "author": null,
           "description": "Comments",
-          "link": "https://git-history.jpalmer.dev/",
-          "publishedOn": "2021-06-30T15:24:12.000Z",
-          "wordCount": 6,
-          "title": "Show HN: An interactive visual history of Git development"
+          "link": "https://j3-fortran.org/doc/year/21/21-157r2.txt",
+          "publishedOn": "2021-07-01T17:55:45.000Z",
+          "wordCount": 693,
+          "title": "Fortran adds conditional expressions"
         },
         {
-          "id": "https://principles.dev/",
+          "id": "https://fly.io/blog/monitoring-your-fly-io-apps-with-prometheus/",
           "author": null,
           "description": "Comments",
-          "link": "https://principles.dev/",
-          "publishedOn": "2021-06-30T13:59:47.000Z",
-          "wordCount": 272,
-          "title": "Software Engineering principles to make teams better"
+          "link": "https://fly.io/blog/monitoring-your-fly-io-apps-with-prometheus/",
+          "publishedOn": "2021-07-01T17:25:41.000Z",
+          "wordCount": 1681,
+          "title": "Monitoring Elixir Apps on Fly.io with Prometheus and PromEx"
         },
         {
-          "id": "https://zitadel.ch/blog/treat-clusters-as-cattle/",
+          "id": "https://www.sec.gov/Archives/edgar/data/1783879/000162828021013318/robinhoods-1.htm",
           "author": null,
           "description": "Comments",
-          "link": "https://zitadel.ch/blog/treat-clusters-as-cattle/",
-          "publishedOn": "2021-06-30T13:24:36.000Z",
-          "wordCount": 2006,
-          "title": "Treat Kubernetes clusters as cattle, not pets"
+          "link": "https://www.sec.gov/Archives/edgar/data/1783879/000162828021013318/robinhoods-1.htm",
+          "publishedOn": "2021-07-01T17:18:17.000Z",
+          "wordCount": 187276,
+          "title": "Robinhood S-1 IPO"
         },
         {
-          "id": "https://www.theatlantic.com/technology/archive/2021/06/the-internet-is-a-collective-hallucination/619320/",
+          "id": "http://ndt.instedd.org/2010/05/it-without-software.html?m=1",
           "author": null,
           "description": "Comments",
-          "link": "https://www.theatlantic.com/technology/archive/2021/06/the-internet-is-a-collective-hallucination/619320/",
-          "publishedOn": "2021-06-30T13:15:35.000Z",
-          "wordCount": 6347,
-          "title": "Link rot and content drift are endemic to the web"
+          "link": "http://ndt.instedd.org/2010/05/it-without-software.html?m=1",
+          "publishedOn": "2021-07-01T16:36:30.000Z",
+          "wordCount": 13,
+          "title": "IT Without Software"
         },
         {
-          "id": "https://madned.substack.com/p/black-hat-exploits-of-the-stupid",
+          "id": "https://stripe.com/blog/atlas-first-five-years",
           "author": null,
           "description": "Comments",
-          "link": "https://madned.substack.com/p/black-hat-exploits-of-the-stupid",
-          "publishedOn": "2021-06-30T12:44:24.000Z",
-          "wordCount": 3684,
-          "title": "Black Hat Exploits of the Stupid-Easy 80s"
+          "link": "https://stripe.com/blog/atlas-first-five-years",
+          "publishedOn": "2021-07-01T16:20:45.000Z",
+          "wordCount": 1183,
+          "title": "Stripe Atlas: the first five years and 20k startups"
         },
         {
-          "id": "https://www.cnbc.com/2021/06/29/more-people-plan-to-quit-as-return-to-work-plans-go-into-effect-.html",
+          "id": "https://www.ventscape.life/chat",
           "author": null,
           "description": "Comments",
-          "link": "https://www.cnbc.com/2021/06/29/more-people-plan-to-quit-as-return-to-work-plans-go-into-effect-.html",
-          "publishedOn": "2021-06-30T12:25:40.000Z",
-          "wordCount": 891,
-          "title": "‘Great Resignation’ gains steam as return-to-work plans take effect"
+          "link": "https://www.ventscape.life/chat",
+          "publishedOn": "2021-07-01T16:12:57.000Z",
+          "wordCount": 16,
+          "title": "Show HN: VentScape – Minimalistic site to vent, chat and see others do the same"
         },
         {
-          "id": "https://twitter.com/eevee/status/1410037309848752128",
+          "id": "https://news.ycombinator.com/item?id=27700688",
           "author": null,
           "description": "Comments",
-          "link": "https://twitter.com/eevee/status/1410037309848752128",
-          "publishedOn": "2021-06-30T12:00:41.000Z",
-          "wordCount": 196,
-          "title": "GitHub co-pilot as open source code laundering?"
+          "link": "https://news.ycombinator.com/item?id=27700688",
+          "publishedOn": "2021-07-01T16:12:04.000Z",
+          "wordCount": 2653,
+          "title": "Launch HN: Flowly (YC S21) – Manage pain using VR and biofeedback"
         },
         {
-          "id": "https://jacobian.org/2021/may/20/estimation/",
+          "id": "https://news.ycombinator.com/item?id=27699704",
           "author": null,
           "description": "Comments",
-          "link": "https://jacobian.org/2021/may/20/estimation/",
-          "publishedOn": "2021-06-30T11:29:57.000Z",
-          "wordCount": 768,
-          "title": "Software estimation is hard – do it anyway"
+          "link": "https://news.ycombinator.com/item?id=27699704",
+          "publishedOn": "2021-07-01T15:01:17.000Z",
+          "wordCount": 37523,
+          "title": "Ask HN: Who is hiring? (July 2021)"
         },
         {
-          "id": "https://johz.bearblog.dev/book-review-philosophy-software-design/",
+          "id": "https://news.ycombinator.com/item?id=27699702",
           "author": null,
           "description": "Comments",
-          "link": "https://johz.bearblog.dev/book-review-philosophy-software-design/",
-          "publishedOn": "2021-06-30T10:14:33.000Z",
-          "wordCount": 1787,
-          "title": "Book Review: A Philosophy of Software Design (2020)"
+          "link": "https://news.ycombinator.com/item?id=27699702",
+          "publishedOn": "2021-07-01T15:01:16.000Z",
+          "wordCount": 8072,
+          "title": "Ask HN: Who wants to be hired? (July 2021)"
         },
         {
-          "id": "https://publicdomainreview.org/collection/japanese-fireworks-catalogues",
+          "id": "https://9to5mac.com/2021/07/01/british-right-to-repair-law/",
           "author": null,
           "description": "Comments",
-          "link": "https://publicdomainreview.org/collection/japanese-fireworks-catalogues",
-          "publishedOn": "2021-06-30T04:32:54.000Z",
-          "wordCount": 1728,
-          "title": "Flowers of Fire: Illustrations from Japanese Fireworks Catalogues (ca. 1880s)"
+          "link": "https://9to5mac.com/2021/07/01/british-right-to-repair-law/",
+          "publishedOn": "2021-07-01T14:06:26.000Z",
+          "wordCount": 682,
+          "title": "British right to repair law excludes smartphones and computers"
         },
         {
-          "id": "https://kleinbottle.com/#AMAZON%20BRAND%20HIJACKING",
+          "id": "https://vlaaad.github.io/clj-vs-cli",
           "author": null,
           "description": "Comments",
-          "link": "https://kleinbottle.com/#AMAZON%20BRAND%20HIJACKING",
-          "publishedOn": "2021-06-30T04:18:34.000Z",
-          "wordCount": null,
-          "title": "A foreign seller has hijacked my Amazon Klein bottle listing"
+          "link": "https://vlaaad.github.io/clj-vs-cli",
+          "publishedOn": "2021-07-01T13:46:35.000Z",
+          "wordCount": 1794,
+          "title": "REPL vs CLI: IDE wars"
         },
         {
-          "id": "https://www.bbc.com/travel/article/20210616-funazushi-the-fermented-predecessor-of-modern-sushi?utm_source=bengtan&utm_medium=email",
+          "id": "https://blog.toit.io/hash-maps-that-dont-hate-you-1a96150b492a",
           "author": null,
           "description": "Comments",
-          "link": "https://www.bbc.com/travel/article/20210616-funazushi-the-fermented-predecessor-of-modern-sushi?utm_source=bengtan&utm_medium=email",
-          "publishedOn": "2021-06-29T21:46:52.000Z",
-          "wordCount": 1874,
-          "title": "Funazushi: The fermented predecessor of modern sushi"
+          "link": "https://blog.toit.io/hash-maps-that-dont-hate-you-1a96150b492a",
+          "publishedOn": "2021-07-01T11:21:44.000Z",
+          "wordCount": 1862,
+          "title": "An efficient way to make hash maps with insertion ordering"
         },
         {
-          "id": "https://itnext.io/im-changing-how-i-review-code-dbf212507e5f",
+          "id": "https://www.tomshardware.com/news/micron-to-sell-3d-xpoint-fab-to-texas-instruments-for-dollar900-million",
           "author": null,
           "description": "Comments",
-          "link": "https://itnext.io/im-changing-how-i-review-code-dbf212507e5f",
-          "publishedOn": "2021-06-29T21:35:59.000Z",
-          "wordCount": 1741,
-          "title": "Changing how I review code"
+          "link": "https://www.tomshardware.com/news/micron-to-sell-3d-xpoint-fab-to-texas-instruments-for-dollar900-million",
+          "publishedOn": "2021-07-01T11:21:39.000Z",
+          "wordCount": 1795,
+          "title": "Micron to Sell 3D XPoint Fab to Texas Instruments for $900M"
         },
         {
-          "id": "https://arstechnica.com/gaming/2021/06/what-the-hecks-an-intellivision-amico-consoles-leaky-dev-portal-offers-hints/",
+          "id": "https://en.wikipedia.org/wiki/Parts-per_notation#Uno",
           "author": null,
           "description": "Comments",
-          "link": "https://arstechnica.com/gaming/2021/06/what-the-hecks-an-intellivision-amico-consoles-leaky-dev-portal-offers-hints/",
-          "publishedOn": "2021-06-29T20:05:05.000Z",
-          "wordCount": 1429,
-          "title": "What’s an Intellivision Amico? Console’s leaky dev portal offers hints"
+          "link": "https://en.wikipedia.org/wiki/Parts-per_notation#Uno",
+          "publishedOn": "2021-07-01T10:34:28.000Z",
+          "wordCount": 3170,
+          "title": "Uno – the “unit” for dimensionless quantities"
         },
         {
-          "id": "https://www.laphamsquarterly.org/roundtable/families-choice",
+          "id": "https://www.webindia123.com/dances/abhinaya/angika%20bhinaya/asamyukta.htm",
           "author": null,
           "description": "Comments",
-          "link": "https://www.laphamsquarterly.org/roundtable/families-choice",
-          "publishedOn": "2021-06-29T05:49:51.000Z",
-          "wordCount": 2179,
-          "title": "Families of Choice: On the Shakers and Catholics in Early America"
+          "link": "https://www.webindia123.com/dances/abhinaya/angika%20bhinaya/asamyukta.htm",
+          "publishedOn": "2021-07-01T01:38:50.000Z",
+          "wordCount": 512,
+          "title": "Mudras in Indian Dance"
         },
         {
-          "id": "https://www.bookforum.com/culture/how-merriam-webster-s-dictionary-defined-american-cultural-beliefs-24536",
+          "id": "https://johnmathews.eu/building-my-own-site-analytics.html",
           "author": null,
           "description": "Comments",
-          "link": "https://www.bookforum.com/culture/how-merriam-webster-s-dictionary-defined-american-cultural-beliefs-24536",
-          "publishedOn": "2021-06-29T00:58:23.000Z",
-          "wordCount": 1119,
-          "title": "Supreme Authority: How Webster’s Dictionary Defined American Cultural Beliefs"
+          "link": "https://johnmathews.eu/building-my-own-site-analytics.html",
+          "publishedOn": "2021-06-30T10:24:26.000Z",
+          "wordCount": 1350,
+          "title": "Building my own web analytics tool"
         },
         {
-          "id": "https://caseyhandmer.wordpress.com/2021/04/09/the-martian-starship/",
+          "id": "https://ostash.dev/posts/2021-06-24-edn-data-notation/",
           "author": null,
           "description": "Comments",
-          "link": "https://caseyhandmer.wordpress.com/2021/04/09/the-martian-starship/",
-          "publishedOn": "2021-06-28T16:17:32.000Z",
-          "wordCount": 4181,
-          "title": "“The Martian” + Starship"
+          "link": "https://ostash.dev/posts/2021-06-24-edn-data-notation/",
+          "publishedOn": "2021-06-30T07:23:08.000Z",
+          "wordCount": 509,
+          "title": "Data notation in Clojure"
         },
         {
-          "id": "https://fs.blog/2021/06/memory-palace/",
+          "id": "https://www.newyorker.com/science/elements/how-a-sharp-eyed-scientist-became-biologys-image-detective",
           "author": null,
           "description": "Comments",
-          "link": "https://fs.blog/2021/06/memory-palace/",
-          "publishedOn": "2021-06-28T13:16:39.000Z",
-          "wordCount": 2988,
-          "title": "The Method of Loci: Build Your Memory Palace"
+          "link": "https://www.newyorker.com/science/elements/how-a-sharp-eyed-scientist-became-biologys-image-detective",
+          "publishedOn": "2021-06-29T21:50:33.000Z",
+          "wordCount": 4793,
+          "title": "A sharp-eyed scientist became biology’s image detective"
         }
       ]
     },
@@ -283,12 +283,26 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2021/07/frontend-testing-pitfalls/",
+          "author": "hello@smashingmagazine.com (Ramona Schwering)",
+          "description": "When writing front-end tests, you’ll find a lot of pitfalls along the way. In sum, they can lead to lousy maintainability, slow execution time, and — in the worst case — tests you cannot trust. But it doesn’t have to be that way. In this article, I will talk about common mistakes developers make, at least in my experience, and, of course, how to avoid them. Testing doesn’t need to be painful, after all.",
+          "link": "https://smashingmagazine.com/2021/07/frontend-testing-pitfalls/",
+          "publishedOn": "2021-07-01T12:30:00.000Z",
+          "wordCount": 4769,
+          "title": "It’s A (Front-End Testing) Trap! Six Common Testing Pitfalls And How To Solve Them",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/dc1434b9-70c3-4fb2-821e-2128e3373246/frontend-testing-pitfalls.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
           "id": "https://smashingmagazine.com/2021/06/web-workers-2021/",
           "author": "hello@smashingmagazine.com (Surma)",
           "description": "The web is single-threaded. This makes it increasingly hard to write smooth and responsive apps. Workers have a bad rep, but can be an important and useful tool in any web developer's toolbelt for these kinds of problems. Let’s get up to speed on Workers on the Web!",
           "link": "https://smashingmagazine.com/2021/06/web-workers-2021/",
           "publishedOn": "2021-06-30T12:00:00.000Z",
-          "wordCount": 4731,
+          "wordCount": 4741,
           "title": "The State Of Web Workers In 2021",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/379e4510-b4ab-4fde-9a5d-122738be19b2/web-workers-2021.jpg",
@@ -302,7 +316,7 @@
           "description": "Let’s welcome July with some fresh desktop wallpapers. Designed by artists and designers from around the world, they are available with and without a calendar. Enjoy!",
           "link": "https://smashingmagazine.com/2021/06/desktop-wallpaper-calendars-july-2021/",
           "publishedOn": "2021-06-30T09:30:00.000Z",
-          "wordCount": 3599,
+          "wordCount": 3685,
           "title": "The Many Shades Of July (2021 Desktop Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/814b3b6e-1510-4c12-8504-433157173355/july-21-against-the-current-preview-opt.png",
@@ -344,7 +358,7 @@
           "description": "In this article, Manuel explains why Emmet is one of his favorite productivity tools for writing HTML and CSS, and how you can create custom Emmet snippets in Visual Studio Code to help you improve your front-end workflows even more.",
           "link": "https://smashingmagazine.com/2021/06/custom-emmet-snippets-vscode/",
           "publishedOn": "2021-06-28T10:30:00.000Z",
-          "wordCount": 2524,
+          "wordCount": 2516,
           "title": "Creating Custom Emmet Snippets In VS Code",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b7ff6227-3a15-4237-8e58-aa783fc9c485/custom-emmet-snippets-vscode.jpg",
@@ -358,7 +372,7 @@
           "description": "This article explains how we can connect different types of content in a Next.js application. With this technique, we can add any kind of one-to-one, one-to-many, or even many-to-many relationship to our projects.",
           "link": "https://smashingmagazine.com/2021/06/creating-multi-author-blog-nextjs/",
           "publishedOn": "2021-06-25T11:30:00.000Z",
-          "wordCount": 5439,
+          "wordCount": 5450,
           "title": "Creating A Multi-Author Blog With Next.js",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/28d0f286-9b01-4f8d-aede-01248ba3491d/creating-multi-author-blog-nextjs.jpg",
@@ -386,7 +400,7 @@
           "description": "In the dynamic and unpredictable environments in which we work, even the most carefully crafted solutions can have a short shelf life. When we accept that our work is impermanent and our problem-solving abilities are limited, our goal can shift from delivering full solutions to developing tools that empower our users to adaptively design for themselves.",
           "link": "https://smashingmagazine.com/2021/06/design-thinking-problem-solving-strategy/",
           "publishedOn": "2021-06-24T14:00:00.000Z",
-          "wordCount": 4170,
+          "wordCount": 4172,
           "title": "The Rise Of Design Thinking As A Problem Solving Strategy",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e5ea9274-2ff4-49d8-b259-a5f0904cec77/design-thinking-problem-solving-strategy.jpg",
@@ -414,7 +428,7 @@
           "description": "Automated testing is an important part of any software project, including testing for accessibility. There are already tools for linting and integration testing accessibility, but what about end-to-end testing with real assistive technology? Since I hadn’t seen this before, I set out to build Auto VO, a driver for the VoiceOver screen reader.",
           "link": "https://smashingmagazine.com/2021/06/automating-screen-reader-testing-macos-autovo/",
           "publishedOn": "2021-06-23T09:30:00.000Z",
-          "wordCount": 1391,
+          "wordCount": 1399,
           "title": "Automating Screen Reader Testing On macOS Using Auto VO",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c81018b9-c45e-4c21-9762-dff84dd2682c/automating-screen-reader-testing-macos-autovo.jpg",
@@ -442,7 +456,7 @@
           "description": "Do you have to process data manually because it is served through images or scanned documents? An image-to-text conversion makes it possible to extract text from images to automate the processing of texts on images, videos, and scanned documents. In this article, we look at how to convert an image to text with React and Tesseract.js(OCR), preprocess images, and deal with the limitations of Tesseract (OCR).",
           "link": "https://smashingmagazine.com/2021/06/image-text-conversion-react-tesseract-js-ocr/",
           "publishedOn": "2021-06-21T14:30:00.000Z",
-          "wordCount": 5366,
+          "wordCount": 5350,
           "title": "Image To Text Conversion With React And Tesseract.js (OCR)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/012f3fbe-980a-44fc-b973-a459f6d9bf1a/image-text-conversion-react-tesseract-js-ocr.jpg",
@@ -456,7 +470,7 @@
           "description": "Voice assistants are currently the most popular use case for voice user interfaces. However, due to the bad feedback loop resulting from voice assistants can only solve simple user tasks such as setting an alarm or playing music. In order for voice user interfaces to really break through, feedback to the user must be visual, not auditive.",
           "link": "https://smashingmagazine.com/2021/06/alternative-voice-ui-voice-assistants/",
           "publishedOn": "2021-06-18T15:00:00.000Z",
-          "wordCount": 3373,
+          "wordCount": 3372,
           "title": "An Alternative Voice UI To Voice Assistants",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8ebd2c76-ebe5-4885-be3e-f9acc3608072/alternative-voice-ui-voice-assistants.jpg",
@@ -470,7 +484,7 @@
           "description": "Next.js has a file-based routing system in which each page automatically becomes a route based on its file name. This article will guide you through almost everything you need to know about Routing in Next.js and point you in the direction of related topics and concepts.",
           "link": "https://smashingmagazine.com/2021/06/client-side-routing-next-js/",
           "publishedOn": "2021-06-18T13:00:00.000Z",
-          "wordCount": 3958,
+          "wordCount": 3956,
           "title": "Client-Side Routing In Next.js",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a51f6c83-5e1a-4535-b28a-2018310ffc3b/client-side-routing-next-js.jpg",
@@ -484,7 +498,7 @@
           "description": "Image placement on the modern web is highly intentional, helping to communicate the overall purpose of a page or view. This means that nearly every image you declare needs to have an alternate description.",
           "link": "https://smashingmagazine.com/2021/06/img-alt-attribute-alternate-description-decorative/",
           "publishedOn": "2021-06-17T10:30:00.000Z",
-          "wordCount": 1639,
+          "wordCount": 1637,
           "title": "Your Image Is Probably Not Decorative",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/95585fe9-52b8-4bd4-adac-a3580ef87b98/img-alt-attribute-alternate-description-decorative.jpg",
@@ -498,7 +512,7 @@
           "description": "In a new short series of posts, we highlight some of the useful tools and techniques for developers and designers. Recently we’ve covered HTML Emails and SVG Generators. This time we look into different kinds of tools to help you streamline your accessibility testing process. Don’t miss the next one.",
           "link": "https://smashingmagazine.com/2021/06/complete-guide-accessibility-tooling/",
           "publishedOn": "2021-06-16T10:30:00.000Z",
-          "wordCount": 4107,
+          "wordCount": 4099,
           "title": "A Complete Guide To Accessibility Tooling",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0e0ea8e6-a4ad-489c-b062-749a22d5e38e/complete-guide-accessibility-tooling.jpg",
@@ -554,7 +568,7 @@
           "description": "Design often revolves around visuals, but the other senses deserve love too. In this article, we tune in to audio features that are making sites sing.",
           "link": "https://smashingmagazine.com/2021/06/web-design-done-well-audio/",
           "publishedOn": "2021-06-11T15:00:00.000Z",
-          "wordCount": 1702,
+          "wordCount": 1750,
           "title": "Web Design Done Well: Making Use Of Audio",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bf0cbb26-546e-43b7-9b9a-9077259ea84b/making-use-of-audio.jpg",
@@ -568,7 +582,7 @@
           "description": "We don’t need to write everything from scratch every single time. With boilerplates and starter kits, we can set up our projects faster, and get to work immediately.",
           "link": "https://smashingmagazine.com/2021/06/useful-frontend-boilerplates-starter-kits/",
           "publishedOn": "2021-06-10T15:00:00.000Z",
-          "wordCount": 5157,
+          "wordCount": 5153,
           "title": "Useful Front-End Boilerplates And Starter Kits",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/598e7f3e-9dca-4922-b17d-76089efab46f/25-frontend-boilerplates-starter-kits.png",
@@ -582,7 +596,7 @@
           "description": "Building a faster website can be a rocket task these days. There are so many things to consider, so it’s challenging to get everything right. Here are some less-known tools that might help you get there.",
           "link": "https://smashingmagazine.com/2021/06/three-frontend-auditing-tools/",
           "publishedOn": "2021-06-10T11:15:00.000Z",
-          "wordCount": 826,
+          "wordCount": 867,
           "title": "Three Front-End Auditing Tools I Discovered Recently",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e21066b1-baa0-4a85-90ee-8074029d0a32/three-frontend-auditing-tools.jpg",
@@ -596,7 +610,7 @@
           "description": "What makes relational selector one of the most requested features and how are we, as developers, working around not having it? In this article, we’re going to check the early spec of the :has selector, and see how it should improve the CSS workflow once it’s released.",
           "link": "https://smashingmagazine.com/2021/06/has-native-css-parent-selector/",
           "publishedOn": "2021-06-09T10:30:00.000Z",
-          "wordCount": 2780,
+          "wordCount": 2781,
           "title": "Meet <code>:has</code>, A Native CSS Parent Selector (And More)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/89aef48d-9be9-45df-a7f4-775168deb8dd/has-native-css-parent-selector.jpg",
@@ -638,7 +652,7 @@
           "description": "Modern browsers provide good support for JavaScript modules, but module bundlers such as webpack stay a critical part of the JavaScript toolchain. Let’s take a deep dive into what webpack is and how to use it in your development workflow.",
           "link": "https://smashingmagazine.com/2021/06/getting-started-webpack/",
           "publishedOn": "2021-06-04T10:00:00.000Z",
-          "wordCount": 4422,
+          "wordCount": 4421,
           "title": "Getting Started With Webpack",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/66ba7a41-2a37-471b-9c60-66a3162d8f05/webpack-dependency-graph-opt.png",
@@ -652,52 +666,10 @@
           "description": "Writing large-scale Vue applications can be a challenge. In this article, Shawn Wildermuth dives into the pros and cons of approaches like factories, shared objects, and using Vuex. He also explains what is coming in Vuex 5.0 that might change how we all use shared state in Vue 3.",
           "link": "https://smashingmagazine.com/2021/06/managing-shared-state-vue3/",
           "publishedOn": "2021-06-03T10:30:00.000Z",
-          "wordCount": 3718,
+          "wordCount": 3727,
           "title": "Managing Shared State In Vue 3",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0a70815d-28e5-44af-8306-0e992e99593a/managing-shared-state-vue3.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/06/how-to-fix-cumulative-layout-shift-issues/",
-          "author": "hello@smashingmagazine.com (Barry Pollard)",
-          "description": "Google’s Core Web Vitals initiative has taken the SEO and Web Performance worlds by storm and many sites are busy optimizing their Page Experience to maximize the ranking factor. The Cumulative Layout Shift metric is causing trouble to a lot of sites, so let’s have a look at ways of addressing any issues for that metric.",
-          "link": "https://smashingmagazine.com/2021/06/how-to-fix-cumulative-layout-shift-issues/",
-          "publishedOn": "2021-06-02T12:30:00.000Z",
-          "wordCount": 4586,
-          "title": "How To Fix Cumulative Layout Shift (CLS) Issues",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/87fbe5f9-d311-4542-a3f0-14e860415946/cumulative-layout-shift-issues.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/06/front-end-performance-online-store-jewellerybox/",
-          "author": "hello@smashingmagazine.com (Jennifer Brehm)",
-          "description": "Getting a good performance score from Google is hard for any website — but doing so for an online store is even harder. We achieved green scores — even several for mobile. Here is how we did it.",
-          "link": "https://smashingmagazine.com/2021/06/front-end-performance-online-store-jewellerybox/",
-          "publishedOn": "2021-06-02T10:30:00.000Z",
-          "wordCount": 5659,
-          "title": "Improving The Performance Of An Online Store (Case Study)",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8a350bf5-9114-420c-b587-fee03ea4acb6/jewellerybox-uk-online-store-scipioerp.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/06/smashing-podcast-episode-38/",
-          "author": "hello@smashingmagazine.com (Drew McLellan)",
-          "description": "In this episode, we’re talking about React performance. What factors slow our React apps down, and how can we fix it? Drew McLellan talks to expert Ivan Akulov to find out.",
-          "link": "https://smashingmagazine.com/2021/06/smashing-podcast-episode-38/",
-          "publishedOn": "2021-06-01T14:00:00.000Z",
-          "wordCount": 7321,
-          "title": "Smashing Podcast Episode 38 With Ivan Akulov: Why Is My React App Slow?",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6db8029d-7039-4beb-b787-f3a0df852f12/smashing-podcast-episode-38.jpg",
             "length": "0",
             "type": "image/jpg"
           }
@@ -709,6 +681,42 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "60dc72b527f80207bcdbbd8f",
+          "author": null,
+          "description": "In this article, I'm going to show you how to theme your website so users can customize certain elements to their tastes.  We'll talk about website themes, how theming works, and we'll end with a demo so you can see it in action. Let's dive in. Table of Contents:What",
+          "link": "https://www.freecodecamp.org/news/website-theming-with-css-custom-properties-and-gatsbyjs/",
+          "publishedOn": "2021-07-01T18:19:21.000Z",
+          "wordCount": 3084,
+          "title": "What is Website Theming? How to Use CSS Custom Properties and Gatsby.js to Customize Your Site"
+        },
+        {
+          "id": "60c0897ad3126007592d5701",
+          "author": null,
+          "description": "Listing items on a web page is a common task you'll have to do as a web developer. You may have to list shopping cart items, the order of students based on their grades, dogs with the loudest bark – and so on. So you need to know the different ways",
+          "link": "https://www.freecodecamp.org/news/html-list-how-to-use-bullet-points-ordered-and-unordered-lists/",
+          "publishedOn": "2021-07-01T18:02:56.000Z",
+          "wordCount": 1769,
+          "title": "HTML List – How to Use Bullet Points, Ordered, and Unordered Lists"
+        },
+        {
+          "id": "60d5e7ae6e1a1407b6b0bc5a",
+          "author": null,
+          "description": "The backend of a website can be written in many different programming languages. It is becoming increasingly common for to use Python for the backend of a website. We just published a full backend web development with Python course on the freeCodeCamp.org YouTube channel. This comprehensive course is for",
+          "link": "https://www.freecodecamp.org/news/backend-web-development-with-python-full-course/",
+          "publishedOn": "2021-07-01T16:51:30.000Z",
+          "wordCount": 79275,
+          "title": "Backend Web Development with Python - Full Course"
+        },
+        {
+          "id": "60dc78e927f80207bcdbbddc",
+          "author": null,
+          "description": "Hello freeCodeCamp community! I'm Dilan, a PhD candidate in sociology at Boston University. I'm an absolute coding newbie, but I do know a bit about surveys. 😃 I have been working with freeCodeCamp founder Quincy Larson over the past few months to design the 2021 New Coder Survey. And I'm thrilled",
+          "link": "https://www.freecodecamp.org/news/2021-new-coder-survey/",
+          "publishedOn": "2021-07-01T04:36:31.000Z",
+          "wordCount": 942,
+          "title": "The 2021 New Coder Survey is Now Live – and Here&#x27;s How We Designed It"
+        },
         {
           "id": "6063b8d69618b008528a9d79",
           "author": null,
@@ -762,42 +770,6 @@
           "publishedOn": "2021-06-29T18:25:52.000Z",
           "wordCount": 926,
           "title": "How to Use timedelta Objects in Python to Work with Dates"
-        },
-        {
-          "id": "60d76f6f6e1a1407b6b0c521",
-          "author": null,
-          "description": "What is the Microsoft Security, Compliance, and Identity Fundamentals?The Microsoft Security, Compliance and Identity Fundamentals Certification is an essential entry-level certification into Azure and Microsoft Security. In recent years we've seen a significant shift in the work environment where companies allow employees to work from home.  The increase of",
-          "link": "https://www.freecodecamp.org/news/microsoft-security-compliance-certification-sc-900/",
-          "publishedOn": "2021-06-29T13:24:44.000Z",
-          "wordCount": 684,
-          "title": "Microsoft Security, Compliance, and Identity Fundamentals (SC-900) – Pass the Exam With This Free 3.5 Hour Course"
-        },
-        {
-          "id": "60d61acc6e1a1407b6b0bd46",
-          "author": null,
-          "description": "In this article, you will learn how to securely access secret API keys using Netlify functions in a React app.  Netlify provides rich features that help you easily deploy Single Page Applications built using frameworks like React, Vue and Angular among others. This takes away the burden of coding and",
-          "link": "https://www.freecodecamp.org/news/how-to-access-secret-api-keys-using-netlify-functions-in-a-react-app/",
-          "publishedOn": "2021-06-28T21:17:02.000Z",
-          "wordCount": 3681,
-          "title": "How to Securely Access Secret API keys using Netlify Functions in a React App"
-        },
-        {
-          "id": "60d9766b6e1a1407b6b0cb4f",
-          "author": null,
-          "description": "If you're working with Natural Language Processing, knowing how to deploy a model is one of the most important skills you'll need to have. Model deployment is the process of integrating your model into an existing production environment. The model will receive input and predict an output for decision-making for",
-          "link": "https://www.freecodecamp.org/news/how-to-deploy-an-nlp-model-with-fastapi/",
-          "publishedOn": "2021-06-28T20:35:12.000Z",
-          "wordCount": 2818,
-          "title": "How to Deploy an NLP Model with FastAPI"
-        },
-        {
-          "id": "60d07b4578f45307fee80aef",
-          "author": null,
-          "description": "Every developer needs a good development enviroment, whether you're into mobile development or web apps or even if you're just learning your first programming language.  Just like any beginning developer, when I began to learn coding I needed some guidance on how to get started. And one of the most",
-          "link": "https://www.freecodecamp.org/news/what-is-an-ide-in-programming-an-ide-definition-for-developers/",
-          "publishedOn": "2021-06-28T20:04:28.000Z",
-          "wordCount": 2258,
-          "title": "What is an IDE in Programming? An IDE Definition for Developers"
         }
       ]
     }
